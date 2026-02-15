@@ -1,6 +1,6 @@
 # NorskFotballBot
 
-Generator for rundetråder til Reddit (norsk fotball), med to måter å bruke prosjektet på:
+Generator for rundetråder til Reddit (r/NorskFotball), med to måter å bruke prosjektet på:
 1. Statisk webside (`index.html`) for manuell copy/paste.
 2. Python-CLI for preview/post.
 
@@ -10,12 +10,8 @@ Generator for rundetråder til Reddit (norsk fotball), med to måter å bruke pr
 - knapp: `Generer rundetråd Eliteserien`
 - knapp: `Generer rundetråd OBOS-ligaen`
 - knapp: `Generer rundetråd Norgesmesterskapet`
-- runde-felt ved hver knapp
+- rundefelt ved hver knapp
 - popup med ferdig tittel + markdown body, klar for kopiering
-
-Merk:
-- Cupen (Norgesmesterskapet) bruker runder `1-7`.
-- Cup-output inkluderer kun kampliste (ingen tabellseksjon).
 
 ### Publiser på GitHub Pages
 
