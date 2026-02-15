@@ -1,0 +1,2 @@
+"""NorskFotballBot package."""
+

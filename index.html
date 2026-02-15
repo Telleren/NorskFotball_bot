@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>r/NorskFotballs Rundetråd-generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #f6f2e9;
+        --panel: #fffdf8;
+        --ink: #122023;
+        --accent: #0f766e;
+        --accent-2: #b45309;
+        --line: #d4c8b6;
+        --danger: #b91c1c;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "Space Grotesk", sans-serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 15% 15%, #f8e6bf 0, #f8e6bf 18%, transparent 18%),
+          radial-gradient(circle at 86% 20%, #d3efe8 0, #d3efe8 16%, transparent 16%),
+          linear-gradient(180deg, #f5f0e6 0%, #efe6d8 100%);
+        padding: 24px;
+      }
+
+      .shell {
+        max-width: 980px;
+        margin: 0 auto;
+        background: var(--panel);
+        border: 2px solid var(--line);
+        border-radius: 20px;
+        overflow: hidden;
+        box-shadow: 0 20px 45px rgba(18, 32, 35, 0.1);
+      }
+
+      .hero {
+        padding: 28px;
+        background: linear-gradient(120deg, #124e48 0%, #0f766e 60%, #13a392 100%);
+        color: #f5fffd;
+      }
+
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(1.6rem, 2.8vw, 2.4rem);
+        line-height: 1.1;
+      }
+
+      .hero p {
+        margin: 0;
+        max-width: 75ch;
+      }
+
+      .content {
+        padding: 22px;
+        display: grid;
+        gap: 14px;
+      }
+
+      .league-row {
+        display: grid;
+        grid-template-columns: minmax(250px, 1fr) minmax(120px, 170px) minmax(220px, 300px);
+        gap: 10px;
+        align-items: end;
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        padding: 14px;
+      }
+
+      .league-title {
+        font-weight: 700;
+      }
+
+      .field {
+        display: grid;
+        gap: 6px;
+      }
+
+      label {
+        font-size: 0.88rem;
+        opacity: 0.88;
+      }
+
+      input {
+        border: 1px solid #bda98c;
+        background: #fff;
+        color: var(--ink);
+        border-radius: 10px;
+        padding: 10px 12px;
+        font: inherit;
+      }
+
+      .btn {
+        border: 0;
+        border-radius: 12px;
+        padding: 11px 14px;
+        font: inherit;
+        font-weight: 700;
+        color: #fff;
+        background: linear-gradient(120deg, var(--accent), #0d9488);
+        cursor: pointer;
+        transition: transform 120ms ease, filter 120ms ease;
+      }
+
+      .btn:hover {
+        filter: brightness(1.06);
+        transform: translateY(-1px);
+      }
+
+      .btn:disabled {
+        cursor: progress;
+        opacity: 0.65;
+        transform: none;
+      }
+
+      .status {
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 0.9rem;
+        padding: 12px 14px;
+        border: 1px dashed var(--line);
+        border-radius: 12px;
+        background: #fffcf4;
+      }
+
+      .status.error {
+        color: var(--danger);
+        border-color: #ef9a9a;
+        background: #fff2f2;
+      }
+
+      .notes {
+        font-size: 0.9rem;
+        color: #36464a;
+      }
+
+      .modal-backdrop {
+        position: fixed;
+        inset: 0;
+        background: rgba(18, 32, 35, 0.54);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+      }
+
+      .modal-backdrop.open {
+        display: flex;
+      }
+
+      .modal {
+        width: min(920px, 100%);
+        max-height: 90vh;
+        overflow: auto;
+        background: #fff;
+        border-radius: 16px;
+        border: 1px solid var(--line);
+        padding: 16px;
+        display: grid;
+        gap: 10px;
+      }
+
+      .modal h2 {
+        margin: 0;
+        font-size: 1.2rem;
+      }
+
+      textarea {
+        width: 100%;
+        min-height: 320px;
+        resize: vertical;
+        border: 1px solid #bda98c;
+        border-radius: 10px;
+        padding: 10px 12px;
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 0.9rem;
+      }
+
+      .modal-actions {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+
+      .btn.alt {
+        background: linear-gradient(120deg, var(--accent-2), #d97706);
+      }
+
+      .btn.plain {
+        background: #e8dfd0;
+        color: #333;
+      }
+
+      .mini {
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 0.85rem;
+      }
+
+      @media (max-width: 850px) {
+        .league-row {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <header class="hero">
+        <h1>r/NorskFotballs Rundetråd-generator</h1>
+        <p>
+          Jeg genererer rundetråder på kommando. Oppgi ønsket runde, bestill og kopier.
+        </p>
+      </header>
+
+      <section class="content">
+        <article class="league-row">
+          <div>
+            <div class="league-title">Eliteserien</div>
+            <div class="notes">League ID: 59</div>
+          </div>
+          <div class="field">
+            <label for="round-eliteserien">Runde (valgfri)</label>
+            <input id="round-eliteserien" type="number" min="1" max="30" placeholder="f.eks. 4" />
+          </div>
+          <button class="btn" id="btn-eliteserien">Generer rundetråd for Eliteserien</button>
+        </article>
+
+        <article class="league-row">
+          <div>
+            <div class="league-title">OBOS-ligaen</div>
+            <div class="notes">League ID: 203</div>
+          </div>
+          <div class="field">
+            <label for="round-obos">Runde (valgfri)</label>
+            <input id="round-obos" type="number" min="1" max="30" placeholder="f.eks. 22" />
+          </div>
+          <button class="btn" id="btn-obos">Generer rundetråd for OBOS-ligaen</button>
+        </article>
+
+        <article class="league-row">
+          <div>
+            <div class="league-title">Norgesmesterskapet</div>
+            <div class="notes">League ID: 206</div>
+          </div>
+          <div class="field">
+            <label for="round-cup">Runde (valgfri)</label>
+            <input id="round-cup" type="number" min="1" max="7" placeholder="f.eks. 4" />
+          </div>
+          <button class="btn" id="btn-cup">Generer rundetråd for cupen</button>
+        </article>
+
+        <div class="status" id="status">Klar.</div>
+        <div class="notes">
+          Hvis runde-feltet er tomt brukes neste tilgjengelige runde automatisk.
+          Data hentes fra FotMob.
+        </div>
+      </section>
+    </main>
+
+    <div class="modal-backdrop" id="modal-backdrop" aria-hidden="true">
+      <section class="modal">
+        <h2>Ferdig rundetråd</h2>
+        <label for="post-title">Tittel</label>
+        <input id="post-title" readonly />
+        <label for="post-body">Body (markdown)</label>
+        <textarea id="post-body" readonly></textarea>
+        <div class="modal-actions">
+          <button class="btn" id="copy-body">Kopier tekst</button>
+          <button class="btn alt" id="copy-all">Kopier tittel + tekst</button>
+          <button class="btn plain" id="close-modal">Lukk</button>
+        </div>
+        <div class="mini" id="copy-status"></div>
+      </section>
+    </div>
+
+    <script>
+      const FOTMOB_BASE = "https://www.fotmob.com";
+      const PROXY_PROVIDERS = [
+        {
+          name: "CodeTabs",
+          buildUrl: (targetUrl) => `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(targetUrl)}`,
+          extractor: (rawText) => rawText.trim(),
+        },
+        {
+          name: "Jina AI",
+          buildUrl: (targetUrl) => `https://r.jina.ai/${targetUrl}`,
+          extractor: (rawText) => extractJsonBody(rawText),
+        },
+      ];
+      const OSLO_TZ = "Europe/Oslo";
+      const TEAM_NAME_OVERRIDES = {
+        "Odds Ballklubb": "Odd",
+      };
+      const LEAGUES = {
+        eliteserien: { id: 59, name: "Eliteserien", roundInputId: "round-eliteserien", buttonId: "btn-eliteserien", maxRound: 30 },
+        obos: { id: 203, name: "OBOS-ligaen", roundInputId: "round-obos", buttonId: "btn-obos", maxRound: 30 },
+        cup: { id: 206, name: "Norgesmesterskapet", roundInputId: "round-cup", buttonId: "btn-cup", maxRound: 7 },
+      };
+
+      const venueCache = new Map();
+      const statusEl = document.getElementById("status");
+      const modal = document.getElementById("modal-backdrop");
+      const postTitleEl = document.getElementById("post-title");
+      const postBodyEl = document.getElementById("post-body");
+      const copyStatusEl = document.getElementById("copy-status");
+
+      for (const key of Object.keys(LEAGUES)) {
+        const league = LEAGUES[key];
+        document.getElementById(league.buttonId).addEventListener("click", () => generateForLeague(league));
+      }
+
+      document.getElementById("close-modal").addEventListener("click", closeModal);
+      document.getElementById("copy-body").addEventListener("click", () => copyToClipboard(postBodyEl.value, "Body kopiert."));
+      document.getElementById("copy-all").addEventListener("click", () => {
+        const fullText = `${postTitleEl.value}\n\n${postBodyEl.value}`;
+        copyToClipboard(fullText, "Tittel + body kopiert.");
+      });
+      modal.addEventListener("click", (event) => {
+        if (event.target === modal) closeModal();
+      });
+
+      async function generateForLeague(league) {
+        clearCopyStatus();
+        const button = document.getElementById(league.buttonId);
+        const roundRaw = document.getElementById(league.roundInputId).value.trim();
+        const roundOverride = parseRound(roundRaw, league.maxRound);
+        if (roundRaw && roundOverride === null) {
+          setStatus(`Runde må være et heltall fra 1 til ${league.maxRound}.`, true);
+          return;
+        }
+
+        button.disabled = true;
+        setStatus(`Henter data for ${league.name}${roundOverride ? ` runde ${roundOverride}` : " (neste runde)"} ...`);
+        try {
+          const roundData = await getLeagueRoundData(league, roundOverride);
+          const title = buildPostTitle(roundData);
+          const body = buildPostBody(roundData);
+          postTitleEl.value = title;
+          postBodyEl.value = body;
+          openModal();
+          setStatus(`Ferdig: ${league.name} runde ${roundData.roundNumber} (${roundData.season}).`);
+        } catch (error) {
+          setStatus(error instanceof Error ? error.message : "Ukjent feil under generering.", true);
+        } finally {
+          button.disabled = false;
+        }
+      }
+
+      async function getLeagueRoundData(league, roundOverride) {
+        const leaguePayload = await fetchFotmobJson(`/api/leagues?id=${league.id}`);
+        const season = leaguePayload?.details?.selectedSeason || leaguePayload?.details?.latestSeason || "ukjent sesong";
+        const standings = parseStandings(leaguePayload);
+        const roundNumber = pickRoundNumber(leaguePayload, roundOverride);
+        const matches = parseRoundMatches(leaguePayload, roundNumber);
+
+        const homeIds = [...new Set(matches.map((m) => m.homeTeamId).filter(Boolean))];
+        await Promise.all(
+          homeIds.map(async (teamId) => {
+            if (!venueCache.has(teamId)) {
+              venueCache.set(teamId, await fetchVenue(teamId));
+            }
+          })
+        );
+
+        for (const match of matches) {
+          match.venue = venueCache.get(match.homeTeamId) || "-";
+        }
+
+        return {
+          leagueName: league.name,
+          season,
+          roundNumber,
+          standings,
+          matches,
+        };
+      }
+
+      async function fetchVenue(teamId) {
+        try {
+          const teamPayload = await fetchFotmobJson(`/api/teams?id=${teamId}`);
+          return teamPayload?.overview?.venue?.widget?.name || "-";
+        } catch {
+          return "-";
+        }
+      }
+
+      function parseStandings(payload) {
+        const rows = payload?.table?.[0]?.data?.table?.all || [];
+        return rows.map((row) => {
+          const [goalsFor, goalsAgainst] = parseScorePair(row.scoresStr || "0 - 0");
+          return {
+            position: Number(row.idx || 0),
+            team: normalizeTeamName(String(row.name || "")),
+            played: Number(row.played || 0),
+            wins: Number(row.wins || 0),
+            draws: Number(row.draws || 0),
+            losses: Number(row.losses || 0),
+            goalsFor,
+            goalsAgainst,
+            goalDiff: Number(row.goalConDiff || 0),
+            points: Number(row.pts || 0),
+          };
+        });
+      }
+
+      function pickRoundNumber(payload, roundOverride) {
+        if (typeof roundOverride === "number") return roundOverride;
+        const fixtures = payload?.fixtures || {};
+        const allMatches = fixtures.allMatches || [];
+        const firstUnplayedId = fixtures?.firstUnplayedMatch?.firstUnplayedMatchId;
+        if (firstUnplayedId) {
+          const anchor = allMatches.find((m) => String(m.id) === String(firstUnplayedId));
+          if (anchor) return anchor.roundName ?? anchor.round;
+        }
+        const activeRound = fixtures?.fixtureInfo?.activeRound?.roundId;
+        if (activeRound) return Number(activeRound);
+        throw new Error("Fant ikke neste runde i kilden.");
+      }
+
+      function parseRoundMatches(payload, roundNumber) {
+        const allMatches = payload?.fixtures?.allMatches || [];
+        const filtered = allMatches
+          .filter((m) => String(m.roundName ?? m.round) === String(roundNumber))
+          .sort((a, b) => (a?.status?.utcTime || "").localeCompare(b?.status?.utcTime || ""));
+
+        if (!filtered.length) {
+          throw new Error(`Fant ingen kamper for runde ${roundNumber}.`);
+        }
+
+        return filtered.map((match) => {
+          const status = match.status || {};
+          const utcTime = status.utcTime;
+          const marker = status.finished && status.scoreStr ? String(status.scoreStr).replace(/\s+/g, "") : formatTimeOslo(utcTime);
+          const pageUrl = String(match.pageUrl || "");
+          const matchUrl = pageUrl.startsWith("/") ? `${FOTMOB_BASE}${pageUrl}` : `${FOTMOB_BASE}/match/${match.id}`;
+
+          return {
+            date: formatDateOslo(utcTime),
+            kickoffUtc: utcTime,
+            homeTeam: normalizeTeamName(String(match.home?.name || "")),
+            awayTeam: normalizeTeamName(String(match.away?.name || "")),
+            homeTeamId: Number(match.home?.id || 0),
+            marker,
+            matchUrl,
+            venue: "-",
+          };
+        });
+      }
+
+      function buildPostTitle(roundData) {
+        const kickoffs = roundData.matches.map((m) => new Date(m.kickoffUtc));
+        const start = new Date(Math.min(...kickoffs.map((d) => d.getTime())));
+        const end = new Date(Math.max(...kickoffs.map((d) => d.getTime())));
+        const sameDate = formatDateOsloIso(start.toISOString()) === formatDateOsloIso(end.toISOString());
+        const datePart = sameDate
+          ? formatDateOsloIso(start.toISOString())
+          : `${formatDateNoYearOsloIso(start.toISOString())} - ${formatDateOsloIso(end.toISOString())}`;
+        return `Rundetråd: ${roundData.leagueName} runde ${roundData.roundNumber} (${datePart})`;
+      }
+
+      function buildPostBody(roundData) {
+        const lines = [];
+        if (roundData.standings.length) {
+          lines.push(`#Tabell før runden (${roundData.leagueName})`);
+          lines.push("Nr | Lag | K | S | U | T | + | - | +/- | P |");
+          lines.push("---|---|---:|---:|---:|---:|---:|---:|---:|---:|");
+          for (const row of roundData.standings) {
+            const diff = row.goalDiff > 0 ? `+${row.goalDiff}` : `${row.goalDiff}`;
+            lines.push(
+              `${row.position}.|${row.team}|${row.played}|${row.wins}|${row.draws}|${row.losses}|${row.goalsFor}|${row.goalsAgainst}|${diff}|${row.points}|`
+            );
+          }
+          lines.push("");
+        }
+        lines.push(`#Rundens kamper (${roundData.leagueName}, runde ${roundData.roundNumber})`);
+        lines.push("Dato|Hjemmelag||Bortelag|Stadion");
+        lines.push("---|----|:----:|----|----");
+        for (const match of roundData.matches) {
+          lines.push(`${match.date}|${match.homeTeam}|[${match.marker}](${match.matchUrl})|${match.awayTeam}|${match.venue}`);
+        }
+        return lines.join("\n");
+      }
+
+      async function fetchFotmobJson(pathAndQuery) {
+        const targetUrl = `${FOTMOB_BASE}${pathAndQuery}`;
+        let lastErrorMessage = "Kunne ikke hente data.";
+
+        for (const provider of PROXY_PROVIDERS) {
+          try {
+            const response = await fetch(provider.buildUrl(targetUrl), { headers: { Accept: "text/plain" } });
+            if (!response.ok) {
+              lastErrorMessage = `Kunne ikke hente data (${response.status}) via ${provider.name}.`;
+              continue;
+            }
+            const text = await response.text();
+            const jsonRaw = provider.extractor(text);
+            return JSON.parse(jsonRaw);
+          } catch (error) {
+            lastErrorMessage = `Kildefeil via ${provider.name}.`;
+          }
+        }
+
+        throw new Error(lastErrorMessage);
+      }
+
+      function extractJsonBody(rawText) {
+        const marker = "Markdown Content:";
+        const index = rawText.indexOf(marker);
+        let body = index >= 0 ? rawText.slice(index + marker.length).trim() : rawText.trim();
+        if (body.startsWith("```")) {
+          const lines = body.split("\n");
+          body = lines.slice(1, -1).join("\n");
+        }
+        return body;
+      }
+
+      function parseScorePair(scoreStr) {
+        const parts = String(scoreStr).split("-").map((x) => Number(x.trim()));
+        if (parts.length !== 2 || Number.isNaN(parts[0]) || Number.isNaN(parts[1])) {
+          return [0, 0];
+        }
+        return parts;
+      }
+
+      function formatDateOslo(utcIso) {
+        return formatDateOsloIso(utcIso);
+      }
+
+      function formatDateOsloIso(utcIso) {
+        return new Intl.DateTimeFormat("en-GB", {
+          timeZone: OSLO_TZ,
+          day: "2-digit",
+          month: "2-digit",
+          year: "numeric",
+        })
+          .format(new Date(utcIso))
+          .replaceAll("/", ".");
+      }
+
+      function formatDateNoYearOsloIso(utcIso) {
+        const formatted = new Intl.DateTimeFormat("en-GB", {
+          timeZone: OSLO_TZ,
+          day: "2-digit",
+          month: "2-digit",
+        }).format(new Date(utcIso));
+        return formatted.replaceAll("/", ".");
+      }
+
+      function formatTimeOslo(utcIso) {
+        return new Intl.DateTimeFormat("en-GB", {
+          timeZone: OSLO_TZ,
+          hour: "2-digit",
+          minute: "2-digit",
+          hour12: false,
+        }).format(new Date(utcIso));
+      }
+
+      function parseRound(value, maxRound) {
+        if (!value) return null;
+        const round = Number(value);
+        if (!Number.isInteger(round) || round < 1 || round > maxRound) return null;
+        return round;
+      }
+
+      function normalizeTeamName(name) {
+        return TEAM_NAME_OVERRIDES[name] || name;
+      }
+
+      function openModal() {
+        modal.classList.add("open");
+        modal.setAttribute("aria-hidden", "false");
+      }
+
+      function closeModal() {
+        modal.classList.remove("open");
+        modal.setAttribute("aria-hidden", "true");
+      }
+
+      async function copyToClipboard(value, message) {
+        try {
+          await navigator.clipboard.writeText(value);
+          setCopyStatus(message);
+        } catch {
+          setCopyStatus("Kopiering feilet. Marker og kopier manuelt.");
+        }
+      }
+
+      function setStatus(text, isError = false) {
+        statusEl.textContent = text;
+        statusEl.classList.toggle("error", isError);
+      }
+
+      function setCopyStatus(text) {
+        copyStatusEl.textContent = text;
+      }
+
+      function clearCopyStatus() {
+        copyStatusEl.textContent = "";
+      }
+    </script>
+  </body>
+</html>
