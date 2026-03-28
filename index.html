@@ -559,7 +559,8 @@
       }
 
       function normalizeTeamName(name) {
-        return TEAM_NAME_OVERRIDES[name] || name;
+        const normalizedName = TEAM_NAME_OVERRIDES[name] || name;
+        return normalizedName.endsWith(" (W)") ? normalizedName.slice(0, -4) : normalizedName;
       }
 
       function openModal() {

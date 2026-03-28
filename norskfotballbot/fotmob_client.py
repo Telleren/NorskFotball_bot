@@ -204,7 +204,10 @@ class FotMobClient:
 
     @staticmethod
     def _normalize_team_name(name: str) -> str:
-        return FotMobClient.TEAM_NAME_OVERRIDES.get(name, name)
+        normalized_name = FotMobClient.TEAM_NAME_OVERRIDES.get(name, name)
+        if normalized_name.endswith(" (W)"):
+            return normalized_name[:-4]
+        return normalized_name
 
     @staticmethod
     def _match_marker(status: dict, kickoff_utc: datetime) -> str:
