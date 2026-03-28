@@ -1,10 +1,11 @@
 from __future__ import annotations
 
+import html
 import json
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urlencode
 
 import requests
 
@@ -17,7 +18,7 @@ from norskfotballbot.config import DEFAULT_LEAGUES, FOTMOB_BASE_URL
 
 
 REQUEST_HEADERS = {
-    "accept": "application/json, text/plain, */*",
+    "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "accept-language": "en-US,en;q=0.9,nb;q=0.8",
     "referer": f"{FOTMOB_BASE_URL}/",
     "user-agent": (
@@ -26,42 +27,50 @@ REQUEST_HEADERS = {
         "Chrome/134.0.0.0 Safari/537.36"
     ),
 }
+NEXT_DATA_PATTERN = re.compile(
+    r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>'
+)
 
 
-def fetch_json(session: requests.Session, path: str, params: dict[str, str]) -> dict:
-    target_url = f"{FOTMOB_BASE_URL}{path}?{urlencode(params)}"
-    last_error: Exception | None = None
-
-    for fetcher in (fetch_direct_json, fetch_codetabs_json):
-        try:
-            return fetcher(session, target_url)
-        except Exception as exc:  # noqa: BLE001
-            last_error = exc
-
-    if last_error is None:
-        raise RuntimeError(f"Kunne ikke hente data fra {target_url}")
-    raise last_error
-
-
-def fetch_direct_json(session: requests.Session, target_url: str) -> dict:
+def fetch_html(session: requests.Session, target_url: str) -> str:
     response = session.get(
         target_url,
         headers=REQUEST_HEADERS,
         timeout=30,
     )
     response.raise_for_status()
-    return response.json()
+    return response.text
 
 
-def fetch_codetabs_json(session: requests.Session, target_url: str) -> dict:
-    response = session.get(
-        "https://api.codetabs.com/v1/proxy/",
-        params={"quest": target_url},
-        headers={"accept": "application/json, text/plain, */*"},
-        timeout=30,
-    )
-    response.raise_for_status()
-    return response.json()
+def parse_next_data(page_html: str) -> dict:
+    match = NEXT_DATA_PATTERN.search(page_html)
+    if not match:
+        raise ValueError("Fant ikke __NEXT_DATA__ i HTML-responsen.")
+    return json.loads(html.unescape(match.group(1)))
+
+
+def fetch_league_payload(session: requests.Session, league_id: int) -> dict:
+    page_html = fetch_html(session, f"{FOTMOB_BASE_URL}/leagues/{league_id}/overview")
+    next_data = parse_next_data(page_html)
+    page_props = next_data.get("props", {}).get("pageProps", {})
+    if not page_props.get("fixtures"):
+        raise ValueError(f"Fant ikke ligadata for league_id={league_id}.")
+    return page_props
+
+
+def fetch_team_payload(session: requests.Session, team_id: int) -> dict:
+    page_html = fetch_html(session, f"{FOTMOB_BASE_URL}/teams/{team_id}/overview")
+    next_data = parse_next_data(page_html)
+    page_props = next_data.get("props", {}).get("pageProps", {})
+
+    if page_props.get("details") and page_props.get("overview"):
+        return page_props
+
+    fallback = page_props.get("fallback", {})
+    fallback_key = f"team-{team_id}"
+    if fallback_key not in fallback:
+        raise ValueError(f"Fant ikke lagdata for team_id={team_id}.")
+    return fallback[fallback_key]
 
 
 def collect_team_ids(league_payload: dict) -> set[int]:
@@ -88,29 +97,26 @@ def collect_team_ids(league_payload: dict) -> set[int]:
 
 
 def extract_venue_name(team_payload: dict) -> str:
-    venue_name = (
-        team_payload.get("overview", {})
-        .get("venue", {})
-        .get("widget", {})
-        .get("name")
-    )
+    venue = team_payload.get("overview", {}).get("venue") or {}
+    venue_name = venue.get("widget", {}).get("name")
     return str(venue_name).strip() if venue_name else "-"
 
 
 def build_cache() -> dict:
     session = requests.Session()
+    session.trust_env = False
 
     league_payloads: dict[str, dict] = {}
     team_ids: set[int] = set()
 
     for league in DEFAULT_LEAGUES:
-        payload = fetch_json(session, "/api/leagues", {"id": str(league.league_id)})
+        payload = fetch_league_payload(session, league.league_id)
         league_payloads[str(league.league_id)] = payload
         team_ids.update(collect_team_ids(payload))
 
     venues: dict[str, str] = {}
     for team_id in sorted(team_ids):
-        team_payload = fetch_json(session, "/api/teams", {"id": str(team_id)})
+        team_payload = fetch_team_payload(session, team_id)
         venues[str(team_id)] = extract_venue_name(team_payload)
 
     return {
