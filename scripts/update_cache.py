@@ -1,16 +1,18 @@
 from __future__ import annotations
 
 import json
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
 
-from norskfotballbot.config import DEFAULT_LEAGUES, FOTMOB_BASE_URL
-
-
 ROOT_DIR = Path(__file__).resolve().parent.parent
 CACHE_PATH = ROOT_DIR / "data" / "cache.json"
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from norskfotballbot.config import DEFAULT_LEAGUES, FOTMOB_BASE_URL
 
 
 def fetch_json(session: requests.Session, path: str, params: dict[str, str]) -> dict:
