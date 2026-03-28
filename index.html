@@ -264,7 +264,7 @@
         <div class="status" id="status">Klar.</div>
         <div class="notes">
           Hvis runde-feltet er tomt brukes neste tilgjengelige runde automatisk.
-          Data hentes fra FotMob.
+          Kildedata hentes fra FotMob og mellomlagres lokalt via GitHub Actions.
         </div>
       </section>
     </main>
@@ -287,18 +287,7 @@
 
     <script>
       const FOTMOB_BASE = "https://www.fotmob.com";
-      const PROXY_PROVIDERS = [
-        {
-          name: "CodeTabs",
-          buildUrl: (targetUrl) => `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(targetUrl)}`,
-          extractor: (rawText) => rawText.trim(),
-        },
-        {
-          name: "Jina AI",
-          buildUrl: (targetUrl) => `https://r.jina.ai/${targetUrl}`,
-          extractor: (rawText) => extractJsonBody(rawText),
-        },
-      ];
+      const CACHE_URL = "./data/cache.json";
       const OSLO_TZ = "Europe/Oslo";
       const TEAM_NAME_OVERRIDES = {
         "Odds Ballklubb": "Odd",
@@ -310,6 +299,7 @@
       };
 
       const venueCache = new Map();
+      let cachePromise = null;
       const statusEl = document.getElementById("status");
       const modal = document.getElementById("modal-backdrop");
       const postTitleEl = document.getElementById("post-title");
@@ -359,20 +349,23 @@
       }
 
       async function getLeagueRoundData(league, roundOverride) {
-        const leaguePayload = await fetchFotmobJson(`/api/leagues?id=${league.id}`);
+        const cache = await loadCache();
+        const leaguePayload = cache?.leagues?.[String(league.id)];
+        if (!leaguePayload) {
+          throw new Error(`Fant ingen cache for ${league.name}. Kjor workflowen "Update FotMob Cache" i GitHub Actions.`);
+        }
+
         const season = leaguePayload?.details?.selectedSeason || leaguePayload?.details?.latestSeason || "ukjent sesong";
         const standings = parseStandings(leaguePayload);
         const roundNumber = pickRoundNumber(leaguePayload, roundOverride);
         const matches = parseRoundMatches(leaguePayload, roundNumber);
 
         const homeIds = [...new Set(matches.map((m) => m.homeTeamId).filter(Boolean))];
-        await Promise.all(
-          homeIds.map(async (teamId) => {
-            if (!venueCache.has(teamId)) {
-              venueCache.set(teamId, await fetchVenue(teamId));
-            }
-          })
-        );
+        for (const teamId of homeIds) {
+          if (!venueCache.has(teamId)) {
+            venueCache.set(teamId, cache?.venues?.[String(teamId)] || "-");
+          }
+        }
 
         for (const match of matches) {
           match.venue = venueCache.get(match.homeTeamId) || "-";
@@ -385,15 +378,6 @@
           standings,
           matches,
         };
-      }
-
-      async function fetchVenue(teamId) {
-        try {
-          const teamPayload = await fetchFotmobJson(`/api/teams?id=${teamId}`);
-          return teamPayload?.overview?.venue?.widget?.name || "-";
-        } catch {
-          return "-";
-        }
       }
 
       function parseStandings(payload) {
@@ -493,37 +477,24 @@
         return lines.join("\n");
       }
 
-      async function fetchFotmobJson(pathAndQuery) {
-        const targetUrl = `${FOTMOB_BASE}${pathAndQuery}`;
-        let lastErrorMessage = "Kunne ikke hente data.";
-
-        for (const provider of PROXY_PROVIDERS) {
-          try {
-            const response = await fetch(provider.buildUrl(targetUrl), { headers: { Accept: "text/plain" } });
-            if (!response.ok) {
-              lastErrorMessage = `Kunne ikke hente data (${response.status}) via ${provider.name}.`;
-              continue;
-            }
-            const text = await response.text();
-            const jsonRaw = provider.extractor(text);
-            return JSON.parse(jsonRaw);
-          } catch (error) {
-            lastErrorMessage = `Kildefeil via ${provider.name}.`;
-          }
+      async function loadCache() {
+        if (!cachePromise) {
+          cachePromise = fetch(CACHE_URL, { cache: "no-store" })
+            .then(async (response) => {
+              if (!response.ok) {
+                throw new Error(`Kunne ikke lese lokal cache (${response.status}).`);
+              }
+              return response.json();
+            })
+            .then((cache) => {
+              if (!cache || !cache.leagues) {
+                throw new Error("Lokal cache har ugyldig format.");
+              }
+              return cache;
+            });
         }
 
-        throw new Error(lastErrorMessage);
-      }
-
-      function extractJsonBody(rawText) {
-        const marker = "Markdown Content:";
-        const index = rawText.indexOf(marker);
-        let body = index >= 0 ? rawText.slice(index + marker.length).trim() : rawText.trim();
-        if (body.startsWith("```")) {
-          const lines = body.split("\n");
-          body = lines.slice(1, -1).join("\n");
-        }
-        return body;
+        return cachePromise;
       }
 
       function parseScorePair(scoreStr) {

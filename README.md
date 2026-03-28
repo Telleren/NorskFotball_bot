@@ -12,6 +12,7 @@ Generator for rundetråder til Reddit (r/NorskFotball), med to måter å bruke p
 - knapp: `Generer rundetråd Norgesmesterskapet`
 - rundefelt ved hver knapp
 - popup med ferdig tittel + markdown body, klar for kopiering
+- data leses fra `data/cache.json` i samme repo
 
 ### Publiser på GitHub Pages
 
@@ -20,6 +21,19 @@ Generator for rundetråder til Reddit (r/NorskFotball), med to måter å bruke p
 3. Velg `Deploy from a branch`.
 4. Velg branch `main` og folder `/ (root)`.
 5. Åpne URL-en GitHub Pages gir deg.
+
+### Oppdatering av cache
+
+Nettsiden leser fra en lokal cachefil i repoet:
+- `data/cache.json`
+
+Denne oppdateres av GitHub Actions-workflowen:
+- `.github/workflows/update-cache.yml`
+
+Workflowen kjører:
+- manuelt via `Run workflow`
+- automatisk hver 6. time
+- automatisk når cache-scriptet eller workflowen endres
 
 ### Lokal test av websiden
 
@@ -66,4 +80,4 @@ FotMob brukes som primærkilde:
 - OBOS-ligaen (1. Divisjon): league id `203`
 - Norgesmesterskapet (Cupen): league id `206`
 
-For webvarianten hentes data via CORS-proxy (primært `api.codetabs.com`, fallback `r.jina.ai`) slik at det fungerer fra en statisk GitHub Pages-side.
+For webvarianten hentes data av GitHub Actions og lagres i repoet som lokal cache, slik at GitHub Pages ikke er avhengig av tredjepartsproxyer ved brukstidspunktet.
