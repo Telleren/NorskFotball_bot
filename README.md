@@ -9,6 +9,7 @@ Generator for rundetråder til Reddit (r/NorskFotball), med to måter å bruke p
 `index.html` er laget for GitHub Pages og har:
 - knapp: `Generer rundetråd Eliteserien`
 - knapp: `Generer rundetråd OBOS-ligaen`
+- knapp: `Generer rundetråd Toppserien`
 - knapp: `Generer rundetråd Norgesmesterskapet`
 - rundefelt ved hver knapp
 - popup med ferdig tittel + markdown body, klar for kopiering
@@ -78,6 +79,7 @@ python -m norskfotballbot.main post --subreddit NorskFotball
 FotMob brukes som primærkilde:
 - Eliteserien: league id `59`
 - OBOS-ligaen (1. Divisjon): league id `203`
+- Toppserien: league id `331`
 - Norgesmesterskapet (Cupen): league id `206`
 
 For webvarianten hentes data av GitHub Actions og lagres i repoet som lokal cache, slik at GitHub Pages ikke er avhengig av tredjepartsproxyer ved brukstidspunktet.

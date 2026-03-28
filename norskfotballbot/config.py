@@ -16,5 +16,6 @@ class LeagueConfig:
 DEFAULT_LEAGUES = [
     LeagueConfig(league_id=59, display_name="Eliteserien"),
     LeagueConfig(league_id=203, display_name="OBOS-ligaen"),
+    LeagueConfig(league_id=331, display_name="Toppserien", max_round=22),
     LeagueConfig(league_id=206, display_name="Norgesmesterskapet", max_round=7),
 ]

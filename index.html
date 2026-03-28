@@ -261,6 +261,18 @@
           <button class="btn" id="btn-cup">Generer rundetråd for cupen</button>
         </article>
 
+        <article class="league-row">
+          <div>
+            <div class="league-title">Toppserien</div>
+            <div class="notes">League ID: 331</div>
+          </div>
+          <div class="field">
+            <label for="round-toppserien">Runde (valgfri)</label>
+            <input id="round-toppserien" type="number" min="1" max="22" placeholder="f.eks. 3" />
+          </div>
+          <button class="btn" id="btn-toppserien">Generer rundetråd for Toppserien</button>
+        </article>
+
         <div class="status" id="status">Klar.</div>
         <div class="notes">
           Hvis runde-feltet er tomt brukes neste tilgjengelige runde automatisk.
@@ -295,6 +307,7 @@
       const LEAGUES = {
         eliteserien: { id: 59, name: "Eliteserien", roundInputId: "round-eliteserien", buttonId: "btn-eliteserien", maxRound: 30 },
         obos: { id: 203, name: "OBOS-ligaen", roundInputId: "round-obos", buttonId: "btn-obos", maxRound: 30 },
+        toppserien: { id: 331, name: "Toppserien", roundInputId: "round-toppserien", buttonId: "btn-toppserien", maxRound: 22 },
         cup: { id: 206, name: "Norgesmesterskapet", roundInputId: "round-cup", buttonId: "btn-cup", maxRound: 7 },
       };
 
