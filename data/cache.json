@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T14:06:34.287238+00:00",
+  "generated_at": "2026-03-30T19:32:55.243876+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2806,6 +2806,66 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Deni Dashaev",
+            "playerId": 1377072,
+            "position": null,
+            "transferDate": "2026-03-30T20:08:44Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubId": 9919,
+            "toClub": "Strømmen",
+            "toClubId": 4249,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-30T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
+            "marketValue": 275645
+          },
+          {
+            "name": "Cheikh Mbacke Diop",
+            "playerId": 1712222,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-03-30T18:09:04Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "NK Lokomotiva",
+            "fromClubId": 175388,
+            "toClub": "Brann",
+            "toClubId": 8468,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 2500000
+            },
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-03-30T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": 1424320
+          },
           {
             "name": "Adam Kaszuba",
             "playerId": 1637863,
@@ -5723,66 +5783,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": "2028-12-31T00:00:00Z",
             "marketValue": 186570
-          },
-          {
-            "name": "Håkon Krogelien",
-            "playerId": 1263483,
-            "position": null,
-            "transferDate": "2026-01-30T15:07:42Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Jerv",
-            "fromClubId": 2303,
-            "toClub": "Sandefjord",
-            "toClubId": 8609,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 170000
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 60000
-          },
-          {
-            "name": "Knut-André Skjærstein",
-            "playerId": 629727,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2026-01-30T15:05:35Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Kristiansund BK",
-            "fromClubId": 8605,
-            "toClub": "Strømmen",
-            "toClubId": 4249,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": null,
-            "marketValue": 167132
           }
         ]
       },
@@ -38165,6 +38165,34 @@
         "type": "league",
         "data": [
           {
+            "name": "Deni Dashaev",
+            "playerId": 1377072,
+            "position": null,
+            "transferDate": "2026-03-30T20:08:44Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubId": 9919,
+            "toClub": "Strømmen",
+            "toClubId": 4249,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-30T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
+            "marketValue": 275645
+          },
+          {
             "name": "James Ampofo",
             "playerId": 1459262,
             "position": {
@@ -41131,38 +41159,6 @@
             "fromDate": "2025-07-11T00:00:00Z",
             "toDate": "2026-12-31T00:00:00Z",
             "marketValue": 150000
-          },
-          {
-            "name": "Alie Conteh",
-            "playerId": 1368621,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2025-07-08T10:47:12Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Mjøndalen",
-            "fromClubId": 6541,
-            "toClub": "Strømsgodset",
-            "toClubId": 8180,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 420000
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-07-11T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 400000
           }
         ]
       },
