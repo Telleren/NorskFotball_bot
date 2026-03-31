@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T03:33:29.475718+00:00",
+  "generated_at": "2026-03-31T07:48:57.307753+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2806,6 +2806,34 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Gustav Højbjerg",
+            "playerId": 1601100,
+            "position": {
+              "label": "LB",
+              "key": "leftback_short"
+            },
+            "transferDate": "2026-03-31T09:05:33Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "B 93",
+            "fromClubId": 8453,
+            "toClub": "Sandefjord",
+            "toClubId": 8609,
+            "fee": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-03-30T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": 270705
+          },
           {
             "name": "Kristian Eriksen",
             "playerId": 533370,
@@ -5756,37 +5784,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 846779
-          },
-          {
-            "name": "Miika Koskela",
-            "playerId": 1171141,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-01-30T15:14:50Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Tromsø",
-            "fromClubId": 8608,
-            "toClub": "FK Haugesund",
-            "toClubId": 8512,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2027-12-31T00:00:00Z",
-            "marketValue": 332956
           }
         ]
       },
