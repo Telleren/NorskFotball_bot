@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T07:48:57.307753+00:00",
+  "generated_at": "2026-03-31T14:06:22.082547+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2806,6 +2806,37 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Jonathan Vonheim Norbye",
+            "playerId": 1377329,
+            "position": {
+              "label": "LB",
+              "key": "leftback_short"
+            },
+            "transferDate": "2026-03-31T12:54:45Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "RB Leipzig",
+            "fromClubId": 178475,
+            "toClub": "Fredrikstad",
+            "toClubId": 8417,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 400000
+          },
           {
             "name": "Gustav Højbjerg",
             "playerId": 1601100,
@@ -5752,38 +5783,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 165668
-          },
-          {
-            "name": "Troy Nyhammer",
-            "playerId": 1377921,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-01-30T15:17:00Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "FK Haugesund",
-            "fromClubId": 8512,
-            "toClub": "Tromsø",
-            "toClubId": 8608,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 930000
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 846779
           }
         ]
       },
