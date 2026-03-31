@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T14:06:22.082547+00:00",
+  "generated_at": "2026-03-31T19:32:56.555344+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2807,6 +2807,190 @@
         "type": "league",
         "data": [
           {
+            "name": "Mathias Klausen",
+            "playerId": 1463471,
+            "position": {
+              "label": "GK",
+              "key": "keeper"
+            },
+            "transferDate": "2026-03-31T20:28:47Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubId": 8468,
+            "toClub": "Sandviken",
+            "toClubId": -1,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-08-31T00:00:00Z",
+            "marketValue": 677812
+          },
+          {
+            "name": "Nikolai Skuseth",
+            "playerId": 1526793,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-03-31T20:27:21Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sarpsborg 08",
+            "fromClubId": 8509,
+            "toClub": "Kristiansund",
+            "toClubId": 8605,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-27T00:00:00Z",
+            "toDate": "2026-06-01T00:00:00Z",
+            "marketValue": 315829
+          },
+          {
+            "name": "Ruben Kristensen Alte",
+            "playerId": 1172556,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-03-31T20:25:59Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Viking",
+            "fromClubId": 8478,
+            "toClub": "Sandefjord",
+            "toClubId": 8609,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 972504
+          },
+          {
+            "name": "Jacob Hanstad",
+            "playerId": 1276538,
+            "position": {
+              "label": "LW",
+              "key": "leftwinger_short"
+            },
+            "transferDate": "2026-03-31T20:24:53Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sandefjord",
+            "fromClubId": 8609,
+            "toClub": "Stabæk",
+            "toClubId": 9918,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 100000
+            },
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2028-12-31T00:00:00Z",
+            "marketValue": 442478
+          },
+          {
+            "name": "Odin Thiago Holm",
+            "playerId": 1034997,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-03-31T20:23:18Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Celtic",
+            "fromClubId": 9925,
+            "toClub": "Vålerenga",
+            "toClubId": 8007,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 1330911
+          },
+          {
+            "name": "Ola Brynhildsen",
+            "playerId": 837066,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-03-31T16:12:31Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "FC Midtjylland",
+            "fromClubId": 8113,
+            "toClub": "Bodø/Glimt",
+            "toClubId": 8402,
+            "fee": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 1663512
+          },
+          {
             "name": "Jonathan Vonheim Norbye",
             "playerId": 1377329,
             "position": {
@@ -5601,188 +5785,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": "2027-12-31T00:00:00Z",
             "marketValue": 30000
-          },
-          {
-            "name": "Claus Niyukuri",
-            "playerId": 1126471,
-            "position": {
-              "label": "RB",
-              "key": "rightback_short"
-            },
-            "transferDate": "2026-01-30T15:34:51Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "FK Haugesund",
-            "fromClubId": 8512,
-            "toClub": "Sarpsborg 08",
-            "toClubId": 8509,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 430000
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 258771
-          },
-          {
-            "name": "Johan Meyer",
-            "playerId": 1437454,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-01-30T15:33:50Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lyngby",
-            "fromClubId": 9907,
-            "toClub": "Start",
-            "toClubId": 9919,
-            "fee": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 295764
-          },
-          {
-            "name": "Ulrik Valderhaug Syversen",
-            "playerId": 1377159,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-01-30T15:32:13Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brattvag",
-            "fromClubId": -1,
-            "toClub": "Aalesund",
-            "toClubId": 8404,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 100000
-          },
-          {
-            "name": "Joachim Prent-Eckbo",
-            "playerId": 1404438,
-            "position": null,
-            "transferDate": "2026-01-30T15:25:03Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "KFUM",
-            "fromClubId": 2305,
-            "toClub": "Brattvag",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 278192
-          },
-          {
-            "name": "Heine Gikling Bruseth",
-            "playerId": 1276944,
-            "position": {
-              "label": "DM",
-              "key": "centerdefensivemidfielder_short"
-            },
-            "transferDate": "2026-01-30T15:22:22Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "San Diego FC",
-            "fromClubId": -1,
-            "toClub": "Kristiansund BK",
-            "toClubId": 8605,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 867169
-          },
-          {
-            "name": "Jesper Grundt",
-            "playerId": 1173371,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-01-30T15:18:52Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Kongsvinger",
-            "fromClubId": 8179,
-            "toClub": "Tromsø",
-            "toClubId": 8608,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 850000
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 165668
           }
         ]
       },
@@ -38165,6 +38167,38 @@
         "type": "league",
         "data": [
           {
+            "name": "Jacob Hanstad",
+            "playerId": 1276538,
+            "position": {
+              "label": "LW",
+              "key": "leftwinger_short"
+            },
+            "transferDate": "2026-03-31T20:24:53Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sandefjord",
+            "fromClubId": 8609,
+            "toClub": "Stabæk",
+            "toClubId": 9918,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 100000
+            },
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2028-12-31T00:00:00Z",
+            "marketValue": 442478
+          },
+          {
             "name": "Deni Dashaev",
             "playerId": 1377072,
             "position": null,
@@ -41131,34 +41165,6 @@
             "fromDate": "2025-07-11T00:00:00Z",
             "toDate": "2028-12-31T00:00:00Z",
             "marketValue": 300000
-          },
-          {
-            "name": "Jesper Robertsen",
-            "playerId": 1183633,
-            "position": {
-              "label": "RB",
-              "key": "rightback_short"
-            },
-            "transferDate": "2025-07-08T10:49:59Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Tromsø",
-            "fromClubId": 8608,
-            "toClub": "Hødd",
-            "toClubId": 7937,
-            "fee": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-07-11T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 150000
           }
         ]
       },
