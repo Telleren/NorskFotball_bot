@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T07:58:12.847334+00:00",
+  "generated_at": "2026-04-01T14:09:46.643868+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2807,6 +2807,127 @@
         "type": "league",
         "data": [
           {
+            "name": "Mame Alassane Niang",
+            "playerId": 1689485,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-04-01T12:54:57Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lyn",
+            "fromClubId": 10224,
+            "toClub": "HamKam",
+            "toClubId": 8448,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 269240
+          },
+          {
+            "name": "Jonas Enkerud",
+            "playerId": 211088,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-04-01T12:50:39Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Free agent",
+            "fromClubId": 2,
+            "toClub": "HamKam",
+            "toClubId": 8448,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-04-01T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
+            "marketValue": 50000
+          },
+          {
+            "name": "Niklas Sandberg",
+            "playerId": 526809,
+            "position": {
+              "label": "RW",
+              "key": "rightwinger_short"
+            },
+            "transferDate": "2026-04-01T12:47:30Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sarpsborg 08",
+            "fromClubId": 8509,
+            "toClub": "FK Haugesund",
+            "toClubId": 8512,
+            "fee": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2027-12-31T00:00:00Z",
+            "marketValue": 217299
+          },
+          {
+            "name": "Isak Hagen Aalberg",
+            "playerId": 1292359,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-04-01T12:45:53Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Kristiansund",
+            "fromClubId": 8605,
+            "toClub": "Mjøndalen",
+            "toClubId": 6541,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-06-28T00:00:00Z",
+            "marketValue": 40000
+          },
+          {
             "name": "Jørgen Bøe",
             "playerId": 1281276,
             "position": null,
@@ -3035,7 +3156,11 @@
             "fromClubId": 8113,
             "toClub": "Bodø/Glimt",
             "toClubId": 8402,
-            "fee": null,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 2000000
+            },
             "transferType": {
               "text": "contract",
               "localizationKey": "contract"
@@ -5665,125 +5790,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": "2026-12-31T00:00:00Z",
             "marketValue": 596739
-          },
-          {
-            "name": "Xander Lambrix",
-            "playerId": 911592,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-01-30T15:44:08Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "TOP Oss",
-            "fromClubId": 7781,
-            "toClub": "Sandefjord",
-            "toClubId": 8609,
-            "fee": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 170068
-          },
-          {
-            "name": "Ole Christian Sæter",
-            "playerId": 1049398,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-01-30T15:42:57Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Rosenborg",
-            "fromClubId": 8422,
-            "toClub": "Vålerenga",
-            "toClubId": 8007,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2027-12-31T00:00:00Z",
-            "marketValue": 451768
-          },
-          {
-            "name": "Leopold Wahlstedt",
-            "playerId": 934839,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2026-01-30T15:41:36Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "AGF",
-            "fromClubId": 8071,
-            "toClub": "Rosenborg",
-            "toClubId": 8422,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 500000
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 981124
-          },
-          {
-            "name": "Oscar Aga",
-            "playerId": 915795,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-01-30T15:40:33Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Rosenborg",
-            "fromClubId": 8422,
-            "toClub": "Moss",
-            "toClubId": 8405,
-            "fee": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": null,
-            "marketValue": 134364
           }
         ]
       },
@@ -38166,6 +38172,65 @@
         "type": "league",
         "data": [
           {
+            "name": "Mame Alassane Niang",
+            "playerId": 1689485,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-04-01T12:54:57Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lyn",
+            "fromClubId": 10224,
+            "toClub": "HamKam",
+            "toClubId": 8448,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 269240
+          },
+          {
+            "name": "Niklas Sandberg",
+            "playerId": 526809,
+            "position": {
+              "label": "RW",
+              "key": "rightwinger_short"
+            },
+            "transferDate": "2026-04-01T12:47:30Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sarpsborg 08",
+            "fromClubId": 8509,
+            "toClub": "FK Haugesund",
+            "toClubId": 8512,
+            "fee": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2027-12-31T00:00:00Z",
+            "marketValue": 217299
+          },
+          {
             "name": "Erik Frøysa",
             "playerId": 1053645,
             "position": null,
@@ -41102,68 +41167,6 @@
             "fromDate": "2025-07-15T00:00:00Z",
             "toDate": "2025-09-10T00:00:00Z",
             "marketValue": 75000
-          },
-          {
-            "name": "Martin Hellan",
-            "playerId": 1452369,
-            "position": {
-              "label": "RB",
-              "key": "rightback_short"
-            },
-            "transferDate": "2025-07-16T04:54:23Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubId": 8468,
-            "toClub": "Stabæk",
-            "toClubId": 9918,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-07-15T00:00:00Z",
-            "toDate": "2025-12-31T00:00:00Z",
-            "marketValue": null
-          },
-          {
-            "name": "Uba Charles",
-            "playerId": 1351897,
-            "position": {
-              "label": "RB",
-              "key": "rightback_short"
-            },
-            "transferDate": "2025-07-16T01:09:59Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lillestrøm",
-            "fromClubId": 8476,
-            "toClub": "Mjällby",
-            "toClubId": 8127,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-07-15T00:00:00Z",
-            "toDate": "2025-11-30T00:00:00Z",
-            "marketValue": 850000
           }
         ]
       },
@@ -64080,7 +64083,83 @@
                 ]
               }
             ],
-            "ongoing": [],
+            "ongoing": [
+              {
+                "id": 5105336,
+                "hTeam": "Bodø/Glimt",
+                "aTeam": "Brann",
+                "hScore": 0,
+                "aScore": 0,
+                "hId": 1599447,
+                "aId": 4182,
+                "stage": "3",
+                "time": "01.04.2026 16:00",
+                "status": "S",
+                "sId": 2,
+                "gs": "01.04.2026 15:59:51",
+                "extId": "ls_0"
+              },
+              {
+                "id": 5105337,
+                "hTeam": "FK Haugesund",
+                "aTeam": "Aalesund",
+                "hScore": 0,
+                "aScore": 0,
+                "hId": 169297,
+                "aId": 4500,
+                "stage": "3",
+                "time": "01.04.2026 16:00",
+                "status": "S",
+                "sId": 2,
+                "gs": "01.04.2026 15:59:28",
+                "extId": "ls_0"
+              },
+              {
+                "id": 5105341,
+                "hTeam": "Vålerenga",
+                "aTeam": "Røa",
+                "hScore": 0,
+                "aScore": 0,
+                "hId": 4507,
+                "aId": 4485,
+                "stage": "3",
+                "time": "01.04.2026 16:00",
+                "status": "S",
+                "sId": 2,
+                "gs": "01.04.2026 16:00:48",
+                "extId": "ls_0"
+              },
+              {
+                "id": 5105340,
+                "hTeam": "Rosenborg BK",
+                "aTeam": "Hønefoss",
+                "hScore": 0,
+                "aScore": 0,
+                "hId": 4484,
+                "aId": 920414,
+                "stage": "3",
+                "time": "01.04.2026 16:00",
+                "status": "S",
+                "sId": 2,
+                "gs": "01.04.2026 16:00:20",
+                "extId": "ls_0"
+              },
+              {
+                "id": 5105338,
+                "hTeam": "LSK Kvinner",
+                "aTeam": "Stabæk",
+                "hScore": 0,
+                "aScore": 0,
+                "hId": 4486,
+                "aId": 92171,
+                "stage": "3",
+                "time": "01.04.2026 16:00",
+                "status": "S",
+                "sId": 2,
+                "gs": "01.04.2026 15:59:51",
+                "extId": "ls_0"
+              }
+            ],
             "table": {
               "all": [
                 {
@@ -64089,14 +64168,28 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105336,
+                    "hTeam": "Bodø/Glimt",
+                    "aTeam": "Brann",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 1599447,
+                    "aId": 4182,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 1,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 0,
                   "scoresStr": "6-1",
                   "goalConDiff": 5,
-                  "pts": 4,
+                  "pts": 5,
                   "idx": 1,
                   "qualColor": "#FFD908"
                 },
@@ -64106,14 +64199,28 @@
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105337,
+                    "hTeam": "FK Haugesund",
+                    "aTeam": "Aalesund",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 169297,
+                    "aId": 4500,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:28",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 1,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 0,
                   "scoresStr": "4-2",
                   "goalConDiff": 2,
-                  "pts": 4,
+                  "pts": 5,
                   "idx": 2,
                   "qualColor": "#FFD908"
                 },
@@ -64123,14 +64230,28 @@
                   "id": 4485,
                   "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105341,
+                    "hTeam": "Vålerenga",
+                    "aTeam": "Røa",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4507,
+                    "aId": 4485,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:48",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 1,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 0,
                   "scoresStr": "4-2",
                   "goalConDiff": 2,
-                  "pts": 4,
+                  "pts": 5,
                   "idx": 3,
                   "qualColor": null
                 },
@@ -64140,14 +64261,28 @@
                   "id": 920414,
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105340,
+                    "hTeam": "Rosenborg BK",
+                    "aTeam": "Hønefoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4484,
+                    "aId": 920414,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 1,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 0,
                   "scoresStr": "3-1",
                   "goalConDiff": 2,
-                  "pts": 4,
+                  "pts": 5,
                   "idx": 4,
                   "qualColor": null
                 },
@@ -64157,14 +64292,13 @@
                   "id": 429438,
                   "pageUrl": "/teams/429438/overview/lyn-fotball",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "played": 3,
                   "wins": 1,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 0,
                   "scoresStr": "2-1",
                   "goalConDiff": 1,
-                  "pts": 4,
+                  "pts": 5,
                   "idx": 5,
                   "qualColor": null
                 },
@@ -64174,14 +64308,28 @@
                   "id": 4507,
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105341,
+                    "hTeam": "Vålerenga",
+                    "aTeam": "Røa",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4507,
+                    "aId": 4485,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:48",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 1,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 1,
                   "scoresStr": "4-4",
                   "goalConDiff": 0,
-                  "pts": 3,
+                  "pts": 4,
                   "idx": 6,
                   "qualColor": null
                 },
@@ -64191,14 +64339,28 @@
                   "id": 4484,
                   "pageUrl": "/teams/4484/overview/rosenborg-bk",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105340,
+                    "hTeam": "Rosenborg BK",
+                    "aTeam": "Hønefoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4484,
+                    "aId": 920414,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 0,
-                  "draws": 2,
+                  "draws": 3,
                   "losses": 0,
                   "scoresStr": "2-2",
                   "goalConDiff": 0,
-                  "pts": 2,
+                  "pts": 3,
                   "idx": 7,
                   "qualColor": null
                 },
@@ -64208,14 +64370,28 @@
                   "id": 1599447,
                   "pageUrl": "/teams/1599447/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105336,
+                    "hTeam": "Bodø/Glimt",
+                    "aTeam": "Brann",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 1599447,
+                    "aId": 4182,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 0,
-                  "draws": 2,
+                  "draws": 3,
                   "losses": 0,
                   "scoresStr": "1-1",
                   "goalConDiff": 0,
-                  "pts": 2,
+                  "pts": 3,
                   "idx": 8,
                   "qualColor": null
                 },
@@ -64225,14 +64401,28 @@
                   "id": 92171,
                   "pageUrl": "/teams/92171/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105338,
+                    "hTeam": "LSK Kvinner",
+                    "aTeam": "Stabæk",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4486,
+                    "aId": 92171,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 0,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 1,
                   "scoresStr": "2-3",
                   "goalConDiff": -1,
-                  "pts": 1,
+                  "pts": 2,
                   "idx": 9,
                   "qualColor": null
                 },
@@ -64242,14 +64432,28 @@
                   "id": 169297,
                   "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105337,
+                    "hTeam": "FK Haugesund",
+                    "aTeam": "Aalesund",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 169297,
+                    "aId": 4500,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:28",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 0,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 1,
                   "scoresStr": "3-5",
                   "goalConDiff": -2,
-                  "pts": 1,
+                  "pts": 2,
                   "idx": 10,
                   "qualColor": "#FFA72F"
                 },
@@ -64259,14 +64463,28 @@
                   "id": 4486,
                   "pageUrl": "/teams/4486/overview/lsk-kvinner",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "ongoing": {
+                    "id": 5105338,
+                    "hTeam": "LSK Kvinner",
+                    "aTeam": "Stabæk",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4486,
+                    "aId": 92171,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 3,
                   "wins": 0,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 1,
                   "scoresStr": "2-4",
                   "goalConDiff": -2,
-                  "pts": 1,
+                  "pts": 2,
                   "idx": 11,
                   "qualColor": "#FF4646"
                 },
@@ -64276,14 +64494,13 @@
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
+                  "played": 3,
                   "wins": 0,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 2,
                   "scoresStr": "1-8",
                   "goalConDiff": -7,
-                  "pts": 0,
+                  "pts": 1,
                   "idx": 12,
                   "qualColor": "#FF4646"
                 }
@@ -64295,7 +64512,21 @@
                   "id": 920414,
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105340,
+                    "hTeam": "Rosenborg BK",
+                    "aTeam": "Hønefoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4484,
+                    "aId": 920414,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:20",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 1,
                   "draws": 0,
@@ -64308,12 +64539,90 @@
                   "qualColor": "#FFD908"
                 },
                 {
+                  "name": "Rosenborg BK",
+                  "shortName": "Rosenborg BK",
+                  "id": 4484,
+                  "pageUrl": "/teams/4484/overview/rosenborg-bk",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105340,
+                    "hTeam": "Rosenborg BK",
+                    "aTeam": "Hønefoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4484,
+                    "aId": 920414,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
+                  "wins": 0,
+                  "draws": 2,
+                  "losses": 0,
+                  "scoresStr": "1-1",
+                  "goalConDiff": 0,
+                  "goalsScored": 1,
+                  "pts": 2,
+                  "idx": 2,
+                  "qualColor": "#FFD908"
+                },
+                {
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt",
+                  "id": 1599447,
+                  "pageUrl": "/teams/1599447/overview/bodoglimt",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105336,
+                    "hTeam": "Bodø/Glimt",
+                    "aTeam": "Brann",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 1599447,
+                    "aId": 4182,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
+                  "wins": 0,
+                  "draws": 2,
+                  "losses": 0,
+                  "scoresStr": "0-0",
+                  "goalConDiff": 0,
+                  "goalsScored": 0,
+                  "pts": 2,
+                  "idx": 3,
+                  "qualColor": null
+                },
+                {
                   "name": "Aalesund",
                   "shortName": "Aalesund",
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105337,
+                    "hTeam": "FK Haugesund",
+                    "aTeam": "Aalesund",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 169297,
+                    "aId": 4500,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:28",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 0,
                   "draws": 1,
@@ -64322,8 +64631,8 @@
                   "goalConDiff": 0,
                   "goalsScored": 2,
                   "pts": 1,
-                  "idx": 2,
-                  "qualColor": "#FFD908"
+                  "idx": 4,
+                  "qualColor": null
                 },
                 {
                   "name": "Brann",
@@ -64331,43 +64640,21 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
-                  "wins": 0,
-                  "draws": 1,
-                  "losses": 0,
-                  "scoresStr": "1-1",
-                  "goalConDiff": 0,
-                  "goalsScored": 1,
-                  "pts": 1,
-                  "idx": 3,
-                  "qualColor": null
-                },
-                {
-                  "name": "Røa",
-                  "shortName": "Røa",
-                  "id": 4485,
-                  "pageUrl": "/teams/4485/overview/roa",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
-                  "wins": 0,
-                  "draws": 1,
-                  "losses": 0,
-                  "scoresStr": "1-1",
-                  "goalConDiff": 0,
-                  "goalsScored": 1,
-                  "pts": 1,
-                  "idx": 4,
-                  "qualColor": null
-                },
-                {
-                  "name": "Lyn Fotball",
-                  "shortName": "Lyn Fotball",
-                  "id": 429438,
-                  "pageUrl": "/teams/429438/overview/lyn-fotball",
-                  "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105336,
+                    "hTeam": "Bodø/Glimt",
+                    "aTeam": "Brann",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 1599447,
+                    "aId": 4182,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 0,
                   "draws": 1,
@@ -64380,12 +64667,26 @@
                   "qualColor": null
                 },
                 {
-                  "name": "Rosenborg BK",
-                  "shortName": "Rosenborg BK",
-                  "id": 4484,
-                  "pageUrl": "/teams/4484/overview/rosenborg-bk",
+                  "name": "Røa",
+                  "shortName": "Røa",
+                  "id": 4485,
+                  "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105341,
+                    "hTeam": "Vålerenga",
+                    "aTeam": "Røa",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4507,
+                    "aId": 4485,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:48",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 0,
                   "draws": 1,
@@ -64398,39 +64699,20 @@
                   "qualColor": null
                 },
                 {
-                  "name": "Bodø/Glimt",
-                  "shortName": "Bodø/Glimt",
-                  "id": 1599447,
-                  "pageUrl": "/teams/1599447/overview/bodoglimt",
+                  "name": "Lyn Fotball",
+                  "shortName": "Lyn Fotball",
+                  "id": 429438,
+                  "pageUrl": "/teams/429438/overview/lyn-fotball",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 1,
                   "wins": 0,
                   "draws": 1,
                   "losses": 0,
-                  "scoresStr": "0-0",
+                  "scoresStr": "1-1",
                   "goalConDiff": 0,
-                  "goalsScored": 0,
+                  "goalsScored": 1,
                   "pts": 1,
                   "idx": 7,
-                  "qualColor": null
-                },
-                {
-                  "name": "Stabæk",
-                  "shortName": "Stabæk",
-                  "id": 92171,
-                  "pageUrl": "/teams/92171/overview/stabaek",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
-                  "wins": 0,
-                  "draws": 0,
-                  "losses": 1,
-                  "scoresStr": "0-1",
-                  "goalConDiff": -1,
-                  "goalsScored": 0,
-                  "pts": 0,
-                  "idx": 8,
                   "qualColor": null
                 },
                 {
@@ -64439,16 +64721,30 @@
                   "id": 169297,
                   "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
+                  "ongoing": {
+                    "id": 5105337,
+                    "hTeam": "FK Haugesund",
+                    "aTeam": "Aalesund",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 169297,
+                    "aId": 4500,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:28",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
                   "wins": 0,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 1,
                   "scoresStr": "2-4",
                   "goalConDiff": -2,
                   "goalsScored": 2,
-                  "pts": 0,
-                  "idx": 9,
+                  "pts": 1,
+                  "idx": 8,
                   "qualColor": null
                 },
                 {
@@ -64457,17 +64753,31 @@
                   "id": 4486,
                   "pageUrl": "/teams/4486/overview/lsk-kvinner",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
+                  "ongoing": {
+                    "id": 5105338,
+                    "hTeam": "LSK Kvinner",
+                    "aTeam": "Stabæk",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4486,
+                    "aId": 92171,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
                   "wins": 0,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 1,
                   "scoresStr": "1-3",
                   "goalConDiff": -2,
                   "goalsScored": 1,
-                  "pts": 0,
-                  "idx": 10,
-                  "qualColor": "#FFA72F"
+                  "pts": 1,
+                  "idx": 9,
+                  "qualColor": null
                 },
                 {
                   "name": "Vålerenga",
@@ -64475,17 +64785,31 @@
                   "id": 4507,
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
+                  "ongoing": {
+                    "id": 5105341,
+                    "hTeam": "Vålerenga",
+                    "aTeam": "Røa",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4507,
+                    "aId": 4485,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:48",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
                   "wins": 0,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 1,
                   "scoresStr": "0-2",
                   "goalConDiff": -2,
                   "goalsScored": 0,
-                  "pts": 0,
-                  "idx": 11,
-                  "qualColor": "#FF4646"
+                  "pts": 1,
+                  "idx": 10,
+                  "qualColor": "#FFA72F"
                 },
                 {
                   "name": "Molde",
@@ -64493,13 +64817,44 @@
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
+                  "played": 2,
+                  "wins": 0,
+                  "draws": 1,
+                  "losses": 1,
+                  "scoresStr": "0-5",
+                  "goalConDiff": -5,
+                  "goalsScored": 0,
+                  "pts": 1,
+                  "idx": 11,
+                  "qualColor": "#FF4646"
+                },
+                {
+                  "name": "Stabæk",
+                  "shortName": "Stabæk",
+                  "id": 92171,
+                  "pageUrl": "/teams/92171/overview/stabaek",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105338,
+                    "hTeam": "LSK Kvinner",
+                    "aTeam": "Stabæk",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4486,
+                    "aId": 92171,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 0,
                   "draws": 0,
                   "losses": 1,
-                  "scoresStr": "0-5",
-                  "goalConDiff": -5,
+                  "scoresStr": "0-1",
+                  "goalConDiff": -1,
                   "goalsScored": 0,
                   "pts": 0,
                   "idx": 12,
@@ -64513,34 +64868,30 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
+                  "ongoing": {
+                    "id": 5105336,
+                    "hTeam": "Bodø/Glimt",
+                    "aTeam": "Brann",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 1599447,
+                    "aId": 4182,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
                   "wins": 1,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "5-0",
                   "goalConDiff": 5,
                   "goalsScored": 5,
-                  "pts": 3,
+                  "pts": 4,
                   "idx": 1,
-                  "qualColor": "#FFD908"
-                },
-                {
-                  "name": "Vålerenga",
-                  "shortName": "Vålerenga",
-                  "id": 4507,
-                  "pageUrl": "/teams/4507/overview/valerenga",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
-                  "wins": 1,
-                  "draws": 0,
-                  "losses": 0,
-                  "scoresStr": "4-2",
-                  "goalConDiff": 2,
-                  "goalsScored": 4,
-                  "pts": 3,
-                  "idx": 2,
                   "qualColor": "#FFD908"
                 },
                 {
@@ -64549,17 +64900,31 @@
                   "id": 4485,
                   "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
+                  "ongoing": {
+                    "id": 5105341,
+                    "hTeam": "Vålerenga",
+                    "aTeam": "Røa",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4507,
+                    "aId": 4485,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:48",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
                   "wins": 1,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "3-1",
                   "goalConDiff": 2,
                   "goalsScored": 3,
-                  "pts": 3,
-                  "idx": 3,
-                  "qualColor": null
+                  "pts": 4,
+                  "idx": 2,
+                  "qualColor": "#FFD908"
                 },
                 {
                   "name": "Aalesund",
@@ -64567,16 +64932,30 @@
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
+                  "ongoing": {
+                    "id": 5105337,
+                    "hTeam": "FK Haugesund",
+                    "aTeam": "Aalesund",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 169297,
+                    "aId": 4500,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:28",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
                   "wins": 1,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "2-0",
                   "goalConDiff": 2,
                   "goalsScored": 2,
-                  "pts": 3,
-                  "idx": 4,
+                  "pts": 4,
+                  "idx": 3,
                   "qualColor": null
                 },
                 {
@@ -64585,14 +64964,45 @@
                   "id": 429438,
                   "pageUrl": "/teams/429438/overview/lyn-fotball",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
+                  "played": 2,
                   "wins": 1,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "1-0",
                   "goalConDiff": 1,
                   "goalsScored": 1,
+                  "pts": 4,
+                  "idx": 4,
+                  "qualColor": null
+                },
+                {
+                  "name": "Vålerenga",
+                  "shortName": "Vålerenga",
+                  "id": 4507,
+                  "pageUrl": "/teams/4507/overview/valerenga",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105341,
+                    "hTeam": "Vålerenga",
+                    "aTeam": "Røa",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4507,
+                    "aId": 4485,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:48",
+                    "extId": "ls_0"
+                  },
+                  "played": 1,
+                  "wins": 1,
+                  "draws": 0,
+                  "losses": 0,
+                  "scoresStr": "4-2",
+                  "goalConDiff": 2,
+                  "goalsScored": 4,
                   "pts": 3,
                   "idx": 5,
                   "qualColor": null
@@ -64603,16 +65013,62 @@
                   "id": 92171,
                   "pageUrl": "/teams/92171/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
+                  "ongoing": {
+                    "id": 5105338,
+                    "hTeam": "LSK Kvinner",
+                    "aTeam": "Stabæk",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4486,
+                    "aId": 92171,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
                   "wins": 0,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 0,
                   "scoresStr": "2-2",
                   "goalConDiff": 0,
                   "goalsScored": 2,
-                  "pts": 1,
+                  "pts": 2,
                   "idx": 6,
+                  "qualColor": null
+                },
+                {
+                  "name": "Hønefoss",
+                  "shortName": "Hønefoss",
+                  "id": 920414,
+                  "pageUrl": "/teams/920414/overview/honefoss",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105340,
+                    "hTeam": "Rosenborg BK",
+                    "aTeam": "Hønefoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4484,
+                    "aId": 920414,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 2,
+                  "wins": 0,
+                  "draws": 2,
+                  "losses": 0,
+                  "scoresStr": "0-0",
+                  "goalConDiff": 0,
+                  "goalsScored": 0,
+                  "pts": 2,
+                  "idx": 7,
                   "qualColor": null
                 },
                 {
@@ -64621,25 +65077,21 @@
                   "id": 4484,
                   "pageUrl": "/teams/4484/overview/rosenborg-bk",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 1,
-                  "wins": 0,
-                  "draws": 1,
-                  "losses": 0,
-                  "scoresStr": "1-1",
-                  "goalConDiff": 0,
-                  "goalsScored": 1,
-                  "pts": 1,
-                  "idx": 7,
-                  "qualColor": null
-                },
-                {
-                  "name": "Bodø/Glimt",
-                  "shortName": "Bodø/Glimt",
-                  "id": 1599447,
-                  "pageUrl": "/teams/1599447/overview/bodoglimt",
-                  "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105340,
+                    "hTeam": "Rosenborg BK",
+                    "aTeam": "Hønefoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4484,
+                    "aId": 920414,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:20",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 0,
                   "draws": 1,
@@ -64652,12 +65104,26 @@
                   "qualColor": null
                 },
                 {
-                  "name": "FK Haugesund",
-                  "shortName": "FK Haugesund",
-                  "id": 169297,
-                  "pageUrl": "/teams/169297/overview/fk-haugesund",
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt",
+                  "id": 1599447,
+                  "pageUrl": "/teams/1599447/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105336,
+                    "hTeam": "Bodø/Glimt",
+                    "aTeam": "Brann",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 1599447,
+                    "aId": 4182,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 0,
                   "draws": 1,
@@ -64670,12 +65136,26 @@
                   "qualColor": null
                 },
                 {
-                  "name": "LSK Kvinner",
-                  "shortName": "LSK Kvinner",
-                  "id": 4486,
-                  "pageUrl": "/teams/4486/overview/lsk-kvinner",
+                  "name": "FK Haugesund",
+                  "shortName": "FK Haugesund",
+                  "id": 169297,
+                  "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105337,
+                    "hTeam": "FK Haugesund",
+                    "aTeam": "Aalesund",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 169297,
+                    "aId": 4500,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:28",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 0,
                   "draws": 1,
@@ -64688,19 +65168,33 @@
                   "qualColor": "#FFA72F"
                 },
                 {
-                  "name": "Hønefoss",
-                  "shortName": "Hønefoss",
-                  "id": 920414,
-                  "pageUrl": "/teams/920414/overview/honefoss",
+                  "name": "LSK Kvinner",
+                  "shortName": "LSK Kvinner",
+                  "id": 4486,
+                  "pageUrl": "/teams/4486/overview/lsk-kvinner",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105338,
+                    "hTeam": "LSK Kvinner",
+                    "aTeam": "Stabæk",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4486,
+                    "aId": 92171,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
                   "played": 1,
                   "wins": 0,
                   "draws": 1,
                   "losses": 0,
-                  "scoresStr": "0-0",
+                  "scoresStr": "1-1",
                   "goalConDiff": 0,
-                  "goalsScored": 0,
+                  "goalsScored": 1,
                   "pts": 1,
                   "idx": 11,
                   "qualColor": "#FF4646"
@@ -64711,7 +65205,6 @@
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 1,
                   "wins": 0,
                   "draws": 0,
@@ -64726,6 +65219,23 @@
               ],
               "form": [
                 {
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)",
+                  "featuredInMatch": false,
+                  "id": 429438,
+                  "pageUrl": "/teams/429438/overview/lyn-fotball",
+                  "played": 3,
+                  "wins": 1,
+                  "draws": 2,
+                  "losses": 0,
+                  "scoresStr": "2-1",
+                  "goalConDiff": 1,
+                  "goalsScored": 2,
+                  "pts": 5,
+                  "idx": 1,
+                  "qualColor": "#FFD908"
+                },
+                {
                   "name": "Brann (W)",
                   "shortName": "Brann (W)",
                   "featuredInMatch": false,
@@ -64739,8 +65249,22 @@
                   "goalConDiff": 5,
                   "goalsScored": 6,
                   "pts": 4,
-                  "ongoing": null,
-                  "idx": 1,
+                  "ongoing": {
+                    "id": 5105336,
+                    "hTeam": "Bodø/Glimt",
+                    "aTeam": "Brann",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 1599447,
+                    "aId": 4182,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
+                  "idx": 2,
                   "qualColor": "#FFD908"
                 },
                 {
@@ -64757,9 +65281,23 @@
                   "goalConDiff": 2,
                   "goalsScored": 4,
                   "pts": 4,
-                  "ongoing": null,
-                  "idx": 2,
-                  "qualColor": "#FFD908"
+                  "ongoing": {
+                    "id": 5105341,
+                    "hTeam": "Vålerenga",
+                    "aTeam": "Røa",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4507,
+                    "aId": 4485,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:48",
+                    "extId": "ls_0"
+                  },
+                  "idx": 3,
+                  "qualColor": null
                 },
                 {
                   "name": "Aalesund (W)",
@@ -64775,8 +65313,22 @@
                   "goalConDiff": 2,
                   "goalsScored": 4,
                   "pts": 4,
-                  "ongoing": null,
-                  "idx": 3,
+                  "ongoing": {
+                    "id": 5105337,
+                    "hTeam": "FK Haugesund",
+                    "aTeam": "Aalesund",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 169297,
+                    "aId": 4500,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:28",
+                    "extId": "ls_0"
+                  },
+                  "idx": 4,
                   "qualColor": null
                 },
                 {
@@ -64793,25 +65345,21 @@
                   "goalConDiff": 2,
                   "goalsScored": 3,
                   "pts": 4,
-                  "ongoing": null,
-                  "idx": 4,
-                  "qualColor": null
-                },
-                {
-                  "name": "Lyn Fotball (W)",
-                  "shortName": "Lyn Fotball (W)",
-                  "featuredInMatch": false,
-                  "id": 429438,
-                  "pageUrl": "/teams/429438/overview/lyn-fotball",
-                  "played": 2,
-                  "wins": 1,
-                  "draws": 1,
-                  "losses": 0,
-                  "scoresStr": "2-1",
-                  "goalConDiff": 1,
-                  "goalsScored": 2,
-                  "pts": 4,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105340,
+                    "hTeam": "Rosenborg BK",
+                    "aTeam": "Hønefoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4484,
+                    "aId": 920414,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:20",
+                    "extId": "ls_0"
+                  },
                   "idx": 5,
                   "qualColor": null
                 },
@@ -64829,7 +65377,21 @@
                   "goalConDiff": 0,
                   "goalsScored": 4,
                   "pts": 3,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105341,
+                    "hTeam": "Vålerenga",
+                    "aTeam": "Røa",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4507,
+                    "aId": 4485,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:48",
+                    "extId": "ls_0"
+                  },
                   "idx": 6,
                   "qualColor": null
                 },
@@ -64847,7 +65409,21 @@
                   "goalConDiff": 0,
                   "goalsScored": 2,
                   "pts": 2,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105340,
+                    "hTeam": "Rosenborg BK",
+                    "aTeam": "Hønefoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4484,
+                    "aId": 920414,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 16:00:20",
+                    "extId": "ls_0"
+                  },
                   "idx": 7,
                   "qualColor": null
                 },
@@ -64865,7 +65441,21 @@
                   "goalConDiff": 0,
                   "goalsScored": 1,
                   "pts": 2,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105336,
+                    "hTeam": "Bodø/Glimt",
+                    "aTeam": "Brann",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 1599447,
+                    "aId": 4182,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
                   "idx": 8,
                   "qualColor": null
                 },
@@ -64883,7 +65473,21 @@
                   "goalConDiff": -1,
                   "goalsScored": 2,
                   "pts": 1,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105338,
+                    "hTeam": "LSK Kvinner",
+                    "aTeam": "Stabæk",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4486,
+                    "aId": 92171,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
                   "idx": 9,
                   "qualColor": null
                 },
@@ -64901,7 +65505,21 @@
                   "goalConDiff": -2,
                   "goalsScored": 3,
                   "pts": 1,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105337,
+                    "hTeam": "FK Haugesund",
+                    "aTeam": "Aalesund",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 169297,
+                    "aId": 4500,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:28",
+                    "extId": "ls_0"
+                  },
                   "idx": 10,
                   "qualColor": "#FFA72F"
                 },
@@ -64919,7 +65537,21 @@
                   "goalConDiff": -2,
                   "goalsScored": 2,
                   "pts": 1,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105338,
+                    "hTeam": "LSK Kvinner",
+                    "aTeam": "Stabæk",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 4486,
+                    "aId": 92171,
+                    "stage": "3",
+                    "time": "01.04.2026 16:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "01.04.2026 15:59:51",
+                    "extId": "ls_0"
+                  },
                   "idx": 11,
                   "qualColor": "#FF4646"
                 },
@@ -64929,15 +65561,14 @@
                   "featuredInMatch": false,
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
-                  "played": 2,
+                  "played": 3,
                   "wins": 0,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 2,
                   "scoresStr": "1-8",
                   "goalConDiff": -7,
                   "goalsScored": 1,
-                  "pts": 0,
-                  "ongoing": null,
+                  "pts": 1,
                   "idx": 12,
                   "qualColor": "#FF4646"
                 }
@@ -65532,6 +66163,37 @@
                   "shortName": "LSK Kvinner (W)",
                   "isOurTeam": false
                 }
+              },
+              {
+                "result": 0,
+                "resultString": "D",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/726186_xsmall.png",
+                "linkToMatch": "/matches/lyn-fotball-vs-molde/8ir40ee6#5105339",
+                "date": null,
+                "teamPageUrl": "/teams/726186/overview/molde",
+                "tooltipText": {
+                  "utcTime": "2026-04-01T10:00:00.000Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Molde (W)",
+                  "homeTeamId": 726186,
+                  "homeScore": 0,
+                  "awayTeam": "Lyn Fotball (W)",
+                  "awayTeamId": 429438,
+                  "awayScore": 0
+                },
+                "score": "0 - 0",
+                "home": {
+                  "id": "726186",
+                  "name": "Molde (W)",
+                  "shortName": "Molde (W)",
+                  "isOurTeam": false
+                },
+                "away": {
+                  "id": "429438",
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)",
+                  "isOurTeam": true
+                }
               }
             ],
             "726186": [
@@ -65595,6 +66257,37 @@
                   "name": "Molde (W)",
                   "shortName": "Molde (W)",
                   "isOurTeam": true
+                }
+              },
+              {
+                "result": 0,
+                "resultString": "D",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429438_xsmall.png",
+                "linkToMatch": "/matches/lyn-fotball-vs-molde/8ir40ee6#5105339",
+                "date": null,
+                "teamPageUrl": "/teams/429438/overview/lyn-fotball",
+                "tooltipText": {
+                  "utcTime": "2026-04-01T10:00:00.000Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Molde (W)",
+                  "homeTeamId": 726186,
+                  "homeScore": 0,
+                  "awayTeam": "Lyn Fotball (W)",
+                  "awayTeamId": 429438,
+                  "awayScore": 0
+                },
+                "score": "0 - 0",
+                "home": {
+                  "id": "726186",
+                  "name": "Molde (W)",
+                  "shortName": "Molde (W)",
+                  "isOurTeam": true
+                },
+                "away": {
+                  "id": "429438",
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)",
+                  "isOurTeam": false
                 }
               }
             ],
@@ -65729,196 +66422,196 @@
           },
           "nextOpponent": {
             "4182": [
-              "1599447",
-              "Bodø/Glimt (W)",
-              "5105336",
-              {
-                "id": "1599447",
-                "name": "Bodø/Glimt (W)",
-                "shortName": "Bodø/Glimt (W)"
-              },
-              {
-                "id": "4182",
-                "name": "Brann (W)",
-                "shortName": "Brann (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "4484": [
-              "920414",
-              "Hønefoss (W)",
-              "5105340",
-              {
-                "id": "4484",
-                "name": "Rosenborg BK (W)",
-                "shortName": "Rosenborg BK (W)"
-              },
-              {
-                "id": "920414",
-                "name": "Hønefoss (W)",
-                "shortName": "Hønefoss (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "4485": [
-              "4507",
-              "Vålerenga (W)",
-              "5105341",
-              {
-                "id": "4507",
-                "name": "Vålerenga (W)",
-                "shortName": "Vålerenga (W)"
-              },
-              {
-                "id": "4485",
-                "name": "Røa (W)",
-                "shortName": "Røa (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "4486": [
-              "92171",
-              "Stabæk (W)",
-              "5105338",
-              {
-                "id": "4486",
-                "name": "LSK Kvinner (W)",
-                "shortName": "LSK Kvinner (W)"
-              },
-              {
-                "id": "92171",
-                "name": "Stabæk (W)",
-                "shortName": "Stabæk (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "4500": [
-              "169297",
-              "FK Haugesund (W)",
-              "5105337",
-              {
-                "id": "169297",
-                "name": "FK Haugesund (W)",
-                "shortName": "FK Haugesund (W)"
-              },
-              {
-                "id": "4500",
-                "name": "Aalesund (W)",
-                "shortName": "Aalesund (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "4507": [
               "4485",
               "Røa (W)",
-              "5105341",
-              {
-                "id": "4507",
-                "name": "Vålerenga (W)",
-                "shortName": "Vålerenga (W)"
-              },
+              "5105346",
               {
                 "id": "4485",
                 "name": "Røa (W)",
                 "shortName": "Røa (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "92171": [
-              "4486",
-              "LSK Kvinner (W)",
-              "5105338",
-              {
-                "id": "4486",
-                "name": "LSK Kvinner (W)",
-                "shortName": "LSK Kvinner (W)"
-              },
-              {
-                "id": "92171",
-                "name": "Stabæk (W)",
-                "shortName": "Stabæk (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "169297": [
-              "4500",
-              "Aalesund (W)",
-              "5105337",
-              {
-                "id": "169297",
-                "name": "FK Haugesund (W)",
-                "shortName": "FK Haugesund (W)"
-              },
-              {
-                "id": "4500",
-                "name": "Aalesund (W)",
-                "shortName": "Aalesund (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "429438": [
-              "726186",
-              "Molde (W)",
-              "5105339",
-              {
-                "id": "726186",
-                "name": "Molde (W)",
-                "shortName": "Molde (W)"
-              },
-              {
-                "id": "429438",
-                "name": "Lyn Fotball (W)",
-                "shortName": "Lyn Fotball (W)"
-              },
-              "2026-04-01T12:00:00.000Z"
-            ],
-            "726186": [
-              "429438",
-              "Lyn Fotball (W)",
-              "5105339",
-              {
-                "id": "726186",
-                "name": "Molde (W)",
-                "shortName": "Molde (W)"
-              },
-              {
-                "id": "429438",
-                "name": "Lyn Fotball (W)",
-                "shortName": "Lyn Fotball (W)"
-              },
-              "2026-04-01T12:00:00.000Z"
-            ],
-            "920414": [
-              "4484",
-              "Rosenborg BK (W)",
-              "5105340",
-              {
-                "id": "4484",
-                "name": "Rosenborg BK (W)",
-                "shortName": "Rosenborg BK (W)"
-              },
-              {
-                "id": "920414",
-                "name": "Hønefoss (W)",
-                "shortName": "Hønefoss (W)"
-              },
-              "2026-04-01T14:00:00.000Z"
-            ],
-            "1599447": [
-              "4182",
-              "Brann (W)",
-              "5105336",
-              {
-                "id": "1599447",
-                "name": "Bodø/Glimt (W)",
-                "shortName": "Bodø/Glimt (W)"
               },
               {
                 "id": "4182",
                 "name": "Brann (W)",
                 "shortName": "Brann (W)"
               },
-              "2026-04-01T14:00:00.000Z"
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "4484": [
+              "4500",
+              "Aalesund (W)",
+              "5105342",
+              {
+                "id": "4500",
+                "name": "Aalesund (W)",
+                "shortName": "Aalesund (W)"
+              },
+              {
+                "id": "4484",
+                "name": "Rosenborg BK (W)",
+                "shortName": "Rosenborg BK (W)"
+              },
+              "2026-04-24T16:00:00.000Z"
+            ],
+            "4485": [
+              "4182",
+              "Brann (W)",
+              "5105346",
+              {
+                "id": "4485",
+                "name": "Røa (W)",
+                "shortName": "Røa (W)"
+              },
+              {
+                "id": "4182",
+                "name": "Brann (W)",
+                "shortName": "Brann (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "4486": [
+              "726186",
+              "Molde (W)",
+              "5105344",
+              {
+                "id": "4486",
+                "name": "LSK Kvinner (W)",
+                "shortName": "LSK Kvinner (W)"
+              },
+              {
+                "id": "726186",
+                "name": "Molde (W)",
+                "shortName": "Molde (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "4500": [
+              "4484",
+              "Rosenborg BK (W)",
+              "5105342",
+              {
+                "id": "4500",
+                "name": "Aalesund (W)",
+                "shortName": "Aalesund (W)"
+              },
+              {
+                "id": "4484",
+                "name": "Rosenborg BK (W)",
+                "shortName": "Rosenborg BK (W)"
+              },
+              "2026-04-24T16:00:00.000Z"
+            ],
+            "4507": [
+              "92171",
+              "Stabæk (W)",
+              "5105347",
+              {
+                "id": "92171",
+                "name": "Stabæk (W)",
+                "shortName": "Stabæk (W)"
+              },
+              {
+                "id": "4507",
+                "name": "Vålerenga (W)",
+                "shortName": "Vålerenga (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "92171": [
+              "4507",
+              "Vålerenga (W)",
+              "5105347",
+              {
+                "id": "92171",
+                "name": "Stabæk (W)",
+                "shortName": "Stabæk (W)"
+              },
+              {
+                "id": "4507",
+                "name": "Vålerenga (W)",
+                "shortName": "Vålerenga (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "169297": [
+              "920414",
+              "Hønefoss (W)",
+              "5105343",
+              {
+                "id": "920414",
+                "name": "Hønefoss (W)",
+                "shortName": "Hønefoss (W)"
+              },
+              {
+                "id": "169297",
+                "name": "FK Haugesund (W)",
+                "shortName": "FK Haugesund (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "429438": [
+              "1599447",
+              "Bodø/Glimt (W)",
+              "5105345",
+              {
+                "id": "429438",
+                "name": "Lyn Fotball (W)",
+                "shortName": "Lyn Fotball (W)"
+              },
+              {
+                "id": "1599447",
+                "name": "Bodø/Glimt (W)",
+                "shortName": "Bodø/Glimt (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "726186": [
+              "4486",
+              "LSK Kvinner (W)",
+              "5105344",
+              {
+                "id": "4486",
+                "name": "LSK Kvinner (W)",
+                "shortName": "LSK Kvinner (W)"
+              },
+              {
+                "id": "726186",
+                "name": "Molde (W)",
+                "shortName": "Molde (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "920414": [
+              "169297",
+              "FK Haugesund (W)",
+              "5105343",
+              {
+                "id": "920414",
+                "name": "Hønefoss (W)",
+                "shortName": "Hønefoss (W)"
+              },
+              {
+                "id": "169297",
+                "name": "FK Haugesund (W)",
+                "shortName": "FK Haugesund (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
+            ],
+            "1599447": [
+              "429438",
+              "Lyn Fotball (W)",
+              "5105345",
+              {
+                "id": "429438",
+                "name": "Lyn Fotball (W)",
+                "shortName": "Lyn Fotball (W)"
+              },
+              {
+                "id": "1599447",
+                "name": "Bodø/Glimt (W)",
+                "shortName": "Bodø/Glimt (W)"
+              },
+              "2026-04-25T12:00:00.000Z"
             ]
           },
           "tableHeader": {
@@ -65982,7 +66675,83 @@
                   ]
                 }
               ],
-              "ongoing": [],
+              "ongoing": [
+                {
+                  "id": 5105336,
+                  "hTeam": "Bodø/Glimt",
+                  "aTeam": "Brann",
+                  "hScore": 0,
+                  "aScore": 0,
+                  "hId": 1599447,
+                  "aId": 4182,
+                  "stage": "3",
+                  "time": "01.04.2026 16:00",
+                  "status": "S",
+                  "sId": 2,
+                  "gs": "01.04.2026 15:59:51",
+                  "extId": "ls_0"
+                },
+                {
+                  "id": 5105337,
+                  "hTeam": "FK Haugesund",
+                  "aTeam": "Aalesund",
+                  "hScore": 0,
+                  "aScore": 0,
+                  "hId": 169297,
+                  "aId": 4500,
+                  "stage": "3",
+                  "time": "01.04.2026 16:00",
+                  "status": "S",
+                  "sId": 2,
+                  "gs": "01.04.2026 15:59:28",
+                  "extId": "ls_0"
+                },
+                {
+                  "id": 5105341,
+                  "hTeam": "Vålerenga",
+                  "aTeam": "Røa",
+                  "hScore": 0,
+                  "aScore": 0,
+                  "hId": 4507,
+                  "aId": 4485,
+                  "stage": "3",
+                  "time": "01.04.2026 16:00",
+                  "status": "S",
+                  "sId": 2,
+                  "gs": "01.04.2026 16:00:48",
+                  "extId": "ls_0"
+                },
+                {
+                  "id": 5105340,
+                  "hTeam": "Rosenborg BK",
+                  "aTeam": "Hønefoss",
+                  "hScore": 0,
+                  "aScore": 0,
+                  "hId": 4484,
+                  "aId": 920414,
+                  "stage": "3",
+                  "time": "01.04.2026 16:00",
+                  "status": "S",
+                  "sId": 2,
+                  "gs": "01.04.2026 16:00:20",
+                  "extId": "ls_0"
+                },
+                {
+                  "id": 5105338,
+                  "hTeam": "LSK Kvinner",
+                  "aTeam": "Stabæk",
+                  "hScore": 0,
+                  "aScore": 0,
+                  "hId": 4486,
+                  "aId": 92171,
+                  "stage": "3",
+                  "time": "01.04.2026 16:00",
+                  "status": "S",
+                  "sId": 2,
+                  "gs": "01.04.2026 15:59:51",
+                  "extId": "ls_0"
+                }
+              ],
               "table": {
                 "all": [
                   {
@@ -65991,14 +66760,28 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105336,
+                      "hTeam": "Bodø/Glimt",
+                      "aTeam": "Brann",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 1599447,
+                      "aId": 4182,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 1,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 0,
                     "scoresStr": "6-1",
                     "goalConDiff": 5,
-                    "pts": 4,
+                    "pts": 5,
                     "idx": 1,
                     "qualColor": "#FFD908"
                   },
@@ -66008,14 +66791,28 @@
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105337,
+                      "hTeam": "FK Haugesund",
+                      "aTeam": "Aalesund",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 169297,
+                      "aId": 4500,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:28",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 1,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 0,
                     "scoresStr": "4-2",
                     "goalConDiff": 2,
-                    "pts": 4,
+                    "pts": 5,
                     "idx": 2,
                     "qualColor": "#FFD908"
                   },
@@ -66025,14 +66822,28 @@
                     "id": 4485,
                     "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105341,
+                      "hTeam": "Vålerenga",
+                      "aTeam": "Røa",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4507,
+                      "aId": 4485,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:48",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 1,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 0,
                     "scoresStr": "4-2",
                     "goalConDiff": 2,
-                    "pts": 4,
+                    "pts": 5,
                     "idx": 3,
                     "qualColor": null
                   },
@@ -66042,14 +66853,28 @@
                     "id": 920414,
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105340,
+                      "hTeam": "Rosenborg BK",
+                      "aTeam": "Hønefoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4484,
+                      "aId": 920414,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 1,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 0,
                     "scoresStr": "3-1",
                     "goalConDiff": 2,
-                    "pts": 4,
+                    "pts": 5,
                     "idx": 4,
                     "qualColor": null
                   },
@@ -66059,14 +66884,13 @@
                     "id": 429438,
                     "pageUrl": "/teams/429438/overview/lyn-fotball",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "played": 3,
                     "wins": 1,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 0,
                     "scoresStr": "2-1",
                     "goalConDiff": 1,
-                    "pts": 4,
+                    "pts": 5,
                     "idx": 5,
                     "qualColor": null
                   },
@@ -66076,14 +66900,28 @@
                     "id": 4507,
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105341,
+                      "hTeam": "Vålerenga",
+                      "aTeam": "Røa",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4507,
+                      "aId": 4485,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:48",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 1,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 1,
                     "scoresStr": "4-4",
                     "goalConDiff": 0,
-                    "pts": 3,
+                    "pts": 4,
                     "idx": 6,
                     "qualColor": null
                   },
@@ -66093,14 +66931,28 @@
                     "id": 4484,
                     "pageUrl": "/teams/4484/overview/rosenborg-bk",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105340,
+                      "hTeam": "Rosenborg BK",
+                      "aTeam": "Hønefoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4484,
+                      "aId": 920414,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 0,
-                    "draws": 2,
+                    "draws": 3,
                     "losses": 0,
                     "scoresStr": "2-2",
                     "goalConDiff": 0,
-                    "pts": 2,
+                    "pts": 3,
                     "idx": 7,
                     "qualColor": null
                   },
@@ -66110,14 +66962,28 @@
                     "id": 1599447,
                     "pageUrl": "/teams/1599447/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105336,
+                      "hTeam": "Bodø/Glimt",
+                      "aTeam": "Brann",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 1599447,
+                      "aId": 4182,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 0,
-                    "draws": 2,
+                    "draws": 3,
                     "losses": 0,
                     "scoresStr": "1-1",
                     "goalConDiff": 0,
-                    "pts": 2,
+                    "pts": 3,
                     "idx": 8,
                     "qualColor": null
                   },
@@ -66127,14 +66993,28 @@
                     "id": 92171,
                     "pageUrl": "/teams/92171/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105338,
+                      "hTeam": "LSK Kvinner",
+                      "aTeam": "Stabæk",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4486,
+                      "aId": 92171,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 0,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 1,
                     "scoresStr": "2-3",
                     "goalConDiff": -1,
-                    "pts": 1,
+                    "pts": 2,
                     "idx": 9,
                     "qualColor": null
                   },
@@ -66144,14 +67024,28 @@
                     "id": 169297,
                     "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105337,
+                      "hTeam": "FK Haugesund",
+                      "aTeam": "Aalesund",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 169297,
+                      "aId": 4500,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:28",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 0,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 1,
                     "scoresStr": "3-5",
                     "goalConDiff": -2,
-                    "pts": 1,
+                    "pts": 2,
                     "idx": 10,
                     "qualColor": "#FFA72F"
                   },
@@ -66161,14 +67055,28 @@
                     "id": 4486,
                     "pageUrl": "/teams/4486/overview/lsk-kvinner",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "ongoing": {
+                      "id": 5105338,
+                      "hTeam": "LSK Kvinner",
+                      "aTeam": "Stabæk",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4486,
+                      "aId": 92171,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 3,
                     "wins": 0,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 1,
                     "scoresStr": "2-4",
                     "goalConDiff": -2,
-                    "pts": 1,
+                    "pts": 2,
                     "idx": 11,
                     "qualColor": "#FF4646"
                   },
@@ -66178,14 +67086,13 @@
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
+                    "played": 3,
                     "wins": 0,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 2,
                     "scoresStr": "1-8",
                     "goalConDiff": -7,
-                    "pts": 0,
+                    "pts": 1,
                     "idx": 12,
                     "qualColor": "#FF4646"
                   }
@@ -66197,7 +67104,21 @@
                     "id": 920414,
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105340,
+                      "hTeam": "Rosenborg BK",
+                      "aTeam": "Hønefoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4484,
+                      "aId": 920414,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:20",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 1,
                     "draws": 0,
@@ -66210,12 +67131,90 @@
                     "qualColor": "#FFD908"
                   },
                   {
+                    "name": "Rosenborg BK",
+                    "shortName": "Rosenborg BK",
+                    "id": 4484,
+                    "pageUrl": "/teams/4484/overview/rosenborg-bk",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105340,
+                      "hTeam": "Rosenborg BK",
+                      "aTeam": "Hønefoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4484,
+                      "aId": 920414,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
+                    "wins": 0,
+                    "draws": 2,
+                    "losses": 0,
+                    "scoresStr": "1-1",
+                    "goalConDiff": 0,
+                    "goalsScored": 1,
+                    "pts": 2,
+                    "idx": 2,
+                    "qualColor": "#FFD908"
+                  },
+                  {
+                    "name": "Bodø/Glimt",
+                    "shortName": "Bodø/Glimt",
+                    "id": 1599447,
+                    "pageUrl": "/teams/1599447/overview/bodoglimt",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105336,
+                      "hTeam": "Bodø/Glimt",
+                      "aTeam": "Brann",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 1599447,
+                      "aId": 4182,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
+                    "wins": 0,
+                    "draws": 2,
+                    "losses": 0,
+                    "scoresStr": "0-0",
+                    "goalConDiff": 0,
+                    "goalsScored": 0,
+                    "pts": 2,
+                    "idx": 3,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Aalesund",
                     "shortName": "Aalesund",
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105337,
+                      "hTeam": "FK Haugesund",
+                      "aTeam": "Aalesund",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 169297,
+                      "aId": 4500,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:28",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 0,
                     "draws": 1,
@@ -66224,8 +67223,8 @@
                     "goalConDiff": 0,
                     "goalsScored": 2,
                     "pts": 1,
-                    "idx": 2,
-                    "qualColor": "#FFD908"
+                    "idx": 4,
+                    "qualColor": null
                   },
                   {
                     "name": "Brann",
@@ -66233,43 +67232,21 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
-                    "wins": 0,
-                    "draws": 1,
-                    "losses": 0,
-                    "scoresStr": "1-1",
-                    "goalConDiff": 0,
-                    "goalsScored": 1,
-                    "pts": 1,
-                    "idx": 3,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Røa",
-                    "shortName": "Røa",
-                    "id": 4485,
-                    "pageUrl": "/teams/4485/overview/roa",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
-                    "wins": 0,
-                    "draws": 1,
-                    "losses": 0,
-                    "scoresStr": "1-1",
-                    "goalConDiff": 0,
-                    "goalsScored": 1,
-                    "pts": 1,
-                    "idx": 4,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Lyn Fotball",
-                    "shortName": "Lyn Fotball",
-                    "id": 429438,
-                    "pageUrl": "/teams/429438/overview/lyn-fotball",
-                    "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105336,
+                      "hTeam": "Bodø/Glimt",
+                      "aTeam": "Brann",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 1599447,
+                      "aId": 4182,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 0,
                     "draws": 1,
@@ -66282,12 +67259,26 @@
                     "qualColor": null
                   },
                   {
-                    "name": "Rosenborg BK",
-                    "shortName": "Rosenborg BK",
-                    "id": 4484,
-                    "pageUrl": "/teams/4484/overview/rosenborg-bk",
+                    "name": "Røa",
+                    "shortName": "Røa",
+                    "id": 4485,
+                    "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105341,
+                      "hTeam": "Vålerenga",
+                      "aTeam": "Røa",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4507,
+                      "aId": 4485,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:48",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 0,
                     "draws": 1,
@@ -66300,39 +67291,20 @@
                     "qualColor": null
                   },
                   {
-                    "name": "Bodø/Glimt",
-                    "shortName": "Bodø/Glimt",
-                    "id": 1599447,
-                    "pageUrl": "/teams/1599447/overview/bodoglimt",
+                    "name": "Lyn Fotball",
+                    "shortName": "Lyn Fotball",
+                    "id": 429438,
+                    "pageUrl": "/teams/429438/overview/lyn-fotball",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 1,
                     "wins": 0,
                     "draws": 1,
                     "losses": 0,
-                    "scoresStr": "0-0",
+                    "scoresStr": "1-1",
                     "goalConDiff": 0,
-                    "goalsScored": 0,
+                    "goalsScored": 1,
                     "pts": 1,
                     "idx": 7,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Stabæk",
-                    "shortName": "Stabæk",
-                    "id": 92171,
-                    "pageUrl": "/teams/92171/overview/stabaek",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
-                    "wins": 0,
-                    "draws": 0,
-                    "losses": 1,
-                    "scoresStr": "0-1",
-                    "goalConDiff": -1,
-                    "goalsScored": 0,
-                    "pts": 0,
-                    "idx": 8,
                     "qualColor": null
                   },
                   {
@@ -66341,16 +67313,30 @@
                     "id": 169297,
                     "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
+                    "ongoing": {
+                      "id": 5105337,
+                      "hTeam": "FK Haugesund",
+                      "aTeam": "Aalesund",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 169297,
+                      "aId": 4500,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:28",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
                     "wins": 0,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 1,
                     "scoresStr": "2-4",
                     "goalConDiff": -2,
                     "goalsScored": 2,
-                    "pts": 0,
-                    "idx": 9,
+                    "pts": 1,
+                    "idx": 8,
                     "qualColor": null
                   },
                   {
@@ -66359,17 +67345,31 @@
                     "id": 4486,
                     "pageUrl": "/teams/4486/overview/lsk-kvinner",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
+                    "ongoing": {
+                      "id": 5105338,
+                      "hTeam": "LSK Kvinner",
+                      "aTeam": "Stabæk",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4486,
+                      "aId": 92171,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
                     "wins": 0,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 1,
                     "scoresStr": "1-3",
                     "goalConDiff": -2,
                     "goalsScored": 1,
-                    "pts": 0,
-                    "idx": 10,
-                    "qualColor": "#FFA72F"
+                    "pts": 1,
+                    "idx": 9,
+                    "qualColor": null
                   },
                   {
                     "name": "Vålerenga",
@@ -66377,17 +67377,31 @@
                     "id": 4507,
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
+                    "ongoing": {
+                      "id": 5105341,
+                      "hTeam": "Vålerenga",
+                      "aTeam": "Røa",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4507,
+                      "aId": 4485,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:48",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
                     "wins": 0,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 1,
                     "scoresStr": "0-2",
                     "goalConDiff": -2,
                     "goalsScored": 0,
-                    "pts": 0,
-                    "idx": 11,
-                    "qualColor": "#FF4646"
+                    "pts": 1,
+                    "idx": 10,
+                    "qualColor": "#FFA72F"
                   },
                   {
                     "name": "Molde",
@@ -66395,13 +67409,44 @@
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
+                    "played": 2,
+                    "wins": 0,
+                    "draws": 1,
+                    "losses": 1,
+                    "scoresStr": "0-5",
+                    "goalConDiff": -5,
+                    "goalsScored": 0,
+                    "pts": 1,
+                    "idx": 11,
+                    "qualColor": "#FF4646"
+                  },
+                  {
+                    "name": "Stabæk",
+                    "shortName": "Stabæk",
+                    "id": 92171,
+                    "pageUrl": "/teams/92171/overview/stabaek",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105338,
+                      "hTeam": "LSK Kvinner",
+                      "aTeam": "Stabæk",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4486,
+                      "aId": 92171,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 0,
                     "draws": 0,
                     "losses": 1,
-                    "scoresStr": "0-5",
-                    "goalConDiff": -5,
+                    "scoresStr": "0-1",
+                    "goalConDiff": -1,
                     "goalsScored": 0,
                     "pts": 0,
                     "idx": 12,
@@ -66415,34 +67460,30 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
+                    "ongoing": {
+                      "id": 5105336,
+                      "hTeam": "Bodø/Glimt",
+                      "aTeam": "Brann",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 1599447,
+                      "aId": 4182,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
                     "wins": 1,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "5-0",
                     "goalConDiff": 5,
                     "goalsScored": 5,
-                    "pts": 3,
+                    "pts": 4,
                     "idx": 1,
-                    "qualColor": "#FFD908"
-                  },
-                  {
-                    "name": "Vålerenga",
-                    "shortName": "Vålerenga",
-                    "id": 4507,
-                    "pageUrl": "/teams/4507/overview/valerenga",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
-                    "wins": 1,
-                    "draws": 0,
-                    "losses": 0,
-                    "scoresStr": "4-2",
-                    "goalConDiff": 2,
-                    "goalsScored": 4,
-                    "pts": 3,
-                    "idx": 2,
                     "qualColor": "#FFD908"
                   },
                   {
@@ -66451,17 +67492,31 @@
                     "id": 4485,
                     "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
+                    "ongoing": {
+                      "id": 5105341,
+                      "hTeam": "Vålerenga",
+                      "aTeam": "Røa",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4507,
+                      "aId": 4485,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:48",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
                     "wins": 1,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "3-1",
                     "goalConDiff": 2,
                     "goalsScored": 3,
-                    "pts": 3,
-                    "idx": 3,
-                    "qualColor": null
+                    "pts": 4,
+                    "idx": 2,
+                    "qualColor": "#FFD908"
                   },
                   {
                     "name": "Aalesund",
@@ -66469,16 +67524,30 @@
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
+                    "ongoing": {
+                      "id": 5105337,
+                      "hTeam": "FK Haugesund",
+                      "aTeam": "Aalesund",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 169297,
+                      "aId": 4500,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:28",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
                     "wins": 1,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "2-0",
                     "goalConDiff": 2,
                     "goalsScored": 2,
-                    "pts": 3,
-                    "idx": 4,
+                    "pts": 4,
+                    "idx": 3,
                     "qualColor": null
                   },
                   {
@@ -66487,14 +67556,45 @@
                     "id": 429438,
                     "pageUrl": "/teams/429438/overview/lyn-fotball",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
+                    "played": 2,
                     "wins": 1,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "1-0",
                     "goalConDiff": 1,
                     "goalsScored": 1,
+                    "pts": 4,
+                    "idx": 4,
+                    "qualColor": null
+                  },
+                  {
+                    "name": "Vålerenga",
+                    "shortName": "Vålerenga",
+                    "id": 4507,
+                    "pageUrl": "/teams/4507/overview/valerenga",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105341,
+                      "hTeam": "Vålerenga",
+                      "aTeam": "Røa",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4507,
+                      "aId": 4485,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:48",
+                      "extId": "ls_0"
+                    },
+                    "played": 1,
+                    "wins": 1,
+                    "draws": 0,
+                    "losses": 0,
+                    "scoresStr": "4-2",
+                    "goalConDiff": 2,
+                    "goalsScored": 4,
                     "pts": 3,
                     "idx": 5,
                     "qualColor": null
@@ -66505,16 +67605,62 @@
                     "id": 92171,
                     "pageUrl": "/teams/92171/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
+                    "ongoing": {
+                      "id": 5105338,
+                      "hTeam": "LSK Kvinner",
+                      "aTeam": "Stabæk",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4486,
+                      "aId": 92171,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
                     "wins": 0,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 0,
                     "scoresStr": "2-2",
                     "goalConDiff": 0,
                     "goalsScored": 2,
-                    "pts": 1,
+                    "pts": 2,
                     "idx": 6,
+                    "qualColor": null
+                  },
+                  {
+                    "name": "Hønefoss",
+                    "shortName": "Hønefoss",
+                    "id": 920414,
+                    "pageUrl": "/teams/920414/overview/honefoss",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105340,
+                      "hTeam": "Rosenborg BK",
+                      "aTeam": "Hønefoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4484,
+                      "aId": 920414,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 2,
+                    "wins": 0,
+                    "draws": 2,
+                    "losses": 0,
+                    "scoresStr": "0-0",
+                    "goalConDiff": 0,
+                    "goalsScored": 0,
+                    "pts": 2,
+                    "idx": 7,
                     "qualColor": null
                   },
                   {
@@ -66523,25 +67669,21 @@
                     "id": 4484,
                     "pageUrl": "/teams/4484/overview/rosenborg-bk",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 1,
-                    "wins": 0,
-                    "draws": 1,
-                    "losses": 0,
-                    "scoresStr": "1-1",
-                    "goalConDiff": 0,
-                    "goalsScored": 1,
-                    "pts": 1,
-                    "idx": 7,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Bodø/Glimt",
-                    "shortName": "Bodø/Glimt",
-                    "id": 1599447,
-                    "pageUrl": "/teams/1599447/overview/bodoglimt",
-                    "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105340,
+                      "hTeam": "Rosenborg BK",
+                      "aTeam": "Hønefoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4484,
+                      "aId": 920414,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:20",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 0,
                     "draws": 1,
@@ -66554,12 +67696,26 @@
                     "qualColor": null
                   },
                   {
-                    "name": "FK Haugesund",
-                    "shortName": "FK Haugesund",
-                    "id": 169297,
-                    "pageUrl": "/teams/169297/overview/fk-haugesund",
+                    "name": "Bodø/Glimt",
+                    "shortName": "Bodø/Glimt",
+                    "id": 1599447,
+                    "pageUrl": "/teams/1599447/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105336,
+                      "hTeam": "Bodø/Glimt",
+                      "aTeam": "Brann",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 1599447,
+                      "aId": 4182,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 0,
                     "draws": 1,
@@ -66572,12 +67728,26 @@
                     "qualColor": null
                   },
                   {
-                    "name": "LSK Kvinner",
-                    "shortName": "LSK Kvinner",
-                    "id": 4486,
-                    "pageUrl": "/teams/4486/overview/lsk-kvinner",
+                    "name": "FK Haugesund",
+                    "shortName": "FK Haugesund",
+                    "id": 169297,
+                    "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105337,
+                      "hTeam": "FK Haugesund",
+                      "aTeam": "Aalesund",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 169297,
+                      "aId": 4500,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:28",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 0,
                     "draws": 1,
@@ -66590,19 +67760,33 @@
                     "qualColor": "#FFA72F"
                   },
                   {
-                    "name": "Hønefoss",
-                    "shortName": "Hønefoss",
-                    "id": 920414,
-                    "pageUrl": "/teams/920414/overview/honefoss",
+                    "name": "LSK Kvinner",
+                    "shortName": "LSK Kvinner",
+                    "id": 4486,
+                    "pageUrl": "/teams/4486/overview/lsk-kvinner",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105338,
+                      "hTeam": "LSK Kvinner",
+                      "aTeam": "Stabæk",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4486,
+                      "aId": 92171,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
                     "played": 1,
                     "wins": 0,
                     "draws": 1,
                     "losses": 0,
-                    "scoresStr": "0-0",
+                    "scoresStr": "1-1",
                     "goalConDiff": 0,
-                    "goalsScored": 0,
+                    "goalsScored": 1,
                     "pts": 1,
                     "idx": 11,
                     "qualColor": "#FF4646"
@@ -66613,7 +67797,6 @@
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 1,
                     "wins": 0,
                     "draws": 0,
@@ -66628,6 +67811,23 @@
                 ],
                 "form": [
                   {
+                    "name": "Lyn Fotball (W)",
+                    "shortName": "Lyn Fotball (W)",
+                    "featuredInMatch": false,
+                    "id": 429438,
+                    "pageUrl": "/teams/429438/overview/lyn-fotball",
+                    "played": 3,
+                    "wins": 1,
+                    "draws": 2,
+                    "losses": 0,
+                    "scoresStr": "2-1",
+                    "goalConDiff": 1,
+                    "goalsScored": 2,
+                    "pts": 5,
+                    "idx": 1,
+                    "qualColor": "#FFD908"
+                  },
+                  {
                     "name": "Brann (W)",
                     "shortName": "Brann (W)",
                     "featuredInMatch": false,
@@ -66641,8 +67841,22 @@
                     "goalConDiff": 5,
                     "goalsScored": 6,
                     "pts": 4,
-                    "ongoing": null,
-                    "idx": 1,
+                    "ongoing": {
+                      "id": 5105336,
+                      "hTeam": "Bodø/Glimt",
+                      "aTeam": "Brann",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 1599447,
+                      "aId": 4182,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
+                    "idx": 2,
                     "qualColor": "#FFD908"
                   },
                   {
@@ -66659,9 +67873,23 @@
                     "goalConDiff": 2,
                     "goalsScored": 4,
                     "pts": 4,
-                    "ongoing": null,
-                    "idx": 2,
-                    "qualColor": "#FFD908"
+                    "ongoing": {
+                      "id": 5105341,
+                      "hTeam": "Vålerenga",
+                      "aTeam": "Røa",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4507,
+                      "aId": 4485,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:48",
+                      "extId": "ls_0"
+                    },
+                    "idx": 3,
+                    "qualColor": null
                   },
                   {
                     "name": "Aalesund (W)",
@@ -66677,8 +67905,22 @@
                     "goalConDiff": 2,
                     "goalsScored": 4,
                     "pts": 4,
-                    "ongoing": null,
-                    "idx": 3,
+                    "ongoing": {
+                      "id": 5105337,
+                      "hTeam": "FK Haugesund",
+                      "aTeam": "Aalesund",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 169297,
+                      "aId": 4500,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:28",
+                      "extId": "ls_0"
+                    },
+                    "idx": 4,
                     "qualColor": null
                   },
                   {
@@ -66695,25 +67937,21 @@
                     "goalConDiff": 2,
                     "goalsScored": 3,
                     "pts": 4,
-                    "ongoing": null,
-                    "idx": 4,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Lyn Fotball (W)",
-                    "shortName": "Lyn Fotball (W)",
-                    "featuredInMatch": false,
-                    "id": 429438,
-                    "pageUrl": "/teams/429438/overview/lyn-fotball",
-                    "played": 2,
-                    "wins": 1,
-                    "draws": 1,
-                    "losses": 0,
-                    "scoresStr": "2-1",
-                    "goalConDiff": 1,
-                    "goalsScored": 2,
-                    "pts": 4,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105340,
+                      "hTeam": "Rosenborg BK",
+                      "aTeam": "Hønefoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4484,
+                      "aId": 920414,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:20",
+                      "extId": "ls_0"
+                    },
                     "idx": 5,
                     "qualColor": null
                   },
@@ -66731,7 +67969,21 @@
                     "goalConDiff": 0,
                     "goalsScored": 4,
                     "pts": 3,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105341,
+                      "hTeam": "Vålerenga",
+                      "aTeam": "Røa",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4507,
+                      "aId": 4485,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:48",
+                      "extId": "ls_0"
+                    },
                     "idx": 6,
                     "qualColor": null
                   },
@@ -66749,7 +68001,21 @@
                     "goalConDiff": 0,
                     "goalsScored": 2,
                     "pts": 2,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105340,
+                      "hTeam": "Rosenborg BK",
+                      "aTeam": "Hønefoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4484,
+                      "aId": 920414,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 16:00:20",
+                      "extId": "ls_0"
+                    },
                     "idx": 7,
                     "qualColor": null
                   },
@@ -66767,7 +68033,21 @@
                     "goalConDiff": 0,
                     "goalsScored": 1,
                     "pts": 2,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105336,
+                      "hTeam": "Bodø/Glimt",
+                      "aTeam": "Brann",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 1599447,
+                      "aId": 4182,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
                     "idx": 8,
                     "qualColor": null
                   },
@@ -66785,7 +68065,21 @@
                     "goalConDiff": -1,
                     "goalsScored": 2,
                     "pts": 1,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105338,
+                      "hTeam": "LSK Kvinner",
+                      "aTeam": "Stabæk",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4486,
+                      "aId": 92171,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
                     "idx": 9,
                     "qualColor": null
                   },
@@ -66803,7 +68097,21 @@
                     "goalConDiff": -2,
                     "goalsScored": 3,
                     "pts": 1,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105337,
+                      "hTeam": "FK Haugesund",
+                      "aTeam": "Aalesund",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 169297,
+                      "aId": 4500,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:28",
+                      "extId": "ls_0"
+                    },
                     "idx": 10,
                     "qualColor": "#FFA72F"
                   },
@@ -66821,7 +68129,21 @@
                     "goalConDiff": -2,
                     "goalsScored": 2,
                     "pts": 1,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105338,
+                      "hTeam": "LSK Kvinner",
+                      "aTeam": "Stabæk",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 4486,
+                      "aId": 92171,
+                      "stage": "3",
+                      "time": "01.04.2026 16:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "01.04.2026 15:59:51",
+                      "extId": "ls_0"
+                    },
                     "idx": 11,
                     "qualColor": "#FF4646"
                   },
@@ -66831,15 +68153,14 @@
                     "featuredInMatch": false,
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
-                    "played": 2,
+                    "played": 3,
                     "wins": 0,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 2,
                     "scoresStr": "1-8",
                     "goalConDiff": -7,
                     "goalsScored": 1,
-                    "pts": 0,
-                    "ongoing": null,
+                    "pts": 1,
                     "idx": 12,
                     "qualColor": "#FF4646"
                   }
@@ -67434,6 +68755,37 @@
                     "shortName": "LSK Kvinner (W)",
                     "isOurTeam": false
                   }
+                },
+                {
+                  "result": 0,
+                  "resultString": "D",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/726186_xsmall.png",
+                  "linkToMatch": "/matches/lyn-fotball-vs-molde/8ir40ee6#5105339",
+                  "date": null,
+                  "teamPageUrl": "/teams/726186/overview/molde",
+                  "tooltipText": {
+                    "utcTime": "2026-04-01T10:00:00.000Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Molde (W)",
+                    "homeTeamId": 726186,
+                    "homeScore": 0,
+                    "awayTeam": "Lyn Fotball (W)",
+                    "awayTeamId": 429438,
+                    "awayScore": 0
+                  },
+                  "score": "0 - 0",
+                  "home": {
+                    "id": "726186",
+                    "name": "Molde (W)",
+                    "shortName": "Molde (W)",
+                    "isOurTeam": false
+                  },
+                  "away": {
+                    "id": "429438",
+                    "name": "Lyn Fotball (W)",
+                    "shortName": "Lyn Fotball (W)",
+                    "isOurTeam": true
+                  }
                 }
               ],
               "726186": [
@@ -67497,6 +68849,37 @@
                     "name": "Molde (W)",
                     "shortName": "Molde (W)",
                     "isOurTeam": true
+                  }
+                },
+                {
+                  "result": 0,
+                  "resultString": "D",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429438_xsmall.png",
+                  "linkToMatch": "/matches/lyn-fotball-vs-molde/8ir40ee6#5105339",
+                  "date": null,
+                  "teamPageUrl": "/teams/429438/overview/lyn-fotball",
+                  "tooltipText": {
+                    "utcTime": "2026-04-01T10:00:00.000Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Molde (W)",
+                    "homeTeamId": 726186,
+                    "homeScore": 0,
+                    "awayTeam": "Lyn Fotball (W)",
+                    "awayTeamId": 429438,
+                    "awayScore": 0
+                  },
+                  "score": "0 - 0",
+                  "home": {
+                    "id": "726186",
+                    "name": "Molde (W)",
+                    "shortName": "Molde (W)",
+                    "isOurTeam": true
+                  },
+                  "away": {
+                    "id": "429438",
+                    "name": "Lyn Fotball (W)",
+                    "shortName": "Lyn Fotball (W)",
+                    "isOurTeam": false
                   }
                 }
               ],
@@ -67631,196 +69014,196 @@
             },
             "nextOpponent": {
               "4182": [
-                "1599447",
-                "Bodø/Glimt (W)",
-                "5105336",
-                {
-                  "id": "1599447",
-                  "name": "Bodø/Glimt (W)",
-                  "shortName": "Bodø/Glimt (W)"
-                },
-                {
-                  "id": "4182",
-                  "name": "Brann (W)",
-                  "shortName": "Brann (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "4484": [
-                "920414",
-                "Hønefoss (W)",
-                "5105340",
-                {
-                  "id": "4484",
-                  "name": "Rosenborg BK (W)",
-                  "shortName": "Rosenborg BK (W)"
-                },
-                {
-                  "id": "920414",
-                  "name": "Hønefoss (W)",
-                  "shortName": "Hønefoss (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "4485": [
-                "4507",
-                "Vålerenga (W)",
-                "5105341",
-                {
-                  "id": "4507",
-                  "name": "Vålerenga (W)",
-                  "shortName": "Vålerenga (W)"
-                },
-                {
-                  "id": "4485",
-                  "name": "Røa (W)",
-                  "shortName": "Røa (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "4486": [
-                "92171",
-                "Stabæk (W)",
-                "5105338",
-                {
-                  "id": "4486",
-                  "name": "LSK Kvinner (W)",
-                  "shortName": "LSK Kvinner (W)"
-                },
-                {
-                  "id": "92171",
-                  "name": "Stabæk (W)",
-                  "shortName": "Stabæk (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "4500": [
-                "169297",
-                "FK Haugesund (W)",
-                "5105337",
-                {
-                  "id": "169297",
-                  "name": "FK Haugesund (W)",
-                  "shortName": "FK Haugesund (W)"
-                },
-                {
-                  "id": "4500",
-                  "name": "Aalesund (W)",
-                  "shortName": "Aalesund (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "4507": [
                 "4485",
                 "Røa (W)",
-                "5105341",
-                {
-                  "id": "4507",
-                  "name": "Vålerenga (W)",
-                  "shortName": "Vålerenga (W)"
-                },
+                "5105346",
                 {
                   "id": "4485",
                   "name": "Røa (W)",
                   "shortName": "Røa (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "92171": [
-                "4486",
-                "LSK Kvinner (W)",
-                "5105338",
-                {
-                  "id": "4486",
-                  "name": "LSK Kvinner (W)",
-                  "shortName": "LSK Kvinner (W)"
-                },
-                {
-                  "id": "92171",
-                  "name": "Stabæk (W)",
-                  "shortName": "Stabæk (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "169297": [
-                "4500",
-                "Aalesund (W)",
-                "5105337",
-                {
-                  "id": "169297",
-                  "name": "FK Haugesund (W)",
-                  "shortName": "FK Haugesund (W)"
-                },
-                {
-                  "id": "4500",
-                  "name": "Aalesund (W)",
-                  "shortName": "Aalesund (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "429438": [
-                "726186",
-                "Molde (W)",
-                "5105339",
-                {
-                  "id": "726186",
-                  "name": "Molde (W)",
-                  "shortName": "Molde (W)"
-                },
-                {
-                  "id": "429438",
-                  "name": "Lyn Fotball (W)",
-                  "shortName": "Lyn Fotball (W)"
-                },
-                "2026-04-01T12:00:00.000Z"
-              ],
-              "726186": [
-                "429438",
-                "Lyn Fotball (W)",
-                "5105339",
-                {
-                  "id": "726186",
-                  "name": "Molde (W)",
-                  "shortName": "Molde (W)"
-                },
-                {
-                  "id": "429438",
-                  "name": "Lyn Fotball (W)",
-                  "shortName": "Lyn Fotball (W)"
-                },
-                "2026-04-01T12:00:00.000Z"
-              ],
-              "920414": [
-                "4484",
-                "Rosenborg BK (W)",
-                "5105340",
-                {
-                  "id": "4484",
-                  "name": "Rosenborg BK (W)",
-                  "shortName": "Rosenborg BK (W)"
-                },
-                {
-                  "id": "920414",
-                  "name": "Hønefoss (W)",
-                  "shortName": "Hønefoss (W)"
-                },
-                "2026-04-01T14:00:00.000Z"
-              ],
-              "1599447": [
-                "4182",
-                "Brann (W)",
-                "5105336",
-                {
-                  "id": "1599447",
-                  "name": "Bodø/Glimt (W)",
-                  "shortName": "Bodø/Glimt (W)"
                 },
                 {
                   "id": "4182",
                   "name": "Brann (W)",
                   "shortName": "Brann (W)"
                 },
-                "2026-04-01T14:00:00.000Z"
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "4484": [
+                "4500",
+                "Aalesund (W)",
+                "5105342",
+                {
+                  "id": "4500",
+                  "name": "Aalesund (W)",
+                  "shortName": "Aalesund (W)"
+                },
+                {
+                  "id": "4484",
+                  "name": "Rosenborg BK (W)",
+                  "shortName": "Rosenborg BK (W)"
+                },
+                "2026-04-24T16:00:00.000Z"
+              ],
+              "4485": [
+                "4182",
+                "Brann (W)",
+                "5105346",
+                {
+                  "id": "4485",
+                  "name": "Røa (W)",
+                  "shortName": "Røa (W)"
+                },
+                {
+                  "id": "4182",
+                  "name": "Brann (W)",
+                  "shortName": "Brann (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "4486": [
+                "726186",
+                "Molde (W)",
+                "5105344",
+                {
+                  "id": "4486",
+                  "name": "LSK Kvinner (W)",
+                  "shortName": "LSK Kvinner (W)"
+                },
+                {
+                  "id": "726186",
+                  "name": "Molde (W)",
+                  "shortName": "Molde (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "4500": [
+                "4484",
+                "Rosenborg BK (W)",
+                "5105342",
+                {
+                  "id": "4500",
+                  "name": "Aalesund (W)",
+                  "shortName": "Aalesund (W)"
+                },
+                {
+                  "id": "4484",
+                  "name": "Rosenborg BK (W)",
+                  "shortName": "Rosenborg BK (W)"
+                },
+                "2026-04-24T16:00:00.000Z"
+              ],
+              "4507": [
+                "92171",
+                "Stabæk (W)",
+                "5105347",
+                {
+                  "id": "92171",
+                  "name": "Stabæk (W)",
+                  "shortName": "Stabæk (W)"
+                },
+                {
+                  "id": "4507",
+                  "name": "Vålerenga (W)",
+                  "shortName": "Vålerenga (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "92171": [
+                "4507",
+                "Vålerenga (W)",
+                "5105347",
+                {
+                  "id": "92171",
+                  "name": "Stabæk (W)",
+                  "shortName": "Stabæk (W)"
+                },
+                {
+                  "id": "4507",
+                  "name": "Vålerenga (W)",
+                  "shortName": "Vålerenga (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "169297": [
+                "920414",
+                "Hønefoss (W)",
+                "5105343",
+                {
+                  "id": "920414",
+                  "name": "Hønefoss (W)",
+                  "shortName": "Hønefoss (W)"
+                },
+                {
+                  "id": "169297",
+                  "name": "FK Haugesund (W)",
+                  "shortName": "FK Haugesund (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "429438": [
+                "1599447",
+                "Bodø/Glimt (W)",
+                "5105345",
+                {
+                  "id": "429438",
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)"
+                },
+                {
+                  "id": "1599447",
+                  "name": "Bodø/Glimt (W)",
+                  "shortName": "Bodø/Glimt (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "726186": [
+                "4486",
+                "LSK Kvinner (W)",
+                "5105344",
+                {
+                  "id": "4486",
+                  "name": "LSK Kvinner (W)",
+                  "shortName": "LSK Kvinner (W)"
+                },
+                {
+                  "id": "726186",
+                  "name": "Molde (W)",
+                  "shortName": "Molde (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "920414": [
+                "169297",
+                "FK Haugesund (W)",
+                "5105343",
+                {
+                  "id": "920414",
+                  "name": "Hønefoss (W)",
+                  "shortName": "Hønefoss (W)"
+                },
+                {
+                  "id": "169297",
+                  "name": "FK Haugesund (W)",
+                  "shortName": "FK Haugesund (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
+              ],
+              "1599447": [
+                "429438",
+                "Lyn Fotball (W)",
+                "5105345",
+                {
+                  "id": "429438",
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)"
+                },
+                {
+                  "id": "1599447",
+                  "name": "Bodø/Glimt (W)",
+                  "shortName": "Bodø/Glimt (W)"
+                },
+                "2026-04-25T12:00:00.000Z"
               ]
             },
             "tableHeader": {
@@ -68405,19 +69788,28 @@
               "score": 0
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-04-01T12:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 14:00:00"
+                "firstHalfStarted": "01.04.2026 14:01:13",
+                "secondHalfStarted": "01.04.2026 15:08:16"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 0",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -68446,12 +69838,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 15:59:51"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "8‎’‎",
+                "shortKey": "",
+                "long": "7:16",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -68480,12 +69883,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 15:59:28"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "8‎’‎",
+                "shortKey": "",
+                "long": "7:39",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -68514,12 +69928,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 15:59:51"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "8‎’‎",
+                "shortKey": "",
+                "long": "7:16",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -68548,12 +69973,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 16:00:20"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "7‎’‎",
+                "shortKey": "",
+                "long": "6:47",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -68582,12 +70018,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 16:00:48"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "7‎’‎",
+                "shortKey": "",
+                "long": "6:19",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -72129,8 +73576,8 @@
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 12,
-            "firstUnplayedMatchId": "5105339"
+            "firstUnplayedMatchIndex": 13,
+            "firstUnplayedMatchId": "5105336"
           },
           "allMatches": [
             {
@@ -72523,12 +73970,21 @@
               "status": {
                 "utcTime": "2026-04-01T12:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.04.2026 14:00:00"
+                  "firstHalfStarted": "01.04.2026 14:01:13",
+                  "secondHalfStarted": "01.04.2026 15:08:16"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "0 - 0",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -72549,12 +74005,23 @@
               "status": {
                 "utcTime": "2026-04-01T14:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.04.2026 16:00:00"
+                  "firstHalfStarted": "01.04.2026 15:59:51"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "8‎’‎",
+                  "shortKey": "",
+                  "long": "7:16",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -72575,12 +74042,23 @@
               "status": {
                 "utcTime": "2026-04-01T14:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.04.2026 16:00:00"
+                  "firstHalfStarted": "01.04.2026 15:59:28"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "8‎’‎",
+                  "shortKey": "",
+                  "long": "7:39",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -72601,12 +74079,23 @@
               "status": {
                 "utcTime": "2026-04-01T14:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.04.2026 16:00:00"
+                  "firstHalfStarted": "01.04.2026 15:59:51"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "8‎’‎",
+                  "shortKey": "",
+                  "long": "7:16",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -72627,12 +74116,23 @@
               "status": {
                 "utcTime": "2026-04-01T14:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.04.2026 16:00:00"
+                  "firstHalfStarted": "01.04.2026 16:00:20"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "7‎’‎",
+                  "shortKey": "",
+                  "long": "6:47",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -72653,12 +74153,23 @@
               "status": {
                 "utcTime": "2026-04-01T14:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.04.2026 16:00:00"
+                  "firstHalfStarted": "01.04.2026 16:00:48"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "7‎’‎",
+                  "shortKey": "",
+                  "long": "6:19",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -75614,10 +77125,10 @@
               "rank": 1,
               "teamId": 4182,
               "teamName": "Brann",
-              "value": 3,
+              "value": 2,
               "stat": {
                 "name": "goals_team_match",
-                "value": 3,
+                "value": 2,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -75630,10 +77141,10 @@
                 "rank": 1,
                 "teamId": 4182,
                 "teamName": "Brann",
-                "value": 3,
+                "value": 2,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 3,
+                  "value": 2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -75650,10 +77161,10 @@
                 "rank": 2,
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "value": 2,
+                "value": 1.3,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 2,
+                  "value": 1.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -75670,10 +77181,10 @@
                 "rank": 2,
                 "teamId": 4485,
                 "teamName": "Røa",
-                "value": 2,
+                "value": 1.3,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 2,
+                  "value": 1.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -75698,10 +77209,10 @@
               "rank": 1,
               "teamId": 429438,
               "teamName": "Lyn Fotball",
-              "value": 0.5,
+              "value": 0.3,
               "stat": {
                 "name": "goals_conceded_team_match",
-                "value": 0.5,
+                "value": 0.3,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -75714,10 +77225,10 @@
                 "rank": 1,
                 "teamId": 429438,
                 "teamName": "Lyn Fotball",
-                "value": 0.5,
+                "value": 0.3,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 0.5,
+                  "value": 0.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -75734,10 +77245,10 @@
                 "rank": 1,
                 "teamId": 920414,
                 "teamName": "Hønefoss",
-                "value": 0.5,
+                "value": 0.3,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 0.5,
+                  "value": 0.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -75754,10 +77265,10 @@
                 "rank": 1,
                 "teamId": 4182,
                 "teamName": "Brann",
-                "value": 0.5,
+                "value": 0.3,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 0.5,
+                  "value": 0.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -75782,10 +77293,10 @@
               "rank": 1,
               "teamId": 4500,
               "teamName": "Aalesund",
-              "value": 1,
+              "value": 2,
               "stat": {
                 "name": "clean_sheet_team",
-                "value": 1,
+                "value": 2,
                 "format": "number",
                 "fractions": 0
               }
@@ -75798,10 +77309,10 @@
                 "rank": 1,
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "value": 1,
+                "value": 2,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 1,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
@@ -75818,10 +77329,10 @@
                 "rank": 1,
                 "teamId": 1599447,
                 "teamName": "Bodø/Glimt",
-                "value": 1,
+                "value": 2,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 1,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
@@ -75838,10 +77349,10 @@
                 "rank": 1,
                 "teamId": 4182,
                 "teamName": "Brann",
-                "value": 1,
+                "value": 2,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 1,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
@@ -75862,14 +77373,14 @@
             "header": "Yellow cards",
             "participant": {
               "id": 0,
-              "name": "Vaalerenga",
+              "name": "Molde",
               "rank": 1,
-              "teamId": 4507,
-              "teamName": "Vaalerenga",
-              "value": 4,
+              "teamId": 726186,
+              "teamName": "Molde",
+              "value": 6,
               "stat": {
                 "name": "total_yel_card_team",
-                "value": 4,
+                "value": 6,
                 "format": "number",
                 "fractions": 0
               }
@@ -75878,8 +77389,28 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Vaalerenga",
+                "name": "Molde",
                 "rank": 1,
+                "teamId": 726186,
+                "teamName": "Molde",
+                "value": 6,
+                "stat": {
+                  "name": "total_yel_card_team",
+                  "value": 6,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0068b0",
+                  "lightMode": "#0D47A0",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Vaalerenga",
+                "rank": 2,
                 "teamId": 4507,
                 "teamName": "Vaalerenga",
                 "value": 4,
@@ -75899,7 +77430,7 @@
               {
                 "id": 0,
                 "name": "Aalesund",
-                "rank": 2,
+                "rank": 3,
                 "teamId": 4500,
                 "teamName": "Aalesund",
                 "value": 3,
@@ -75913,26 +77444,6 @@
                   "darkMode": "#eb7805",
                   "lightMode": "#eb7805",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Bodoe/Glimt",
-                "rank": 2,
-                "teamId": 1599447,
-                "teamName": "Bodoe/Glimt",
-                "value": 3,
-                "stat": {
-                  "name": "total_yel_card_team",
-                  "value": 3,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#f8dc03",
-                  "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -76120,8 +77631,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 12,
-          "firstUnplayedMatchId": "5105339"
+          "firstUnplayedMatchIndex": 13,
+          "firstUnplayedMatchId": "5105336"
         },
         "allMatches": [
           {
@@ -76514,12 +78025,21 @@
             "status": {
               "utcTime": "2026-04-01T12:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 14:00:00"
+                "firstHalfStarted": "01.04.2026 14:01:13",
+                "secondHalfStarted": "01.04.2026 15:08:16"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 0",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -76540,12 +78060,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 15:59:51"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "8‎’‎",
+                "shortKey": "",
+                "long": "7:16",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -76566,12 +78097,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 15:59:28"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "8‎’‎",
+                "shortKey": "",
+                "long": "7:39",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -76592,12 +78134,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 15:59:51"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "8‎’‎",
+                "shortKey": "",
+                "long": "7:16",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -76618,12 +78171,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 16:00:20"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "7‎’‎",
+                "shortKey": "",
+                "long": "6:47",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -76644,12 +78208,23 @@
             "status": {
               "utcTime": "2026-04-01T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.04.2026 16:00:00"
+                "firstHalfStarted": "01.04.2026 16:00:48"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "7‎’‎",
+                "shortKey": "",
+                "long": "6:19",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
