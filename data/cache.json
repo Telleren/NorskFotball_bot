@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T19:32:56.555344+00:00",
+  "generated_at": "2026-04-01T03:49:10.021507+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2806,6 +2806,62 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Jørgen Bøe",
+            "playerId": 1281276,
+            "position": null,
+            "transferDate": "2026-03-31T22:46:06Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Aalesund",
+            "fromClubId": 8404,
+            "toClub": "Træff",
+            "toClubId": 6115,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-07-15T00:00:00Z",
+            "marketValue": 97948
+          },
+          {
+            "name": "Erik Frøysa",
+            "playerId": 1053645,
+            "position": null,
+            "transferDate": "2026-03-31T22:44:54Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Aalesund",
+            "fromClubId": 8404,
+            "toClub": "Raufoss",
+            "toClubId": 9812,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-07-15T00:00:00Z",
+            "marketValue": 109840
+          },
           {
             "name": "Mathias Klausen",
             "playerId": 1463471,
@@ -5728,63 +5784,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": null,
             "marketValue": 134364
-          },
-          {
-            "name": "Fredrik Holmé",
-            "playerId": 1136641,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-01-30T15:39:18Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Kongsvinger",
-            "fromClubId": 8179,
-            "toClub": "Fredrikstad",
-            "toClubId": 8417,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 430000
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 167378
-          },
-          {
-            "name": "Viktor Bender",
-            "playerId": 1898680,
-            "position": null,
-            "transferDate": "2026-01-30T15:37:39Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "OB",
-            "fromClubId": 8414,
-            "toClub": "Molde",
-            "toClubId": 9917,
-            "fee": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2027-12-31T00:00:00Z",
-            "marketValue": 30000
           }
         ]
       },
@@ -38167,6 +38166,34 @@
         "type": "league",
         "data": [
           {
+            "name": "Erik Frøysa",
+            "playerId": 1053645,
+            "position": null,
+            "transferDate": "2026-03-31T22:44:54Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Aalesund",
+            "fromClubId": 8404,
+            "toClub": "Raufoss",
+            "toClubId": 9812,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-03-31T00:00:00Z",
+            "toDate": "2026-07-15T00:00:00Z",
+            "marketValue": 109840
+          },
+          {
             "name": "Jacob Hanstad",
             "playerId": 1276538,
             "position": {
@@ -41137,34 +41164,6 @@
             "fromDate": "2025-07-15T00:00:00Z",
             "toDate": "2025-11-30T00:00:00Z",
             "marketValue": 850000
-          },
-          {
-            "name": "James Ampofo",
-            "playerId": 1459262,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2025-07-11T10:50:01Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Raufoss",
-            "fromClubId": 9812,
-            "toClub": "Strømsgodset",
-            "toClubId": 8180,
-            "fee": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-07-11T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 300000
           }
         ]
       },
@@ -68411,8 +68410,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-01T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 14:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -68442,8 +68444,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -68473,8 +68478,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -68504,8 +68512,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -68535,8 +68546,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -68566,8 +68580,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -72108,7 +72125,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -72504,8 +72521,11 @@
                 "id": "429438"
               },
               "status": {
-                "utcTime": "2026-04-01T12:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-01T12:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "01.04.2026 14:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -72527,8 +72547,11 @@
                 "id": "4182"
               },
               "status": {
-                "utcTime": "2026-04-01T14:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-01T14:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "01.04.2026 16:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -72550,8 +72573,11 @@
                 "id": "4500"
               },
               "status": {
-                "utcTime": "2026-04-01T14:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-01T14:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "01.04.2026 16:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -72573,8 +72599,11 @@
                 "id": "92171"
               },
               "status": {
-                "utcTime": "2026-04-01T14:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-01T14:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "01.04.2026 16:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -72596,8 +72625,11 @@
                 "id": "920414"
               },
               "status": {
-                "utcTime": "2026-04-01T14:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-01T14:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "01.04.2026 16:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -72619,8 +72651,11 @@
                 "id": "4485"
               },
               "status": {
-                "utcTime": "2026-04-01T14:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-01T14:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "01.04.2026 16:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -75249,7 +75284,7 @@
               }
             }
           ],
-          "hasOngoingMatch": false,
+          "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "3",
@@ -76477,8 +76512,11 @@
               "id": "429438"
             },
             "status": {
-              "utcTime": "2026-04-01T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 14:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -76500,8 +76538,11 @@
               "id": "4182"
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -76523,8 +76564,11 @@
               "id": "4500"
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -76546,8 +76590,11 @@
               "id": "92171"
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -76569,8 +76616,11 @@
               "id": "920414"
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -76592,8 +76642,11 @@
               "id": "4485"
             },
             "status": {
-              "utcTime": "2026-04-01T14:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-01T14:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "01.04.2026 16:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -79222,7 +79275,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "3",
