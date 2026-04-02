@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T14:00:38.357751+00:00",
+  "generated_at": "2026-04-02T19:20:06.878859+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2806,6 +2806,34 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "David de Ornelas",
+            "playerId": 1734240,
+            "position": null,
+            "transferDate": "2026-04-02T18:38:07Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "HamKam",
+            "fromClubId": 8448,
+            "toClub": "Raufoss",
+            "toClubId": 9812,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-02T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 30000
+          },
           {
             "name": "Mame Alassane Niang",
             "playerId": 1689485,
@@ -5759,37 +5787,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": "2028-06-30T00:00:00Z",
             "marketValue": 174678
-          },
-          {
-            "name": "Syver Skundberg Skeide",
-            "playerId": 1280627,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-02-01T03:35:30Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Bodø/Glimt",
-            "fromClubId": 8402,
-            "toClub": "Kristiansund BK",
-            "toClubId": 8605,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 596739
           }
         ]
       },
@@ -38172,6 +38169,34 @@
         "type": "league",
         "data": [
           {
+            "name": "David de Ornelas",
+            "playerId": 1734240,
+            "position": null,
+            "transferDate": "2026-04-02T18:38:07Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "HamKam",
+            "fromClubId": 8448,
+            "toClub": "Raufoss",
+            "toClubId": 9812,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-02T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 30000
+          },
+          {
             "name": "Mame Alassane Niang",
             "playerId": 1689485,
             "position": {
@@ -41136,37 +41161,6 @@
             "fromDate": "2025-07-15T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 300000
-          },
-          {
-            "name": "Aleksander van der Spa",
-            "playerId": 1557589,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2025-07-16T11:32:07Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sandefjord",
-            "fromClubId": 8609,
-            "toClub": "Moss",
-            "toClubId": 8405,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-07-15T00:00:00Z",
-            "toDate": "2025-09-10T00:00:00Z",
-            "marketValue": 75000
           }
         ]
       },
