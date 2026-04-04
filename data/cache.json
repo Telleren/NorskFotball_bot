@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T19:09:21.991711+00:00",
+  "generated_at": "2026-04-04T03:20:29.922309+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2806,6 +2806,34 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Rabbi Matondo",
+            "playerId": 872968,
+            "position": null,
+            "transferDate": "2026-04-03T21:48:13Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Rangers",
+            "fromClubId": 8548,
+            "toClub": "Brann",
+            "toClubId": 8468,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-04-03T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 852396
+          },
           {
             "name": "David de Ornelas",
             "playerId": 1734240,
@@ -5759,34 +5787,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": "2026-12-31T00:00:00Z",
             "marketValue": null
-          },
-          {
-            "name": "Frederik Heiselberg",
-            "playerId": 1129810,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-02-01T03:57:09Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Aalesund",
-            "fromClubId": 8404,
-            "toClub": "Hilleröd F",
-            "toClubId": -1,
-            "fee": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2028-06-30T00:00:00Z",
-            "marketValue": 174678
           }
         ]
       },
