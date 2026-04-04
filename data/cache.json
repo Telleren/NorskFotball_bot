@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T13:32:46.017118+00:00",
+  "generated_at": "2026-04-04T19:05:51.821026+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -2806,6 +2806,65 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Mads Myklebust",
+            "playerId": 1579489,
+            "position": null,
+            "transferDate": "2026-04-04T20:04:31Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Strømsgodset",
+            "toClubId": 8180,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-04T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 15000
+          },
+          {
+            "name": "Patrick Metcalfe",
+            "playerId": 1136261,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-04-04T20:03:02Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Free agent",
+            "fromClubId": 2,
+            "toClub": "HamKam",
+            "toClubId": 8448,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-04-04T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 223551
+          },
           {
             "name": "Rabbi Matondo",
             "playerId": 872968,
@@ -5728,65 +5787,6 @@
             "fromDate": "2026-01-30T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 125000
-          },
-          {
-            "name": "Andreas Eikrem Myklebust",
-            "playerId": 1343431,
-            "position": {
-              "label": "LM",
-              "key": "leftmidfielder_short"
-            },
-            "transferDate": "2026-02-01T07:56:48Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Molde",
-            "fromClubId": 9917,
-            "toClub": "Brattvag",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 160000
-          },
-          {
-            "name": "Jonas Seim",
-            "playerId": 1633182,
-            "position": null,
-            "transferDate": "2026-02-01T05:42:14Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Start",
-            "fromClubId": 9919,
-            "toClub": "Pors",
-            "toClubId": 8111,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": null
           }
         ]
       },
@@ -38171,6 +38171,34 @@
         "type": "league",
         "data": [
           {
+            "name": "Mads Myklebust",
+            "playerId": 1579489,
+            "position": null,
+            "transferDate": "2026-04-04T20:04:31Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Strømsgodset",
+            "toClubId": 8180,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-04T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 15000
+          },
+          {
             "name": "David de Ornelas",
             "playerId": 1734240,
             "position": null,
@@ -41135,34 +41163,6 @@
             "fromDate": "2025-07-16T00:00:00Z",
             "toDate": "2028-12-31T00:00:00Z",
             "marketValue": 400000
-          },
-          {
-            "name": "Erik Flataker",
-            "playerId": 1255835,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2025-07-16T11:35:28Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sogndal",
-            "fromClubId": 8616,
-            "toClub": "AIK",
-            "toClubId": 8349,
-            "fee": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-07-15T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 300000
           }
         ]
       },
