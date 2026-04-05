@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T07:35:32.647974+00:00",
+  "generated_at": "2026-04-05T13:33:04.523047+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -37909,20 +37909,20 @@
               "2026-04-06T12:30:00.000Z"
             ],
             "4722": [
-              "9812",
-              "Raufoss",
-              "5105083",
+              "4249",
+              "Strømmen",
+              "5105093",
+              {
+                "id": "4249",
+                "name": "Strømmen",
+                "shortName": "Strømmen"
+              },
               {
                 "id": "4722",
                 "name": "Egersund",
                 "shortName": "Egersund"
               },
-              {
-                "id": "9812",
-                "name": "Raufoss",
-                "shortName": "Raufoss"
-              },
-              "2026-04-06T12:30:00.000Z"
+              "2026-04-11T12:00:00.000Z"
             ],
             "6563": [
               "4249",
@@ -38085,20 +38085,20 @@
               "2026-04-06T12:30:00.000Z"
             ],
             "9812": [
-              "4722",
-              "Egersund",
-              "5105083",
-              {
-                "id": "4722",
-                "name": "Egersund",
-                "shortName": "Egersund"
-              },
+              "8179",
+              "Kongsvinger",
+              "5105097",
               {
                 "id": "9812",
                 "name": "Raufoss",
                 "shortName": "Raufoss"
               },
-              "2026-04-06T12:30:00.000Z"
+              {
+                "id": "8179",
+                "name": "Kongsvinger",
+                "shortName": "Kongsvinger"
+              },
+              "2026-04-13T17:00:00.000Z"
             ],
             "9918": [
               "8180",
@@ -42105,20 +42105,20 @@
                 "2026-04-06T12:30:00.000Z"
               ],
               "4722": [
-                "9812",
-                "Raufoss",
-                "5105083",
+                "4249",
+                "Strømmen",
+                "5105093",
+                {
+                  "id": "4249",
+                  "name": "Strømmen",
+                  "shortName": "Strømmen"
+                },
                 {
                   "id": "4722",
                   "name": "Egersund",
                   "shortName": "Egersund"
                 },
-                {
-                  "id": "9812",
-                  "name": "Raufoss",
-                  "shortName": "Raufoss"
-                },
-                "2026-04-06T12:30:00.000Z"
+                "2026-04-11T12:00:00.000Z"
               ],
               "6563": [
                 "4249",
@@ -42281,20 +42281,20 @@
                 "2026-04-06T12:30:00.000Z"
               ],
               "9812": [
-                "4722",
-                "Egersund",
-                "5105083",
-                {
-                  "id": "4722",
-                  "name": "Egersund",
-                  "shortName": "Egersund"
-                },
+                "8179",
+                "Kongsvinger",
+                "5105097",
                 {
                   "id": "9812",
                   "name": "Raufoss",
                   "shortName": "Raufoss"
                 },
-                "2026-04-06T12:30:00.000Z"
+                {
+                  "id": "8179",
+                  "name": "Kongsvinger",
+                  "shortName": "Kongsvinger"
+                },
+                "2026-04-13T17:00:00.000Z"
               ],
               "9918": [
                 "8180",
@@ -42468,9 +42468,15 @@
             "status": {
               "utcTime": "2026-04-06T12:30:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -49896,9 +49902,15 @@
               "status": {
                 "utcTime": "2026-04-06T12:30:00Z",
                 "timezone": "UTC",
+                "cancelled": true,
                 "started": false,
-                "cancelled": false,
-                "finished": false
+                "finished": false,
+                "reason": {
+                  "short": "PP",
+                  "shortKey": "postponed_short",
+                  "long": "Postponed",
+                  "longKey": "postponed"
+                }
               }
             },
             {
@@ -55802,9 +55814,15 @@
             "status": {
               "utcTime": "2026-04-06T12:30:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
