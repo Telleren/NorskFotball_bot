@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T19:34:34.564895+00:00",
+  "generated_at": "2026-04-07T03:34:18.474132+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1271,13 +1271,13 @@
                   "pts": 9,
                   "teamId": 8608,
                   "teamName": "Tromsø",
-                  "xg": 8.976999998092651,
+                  "xg": 8.793600082397461,
                   "xgConceded": 2.2046999633312225,
-                  "xPoints": 7.807318069999942,
+                  "xPoints": 7.786075358535274,
                   "position": 1,
-                  "xgDiff": -0.9769999980926514,
+                  "xgDiff": -0.7936000823974609,
                   "xgConcededDiff": -1.2046999633312225,
-                  "xPointsDiff": 1.1926819300000577,
+                  "xPointsDiff": 1.2139246414647262,
                   "xPosition": 1,
                   "idx": 1,
                   "xPositionDiff": 0,
@@ -1569,12 +1569,12 @@
                   "teamId": 8422,
                   "teamName": "Rosenborg",
                   "xg": 2.120300054550171,
-                  "xgConceded": 5.475999891757965,
-                  "xPoints": 2.4148121826195217,
+                  "xgConceded": 5.292599976062775,
+                  "xPoints": 2.4277731397395863,
                   "position": 12,
                   "xgDiff": -2.120300054550171,
-                  "xgConcededDiff": 0.5240001082420349,
-                  "xPointsDiff": -2.4148121826195217,
+                  "xgConcededDiff": 0.7074000239372253,
+                  "xPointsDiff": -2.4277731397395863,
                   "xPosition": 12,
                   "idx": 12,
                   "xPositionDiff": 4,
@@ -7391,13 +7391,13 @@
                     "pts": 9,
                     "teamId": 8608,
                     "teamName": "Tromsø",
-                    "xg": 8.976999998092651,
+                    "xg": 8.793600082397461,
                     "xgConceded": 2.2046999633312225,
-                    "xPoints": 7.807318069999942,
+                    "xPoints": 7.786075358535274,
                     "position": 1,
-                    "xgDiff": -0.9769999980926514,
+                    "xgDiff": -0.7936000823974609,
                     "xgConcededDiff": -1.2046999633312225,
-                    "xPointsDiff": 1.1926819300000577,
+                    "xPointsDiff": 1.2139246414647262,
                     "xPosition": 1,
                     "idx": 1,
                     "xPositionDiff": 0,
@@ -7689,12 +7689,12 @@
                     "teamId": 8422,
                     "teamName": "Rosenborg",
                     "xg": 2.120300054550171,
-                    "xgConceded": 5.475999891757965,
-                    "xPoints": 2.4148121826195217,
+                    "xgConceded": 5.292599976062775,
+                    "xPoints": 2.4277731397395863,
                     "position": 12,
                     "xgDiff": -2.120300054550171,
-                    "xgConcededDiff": 0.5240001082420349,
-                    "xPointsDiff": -2.4148121826195217,
+                    "xgConcededDiff": 0.7074000239372253,
+                    "xPointsDiff": -2.4277731397395863,
                     "xPosition": 12,
                     "idx": 12,
                     "xPositionDiff": 4,
@@ -9469,26 +9469,6 @@
                 }
               },
               {
-                "id": 28115,
-                "name": "Ruben Yttergård Jenssen",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "assists": 2,
-                "value": 2,
-                "stat": {
-                  "name": "assists",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 313825,
                 "name": "Bård Finne",
                 "teamId": 8468,
@@ -9504,6 +9484,26 @@
                 "teamColors": {
                   "darkMode": "#DE1215",
                   "lightMode": "#DE1215",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 28115,
+                "name": "Ruben Yttergård Jenssen",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "assists": 2,
+                "value": 2,
+                "stat": {
+                  "name": "assists",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -10083,12 +10083,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:30:25",
-                "secondHalfStarted": "06.04.2026 15:34:59"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -10126,12 +10122,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T15:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 17:00:12",
-                "secondHalfStarted": "06.04.2026 18:03:19"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T15:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -10169,12 +10161,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T15:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 17:00:00",
-                "secondHalfStarted": "06.04.2026 18:06:22"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T15:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -10212,12 +10200,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T15:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 17:00:11",
-                "secondHalfStarted": "06.04.2026 18:05:18"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T15:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -10255,12 +10239,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T15:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 17:00:23",
-                "secondHalfStarted": "06.04.2026 18:04:10"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T15:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -10298,12 +10278,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T17:15:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 19:15:38",
-                "secondHalfStarted": "06.04.2026 20:20:07"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T17:15:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -10341,8 +10317,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -10372,8 +10351,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -17594,12 +17576,8 @@
                 "id": "8478"
               },
               "status": {
-                "utcTime": "2026-04-06T12:30:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 14:30:25",
-                  "secondHalfStarted": "06.04.2026 15:34:59"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T12:30:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -17629,12 +17607,8 @@
                 "id": "8468"
               },
               "status": {
-                "utcTime": "2026-04-06T15:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 17:00:12",
-                  "secondHalfStarted": "06.04.2026 18:03:19"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T15:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -17664,12 +17638,8 @@
                 "id": "8402"
               },
               "status": {
-                "utcTime": "2026-04-06T15:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 17:00:00",
-                  "secondHalfStarted": "06.04.2026 18:06:22"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T15:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -17699,12 +17669,8 @@
                 "id": "8476"
               },
               "status": {
-                "utcTime": "2026-04-06T15:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 17:00:11",
-                  "secondHalfStarted": "06.04.2026 18:05:18"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T15:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -17734,12 +17700,8 @@
                 "id": "9919"
               },
               "status": {
-                "utcTime": "2026-04-06T15:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 17:00:23",
-                  "secondHalfStarted": "06.04.2026 18:04:10"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T15:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -17769,12 +17731,8 @@
                 "id": "8422"
               },
               "status": {
-                "utcTime": "2026-04-06T17:15:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 19:15:38",
-                  "secondHalfStarted": "06.04.2026 20:20:07"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T17:15:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -17804,8 +17762,11 @@
                 "id": "8417"
               },
               "status": {
-                "utcTime": "2026-04-07T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-07T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.04.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -17827,8 +17788,11 @@
                 "id": "8609"
               },
               "status": {
-                "utcTime": "2026-04-07T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-07T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.04.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -23178,6 +23142,27 @@
                 }
               },
               {
+                "id": 313825,
+                "name": "Bård Finne",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8468,
+                "teamName": "Brann",
+                "value": 2,
+                "stat": {
+                  "name": "goal_assist",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#DE1215",
+                  "lightMode": "#DE1215",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 28115,
                 "name": "Ruben Yttergård Jenssen",
                 "rank": 2,
@@ -23194,27 +23179,6 @@
                 "teamColors": {
                   "darkMode": "#EB131C",
                   "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 313825,
-                "name": "Bård Finne",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8468,
-                "teamName": "Brann",
-                "value": 2,
-                "stat": {
-                  "name": "goal_assist",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#DE1215",
-                  "lightMode": "#DE1215",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -23586,10 +23550,10 @@
               "ccode": "NOR",
               "teamId": 8608,
               "teamName": "Tromsø",
-              "value": 2.9,
+              "value": 2.7,
               "stat": {
                 "name": "expected_goals",
-                "value": 2.9,
+                "value": 2.7,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -23603,10 +23567,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 2.9,
+                "value": 2.7,
                 "stat": {
                   "name": "expected_goals",
-                  "value": 2.9,
+                  "value": 2.7,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -23712,10 +23676,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 1.09,
+                "value": 1.03,
                 "stat": {
                   "name": "expected_goals_per_90",
-                  "value": 1.09,
+                  "value": 1.03,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -24108,16 +24072,16 @@
           {
             "header": "Big chances created",
             "participant": {
-              "id": 279191,
-              "name": "Zlatko Tripic",
+              "id": 1231795,
+              "name": "David Edvardsson",
               "rank": 1,
-              "ccode": "NOR",
-              "teamId": 8478,
-              "teamName": "Viking FK",
-              "value": 4,
+              "ccode": "SWE",
+              "teamId": 8608,
+              "teamName": "Tromsø",
+              "value": 5,
               "stat": {
                 "name": "big_chance_created",
-                "value": 4,
+                "value": 5,
                 "format": "number",
                 "fractions": 0
               }
@@ -24125,9 +24089,30 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/big_chance_created.json",
             "topThree": [
               {
+                "id": 1231795,
+                "name": "David Edvardsson",
+                "rank": 1,
+                "ccode": "SWE",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 5,
+                "stat": {
+                  "name": "big_chance_created",
+                  "value": 5,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 279191,
                 "name": "Zlatko Tripic",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
                 "teamName": "Viking FK",
@@ -24141,27 +24126,6 @@
                 "teamColors": {
                   "darkMode": "#244d89",
                   "lightMode": "#132847",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1231795,
-                "name": "David Edvardsson",
-                "rank": 2,
-                "ccode": "SWE",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 4,
-                "stat": {
-                  "name": "big_chance_created",
-                  "value": 4,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -24234,30 +24198,9 @@
                 }
               },
               {
-                "id": 28115,
-                "name": "Ruben Yttergård Jenssen",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 10,
-                "stat": {
-                  "name": "total_att_assist",
-                  "value": 10,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 313128,
                 "name": "Kristoffer Haugen",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
                 "teamName": "Viking FK",
@@ -24271,6 +24214,27 @@
                 "teamColors": {
                   "darkMode": "#244d89",
                   "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1231795,
+                "name": "David Edvardsson",
+                "rank": 3,
+                "ccode": "SWE",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 8,
+                "stat": {
+                  "name": "total_att_assist",
+                  "value": 8,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -24613,10 +24577,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 1.25,
+                "value": 1.19,
                 "stat": {
                   "name": "_expected_goals_and_expected_assists_per_90",
-                  "value": 1.25,
+                  "value": 1.19,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -24762,8 +24726,8 @@
                 }
               },
               {
-                "id": 1295653,
-                "name": "Heine Åsen Larsen",
+                "id": 942362,
+                "name": "Leo Cornic",
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
@@ -24783,22 +24747,22 @@
                 }
               },
               {
-                "id": 942362,
-                "name": "Leo Cornic",
+                "id": 375712,
+                "name": "Eirik Hestad",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 3,
+                "teamId": 9917,
+                "teamName": "Molde",
+                "value": 2,
                 "stat": {
                   "name": "big_chance_missed",
-                  "value": 3,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
+                  "darkMode": "#0068b0",
+                  "lightMode": "#0D47A0",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -26330,10 +26294,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 7.47,
+                "value": 7.46,
                 "stat": {
                   "name": "rating_team",
-                  "value": 7.47,
+                  "value": 7.46,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -26764,21 +26728,21 @@
               },
               {
                 "id": 0,
-                "name": "Rosenborg",
+                "name": "Vålerenga",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8422,
-                "value": 13374,
+                "teamId": 8007,
+                "value": 13488,
                 "stat": {
                   "name": "home_attendance_team",
-                  "value": 13374,
+                  "value": 13488,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#000000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#333bb3",
+                  "lightMode": "#283090",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -26796,10 +26760,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 9,
+              "value": 8.8,
               "stat": {
                 "name": "expected_goals_team",
-                "value": 9,
+                "value": 8.8,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -26812,10 +26776,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 9,
+                "value": 8.8,
                 "stat": {
                   "name": "expected_goals_team",
-                  "value": 9,
+                  "value": 8.8,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -26880,10 +26844,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 6.8,
+              "value": 6.6,
               "stat": {
                 "name": "_xg_diff_team",
-                "value": 6.8,
+                "value": 6.6,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -26896,10 +26860,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 6.8,
+                "value": 6.6,
                 "stat": {
                   "name": "_xg_diff_team",
-                  "value": 6.8,
+                  "value": 6.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -27048,10 +27012,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 15,
+              "value": 18,
               "stat": {
                 "name": "big_chance_team",
-                "value": 15,
+                "value": 18,
                 "format": "number",
                 "fractions": 0
               }
@@ -27064,10 +27028,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 15,
+                "value": 18,
                 "stat": {
                   "name": "big_chance_team",
-                  "value": 15,
+                  "value": 18,
                   "format": "number",
                   "fractions": 0
                 },
@@ -27132,10 +27096,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 9,
+              "value": 11,
               "stat": {
                 "name": "big_chance_missed_team",
-                "value": 9,
+                "value": 11,
                 "format": "number",
                 "fractions": 0
               }
@@ -27148,10 +27112,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 9,
+                "value": 11,
                 "stat": {
                   "name": "big_chance_missed_team",
-                  "value": 9,
+                  "value": 11,
                   "format": "number",
                   "fractions": 0
                 },
@@ -27608,10 +27572,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 94,
+                "value": 97,
                 "stat": {
                   "name": "touches_in_opp_box_team",
-                  "value": 94,
+                  "value": 97,
                   "format": "number",
                   "fractions": 0
                 },
@@ -29267,12 +29231,8 @@
               "id": "8478"
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:30:25",
-                "secondHalfStarted": "06.04.2026 15:34:59"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -29302,12 +29262,8 @@
               "id": "8468"
             },
             "status": {
-              "utcTime": "2026-04-06T15:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 17:00:12",
-                "secondHalfStarted": "06.04.2026 18:03:19"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T15:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -29337,12 +29293,8 @@
               "id": "8402"
             },
             "status": {
-              "utcTime": "2026-04-06T15:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 17:00:00",
-                "secondHalfStarted": "06.04.2026 18:06:22"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T15:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -29372,12 +29324,8 @@
               "id": "8476"
             },
             "status": {
-              "utcTime": "2026-04-06T15:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 17:00:11",
-                "secondHalfStarted": "06.04.2026 18:05:18"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T15:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -29407,12 +29355,8 @@
               "id": "9919"
             },
             "status": {
-              "utcTime": "2026-04-06T15:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 17:00:23",
-                "secondHalfStarted": "06.04.2026 18:04:10"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T15:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -29442,12 +29386,8 @@
               "id": "8422"
             },
             "status": {
-              "utcTime": "2026-04-06T17:15:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 19:15:38",
-                "secondHalfStarted": "06.04.2026 20:20:07"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T17:15:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -29477,8 +29417,11 @@
               "id": "8417"
             },
             "status": {
-              "utcTime": "2026-04-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -29500,8 +29443,11 @@
               "id": "8609"
             },
             "status": {
-              "utcTime": "2026-04-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -44537,12 +44483,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:30:05",
-                "secondHalfStarted": "06.04.2026 15:31:44"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -44580,11 +44522,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:30:00"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "cancelled": true,
               "started": false,
               "finished": false,
@@ -44620,13 +44559,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "numberOfHomeRedCards": 1,
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:34:40",
-                "secondHalfStarted": "06.04.2026 15:34:27"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -44664,12 +44598,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:36:33",
-                "secondHalfStarted": "06.04.2026 15:33:36"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -44707,8 +44637,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -44738,8 +44671,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -52024,12 +51960,8 @@
                 "id": "8405"
               },
               "status": {
-                "utcTime": "2026-04-06T12:30:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 14:30:05",
-                  "secondHalfStarted": "06.04.2026 15:31:44"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T12:30:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -52059,11 +51991,8 @@
                 "id": "9812"
               },
               "status": {
-                "utcTime": "2026-04-06T12:30:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 14:30:00"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T12:30:00Z",
+                "timezone": "UTC",
                 "cancelled": true,
                 "started": false,
                 "finished": false,
@@ -52091,13 +52020,8 @@
                 "id": "8512"
               },
               "status": {
-                "utcTime": "2026-04-06T12:30:00.000Z",
-                "numberOfHomeRedCards": 1,
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 14:34:40",
-                  "secondHalfStarted": "06.04.2026 15:34:27"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T12:30:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -52127,12 +52051,8 @@
                 "id": "8616"
               },
               "status": {
-                "utcTime": "2026-04-06T12:30:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "06.04.2026 14:36:33",
-                  "secondHalfStarted": "06.04.2026 15:33:36"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-06T12:30:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -52162,8 +52082,11 @@
                 "id": "8133"
               },
               "status": {
-                "utcTime": "2026-04-07T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-07T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.04.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -52185,8 +52108,11 @@
                 "id": "8531"
               },
               "status": {
-                "utcTime": "2026-04-07T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-07T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.04.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -58535,12 +58461,8 @@
               "id": "8405"
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:30:05",
-                "secondHalfStarted": "06.04.2026 15:31:44"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -58570,11 +58492,8 @@
               "id": "9812"
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:30:00"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "cancelled": true,
               "started": false,
               "finished": false,
@@ -58602,13 +58521,8 @@
               "id": "8512"
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "numberOfHomeRedCards": 1,
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:34:40",
-                "secondHalfStarted": "06.04.2026 15:34:27"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -58638,12 +58552,8 @@
               "id": "8616"
             },
             "status": {
-              "utcTime": "2026-04-06T12:30:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "06.04.2026 14:36:33",
-                "secondHalfStarted": "06.04.2026 15:33:36"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-06T12:30:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -58673,8 +58583,11 @@
               "id": "8133"
             },
             "status": {
-              "utcTime": "2026-04-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -58696,8 +58609,11 @@
               "id": "8531"
             },
             "status": {
-              "utcTime": "2026-04-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
