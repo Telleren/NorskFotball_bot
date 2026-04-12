@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T03:50:59.088311+00:00",
+  "generated_at": "2026-04-12T07:47:59.770515+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -3509,6 +3509,68 @@
         "type": "league",
         "data": [
           {
+            "name": "Stian Sjøvold Thorstensen",
+            "playerId": 1460785,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-04-12T08:26:43Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Vålerenga",
+            "fromClubId": 8007,
+            "toClub": "Ranheim",
+            "toClubId": 6563,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-10T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
+            "marketValue": 200000
+          },
+          {
+            "name": "Peder Hoel Lervik",
+            "playerId": 1263460,
+            "position": {
+              "label": "GK",
+              "key": "keeper"
+            },
+            "transferDate": "2026-04-12T07:14:45Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Åsane",
+            "toClubId": 10021,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-11T00:00:00Z",
+            "toDate": "2026-04-25T00:00:00Z",
+            "marketValue": 130000
+          },
+          {
             "name": "Mads Myklebust",
             "playerId": 1579489,
             "position": null,
@@ -6427,68 +6489,6 @@
             "fromDate": "2026-01-31T00:00:00Z",
             "toDate": "2030-12-31T00:00:00Z",
             "marketValue": 1450026
-          },
-          {
-            "name": "Ieltsin Camoes",
-            "playerId": 1448017,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-02-01T08:47:07Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Tromsø",
-            "fromClubId": 8608,
-            "toClub": "Al Ahly SC",
-            "toClubId": 101745,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-01-31T00:00:00Z",
-            "toDate": "2026-06-30T00:00:00Z",
-            "marketValue": 664717
-          },
-          {
-            "name": "Leon-Robin Juberg-Hovland",
-            "playerId": 1280662,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-02-01T08:00:04Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Molde",
-            "fromClubId": 9917,
-            "toClub": "Kongsvinger",
-            "toClubId": 8179,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-30T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 125000
           }
         ]
       },
@@ -41055,6 +41055,68 @@
         "type": "league",
         "data": [
           {
+            "name": "Stian Sjøvold Thorstensen",
+            "playerId": 1460785,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-04-12T08:26:43Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Vålerenga",
+            "fromClubId": 8007,
+            "toClub": "Ranheim",
+            "toClubId": 6563,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-10T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
+            "marketValue": 200000
+          },
+          {
+            "name": "Peder Hoel Lervik",
+            "playerId": 1263460,
+            "position": {
+              "label": "GK",
+              "key": "keeper"
+            },
+            "transferDate": "2026-04-12T07:14:45Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Åsane",
+            "toClubId": 10021,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-11T00:00:00Z",
+            "toDate": "2026-04-25T00:00:00Z",
+            "marketValue": 130000
+          },
+          {
             "name": "Mads Myklebust",
             "playerId": 1579489,
             "position": null,
@@ -43984,69 +44046,6 @@
             "fromDate": "2025-07-21T00:00:00Z",
             "toDate": "2028-07-31T00:00:00Z",
             "marketValue": 2560062
-          },
-          {
-            "name": "Martin Håheim Elveseter",
-            "playerId": 1377183,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2025-07-18T18:31:32Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "Egersund",
-            "toClubId": 4722,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-07-18T00:00:00Z",
-            "toDate": "2025-12-31T00:00:00Z",
-            "marketValue": 450000
-          },
-          {
-            "name": "Mathias Grundetjern",
-            "playerId": 1047922,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2025-07-18T10:54:38Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Start",
-            "fromClubId": 9919,
-            "toClub": "Vålerenga",
-            "toClubId": 8007,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 300000
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-07-16T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 400000
           }
         ]
       },
