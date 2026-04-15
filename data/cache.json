@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T14:09:16.419287+00:00",
+  "generated_at": "2026-04-15T19:47:16.338810+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -119,14 +119,31 @@
                   "pageUrl": "/teams/8608/overview/tromso",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 4,
+                  "played": 5,
                   "wins": 4,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "10-1",
                   "goalConDiff": 9,
-                  "pts": 12,
+                  "pts": 13,
                   "idx": 1,
+                  "qualColor": "#FFD908"
+                },
+                {
+                  "name": "Lillestrøm",
+                  "shortName": "Lillestrøm",
+                  "id": 8476,
+                  "pageUrl": "/teams/8476/overview/lillestrom",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 4,
+                  "wins": 3,
+                  "draws": 1,
+                  "losses": 0,
+                  "scoresStr": "7-2",
+                  "goalConDiff": 5,
+                  "pts": 10,
+                  "idx": 2,
                   "qualColor": "#FFD908"
                 },
                 {
@@ -142,23 +159,6 @@
                   "losses": 1,
                   "scoresStr": "11-3",
                   "goalConDiff": 8,
-                  "pts": 9,
-                  "idx": 2,
-                  "qualColor": "#FFD908"
-                },
-                {
-                  "name": "Lillestrøm",
-                  "shortName": "Lillestrøm",
-                  "id": 8476,
-                  "pageUrl": "/teams/8476/overview/lillestrom",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 3,
-                  "wins": 3,
-                  "draws": 0,
-                  "losses": 0,
-                  "scoresStr": "7-2",
-                  "goalConDiff": 5,
                   "pts": 9,
                   "idx": 3,
                   "qualColor": "#02CCF0"
@@ -238,13 +238,13 @@
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 3,
+                  "played": 4,
                   "wins": 1,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 1,
-                  "scoresStr": "4-3",
+                  "scoresStr": "5-4",
                   "goalConDiff": 1,
-                  "pts": 4,
+                  "pts": 5,
                   "idx": 8,
                   "qualColor": null
                 },
@@ -266,6 +266,23 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt",
+                  "id": 8402,
+                  "pageUrl": "/teams/8402/overview/bodoglimt",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 3,
+                  "wins": 1,
+                  "draws": 1,
+                  "losses": 1,
+                  "scoresStr": "4-6",
+                  "goalConDiff": -2,
+                  "pts": 4,
+                  "idx": 10,
+                  "qualColor": null
+                },
+                {
                   "name": "Brann",
                   "shortName": "Brann",
                   "id": 8468,
@@ -278,23 +295,6 @@
                   "losses": 3,
                   "scoresStr": "8-7",
                   "goalConDiff": 1,
-                  "pts": 3,
-                  "idx": 10,
-                  "qualColor": null
-                },
-                {
-                  "name": "Bodø/Glimt",
-                  "shortName": "Bodø/Glimt",
-                  "id": 8402,
-                  "pageUrl": "/teams/8402/overview/bodoglimt",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
-                  "wins": 1,
-                  "draws": 0,
-                  "losses": 1,
-                  "scoresStr": "3-5",
-                  "goalConDiff": -2,
                   "pts": 3,
                   "idx": 11,
                   "qualColor": null
@@ -393,14 +393,14 @@
                   "pageUrl": "/teams/8608/overview/tromso",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 3,
+                  "played": 4,
                   "wins": 3,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "8-0",
                   "goalConDiff": 8,
                   "goalsScored": 8,
-                  "pts": 9,
+                  "pts": 10,
                   "idx": 1,
                   "qualColor": "#FFD908"
                 },
@@ -573,14 +573,14 @@
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 1,
+                  "played": 2,
                   "wins": 0,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 0,
-                  "scoresStr": "1-1",
+                  "scoresStr": "2-2",
                   "goalConDiff": 0,
-                  "goalsScored": 1,
-                  "pts": 1,
+                  "goalsScored": 2,
+                  "pts": 2,
                   "idx": 11,
                   "qualColor": null
                 },
@@ -683,14 +683,14 @@
                   "pageUrl": "/teams/8476/overview/lillestrom",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 2,
+                  "played": 3,
                   "wins": 2,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "4-1",
                   "goalConDiff": 3,
                   "goalsScored": 4,
-                  "pts": 6,
+                  "pts": 7,
                   "idx": 1,
                   "qualColor": "#FFD908"
                 },
@@ -731,6 +731,24 @@
                   "qualColor": "#02CCF0"
                 },
                 {
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt",
+                  "id": 8402,
+                  "pageUrl": "/teams/8402/overview/bodoglimt",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 3,
+                  "wins": 1,
+                  "draws": 1,
+                  "losses": 1,
+                  "scoresStr": "4-6",
+                  "goalConDiff": -2,
+                  "goalsScored": 4,
+                  "pts": 4,
+                  "idx": 4,
+                  "qualColor": "#02CCF0"
+                },
+                {
                   "name": "Brann",
                   "shortName": "Brann",
                   "id": 8468,
@@ -745,8 +763,8 @@
                   "goalConDiff": 3,
                   "goalsScored": 7,
                   "pts": 3,
-                  "idx": 4,
-                  "qualColor": "#02CCF0"
+                  "idx": 5,
+                  "qualColor": null
                 },
                 {
                   "name": "Sarpsborg 08",
@@ -763,7 +781,7 @@
                   "goalConDiff": 1,
                   "goalsScored": 3,
                   "pts": 3,
-                  "idx": 5,
+                  "idx": 6,
                   "qualColor": null
                 },
                 {
@@ -781,7 +799,7 @@
                   "goalConDiff": 1,
                   "goalsScored": 2,
                   "pts": 3,
-                  "idx": 6,
+                  "idx": 7,
                   "qualColor": null
                 },
                 {
@@ -798,24 +816,6 @@
                   "scoresStr": "2-2",
                   "goalConDiff": 0,
                   "goalsScored": 2,
-                  "pts": 3,
-                  "idx": 7,
-                  "qualColor": null
-                },
-                {
-                  "name": "Bodø/Glimt",
-                  "shortName": "Bodø/Glimt",
-                  "id": 8402,
-                  "pageUrl": "/teams/8402/overview/bodoglimt",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 2,
-                  "wins": 1,
-                  "draws": 0,
-                  "losses": 1,
-                  "scoresStr": "3-5",
-                  "goalConDiff": -2,
-                  "goalsScored": 3,
                   "pts": 3,
                   "idx": 8,
                   "qualColor": null
@@ -972,16 +972,34 @@
                   "featuredInMatch": false,
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
-                  "played": 4,
+                  "played": 5,
                   "wins": 4,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "10-1",
                   "goalConDiff": 9,
                   "goalsScored": 10,
-                  "pts": 12,
+                  "pts": 13,
                   "ongoing": null,
                   "idx": 1,
+                  "qualColor": "#FFD908"
+                },
+                {
+                  "name": "Lillestrøm",
+                  "shortName": "Lillestrøm",
+                  "featuredInMatch": false,
+                  "id": 8476,
+                  "pageUrl": "/teams/8476/overview/lillestrom",
+                  "played": 4,
+                  "wins": 3,
+                  "draws": 1,
+                  "losses": 0,
+                  "scoresStr": "7-2",
+                  "goalConDiff": 5,
+                  "goalsScored": 7,
+                  "pts": 10,
+                  "ongoing": null,
+                  "idx": 2,
                   "qualColor": "#FFD908"
                 },
                 {
@@ -997,24 +1015,6 @@
                   "scoresStr": "11-3",
                   "goalConDiff": 8,
                   "goalsScored": 11,
-                  "pts": 9,
-                  "ongoing": null,
-                  "idx": 2,
-                  "qualColor": "#FFD908"
-                },
-                {
-                  "name": "Lillestrøm",
-                  "shortName": "Lillestrøm",
-                  "featuredInMatch": false,
-                  "id": 8476,
-                  "pageUrl": "/teams/8476/overview/lillestrom",
-                  "played": 3,
-                  "wins": 3,
-                  "draws": 0,
-                  "losses": 0,
-                  "scoresStr": "7-2",
-                  "goalConDiff": 5,
-                  "goalsScored": 7,
                   "pts": 9,
                   "ongoing": null,
                   "idx": 3,
@@ -1098,14 +1098,14 @@
                   "featuredInMatch": false,
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
-                  "played": 3,
+                  "played": 4,
                   "wins": 1,
-                  "draws": 1,
+                  "draws": 2,
                   "losses": 1,
-                  "scoresStr": "4-3",
+                  "scoresStr": "5-4",
                   "goalConDiff": 1,
-                  "goalsScored": 4,
-                  "pts": 4,
+                  "goalsScored": 5,
+                  "pts": 5,
                   "ongoing": null,
                   "idx": 8,
                   "qualColor": null
@@ -1129,6 +1129,24 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt",
+                  "featuredInMatch": false,
+                  "id": 8402,
+                  "pageUrl": "/teams/8402/overview/bodoglimt",
+                  "played": 3,
+                  "wins": 1,
+                  "draws": 1,
+                  "losses": 1,
+                  "scoresStr": "4-6",
+                  "goalConDiff": -2,
+                  "goalsScored": 4,
+                  "pts": 4,
+                  "ongoing": null,
+                  "idx": 10,
+                  "qualColor": null
+                },
+                {
                   "name": "Brann",
                   "shortName": "Brann",
                   "featuredInMatch": false,
@@ -1141,24 +1159,6 @@
                   "scoresStr": "8-7",
                   "goalConDiff": 1,
                   "goalsScored": 8,
-                  "pts": 3,
-                  "ongoing": null,
-                  "idx": 10,
-                  "qualColor": null
-                },
-                {
-                  "name": "Bodø/Glimt",
-                  "shortName": "Bodø/Glimt",
-                  "featuredInMatch": false,
-                  "id": 8402,
-                  "pageUrl": "/teams/8402/overview/bodoglimt",
-                  "played": 2,
-                  "wins": 1,
-                  "draws": 0,
-                  "losses": 1,
-                  "scoresStr": "3-5",
-                  "goalConDiff": -2,
-                  "goalsScored": 3,
                   "pts": 3,
                   "ongoing": null,
                   "idx": 11,
@@ -1262,22 +1262,22 @@
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
                   "ongoing": null,
-                  "played": 4,
+                  "played": 5,
                   "wins": 4,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "10-1",
                   "goalConDiff": 9,
-                  "pts": 12,
+                  "pts": 13,
                   "teamId": 8608,
                   "teamName": "Tromsø",
-                  "xg": 10.844799995422363,
-                  "xgConceded": 3.041399985551834,
-                  "xPoints": 10.003539704960714,
+                  "xg": 12.10230004787445,
+                  "xgConceded": 4.732000023126602,
+                  "xPoints": 11.043965798270657,
                   "position": 1,
-                  "xgDiff": -0.8447999954223633,
-                  "xgConcededDiff": -2.041399985551834,
-                  "xPointsDiff": 1.9964602950392862,
+                  "xgDiff": -2.1023000478744507,
+                  "xgConcededDiff": -3.732000023126602,
+                  "xPointsDiff": 1.9560342017293433,
                   "xPosition": 1,
                   "idx": 1,
                   "xPositionDiff": 0,
@@ -1307,7 +1307,7 @@
                   "xPointsDiff": -0.2775173062693863,
                   "xPosition": 2,
                   "idx": 2,
-                  "xPositionDiff": 0,
+                  "xPositionDiff": 1,
                   "qualColor": "#FFD908"
                 },
                 {
@@ -1316,25 +1316,25 @@
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
                   "ongoing": null,
-                  "played": 3,
+                  "played": 4,
                   "wins": 3,
-                  "draws": 0,
+                  "draws": 1,
                   "losses": 0,
                   "scoresStr": "7-2",
                   "goalConDiff": 5,
-                  "pts": 9,
+                  "pts": 10,
                   "teamId": 8476,
                   "teamName": "Lillestrøm",
-                  "xg": 6.658100008964539,
-                  "xgConceded": 3.0047000646591187,
-                  "xPoints": 6.6761714571219475,
+                  "xg": 8.348700046539307,
+                  "xgConceded": 4.262200117111206,
+                  "xPoints": 8.37944104210839,
                   "position": 3,
-                  "xgDiff": 0.3418999910354614,
-                  "xgConcededDiff": -1.0047000646591187,
-                  "xPointsDiff": 2.3238285428780525,
+                  "xgDiff": -1.3487000465393066,
+                  "xgConcededDiff": -2.262200117111206,
+                  "xPointsDiff": 1.6205589578916104,
                   "xPosition": 3,
                   "idx": 3,
-                  "xPositionDiff": 0,
+                  "xPositionDiff": -1,
                   "qualColor": "#02CCF0"
                 },
                 {
@@ -1361,8 +1361,35 @@
                   "xPointsDiff": -3.4949322244050656,
                   "xPosition": 4,
                   "idx": 4,
-                  "xPositionDiff": 6,
+                  "xPositionDiff": 7,
                   "qualColor": "#02CCF0"
+                },
+                {
+                  "name": "Sarpsborg 08",
+                  "shortName": "Sarpsborg 08",
+                  "id": 8509,
+                  "pageUrl": "/teams/8509/overview/sarpsborg-08",
+                  "ongoing": null,
+                  "played": 4,
+                  "wins": 1,
+                  "draws": 2,
+                  "losses": 1,
+                  "scoresStr": "5-4",
+                  "goalConDiff": 1,
+                  "pts": 5,
+                  "teamId": 8509,
+                  "teamName": "Sarpsborg 08",
+                  "xg": 6.361799955368042,
+                  "xgConceded": 5.320800065994263,
+                  "xPoints": 6.311820865487633,
+                  "position": 5,
+                  "xgDiff": -1.361799955368042,
+                  "xgConcededDiff": -1.3208000659942627,
+                  "xPointsDiff": -1.3118208654876327,
+                  "xPosition": 5,
+                  "idx": 5,
+                  "xPositionDiff": 3,
+                  "qualColor": null
                 },
                 {
                   "name": "KFUM",
@@ -1382,13 +1409,13 @@
                   "xg": 5.455600142478943,
                   "xgConceded": 5.630299836397171,
                   "xPoints": 5.547766241635433,
-                  "position": 5,
+                  "position": 6,
                   "xgDiff": 0.5443998575210571,
                   "xgConcededDiff": 1.369700163602829,
                   "xPointsDiff": -1.5477662416354327,
-                  "xPosition": 5,
-                  "idx": 5,
-                  "xPositionDiff": 4,
+                  "xPosition": 6,
+                  "idx": 6,
+                  "xPositionDiff": 3,
                   "qualColor": null
                 },
                 {
@@ -1409,40 +1436,13 @@
                   "xg": 5.842399895191193,
                   "xgConceded": 6.1427000761032104,
                   "xPoints": 5.441583792408852,
-                  "position": 6,
+                  "position": 7,
                   "xgDiff": -2.8423998951911926,
                   "xgConcededDiff": -2.1427000761032104,
                   "xPointsDiff": 0.5584162075911481,
-                  "xPosition": 6,
-                  "idx": 6,
-                  "xPositionDiff": 1,
-                  "qualColor": null
-                },
-                {
-                  "name": "Sarpsborg 08",
-                  "shortName": "Sarpsborg 08",
-                  "id": 8509,
-                  "pageUrl": "/teams/8509/overview/sarpsborg-08",
-                  "ongoing": null,
-                  "played": 3,
-                  "wins": 1,
-                  "draws": 1,
-                  "losses": 1,
-                  "scoresStr": "4-3",
-                  "goalConDiff": 1,
-                  "pts": 4,
-                  "teamId": 8509,
-                  "teamName": "Sarpsborg 08",
-                  "xg": 4.686299920082092,
-                  "xgConceded": 3.371600031852722,
-                  "xPoints": 5.133189661977481,
-                  "position": 7,
-                  "xgDiff": -0.6862999200820923,
-                  "xgConcededDiff": -0.37160003185272217,
-                  "xPointsDiff": -1.1331896619774806,
                   "xPosition": 7,
                   "idx": 7,
-                  "xPositionDiff": 1,
+                  "xPositionDiff": 0,
                   "qualColor": null
                 },
                 {
@@ -1473,6 +1473,33 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt",
+                  "id": 8402,
+                  "pageUrl": "/teams/8402/overview/bodoglimt",
+                  "ongoing": null,
+                  "played": 3,
+                  "wins": 1,
+                  "draws": 1,
+                  "losses": 1,
+                  "scoresStr": "4-6",
+                  "goalConDiff": -2,
+                  "pts": 4,
+                  "teamId": 8402,
+                  "teamName": "Bodø/Glimt",
+                  "xg": 6.113400161266327,
+                  "xgConceded": 4.514400124549866,
+                  "xPoints": 4.778457750640248,
+                  "position": 9,
+                  "xgDiff": -2.113400161266327,
+                  "xgConcededDiff": 1.4855998754501343,
+                  "xPointsDiff": -0.7784577506402481,
+                  "xPosition": 9,
+                  "idx": 9,
+                  "xPositionDiff": 1,
+                  "qualColor": null
+                },
+                {
                   "name": "Fredrikstad",
                   "shortName": "Fredrikstad",
                   "id": 8417,
@@ -1490,13 +1517,13 @@
                   "xg": 4.750099867582321,
                   "xgConceded": 7.304400205612183,
                   "xPoints": 4.355615122634505,
-                  "position": 9,
+                  "position": 10,
                   "xgDiff": 2.249900132417679,
                   "xgConcededDiff": 0.6955997943878174,
                   "xPointsDiff": 2.6443848773654954,
-                  "xPosition": 9,
-                  "idx": 9,
-                  "xPositionDiff": -4,
+                  "xPosition": 10,
+                  "idx": 10,
+                  "xPositionDiff": -5,
                   "qualColor": null
                 },
                 {
@@ -1517,13 +1544,13 @@
                   "xg": 3.822700083255768,
                   "xgConceded": 6.682799875736237,
                   "xPoints": 4.13730620014905,
-                  "position": 10,
+                  "position": 11,
                   "xgDiff": -1.8227000832557678,
                   "xgConcededDiff": 0.3172001242637634,
                   "xPointsDiff": -1.13730620014905,
-                  "xPosition": 10,
-                  "idx": 10,
-                  "xPositionDiff": 3,
+                  "xPosition": 11,
+                  "idx": 11,
+                  "xPositionDiff": 2,
                   "qualColor": null
                 },
                 {
@@ -1544,13 +1571,13 @@
                   "xg": 4.877700090408325,
                   "xgConceded": 6.980599999427795,
                   "xPoints": 4.1159912722144405,
-                  "position": 11,
+                  "position": 12,
                   "xgDiff": -0.8777000904083252,
                   "xgConcededDiff": -4.980599999427795,
                   "xPointsDiff": 2.8840087277855595,
-                  "xPosition": 11,
-                  "idx": 11,
-                  "xPositionDiff": -7,
+                  "xPosition": 12,
+                  "idx": 12,
+                  "xPositionDiff": -8,
                   "qualColor": null
                 },
                 {
@@ -1571,13 +1598,13 @@
                   "xg": 4.523799926042557,
                   "xgConceded": 6.198099970817566,
                   "xPoints": 4.039635051870793,
-                  "position": 12,
+                  "position": 13,
                   "xgDiff": -1.5237999260425568,
                   "xgConcededDiff": 0.8019000291824341,
                   "xPointsDiff": -2.0396350518707926,
-                  "xPosition": 12,
-                  "idx": 12,
-                  "xPositionDiff": 4,
+                  "xPosition": 13,
+                  "idx": 13,
+                  "xPositionDiff": 3,
                   "qualColor": null
                 },
                 {
@@ -1598,40 +1625,13 @@
                   "xg": 4.869500041007996,
                   "xgConceded": 8.74239993095398,
                   "xPoints": 3.28314103260257,
-                  "position": 13,
+                  "position": 14,
                   "xgDiff": 1.1304999589920044,
                   "xgConcededDiff": 0.2576000690460205,
                   "xPointsDiff": -1.28314103260257,
-                  "xPosition": 13,
-                  "idx": 13,
-                  "xPositionDiff": 2,
-                  "qualColor": null
-                },
-                {
-                  "name": "Bodø/Glimt",
-                  "shortName": "Bodø/Glimt",
-                  "id": 8402,
-                  "pageUrl": "/teams/8402/overview/bodoglimt",
-                  "ongoing": null,
-                  "played": 2,
-                  "wins": 1,
-                  "draws": 0,
-                  "losses": 1,
-                  "scoresStr": "3-5",
-                  "goalConDiff": -2,
-                  "pts": 3,
-                  "teamId": 8402,
-                  "teamName": "Bodø/Glimt",
-                  "xg": 4.164200127124786,
-                  "xgConceded": 2.838900089263916,
-                  "xPoints": 3.2014079900142476,
-                  "position": 14,
-                  "xgDiff": -1.1642001271247864,
-                  "xgConcededDiff": 2.161099910736084,
-                  "xPointsDiff": -0.20140799001424758,
                   "xPosition": 14,
                   "idx": 14,
-                  "xPositionDiff": -3,
+                  "xPositionDiff": 1,
                   "qualColor": "#FFA72F"
                 },
                 {
@@ -2013,6 +2013,37 @@
                   "id": "8478",
                   "name": "Viking",
                   "shortName": "Viking",
+                  "isOurTeam": false
+                },
+                "away": {
+                  "id": "8402",
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt",
+                  "isOurTeam": true
+                }
+              },
+              {
+                "result": 0,
+                "resultString": "D",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8509_xsmall.png",
+                "linkToMatch": "/matches/bodoglimt-vs-sarpsborg-08/2d55md#5104846",
+                "date": null,
+                "teamPageUrl": "/teams/8509/overview/sarpsborg-08",
+                "tooltipText": {
+                  "utcTime": "2026-04-15T15:00:00.000Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Sarpsborg 08",
+                  "homeTeamId": 8509,
+                  "homeScore": 1,
+                  "awayTeam": "Bodø/Glimt",
+                  "awayTeamId": 8402,
+                  "awayScore": 1
+                },
+                "score": "1 - 1",
+                "home": {
+                  "id": "8509",
+                  "name": "Sarpsborg 08",
+                  "shortName": "Sarpsborg 08",
                   "isOurTeam": false
                 },
                 "away": {
@@ -2715,6 +2746,37 @@
                   "shortName": "Start",
                   "isOurTeam": false
                 }
+              },
+              {
+                "result": 0,
+                "resultString": "D",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8608_xsmall.png",
+                "linkToMatch": "/matches/lillestrom-vs-tromso/2ew6py#5105081",
+                "date": null,
+                "teamPageUrl": "/teams/8608/overview/tromso",
+                "tooltipText": {
+                  "utcTime": "2026-04-15T15:00:00.000Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Tromsø",
+                  "homeTeamId": 8608,
+                  "homeScore": 0,
+                  "awayTeam": "Lillestrøm",
+                  "awayTeamId": 8476,
+                  "awayScore": 0
+                },
+                "score": "0 - 0",
+                "home": {
+                  "id": "8608",
+                  "name": "Tromsø",
+                  "shortName": "Tromsø",
+                  "isOurTeam": false
+                },
+                "away": {
+                  "id": "8476",
+                  "name": "Lillestrøm",
+                  "shortName": "Lillestrøm",
+                  "isOurTeam": true
+                }
               }
             ],
             "8478": [
@@ -2936,6 +2998,37 @@
                   "shortName": "Sarpsborg 08",
                   "isOurTeam": true
                 }
+              },
+              {
+                "result": 0,
+                "resultString": "D",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_xsmall.png",
+                "linkToMatch": "/matches/bodoglimt-vs-sarpsborg-08/2d55md#5104846",
+                "date": null,
+                "teamPageUrl": "/teams/8402/overview/bodoglimt",
+                "tooltipText": {
+                  "utcTime": "2026-04-15T15:00:00.000Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Sarpsborg 08",
+                  "homeTeamId": 8509,
+                  "homeScore": 1,
+                  "awayTeam": "Bodø/Glimt",
+                  "awayTeamId": 8402,
+                  "awayScore": 1
+                },
+                "score": "1 - 1",
+                "home": {
+                  "id": "8509",
+                  "name": "Sarpsborg 08",
+                  "shortName": "Sarpsborg 08",
+                  "isOurTeam": true
+                },
+                "away": {
+                  "id": "8402",
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt",
+                  "isOurTeam": false
+                }
               }
             ],
             "8605": [
@@ -3155,6 +3248,37 @@
                   "id": "8605",
                   "name": "Kristiansund",
                   "shortName": "Kristiansund",
+                  "isOurTeam": false
+                }
+              },
+              {
+                "result": 0,
+                "resultString": "D",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8476_xsmall.png",
+                "linkToMatch": "/matches/lillestrom-vs-tromso/2ew6py#5105081",
+                "date": null,
+                "teamPageUrl": "/teams/8476/overview/lillestrom",
+                "tooltipText": {
+                  "utcTime": "2026-04-15T15:00:00.000Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Tromsø",
+                  "homeTeamId": 8608,
+                  "homeScore": 0,
+                  "awayTeam": "Lillestrøm",
+                  "awayTeamId": 8476,
+                  "awayScore": 0
+                },
+                "score": "0 - 0",
+                "home": {
+                  "id": "8608",
+                  "name": "Tromsø",
+                  "shortName": "Tromsø",
+                  "isOurTeam": true
+                },
+                "away": {
+                  "id": "8476",
+                  "name": "Lillestrøm",
+                  "shortName": "Lillestrøm",
                   "isOurTeam": false
                 }
               }
@@ -3572,20 +3696,20 @@
               "2026-04-19T12:30:00.000Z"
             ],
             "8402": [
-              "8509",
-              "Sarpsborg 08",
-              "5104846",
-              {
-                "id": "8509",
-                "name": "Sarpsborg 08",
-                "shortName": "Sarpsborg 08"
-              },
+              "8404",
+              "Aalesund",
+              "5104874",
               {
                 "id": "8402",
                 "name": "Bodø/Glimt",
                 "shortName": "Bodø/Glimt"
               },
-              "2026-04-15T17:00:00.000Z"
+              {
+                "id": "8404",
+                "name": "Aalesund",
+                "shortName": "Aalesund"
+              },
+              "2026-04-18T12:00:00.000Z"
             ],
             "8404": [
               "8402",
@@ -3668,20 +3792,20 @@
               "2026-04-18T16:00:00.000Z"
             ],
             "8476": [
-              "8608",
-              "Tromsø",
-              "5105081",
+              "8007",
+              "Vålerenga",
+              "5104877",
               {
-                "id": "8608",
-                "name": "Tromsø",
-                "shortName": "Tromsø"
+                "id": "8007",
+                "name": "Vålerenga",
+                "shortName": "Vålerenga"
               },
               {
                 "id": "8476",
                 "name": "Lillestrøm",
                 "shortName": "Lillestrøm"
               },
-              "2026-04-15T17:00:00.000Z"
+              "2026-04-19T12:30:00.000Z"
             ],
             "8478": [
               "8468",
@@ -3700,20 +3824,20 @@
               "2026-04-18T16:00:00.000Z"
             ],
             "8509": [
-              "8402",
-              "Bodø/Glimt",
-              "5104846",
+              "8608",
+              "Tromsø",
+              "5104880",
               {
                 "id": "8509",
                 "name": "Sarpsborg 08",
                 "shortName": "Sarpsborg 08"
               },
               {
-                "id": "8402",
-                "name": "Bodø/Glimt",
-                "shortName": "Bodø/Glimt"
+                "id": "8608",
+                "name": "Tromsø",
+                "shortName": "Tromsø"
               },
-              "2026-04-15T17:00:00.000Z"
+              "2026-04-19T15:00:00.000Z"
             ],
             "8605": [
               "8417",
@@ -3732,20 +3856,20 @@
               "2026-04-19T15:00:00.000Z"
             ],
             "8608": [
-              "8476",
-              "Lillestrøm",
-              "5105081",
+              "8509",
+              "Sarpsborg 08",
+              "5104880",
+              {
+                "id": "8509",
+                "name": "Sarpsborg 08",
+                "shortName": "Sarpsborg 08"
+              },
               {
                 "id": "8608",
                 "name": "Tromsø",
                 "shortName": "Tromsø"
               },
-              {
-                "id": "8476",
-                "name": "Lillestrøm",
-                "shortName": "Lillestrøm"
-              },
-              "2026-04-15T17:00:00.000Z"
+              "2026-04-19T15:00:00.000Z"
             ],
             "8609": [
               "8422",
@@ -6859,14 +6983,31 @@
                     "pageUrl": "/teams/8608/overview/tromso",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 4,
+                    "played": 5,
                     "wins": 4,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "10-1",
                     "goalConDiff": 9,
-                    "pts": 12,
+                    "pts": 13,
                     "idx": 1,
+                    "qualColor": "#FFD908"
+                  },
+                  {
+                    "name": "Lillestrøm",
+                    "shortName": "Lillestrøm",
+                    "id": 8476,
+                    "pageUrl": "/teams/8476/overview/lillestrom",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 4,
+                    "wins": 3,
+                    "draws": 1,
+                    "losses": 0,
+                    "scoresStr": "7-2",
+                    "goalConDiff": 5,
+                    "pts": 10,
+                    "idx": 2,
                     "qualColor": "#FFD908"
                   },
                   {
@@ -6882,23 +7023,6 @@
                     "losses": 1,
                     "scoresStr": "11-3",
                     "goalConDiff": 8,
-                    "pts": 9,
-                    "idx": 2,
-                    "qualColor": "#FFD908"
-                  },
-                  {
-                    "name": "Lillestrøm",
-                    "shortName": "Lillestrøm",
-                    "id": 8476,
-                    "pageUrl": "/teams/8476/overview/lillestrom",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 3,
-                    "wins": 3,
-                    "draws": 0,
-                    "losses": 0,
-                    "scoresStr": "7-2",
-                    "goalConDiff": 5,
                     "pts": 9,
                     "idx": 3,
                     "qualColor": "#02CCF0"
@@ -6978,13 +7102,13 @@
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 3,
+                    "played": 4,
                     "wins": 1,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 1,
-                    "scoresStr": "4-3",
+                    "scoresStr": "5-4",
                     "goalConDiff": 1,
-                    "pts": 4,
+                    "pts": 5,
                     "idx": 8,
                     "qualColor": null
                   },
@@ -7006,6 +7130,23 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Bodø/Glimt",
+                    "shortName": "Bodø/Glimt",
+                    "id": 8402,
+                    "pageUrl": "/teams/8402/overview/bodoglimt",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 3,
+                    "wins": 1,
+                    "draws": 1,
+                    "losses": 1,
+                    "scoresStr": "4-6",
+                    "goalConDiff": -2,
+                    "pts": 4,
+                    "idx": 10,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Brann",
                     "shortName": "Brann",
                     "id": 8468,
@@ -7018,23 +7159,6 @@
                     "losses": 3,
                     "scoresStr": "8-7",
                     "goalConDiff": 1,
-                    "pts": 3,
-                    "idx": 10,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Bodø/Glimt",
-                    "shortName": "Bodø/Glimt",
-                    "id": 8402,
-                    "pageUrl": "/teams/8402/overview/bodoglimt",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
-                    "wins": 1,
-                    "draws": 0,
-                    "losses": 1,
-                    "scoresStr": "3-5",
-                    "goalConDiff": -2,
                     "pts": 3,
                     "idx": 11,
                     "qualColor": null
@@ -7133,14 +7257,14 @@
                     "pageUrl": "/teams/8608/overview/tromso",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 3,
+                    "played": 4,
                     "wins": 3,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "8-0",
                     "goalConDiff": 8,
                     "goalsScored": 8,
-                    "pts": 9,
+                    "pts": 10,
                     "idx": 1,
                     "qualColor": "#FFD908"
                   },
@@ -7313,14 +7437,14 @@
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 1,
+                    "played": 2,
                     "wins": 0,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 0,
-                    "scoresStr": "1-1",
+                    "scoresStr": "2-2",
                     "goalConDiff": 0,
-                    "goalsScored": 1,
-                    "pts": 1,
+                    "goalsScored": 2,
+                    "pts": 2,
                     "idx": 11,
                     "qualColor": null
                   },
@@ -7423,14 +7547,14 @@
                     "pageUrl": "/teams/8476/overview/lillestrom",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 2,
+                    "played": 3,
                     "wins": 2,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "4-1",
                     "goalConDiff": 3,
                     "goalsScored": 4,
-                    "pts": 6,
+                    "pts": 7,
                     "idx": 1,
                     "qualColor": "#FFD908"
                   },
@@ -7471,6 +7595,24 @@
                     "qualColor": "#02CCF0"
                   },
                   {
+                    "name": "Bodø/Glimt",
+                    "shortName": "Bodø/Glimt",
+                    "id": 8402,
+                    "pageUrl": "/teams/8402/overview/bodoglimt",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 3,
+                    "wins": 1,
+                    "draws": 1,
+                    "losses": 1,
+                    "scoresStr": "4-6",
+                    "goalConDiff": -2,
+                    "goalsScored": 4,
+                    "pts": 4,
+                    "idx": 4,
+                    "qualColor": "#02CCF0"
+                  },
+                  {
                     "name": "Brann",
                     "shortName": "Brann",
                     "id": 8468,
@@ -7485,8 +7627,8 @@
                     "goalConDiff": 3,
                     "goalsScored": 7,
                     "pts": 3,
-                    "idx": 4,
-                    "qualColor": "#02CCF0"
+                    "idx": 5,
+                    "qualColor": null
                   },
                   {
                     "name": "Sarpsborg 08",
@@ -7503,7 +7645,7 @@
                     "goalConDiff": 1,
                     "goalsScored": 3,
                     "pts": 3,
-                    "idx": 5,
+                    "idx": 6,
                     "qualColor": null
                   },
                   {
@@ -7521,7 +7663,7 @@
                     "goalConDiff": 1,
                     "goalsScored": 2,
                     "pts": 3,
-                    "idx": 6,
+                    "idx": 7,
                     "qualColor": null
                   },
                   {
@@ -7538,24 +7680,6 @@
                     "scoresStr": "2-2",
                     "goalConDiff": 0,
                     "goalsScored": 2,
-                    "pts": 3,
-                    "idx": 7,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Bodø/Glimt",
-                    "shortName": "Bodø/Glimt",
-                    "id": 8402,
-                    "pageUrl": "/teams/8402/overview/bodoglimt",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 2,
-                    "wins": 1,
-                    "draws": 0,
-                    "losses": 1,
-                    "scoresStr": "3-5",
-                    "goalConDiff": -2,
-                    "goalsScored": 3,
                     "pts": 3,
                     "idx": 8,
                     "qualColor": null
@@ -7712,16 +7836,34 @@
                     "featuredInMatch": false,
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
-                    "played": 4,
+                    "played": 5,
                     "wins": 4,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "10-1",
                     "goalConDiff": 9,
                     "goalsScored": 10,
-                    "pts": 12,
+                    "pts": 13,
                     "ongoing": null,
                     "idx": 1,
+                    "qualColor": "#FFD908"
+                  },
+                  {
+                    "name": "Lillestrøm",
+                    "shortName": "Lillestrøm",
+                    "featuredInMatch": false,
+                    "id": 8476,
+                    "pageUrl": "/teams/8476/overview/lillestrom",
+                    "played": 4,
+                    "wins": 3,
+                    "draws": 1,
+                    "losses": 0,
+                    "scoresStr": "7-2",
+                    "goalConDiff": 5,
+                    "goalsScored": 7,
+                    "pts": 10,
+                    "ongoing": null,
+                    "idx": 2,
                     "qualColor": "#FFD908"
                   },
                   {
@@ -7737,24 +7879,6 @@
                     "scoresStr": "11-3",
                     "goalConDiff": 8,
                     "goalsScored": 11,
-                    "pts": 9,
-                    "ongoing": null,
-                    "idx": 2,
-                    "qualColor": "#FFD908"
-                  },
-                  {
-                    "name": "Lillestrøm",
-                    "shortName": "Lillestrøm",
-                    "featuredInMatch": false,
-                    "id": 8476,
-                    "pageUrl": "/teams/8476/overview/lillestrom",
-                    "played": 3,
-                    "wins": 3,
-                    "draws": 0,
-                    "losses": 0,
-                    "scoresStr": "7-2",
-                    "goalConDiff": 5,
-                    "goalsScored": 7,
                     "pts": 9,
                     "ongoing": null,
                     "idx": 3,
@@ -7838,14 +7962,14 @@
                     "featuredInMatch": false,
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
-                    "played": 3,
+                    "played": 4,
                     "wins": 1,
-                    "draws": 1,
+                    "draws": 2,
                     "losses": 1,
-                    "scoresStr": "4-3",
+                    "scoresStr": "5-4",
                     "goalConDiff": 1,
-                    "goalsScored": 4,
-                    "pts": 4,
+                    "goalsScored": 5,
+                    "pts": 5,
                     "ongoing": null,
                     "idx": 8,
                     "qualColor": null
@@ -7869,6 +7993,24 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Bodø/Glimt",
+                    "shortName": "Bodø/Glimt",
+                    "featuredInMatch": false,
+                    "id": 8402,
+                    "pageUrl": "/teams/8402/overview/bodoglimt",
+                    "played": 3,
+                    "wins": 1,
+                    "draws": 1,
+                    "losses": 1,
+                    "scoresStr": "4-6",
+                    "goalConDiff": -2,
+                    "goalsScored": 4,
+                    "pts": 4,
+                    "ongoing": null,
+                    "idx": 10,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Brann",
                     "shortName": "Brann",
                     "featuredInMatch": false,
@@ -7881,24 +8023,6 @@
                     "scoresStr": "8-7",
                     "goalConDiff": 1,
                     "goalsScored": 8,
-                    "pts": 3,
-                    "ongoing": null,
-                    "idx": 10,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Bodø/Glimt",
-                    "shortName": "Bodø/Glimt",
-                    "featuredInMatch": false,
-                    "id": 8402,
-                    "pageUrl": "/teams/8402/overview/bodoglimt",
-                    "played": 2,
-                    "wins": 1,
-                    "draws": 0,
-                    "losses": 1,
-                    "scoresStr": "3-5",
-                    "goalConDiff": -2,
-                    "goalsScored": 3,
                     "pts": 3,
                     "ongoing": null,
                     "idx": 11,
@@ -8002,22 +8126,22 @@
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
                     "ongoing": null,
-                    "played": 4,
+                    "played": 5,
                     "wins": 4,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "10-1",
                     "goalConDiff": 9,
-                    "pts": 12,
+                    "pts": 13,
                     "teamId": 8608,
                     "teamName": "Tromsø",
-                    "xg": 10.844799995422363,
-                    "xgConceded": 3.041399985551834,
-                    "xPoints": 10.003539704960714,
+                    "xg": 12.10230004787445,
+                    "xgConceded": 4.732000023126602,
+                    "xPoints": 11.043965798270657,
                     "position": 1,
-                    "xgDiff": -0.8447999954223633,
-                    "xgConcededDiff": -2.041399985551834,
-                    "xPointsDiff": 1.9964602950392862,
+                    "xgDiff": -2.1023000478744507,
+                    "xgConcededDiff": -3.732000023126602,
+                    "xPointsDiff": 1.9560342017293433,
                     "xPosition": 1,
                     "idx": 1,
                     "xPositionDiff": 0,
@@ -8047,7 +8171,7 @@
                     "xPointsDiff": -0.2775173062693863,
                     "xPosition": 2,
                     "idx": 2,
-                    "xPositionDiff": 0,
+                    "xPositionDiff": 1,
                     "qualColor": "#FFD908"
                   },
                   {
@@ -8056,25 +8180,25 @@
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
                     "ongoing": null,
-                    "played": 3,
+                    "played": 4,
                     "wins": 3,
-                    "draws": 0,
+                    "draws": 1,
                     "losses": 0,
                     "scoresStr": "7-2",
                     "goalConDiff": 5,
-                    "pts": 9,
+                    "pts": 10,
                     "teamId": 8476,
                     "teamName": "Lillestrøm",
-                    "xg": 6.658100008964539,
-                    "xgConceded": 3.0047000646591187,
-                    "xPoints": 6.6761714571219475,
+                    "xg": 8.348700046539307,
+                    "xgConceded": 4.262200117111206,
+                    "xPoints": 8.37944104210839,
                     "position": 3,
-                    "xgDiff": 0.3418999910354614,
-                    "xgConcededDiff": -1.0047000646591187,
-                    "xPointsDiff": 2.3238285428780525,
+                    "xgDiff": -1.3487000465393066,
+                    "xgConcededDiff": -2.262200117111206,
+                    "xPointsDiff": 1.6205589578916104,
                     "xPosition": 3,
                     "idx": 3,
-                    "xPositionDiff": 0,
+                    "xPositionDiff": -1,
                     "qualColor": "#02CCF0"
                   },
                   {
@@ -8101,8 +8225,35 @@
                     "xPointsDiff": -3.4949322244050656,
                     "xPosition": 4,
                     "idx": 4,
-                    "xPositionDiff": 6,
+                    "xPositionDiff": 7,
                     "qualColor": "#02CCF0"
+                  },
+                  {
+                    "name": "Sarpsborg 08",
+                    "shortName": "Sarpsborg 08",
+                    "id": 8509,
+                    "pageUrl": "/teams/8509/overview/sarpsborg-08",
+                    "ongoing": null,
+                    "played": 4,
+                    "wins": 1,
+                    "draws": 2,
+                    "losses": 1,
+                    "scoresStr": "5-4",
+                    "goalConDiff": 1,
+                    "pts": 5,
+                    "teamId": 8509,
+                    "teamName": "Sarpsborg 08",
+                    "xg": 6.361799955368042,
+                    "xgConceded": 5.320800065994263,
+                    "xPoints": 6.311820865487633,
+                    "position": 5,
+                    "xgDiff": -1.361799955368042,
+                    "xgConcededDiff": -1.3208000659942627,
+                    "xPointsDiff": -1.3118208654876327,
+                    "xPosition": 5,
+                    "idx": 5,
+                    "xPositionDiff": 3,
+                    "qualColor": null
                   },
                   {
                     "name": "KFUM",
@@ -8122,13 +8273,13 @@
                     "xg": 5.455600142478943,
                     "xgConceded": 5.630299836397171,
                     "xPoints": 5.547766241635433,
-                    "position": 5,
+                    "position": 6,
                     "xgDiff": 0.5443998575210571,
                     "xgConcededDiff": 1.369700163602829,
                     "xPointsDiff": -1.5477662416354327,
-                    "xPosition": 5,
-                    "idx": 5,
-                    "xPositionDiff": 4,
+                    "xPosition": 6,
+                    "idx": 6,
+                    "xPositionDiff": 3,
                     "qualColor": null
                   },
                   {
@@ -8149,40 +8300,13 @@
                     "xg": 5.842399895191193,
                     "xgConceded": 6.1427000761032104,
                     "xPoints": 5.441583792408852,
-                    "position": 6,
+                    "position": 7,
                     "xgDiff": -2.8423998951911926,
                     "xgConcededDiff": -2.1427000761032104,
                     "xPointsDiff": 0.5584162075911481,
-                    "xPosition": 6,
-                    "idx": 6,
-                    "xPositionDiff": 1,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Sarpsborg 08",
-                    "shortName": "Sarpsborg 08",
-                    "id": 8509,
-                    "pageUrl": "/teams/8509/overview/sarpsborg-08",
-                    "ongoing": null,
-                    "played": 3,
-                    "wins": 1,
-                    "draws": 1,
-                    "losses": 1,
-                    "scoresStr": "4-3",
-                    "goalConDiff": 1,
-                    "pts": 4,
-                    "teamId": 8509,
-                    "teamName": "Sarpsborg 08",
-                    "xg": 4.686299920082092,
-                    "xgConceded": 3.371600031852722,
-                    "xPoints": 5.133189661977481,
-                    "position": 7,
-                    "xgDiff": -0.6862999200820923,
-                    "xgConcededDiff": -0.37160003185272217,
-                    "xPointsDiff": -1.1331896619774806,
                     "xPosition": 7,
                     "idx": 7,
-                    "xPositionDiff": 1,
+                    "xPositionDiff": 0,
                     "qualColor": null
                   },
                   {
@@ -8213,6 +8337,33 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Bodø/Glimt",
+                    "shortName": "Bodø/Glimt",
+                    "id": 8402,
+                    "pageUrl": "/teams/8402/overview/bodoglimt",
+                    "ongoing": null,
+                    "played": 3,
+                    "wins": 1,
+                    "draws": 1,
+                    "losses": 1,
+                    "scoresStr": "4-6",
+                    "goalConDiff": -2,
+                    "pts": 4,
+                    "teamId": 8402,
+                    "teamName": "Bodø/Glimt",
+                    "xg": 6.113400161266327,
+                    "xgConceded": 4.514400124549866,
+                    "xPoints": 4.778457750640248,
+                    "position": 9,
+                    "xgDiff": -2.113400161266327,
+                    "xgConcededDiff": 1.4855998754501343,
+                    "xPointsDiff": -0.7784577506402481,
+                    "xPosition": 9,
+                    "idx": 9,
+                    "xPositionDiff": 1,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Fredrikstad",
                     "shortName": "Fredrikstad",
                     "id": 8417,
@@ -8230,13 +8381,13 @@
                     "xg": 4.750099867582321,
                     "xgConceded": 7.304400205612183,
                     "xPoints": 4.355615122634505,
-                    "position": 9,
+                    "position": 10,
                     "xgDiff": 2.249900132417679,
                     "xgConcededDiff": 0.6955997943878174,
                     "xPointsDiff": 2.6443848773654954,
-                    "xPosition": 9,
-                    "idx": 9,
-                    "xPositionDiff": -4,
+                    "xPosition": 10,
+                    "idx": 10,
+                    "xPositionDiff": -5,
                     "qualColor": null
                   },
                   {
@@ -8257,13 +8408,13 @@
                     "xg": 3.822700083255768,
                     "xgConceded": 6.682799875736237,
                     "xPoints": 4.13730620014905,
-                    "position": 10,
+                    "position": 11,
                     "xgDiff": -1.8227000832557678,
                     "xgConcededDiff": 0.3172001242637634,
                     "xPointsDiff": -1.13730620014905,
-                    "xPosition": 10,
-                    "idx": 10,
-                    "xPositionDiff": 3,
+                    "xPosition": 11,
+                    "idx": 11,
+                    "xPositionDiff": 2,
                     "qualColor": null
                   },
                   {
@@ -8284,13 +8435,13 @@
                     "xg": 4.877700090408325,
                     "xgConceded": 6.980599999427795,
                     "xPoints": 4.1159912722144405,
-                    "position": 11,
+                    "position": 12,
                     "xgDiff": -0.8777000904083252,
                     "xgConcededDiff": -4.980599999427795,
                     "xPointsDiff": 2.8840087277855595,
-                    "xPosition": 11,
-                    "idx": 11,
-                    "xPositionDiff": -7,
+                    "xPosition": 12,
+                    "idx": 12,
+                    "xPositionDiff": -8,
                     "qualColor": null
                   },
                   {
@@ -8311,13 +8462,13 @@
                     "xg": 4.523799926042557,
                     "xgConceded": 6.198099970817566,
                     "xPoints": 4.039635051870793,
-                    "position": 12,
+                    "position": 13,
                     "xgDiff": -1.5237999260425568,
                     "xgConcededDiff": 0.8019000291824341,
                     "xPointsDiff": -2.0396350518707926,
-                    "xPosition": 12,
-                    "idx": 12,
-                    "xPositionDiff": 4,
+                    "xPosition": 13,
+                    "idx": 13,
+                    "xPositionDiff": 3,
                     "qualColor": null
                   },
                   {
@@ -8338,40 +8489,13 @@
                     "xg": 4.869500041007996,
                     "xgConceded": 8.74239993095398,
                     "xPoints": 3.28314103260257,
-                    "position": 13,
+                    "position": 14,
                     "xgDiff": 1.1304999589920044,
                     "xgConcededDiff": 0.2576000690460205,
                     "xPointsDiff": -1.28314103260257,
-                    "xPosition": 13,
-                    "idx": 13,
-                    "xPositionDiff": 2,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Bodø/Glimt",
-                    "shortName": "Bodø/Glimt",
-                    "id": 8402,
-                    "pageUrl": "/teams/8402/overview/bodoglimt",
-                    "ongoing": null,
-                    "played": 2,
-                    "wins": 1,
-                    "draws": 0,
-                    "losses": 1,
-                    "scoresStr": "3-5",
-                    "goalConDiff": -2,
-                    "pts": 3,
-                    "teamId": 8402,
-                    "teamName": "Bodø/Glimt",
-                    "xg": 4.164200127124786,
-                    "xgConceded": 2.838900089263916,
-                    "xPoints": 3.2014079900142476,
-                    "position": 14,
-                    "xgDiff": -1.1642001271247864,
-                    "xgConcededDiff": 2.161099910736084,
-                    "xPointsDiff": -0.20140799001424758,
                     "xPosition": 14,
                     "idx": 14,
-                    "xPositionDiff": -3,
+                    "xPositionDiff": 1,
                     "qualColor": "#FFA72F"
                   },
                   {
@@ -8753,6 +8877,37 @@
                     "id": "8478",
                     "name": "Viking",
                     "shortName": "Viking",
+                    "isOurTeam": false
+                  },
+                  "away": {
+                    "id": "8402",
+                    "name": "Bodø/Glimt",
+                    "shortName": "Bodø/Glimt",
+                    "isOurTeam": true
+                  }
+                },
+                {
+                  "result": 0,
+                  "resultString": "D",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8509_xsmall.png",
+                  "linkToMatch": "/matches/bodoglimt-vs-sarpsborg-08/2d55md#5104846",
+                  "date": null,
+                  "teamPageUrl": "/teams/8509/overview/sarpsborg-08",
+                  "tooltipText": {
+                    "utcTime": "2026-04-15T15:00:00.000Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Sarpsborg 08",
+                    "homeTeamId": 8509,
+                    "homeScore": 1,
+                    "awayTeam": "Bodø/Glimt",
+                    "awayTeamId": 8402,
+                    "awayScore": 1
+                  },
+                  "score": "1 - 1",
+                  "home": {
+                    "id": "8509",
+                    "name": "Sarpsborg 08",
+                    "shortName": "Sarpsborg 08",
                     "isOurTeam": false
                   },
                   "away": {
@@ -9455,6 +9610,37 @@
                     "shortName": "Start",
                     "isOurTeam": false
                   }
+                },
+                {
+                  "result": 0,
+                  "resultString": "D",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8608_xsmall.png",
+                  "linkToMatch": "/matches/lillestrom-vs-tromso/2ew6py#5105081",
+                  "date": null,
+                  "teamPageUrl": "/teams/8608/overview/tromso",
+                  "tooltipText": {
+                    "utcTime": "2026-04-15T15:00:00.000Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Tromsø",
+                    "homeTeamId": 8608,
+                    "homeScore": 0,
+                    "awayTeam": "Lillestrøm",
+                    "awayTeamId": 8476,
+                    "awayScore": 0
+                  },
+                  "score": "0 - 0",
+                  "home": {
+                    "id": "8608",
+                    "name": "Tromsø",
+                    "shortName": "Tromsø",
+                    "isOurTeam": false
+                  },
+                  "away": {
+                    "id": "8476",
+                    "name": "Lillestrøm",
+                    "shortName": "Lillestrøm",
+                    "isOurTeam": true
+                  }
                 }
               ],
               "8478": [
@@ -9676,6 +9862,37 @@
                     "shortName": "Sarpsborg 08",
                     "isOurTeam": true
                   }
+                },
+                {
+                  "result": 0,
+                  "resultString": "D",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_xsmall.png",
+                  "linkToMatch": "/matches/bodoglimt-vs-sarpsborg-08/2d55md#5104846",
+                  "date": null,
+                  "teamPageUrl": "/teams/8402/overview/bodoglimt",
+                  "tooltipText": {
+                    "utcTime": "2026-04-15T15:00:00.000Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Sarpsborg 08",
+                    "homeTeamId": 8509,
+                    "homeScore": 1,
+                    "awayTeam": "Bodø/Glimt",
+                    "awayTeamId": 8402,
+                    "awayScore": 1
+                  },
+                  "score": "1 - 1",
+                  "home": {
+                    "id": "8509",
+                    "name": "Sarpsborg 08",
+                    "shortName": "Sarpsborg 08",
+                    "isOurTeam": true
+                  },
+                  "away": {
+                    "id": "8402",
+                    "name": "Bodø/Glimt",
+                    "shortName": "Bodø/Glimt",
+                    "isOurTeam": false
+                  }
                 }
               ],
               "8605": [
@@ -9895,6 +10112,37 @@
                     "id": "8605",
                     "name": "Kristiansund",
                     "shortName": "Kristiansund",
+                    "isOurTeam": false
+                  }
+                },
+                {
+                  "result": 0,
+                  "resultString": "D",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8476_xsmall.png",
+                  "linkToMatch": "/matches/lillestrom-vs-tromso/2ew6py#5105081",
+                  "date": null,
+                  "teamPageUrl": "/teams/8476/overview/lillestrom",
+                  "tooltipText": {
+                    "utcTime": "2026-04-15T15:00:00.000Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Tromsø",
+                    "homeTeamId": 8608,
+                    "homeScore": 0,
+                    "awayTeam": "Lillestrøm",
+                    "awayTeamId": 8476,
+                    "awayScore": 0
+                  },
+                  "score": "0 - 0",
+                  "home": {
+                    "id": "8608",
+                    "name": "Tromsø",
+                    "shortName": "Tromsø",
+                    "isOurTeam": true
+                  },
+                  "away": {
+                    "id": "8476",
+                    "name": "Lillestrøm",
+                    "shortName": "Lillestrøm",
                     "isOurTeam": false
                   }
                 }
@@ -10312,20 +10560,20 @@
                 "2026-04-19T12:30:00.000Z"
               ],
               "8402": [
-                "8509",
-                "Sarpsborg 08",
-                "5104846",
-                {
-                  "id": "8509",
-                  "name": "Sarpsborg 08",
-                  "shortName": "Sarpsborg 08"
-                },
+                "8404",
+                "Aalesund",
+                "5104874",
                 {
                   "id": "8402",
                   "name": "Bodø/Glimt",
                   "shortName": "Bodø/Glimt"
                 },
-                "2026-04-15T17:00:00.000Z"
+                {
+                  "id": "8404",
+                  "name": "Aalesund",
+                  "shortName": "Aalesund"
+                },
+                "2026-04-18T12:00:00.000Z"
               ],
               "8404": [
                 "8402",
@@ -10408,20 +10656,20 @@
                 "2026-04-18T16:00:00.000Z"
               ],
               "8476": [
-                "8608",
-                "Tromsø",
-                "5105081",
+                "8007",
+                "Vålerenga",
+                "5104877",
                 {
-                  "id": "8608",
-                  "name": "Tromsø",
-                  "shortName": "Tromsø"
+                  "id": "8007",
+                  "name": "Vålerenga",
+                  "shortName": "Vålerenga"
                 },
                 {
                   "id": "8476",
                   "name": "Lillestrøm",
                   "shortName": "Lillestrøm"
                 },
-                "2026-04-15T17:00:00.000Z"
+                "2026-04-19T12:30:00.000Z"
               ],
               "8478": [
                 "8468",
@@ -10440,20 +10688,20 @@
                 "2026-04-18T16:00:00.000Z"
               ],
               "8509": [
-                "8402",
-                "Bodø/Glimt",
-                "5104846",
+                "8608",
+                "Tromsø",
+                "5104880",
                 {
                   "id": "8509",
                   "name": "Sarpsborg 08",
                   "shortName": "Sarpsborg 08"
                 },
                 {
-                  "id": "8402",
-                  "name": "Bodø/Glimt",
-                  "shortName": "Bodø/Glimt"
+                  "id": "8608",
+                  "name": "Tromsø",
+                  "shortName": "Tromsø"
                 },
-                "2026-04-15T17:00:00.000Z"
+                "2026-04-19T15:00:00.000Z"
               ],
               "8605": [
                 "8417",
@@ -10472,20 +10720,20 @@
                 "2026-04-19T15:00:00.000Z"
               ],
               "8608": [
-                "8476",
-                "Lillestrøm",
-                "5105081",
+                "8509",
+                "Sarpsborg 08",
+                "5104880",
+                {
+                  "id": "8509",
+                  "name": "Sarpsborg 08",
+                  "shortName": "Sarpsborg 08"
+                },
                 {
                   "id": "8608",
                   "name": "Tromsø",
                   "shortName": "Tromsø"
                 },
-                {
-                  "id": "8476",
-                  "name": "Lillestrøm",
-                  "shortName": "Lillestrøm"
-                },
-                "2026-04-15T17:00:00.000Z"
+                "2026-04-19T15:00:00.000Z"
               ],
               "8609": [
                 "8422",
@@ -10559,22 +10807,22 @@
           "byRating": {
             "players": [
               {
-                "id": 1377949,
-                "name": "Jens Hjertø-Dahl",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "rating": 8.44,
-                "value": 8.44,
+                "id": 625168,
+                "name": "Pontus Dahlberg",
+                "teamId": 8476,
+                "teamName": "Lillestrøm",
+                "rating": 8.31,
+                "value": 8.31,
                 "stat": {
                   "name": "rating",
-                  "value": 8.44,
+                  "value": 8.31,
                   "format": "fraction",
                   "fractions": 2
                 },
                 "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
@@ -10599,22 +10847,22 @@
                 }
               },
               {
-                "id": 625168,
-                "name": "Pontus Dahlberg",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "rating": 8.22,
-                "value": 8.22,
+                "id": 1377949,
+                "name": "Jens Hjertø-Dahl",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "rating": 8.05,
+                "value": 8.05,
                 "stat": {
                   "name": "rating",
-                  "value": 8.22,
+                  "value": 8.05,
                   "format": "fraction",
                   "fractions": 2
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -11929,32 +12177,41 @@
             "opponent": {
               "id": "8509",
               "name": "Sarpsborg 08",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "8509",
               "name": "Sarpsborg 08",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8402",
               "name": "Bodø/Glimt",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-04-15T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "15.04.2026 19:00:00"
+                "firstHalfStarted": "15.04.2026 19:00:18",
+                "secondHalfStarted": "15.04.2026 20:02:58"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 1",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -11976,19 +12233,28 @@
               "score": 0
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-04-15T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "15.04.2026 19:00:00"
+                "firstHalfStarted": "15.04.2026 19:00:07",
+                "secondHalfStarted": "15.04.2026 20:02:23"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 0",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -18444,8 +18710,8 @@
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 31,
-            "firstUnplayedMatchId": "5104846"
+            "firstUnplayedMatchIndex": 32,
+            "firstUnplayedMatchId": "5104874"
           },
           "allMatches": [
             {
@@ -19394,12 +19660,21 @@
               "status": {
                 "utcTime": "2026-04-15T17:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "15.04.2026 19:00:00"
+                  "firstHalfStarted": "15.04.2026 19:00:18",
+                  "secondHalfStarted": "15.04.2026 20:02:58"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "1 - 1",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -19420,12 +19695,21 @@
               "status": {
                 "utcTime": "2026-04-15T17:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "15.04.2026 19:00:00"
+                  "firstHalfStarted": "15.04.2026 19:00:07",
+                  "secondHalfStarted": "15.04.2026 20:02:23"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "0 - 0",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -24630,6 +24914,27 @@
                 }
               },
               {
+                "id": 1377949,
+                "name": "Jens Hjertø-Dahl",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 4,
+                "stat": {
+                  "name": "_goals_and_goal_assist",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 168832,
                 "name": "Thomas Lehne Olsen",
                 "rank": 2,
@@ -24649,27 +24954,6 @@
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
-              },
-              {
-                "id": 1377949,
-                "name": "Jens Hjertø-Dahl",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 4,
-                "stat": {
-                  "name": "_goals_and_goal_assist",
-                  "value": 4,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
               }
             ],
             "order": 3,
@@ -24680,16 +24964,16 @@
           {
             "header": "FotMob rating",
             "participant": {
-              "id": 1377949,
-              "name": "Jens Hjertø-Dahl",
+              "id": 625168,
+              "name": "Pontus Dahlberg",
               "rank": 1,
-              "ccode": "NOR",
-              "teamId": 8608,
-              "teamName": "Tromsø",
-              "value": 8.44,
+              "ccode": "SWE",
+              "teamId": 8476,
+              "teamName": "Lillestrøm",
+              "value": 8.31,
               "stat": {
                 "name": "rating",
-                "value": 8.44,
+                "value": 8.31,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -24697,23 +24981,23 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/rating.json",
             "topThree": [
               {
-                "id": 1377949,
-                "name": "Jens Hjertø-Dahl",
+                "id": 625168,
+                "name": "Pontus Dahlberg",
                 "rank": 1,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 8.44,
+                "ccode": "SWE",
+                "teamId": 8476,
+                "teamName": "Lillestrøm",
+                "value": 8.31,
                 "stat": {
                   "name": "rating",
-                  "value": 8.44,
+                  "value": 8.31,
                   "format": "fraction",
                   "fractions": 2
                 },
                 "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
@@ -24739,23 +25023,23 @@
                 }
               },
               {
-                "id": 625168,
-                "name": "Pontus Dahlberg",
+                "id": 1377949,
+                "name": "Jens Hjertø-Dahl",
                 "rank": 3,
-                "ccode": "SWE",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "value": 8.22,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 8.05,
                 "stat": {
                   "name": "rating",
-                  "value": 8.22,
+                  "value": 8.05,
                   "format": "fraction",
                   "fractions": 2
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -24768,16 +25052,16 @@
           {
             "header": "Minutes played",
             "participant": {
-              "id": 1047528,
-              "name": "Aaron Kiil Olsen",
+              "id": 1281041,
+              "name": "Isak Vådebu",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 8007,
-              "teamName": "Vålerenga",
-              "value": 360,
+              "teamId": 8608,
+              "teamName": "Tromsø",
+              "value": 450,
               "stat": {
                 "name": "mins_played",
-                "value": 360,
+                "value": 450,
                 "format": "number",
                 "fractions": 0
               }
@@ -24785,64 +25069,64 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/mins_played.json",
             "topThree": [
               {
-                "id": 1047528,
-                "name": "Aaron Kiil Olsen",
+                "id": 1281041,
+                "name": "Isak Vådebu",
                 "rank": 1,
                 "ccode": "NOR",
-                "teamId": 8007,
-                "teamName": "Vålerenga",
-                "value": 360,
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 450,
                 "stat": {
                   "name": "mins_played",
-                  "value": 360,
+                  "value": 450,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#333bb3",
-                  "lightMode": "#283090",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 119598,
-                "name": "Arild Østbø",
+                "id": 188971,
+                "name": "Jakob Haugaard",
                 "rank": 1,
-                "ccode": "NOR",
-                "teamId": 8478,
-                "teamName": "Viking FK",
-                "value": 360,
+                "ccode": "DEN",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 450,
                 "stat": {
                   "name": "mins_played",
-                  "value": 360,
+                  "value": 450,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 1280719,
-                "name": "Daniel Schneider",
+                "id": 1250673,
+                "name": "Tobias Guddal",
                 "rank": 1,
                 "ccode": "NOR",
-                "teamId": 2305,
-                "teamName": "KFUM Oslo",
-                "value": 360,
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 450,
                 "stat": {
                   "name": "mins_played",
-                  "value": 360,
+                  "value": 450,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#E60000",
-                  "lightMode": "#E60000",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -24862,10 +25146,10 @@
               "ccode": "NOR",
               "teamId": 8608,
               "teamName": "Tromsø",
-              "value": 1.4,
+              "value": 1.04,
               "stat": {
                 "name": "goals_per_90",
-                "value": 1.4,
+                "value": 1.04,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -24879,10 +25163,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 1.4,
+                "value": 1.04,
                 "stat": {
                   "name": "goals_per_90",
-                  "value": 1.4,
+                  "value": 1.04,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -24894,44 +25178,44 @@
                 }
               },
               {
-                "id": 1344554,
-                "name": "Daniel Braut",
+                "id": 962795,
+                "name": "Emil Breivik",
                 "rank": 2,
                 "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 1.35,
+                "teamId": 9917,
+                "teamName": "Molde",
+                "value": 1,
                 "stat": {
                   "name": "goals_per_90",
-                  "value": 1.35,
+                  "value": 1,
                   "format": "fraction",
                   "fractions": 2
                 },
                 "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
+                  "darkMode": "#0068b0",
+                  "lightMode": "#0D47A0",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 168832,
-                "name": "Thomas Lehne Olsen",
+                "id": 1636186,
+                "name": "Niklas Fuglestad",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "value": 1.08,
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 0.91,
                 "stat": {
                   "name": "goals_per_90",
-                  "value": 1.08,
+                  "value": 0.91,
                   "format": "fraction",
                   "fractions": 2
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -24950,10 +25234,10 @@
               "ccode": "NOR",
               "teamId": 8608,
               "teamName": "Tromsø",
-              "value": 3.5,
+              "value": 3.6,
               "stat": {
                 "name": "expected_goals",
-                "value": 3.5,
+                "value": 3.6,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -24967,10 +25251,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 3.5,
+                "value": 3.6,
                 "stat": {
                   "name": "expected_goals",
-                  "value": 3.5,
+                  "value": 3.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25038,10 +25322,10 @@
               "ccode": "NOR",
               "teamId": 8608,
               "teamName": "Tromsø",
-              "value": 1.04,
+              "value": 0.94,
               "stat": {
                 "name": "expected_goals_per_90",
-                "value": 1.04,
+                "value": 0.94,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -25055,10 +25339,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 1.04,
+                "value": 0.94,
                 "stat": {
                   "name": "expected_goals_per_90",
-                  "value": 1.04,
+                  "value": 0.94,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -25070,16 +25354,37 @@
                 }
               },
               {
-                "id": 1377949,
-                "name": "Jens Hjertø-Dahl",
+                "id": 1636186,
+                "name": "Niklas Fuglestad",
                 "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 0.89,
+                "stat": {
+                  "name": "expected_goals_per_90",
+                  "value": 0.89,
+                  "format": "fraction",
+                  "fractions": 2
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1344554,
+                "name": "Daniel Braut",
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 0.95,
+                "value": 0.75,
                 "stat": {
                   "name": "expected_goals_per_90",
-                  "value": 0.95,
+                  "value": 0.75,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -25087,27 +25392,6 @@
                   "darkMode": "#EB131C",
                   "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 168832,
-                "name": "Thomas Lehne Olsen",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "value": 0.91,
-                "stat": {
-                  "name": "expected_goals_per_90",
-                  "value": 0.91,
-                  "format": "fraction",
-                  "fractions": 2
-                },
-                "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -25179,12 +25463,12 @@
                 }
               },
               {
-                "id": 1267374,
-                "name": "Simen Kvia-Egeskog",
+                "id": 1377949,
+                "name": "Jens Hjertø-Dahl",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8478,
-                "teamName": "Viking FK",
+                "teamId": 8608,
+                "teamName": "Tromsø",
                 "value": 2.8,
                 "stat": {
                   "name": "expected_goalsontarget",
@@ -25193,8 +25477,8 @@
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -25208,16 +25492,16 @@
           {
             "header": "Shots on target per 90",
             "participant": {
-              "id": 168832,
-              "name": "Thomas Lehne Olsen",
+              "id": 1347272,
+              "name": "Trent Koné-Doherty",
               "rank": 1,
-              "ccode": "NOR",
-              "teamId": 8476,
-              "teamName": "Lillestrøm",
-              "value": 2.5,
+              "ccode": "IRL",
+              "teamId": 9917,
+              "teamName": "Molde",
+              "value": 2.2,
               "stat": {
                 "name": "ontarget_scoring_att",
-                "value": 2.5,
+                "value": 2.2,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -25225,51 +25509,9 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/ontarget_scoring_att.json",
             "topThree": [
               {
-                "id": 168832,
-                "name": "Thomas Lehne Olsen",
-                "rank": 1,
-                "ccode": "NOR",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "value": 2.5,
-                "stat": {
-                  "name": "ontarget_scoring_att",
-                  "value": 2.5,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1377949,
-                "name": "Jens Hjertø-Dahl",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 2.5,
-                "stat": {
-                  "name": "ontarget_scoring_att",
-                  "value": 2.5,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 1347272,
                 "name": "Trent Koné-Doherty",
-                "rank": 3,
+                "rank": 1,
                 "ccode": "IRL",
                 "teamId": 9917,
                 "teamName": "Molde",
@@ -25286,43 +25528,18 @@
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
-              }
-            ],
-            "order": 15,
-            "name": "ontarget_scoring_att",
-            "localizedTitleId": "shots_on_target_per_90",
-            "category": "Attacking"
-          },
-          {
-            "header": "Shots per 90",
-            "participant": {
-              "id": 1377949,
-              "name": "Jens Hjertø-Dahl",
-              "rank": 1,
-              "ccode": "NOR",
-              "teamId": 8608,
-              "teamName": "Tromsø",
-              "value": 5.3,
-              "stat": {
-                "name": "total_scoring_att",
-                "value": 5.3,
-                "format": "fraction",
-                "fractions": 1
-              }
-            },
-            "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/total_scoring_att.json",
-            "topThree": [
+              },
               {
                 "id": 1377949,
                 "name": "Jens Hjertø-Dahl",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 5.3,
+                "value": 2.1,
                 "stat": {
-                  "name": "total_scoring_att",
-                  "value": 5.3,
+                  "name": "ontarget_scoring_att",
+                  "value": 2.1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25336,14 +25553,14 @@
               {
                 "id": 168832,
                 "name": "Thomas Lehne Olsen",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8476,
                 "teamName": "Lillestrøm",
-                "value": 4.7,
+                "value": 2,
                 "stat": {
-                  "name": "total_scoring_att",
-                  "value": 4.7,
+                  "name": "ontarget_scoring_att",
+                  "value": 2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25353,11 +25570,36 @@
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
-              },
+              }
+            ],
+            "order": 15,
+            "name": "ontarget_scoring_att",
+            "localizedTitleId": "shots_on_target_per_90",
+            "category": "Attacking"
+          },
+          {
+            "header": "Shots per 90",
+            "participant": {
+              "id": 1186576,
+              "name": "Noah Holm",
+              "rank": 1,
+              "ccode": "NOR",
+              "teamId": 8468,
+              "teamName": "Brann",
+              "value": 4.6,
+              "stat": {
+                "name": "total_scoring_att",
+                "value": 4.6,
+                "format": "fraction",
+                "fractions": 1
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/total_scoring_att.json",
+            "topThree": [
               {
                 "id": 1186576,
                 "name": "Noah Holm",
-                "rank": 3,
+                "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8468,
                 "teamName": "Brann",
@@ -25371,6 +25613,48 @@
                 "teamColors": {
                   "darkMode": "#DE1215",
                   "lightMode": "#DE1215",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1377949,
+                "name": "Jens Hjertø-Dahl",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 4.1,
+                "stat": {
+                  "name": "total_scoring_att",
+                  "value": 4.1,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1352482,
+                "name": "Leander Alvheim",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8605,
+                "teamName": "Kristiansund",
+                "value": 3.8,
+                "stat": {
+                  "name": "total_scoring_att",
+                  "value": 3.8,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#2c528c",
+                  "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -25390,10 +25674,10 @@
               "ccode": "NOR",
               "teamId": 8402,
               "teamName": "Bodø/Glimt",
-              "value": 111.3,
+              "value": 116.4,
               "stat": {
                 "name": "accurate_pass",
-                "value": 111.3,
+                "value": 116.4,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -25407,10 +25691,10 @@
                 "ccode": "NOR",
                 "teamId": 8402,
                 "teamName": "Bodø/Glimt",
-                "value": 111.3,
+                "value": 116.4,
                 "stat": {
                   "name": "accurate_pass",
-                  "value": 111.3,
+                  "value": 116.4,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25428,10 +25712,10 @@
                 "ccode": "NOR",
                 "teamId": 8402,
                 "teamName": "Bodø/Glimt",
-                "value": 106.5,
+                "value": 105.7,
                 "stat": {
                   "name": "accurate_pass",
-                  "value": 106.5,
+                  "value": 105.7,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25443,23 +25727,23 @@
                 }
               },
               {
-                "id": 1250673,
-                "name": "Tobias Guddal",
+                "id": 540929,
+                "name": "Jostein Gundersen",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 79,
+                "teamId": 8402,
+                "teamName": "Bodø/Glimt",
+                "value": 90.7,
                 "stat": {
                   "name": "accurate_pass",
-                  "value": 79,
+                  "value": 90.7,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -25604,10 +25888,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 13,
+                "value": 15,
                 "stat": {
                   "name": "total_att_assist",
-                  "value": 13,
+                  "value": 15,
                   "format": "number",
                   "fractions": 0
                 },
@@ -25648,16 +25932,16 @@
           {
             "header": "Accurate long balls per 90",
             "participant": {
-              "id": 935100,
-              "name": "Vetle Skjærvik",
+              "id": 1734316,
+              "name": "Abubacarr Sedi Kinteh",
               "rank": 1,
-              "ccode": "NOR",
+              "ccode": "GAM",
               "teamId": 8608,
               "teamName": "Tromsø",
-              "value": 6.3,
+              "value": 7.2,
               "stat": {
                 "name": "accurate_long_balls",
-                "value": 6.3,
+                "value": 7.2,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -25665,16 +25949,16 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/accurate_long_balls.json",
             "topThree": [
               {
-                "id": 935100,
-                "name": "Vetle Skjærvik",
+                "id": 1734316,
+                "name": "Abubacarr Sedi Kinteh",
                 "rank": 1,
-                "ccode": "NOR",
+                "ccode": "GAM",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 6.3,
+                "value": 7.2,
                 "stat": {
                   "name": "accurate_long_balls",
-                  "value": 6.3,
+                  "value": 7.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25686,37 +25970,37 @@
                 }
               },
               {
-                "id": 836689,
-                "name": "Birk Risa",
+                "id": 1250673,
+                "name": "Tobias Guddal",
                 "rank": 2,
                 "ccode": "NOR",
-                "teamId": 9917,
-                "teamName": "Molde",
-                "value": 6,
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 6.4,
                 "stat": {
                   "name": "accurate_long_balls",
-                  "value": 6,
+                  "value": 6.4,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#0068b0",
-                  "lightMode": "#0D47A0",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 1250673,
-                "name": "Tobias Guddal",
+                "id": 935100,
+                "name": "Vetle Skjærvik",
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 5.8,
+                "value": 6.4,
                 "stat": {
                   "name": "accurate_long_balls",
-                  "value": 5.8,
+                  "value": 6.4,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25883,23 +26167,23 @@
                 }
               },
               {
-                "id": 313128,
-                "name": "Kristoffer Haugen",
+                "id": 741397,
+                "name": "Jens Petter Hauge",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8478,
-                "teamName": "Viking FK",
-                "value": 0.57,
+                "teamId": 8402,
+                "teamName": "Bodø/Glimt",
+                "value": 0.59,
                 "stat": {
                   "name": "expected_assists_per_90",
-                  "value": 0.57,
+                  "value": 0.59,
                   "format": "fraction",
                   "fractions": 2
                 },
                 "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -25956,10 +26240,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 1.2,
+                "value": 1.09,
                 "stat": {
                   "name": "_expected_goals_and_expected_assists_per_90",
-                  "value": 1.2,
+                  "value": 1.09,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -26478,9 +26762,30 @@
                 }
               },
               {
+                "id": 1734316,
+                "name": "Abubacarr Sedi Kinteh",
+                "rank": 2,
+                "ccode": "GAM",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 3.6,
+                "stat": {
+                  "name": "interception",
+                  "value": 3.6,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 936341,
                 "name": "Solomon Owusu",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "GHA",
                 "teamId": 8417,
                 "teamName": "Fredrikstad",
@@ -26494,27 +26799,6 @@
                 "teamColors": {
                   "darkMode": "#f13c26",
                   "lightMode": "#f13c26",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1280627,
-                "name": "Syver Skundberg Skeide",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8605,
-                "teamName": "Kristiansund",
-                "value": 3,
-                "stat": {
-                  "name": "interception",
-                  "value": 3,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#2c528c",
-                  "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -26939,23 +27223,23 @@
                 }
               },
               {
-                "id": 741397,
-                "name": "Jens Petter Hauge",
+                "id": 530659,
+                "name": "Petter Strand",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8402,
-                "teamName": "Bodø/Glimt",
-                "value": 2.4,
+                "teamId": 8007,
+                "teamName": "Vålerenga",
+                "value": 1.9,
                 "stat": {
                   "name": "poss_won_att_3rd",
-                  "value": 2.4,
+                  "value": 1.9,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#f8dc03",
-                  "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#333bb3",
+                  "lightMode": "#283090",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -26974,10 +27258,10 @@
               "ccode": "DEN",
               "teamId": 8608,
               "teamName": "Tromsø",
-              "value": 3,
+              "value": 4,
               "stat": {
                 "name": "clean_sheet",
-                "value": 3,
+                "value": 4,
                 "format": "number",
                 "fractions": 0
               }
@@ -26991,10 +27275,10 @@
                 "ccode": "DEN",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 3,
+                "value": 4,
                 "stat": {
                   "name": "clean_sheet",
-                  "value": 3,
+                  "value": 4,
                   "format": "number",
                   "fractions": 0
                 },
@@ -27027,12 +27311,12 @@
                 }
               },
               {
-                "id": 119598,
-                "name": "Arild Østbø",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8478,
-                "teamName": "Viking FK",
+                "id": 625168,
+                "name": "Pontus Dahlberg",
+                "rank": 2,
+                "ccode": "SWE",
+                "teamId": 8476,
+                "teamName": "Lillestrøm",
                 "value": 2,
                 "stat": {
                   "name": "clean_sheet",
@@ -27041,9 +27325,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -27056,16 +27340,16 @@
           {
             "header": "Save percentage",
             "participant": {
-              "id": 625168,
-              "name": "Pontus Dahlberg",
+              "id": 188971,
+              "name": "Jakob Haugaard",
               "rank": 1,
-              "ccode": "SWE",
-              "teamId": 8476,
-              "teamName": "Lillestrøm",
-              "value": 86.7,
+              "ccode": "DEN",
+              "teamId": 8608,
+              "teamName": "Tromsø",
+              "value": 91.7,
               "stat": {
                 "name": "_save_percentage",
-                "value": 86.7,
+                "value": 91.7,
                 "format": "percent",
                 "fractions": 1
               }
@@ -27073,16 +27357,37 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/_save_percentage.json",
             "topThree": [
               {
+                "id": 188971,
+                "name": "Jakob Haugaard",
+                "rank": 1,
+                "ccode": "DEN",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 91.7,
+                "stat": {
+                  "name": "_save_percentage",
+                  "value": 91.7,
+                  "format": "percent",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 625168,
                 "name": "Pontus Dahlberg",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "SWE",
                 "teamId": 8476,
                 "teamName": "Lillestrøm",
-                "value": 86.7,
+                "value": 90.5,
                 "stat": {
                   "name": "_save_percentage",
-                  "value": 86.7,
+                  "value": 90.5,
                   "format": "percent",
                   "fractions": 1
                 },
@@ -27096,7 +27401,7 @@
               {
                 "id": 767206,
                 "name": "Oscar Hedvall",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "DEN",
                 "teamId": 8007,
                 "teamName": "Vålerenga",
@@ -27110,27 +27415,6 @@
                 "teamColors": {
                   "darkMode": "#333bb3",
                   "lightMode": "#283090",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 188971,
-                "name": "Jakob Haugaard",
-                "rank": 3,
-                "ccode": "DEN",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 83.3,
-                "stat": {
-                  "name": "_save_percentage",
-                  "value": 83.3,
-                  "format": "percent",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -27182,9 +27466,30 @@
                 }
               },
               {
+                "id": 625168,
+                "name": "Pontus Dahlberg",
+                "rank": 1,
+                "ccode": "SWE",
+                "teamId": 8476,
+                "teamName": "Lillestrøm",
+                "value": 4.8,
+                "stat": {
+                  "name": "saves",
+                  "value": 4.8,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1280650,
                 "name": "Adrian Sæther",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8605,
                 "teamName": "Kristiansund",
@@ -27201,27 +27506,6 @@
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
-              },
-              {
-                "id": 625168,
-                "name": "Pontus Dahlberg",
-                "rank": 2,
-                "ccode": "SWE",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "value": 4.3,
-                "stat": {
-                  "name": "saves",
-                  "value": 4.3,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
               }
             ],
             "order": 37,
@@ -27232,16 +27516,16 @@
           {
             "header": "Goals prevented",
             "participant": {
-              "id": 767206,
-              "name": "Oscar Hedvall",
+              "id": 625168,
+              "name": "Pontus Dahlberg",
               "rank": 1,
-              "ccode": "DEN",
-              "teamId": 8007,
-              "teamName": "Vålerenga",
-              "value": 3,
+              "ccode": "SWE",
+              "teamId": 8476,
+              "teamName": "Lillestrøm",
+              "value": 3.7,
               "stat": {
                 "name": "_goals_prevented",
-                "value": 3,
+                "value": 3.7,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -27249,9 +27533,30 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/_goals_prevented.json",
             "topThree": [
               {
+                "id": 625168,
+                "name": "Pontus Dahlberg",
+                "rank": 1,
+                "ccode": "SWE",
+                "teamId": 8476,
+                "teamName": "Lillestrøm",
+                "value": 3.7,
+                "stat": {
+                  "name": "_goals_prevented",
+                  "value": 3.7,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 767206,
                 "name": "Oscar Hedvall",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "DEN",
                 "teamId": 8007,
                 "teamName": "Vålerenga",
@@ -27270,37 +27575,16 @@
                 }
               },
               {
-                "id": 625168,
-                "name": "Pontus Dahlberg",
-                "rank": 2,
-                "ccode": "SWE",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "value": 2.8,
-                "stat": {
-                  "name": "_goals_prevented",
-                  "value": 2.8,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 188971,
                 "name": "Jakob Haugaard",
                 "rank": 3,
                 "ccode": "DEN",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 1.1,
+                "value": 2.6,
                 "stat": {
                   "name": "_goals_prevented",
-                  "value": 1.1,
+                  "value": 2.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -27358,30 +27642,9 @@
                 }
               },
               {
-                "id": 625360,
-                "name": "Nikita Haikin",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8402,
-                "teamName": "Bodø/Glimt",
-                "value": 2.5,
-                "stat": {
-                  "name": "goals_conceded",
-                  "value": 2.5,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#f8dc03",
-                  "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 837268,
                 "name": "Kristoffer Klaesson",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8404,
                 "teamName": "Aalesund",
@@ -27395,6 +27658,27 @@
                 "teamColors": {
                   "darkMode": "#eb7805",
                   "lightMode": "#eb7805",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1280650,
+                "name": "Adrian Sæther",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8605,
+                "teamName": "Kristiansund",
+                "value": 2.3,
+                "stat": {
+                  "name": "goals_conceded",
+                  "value": 2.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#2c528c",
+                  "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -27467,23 +27751,23 @@
                 }
               },
               {
-                "id": 1459262,
-                "name": "James Ampofo",
+                "id": 614516,
+                "name": "Eirik Wichne",
                 "rank": 3,
-                "ccode": "GHA",
-                "teamId": 9919,
-                "teamName": "IK Start",
-                "value": 3.6,
+                "ccode": "NOR",
+                "teamId": 8509,
+                "teamName": "Sarpsborg 08",
+                "value": 4.3,
                 "stat": {
                   "name": "fouls",
-                  "value": 3.6,
+                  "value": 4.3,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#F3D000",
-                  "lightMode": "#d9a200",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#2255a5",
+                  "lightMode": "#102763",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -27496,16 +27780,16 @@
           {
             "header": "Yellow cards",
             "participant": {
-              "id": 537194,
-              "name": "Aslak Fonn Witry",
+              "id": 534764,
+              "name": "Ylldren Ibrahimaj",
               "rank": 1,
-              "ccode": "NOR",
-              "teamId": 8422,
-              "teamName": "Rosenborg",
-              "value": 2,
+              "ccode": "KVX",
+              "teamId": 8476,
+              "teamName": "Lillestrøm",
+              "value": 3,
               "stat": {
                 "name": "yellow_card",
-                "value": 2,
+                "value": 3,
                 "format": "number",
                 "fractions": 0
               }
@@ -27513,9 +27797,30 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/yellow_card.json",
             "topThree": [
               {
+                "id": 534764,
+                "name": "Ylldren Ibrahimaj",
+                "rank": 1,
+                "ccode": "KVX",
+                "teamId": 8476,
+                "teamName": "Lillestrøm",
+                "value": 3,
+                "stat": {
+                  "name": "yellow_card",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 537194,
                 "name": "Aslak Fonn Witry",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8422,
                 "teamName": "Rosenborg",
@@ -27536,7 +27841,7 @@
               {
                 "id": 937004,
                 "name": "David Snær Johannsson",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "ISL",
                 "teamId": 8404,
                 "teamName": "Aalesund",
@@ -27550,27 +27855,6 @@
                 "teamColors": {
                   "darkMode": "#eb7805",
                   "lightMode": "#eb7805",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 375712,
-                "name": "Eirik Hestad",
-                "rank": 1,
-                "ccode": "NOR",
-                "teamId": 9917,
-                "teamName": "Molde",
-                "value": 2,
-                "stat": {
-                  "name": "yellow_card",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#0068b0",
-                  "lightMode": "#0D47A0",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -27658,10 +27942,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 7.48,
+              "value": 7.43,
               "stat": {
                 "name": "rating_team",
-                "value": 7.48,
+                "value": 7.43,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -27674,10 +27958,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 7.48,
+                "value": 7.43,
                 "stat": {
                   "name": "rating_team",
-                  "value": 7.48,
+                  "value": 7.43,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -27694,10 +27978,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8476,
-                "value": 7.41,
+                "value": 7.3,
                 "stat": {
                   "name": "rating_team",
-                  "value": 7.41,
+                  "value": 7.3,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -27778,10 +28062,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 2.5,
+                "value": 2,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 2.5,
+                  "value": 2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -27794,21 +28078,21 @@
               },
               {
                 "id": 0,
-                "name": "Lillestrøm",
+                "name": "Brann",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8476,
-                "value": 2.3,
+                "teamId": 8468,
+                "value": 2,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 2.3,
+                  "value": 2,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#DE1215",
+                  "lightMode": "#DE1215",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -27826,10 +28110,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 0.3,
+              "value": 0.2,
               "stat": {
                 "name": "goals_conceded_team_match",
-                "value": 0.3,
+                "value": 0.2,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -27842,10 +28126,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 0.3,
+                "value": 0.2,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 0.3,
+                  "value": 0.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -27879,13 +28163,13 @@
               {
                 "id": 0,
                 "name": "Lillestrøm",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8476,
-                "value": 0.7,
+                "value": 0.5,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 0.7,
+                  "value": 0.5,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -27910,10 +28194,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8402,
-              "value": 72.3,
+              "value": 72,
               "stat": {
                 "name": "possession_percentage_team",
-                "value": 72.3,
+                "value": 72,
                 "format": "percent",
                 "fractions": 1
               }
@@ -27926,10 +28210,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8402,
-                "value": 72.3,
+                "value": 72,
                 "stat": {
                   "name": "possession_percentage_team",
-                  "value": 72.3,
+                  "value": 72,
                   "format": "percent",
                   "fractions": 1
                 },
@@ -27994,10 +28278,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 3,
+              "value": 4,
               "stat": {
                 "name": "clean_sheet_team",
-                "value": 3,
+                "value": 4,
                 "format": "number",
                 "fractions": 0
               }
@@ -28010,10 +28294,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 3,
+                "value": 4,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 3,
+                  "value": 4,
                   "format": "number",
                   "fractions": 0
                 },
@@ -28021,6 +28305,26 @@
                   "darkMode": "#EB131C",
                   "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Lillestrøm",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8476,
+                "value": 2,
+                "stat": {
+                  "name": "clean_sheet_team",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
@@ -28040,26 +28344,6 @@
                 "teamColors": {
                   "darkMode": "#333bb3",
                   "lightMode": "#283090",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Viking",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8478,
-                "value": 2,
-                "stat": {
-                  "name": "clean_sheet_team",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28162,10 +28446,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 10.8,
+              "value": 12.1,
               "stat": {
                 "name": "expected_goals_team",
-                "value": 10.8,
+                "value": 12.1,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28178,10 +28462,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 10.8,
+                "value": 12.1,
                 "stat": {
                   "name": "expected_goals_team",
-                  "value": 10.8,
+                  "value": 12.1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28246,10 +28530,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 7.8,
+              "value": 7.4,
               "stat": {
                 "name": "_xg_diff_team",
-                "value": 7.8,
+                "value": 7.4,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28262,10 +28546,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 7.8,
+                "value": 7.4,
                 "stat": {
                   "name": "_xg_diff_team",
-                  "value": 7.8,
+                  "value": 7.4,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28302,10 +28586,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8476,
-                "value": 3.7,
+                "value": 4.1,
                 "stat": {
                   "name": "_xg_diff_team",
-                  "value": 3.7,
+                  "value": 4.1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28330,10 +28614,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 6.5,
+              "value": 6.4,
               "stat": {
                 "name": "ontarget_scoring_att_team",
-                "value": 6.5,
+                "value": 6.4,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28346,10 +28630,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 6.5,
+                "value": 6.4,
                 "stat": {
                   "name": "ontarget_scoring_att_team",
-                  "value": 6.5,
+                  "value": 6.4,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28382,20 +28666,20 @@
               },
               {
                 "id": 0,
-                "name": "Brann",
+                "name": "Sarpsborg 08",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8468,
-                "value": 5.5,
+                "teamId": 8509,
+                "value": 6,
                 "stat": {
                   "name": "ontarget_scoring_att_team",
-                  "value": 5.5,
+                  "value": 6,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#DE1215",
-                  "lightMode": "#DE1215",
+                  "darkMode": "#2255a5",
+                  "lightMode": "#102763",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28414,10 +28698,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 20,
+              "value": 21,
               "stat": {
                 "name": "big_chance_team",
-                "value": 20,
+                "value": 21,
                 "format": "number",
                 "fractions": 0
               }
@@ -28430,10 +28714,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 20,
+                "value": 21,
                 "stat": {
                   "name": "big_chance_team",
-                  "value": 20,
+                  "value": 21,
                   "format": "number",
                   "fractions": 0
                 },
@@ -28498,10 +28782,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 11,
+              "value": 12,
               "stat": {
                 "name": "big_chance_missed_team",
-                "value": 11,
+                "value": 12,
                 "format": "number",
                 "fractions": 0
               }
@@ -28514,10 +28798,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 11,
+                "value": 12,
                 "stat": {
                   "name": "big_chance_missed_team",
-                  "value": 11,
+                  "value": 12,
                   "format": "number",
                   "fractions": 0
                 },
@@ -28582,10 +28866,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8402,
-              "value": 605,
+              "value": 620,
               "stat": {
                 "name": "accurate_pass_team",
-                "value": 605,
+                "value": 620,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28598,10 +28882,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8402,
-                "value": 605,
+                "value": 620,
                 "stat": {
                   "name": "accurate_pass_team",
-                  "value": 605,
+                  "value": 620,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28634,20 +28918,20 @@
               },
               {
                 "id": 0,
-                "name": "Brann",
+                "name": "Tromsø",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8468,
-                "value": 407,
+                "teamId": 8608,
+                "value": 435.2,
                 "stat": {
                   "name": "accurate_pass_team",
-                  "value": 407,
+                  "value": 435.2,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#DE1215",
-                  "lightMode": "#DE1215",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28698,34 +28982,14 @@
               },
               {
                 "id": 0,
-                "name": "Lillestrøm",
+                "name": "Tromsø",
                 "rank": 2,
                 "ccode": "NOR",
-                "teamId": 8476,
-                "value": 29,
-                "stat": {
-                  "name": "accurate_long_balls_team",
-                  "value": 29,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Tromsø",
-                "rank": 3,
-                "ccode": "NOR",
                 "teamId": 8608,
-                "value": 28.5,
+                "value": 29.2,
                 "stat": {
                   "name": "accurate_long_balls_team",
-                  "value": 28.5,
+                  "value": 29.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28733,6 +28997,26 @@
                   "darkMode": "#EB131C",
                   "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Bodø/Glimt",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8402,
+                "value": 28.7,
+                "stat": {
+                  "name": "accurate_long_balls_team",
+                  "value": 28.7,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -28750,10 +29034,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 8.8,
+              "value": 8.2,
               "stat": {
                 "name": "accurate_cross_team",
-                "value": 8.8,
+                "value": 8.2,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28766,10 +29050,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 8.8,
+                "value": 8.2,
                 "stat": {
                   "name": "accurate_cross_team",
-                  "value": 8.8,
+                  "value": 8.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28866,6 +29150,26 @@
               },
               {
                 "id": 0,
+                "name": "Bodø/Glimt",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8402,
+                "value": 1,
+                "stat": {
+                  "name": "penalty_won_team",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
                 "name": "Brann",
                 "rank": 2,
                 "ccode": "NOR",
@@ -28880,26 +29184,6 @@
                 "teamColors": {
                   "darkMode": "#DE1215",
                   "lightMode": "#DE1215",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Kristiansund",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8605,
-                "value": 1,
-                "stat": {
-                  "name": "penalty_won_team",
-                  "value": 1,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#2c528c",
-                  "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28954,10 +29238,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 139,
+                "value": 168,
                 "stat": {
                   "name": "touches_in_opp_box_team",
-                  "value": 139,
+                  "value": 168,
                   "format": "number",
                   "fractions": 0
                 },
@@ -28970,21 +29254,21 @@
               },
               {
                 "id": 0,
-                "name": "Viking",
+                "name": "Bodø/Glimt",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8478,
-                "value": 137,
+                "teamId": 8402,
+                "value": 143,
                 "stat": {
                   "name": "touches_in_opp_box_team",
-                  "value": 137,
+                  "value": 143,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -28998,14 +29282,14 @@
             "header": "Corners",
             "participant": {
               "id": 0,
-              "name": "Brann",
+              "name": "Tromsø",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 8468,
-              "value": 34,
+              "teamId": 8608,
+              "value": 37,
               "stat": {
                 "name": "corner_taken_team",
-                "value": 34,
+                "value": 37,
                 "format": "number",
                 "fractions": 0
               }
@@ -29014,8 +29298,28 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Brann",
+                "name": "Tromsø",
                 "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "value": 37,
+                "stat": {
+                  "name": "corner_taken_team",
+                  "value": 37,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Brann",
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8468,
                 "value": 34,
@@ -29028,26 +29332,6 @@
                 "teamColors": {
                   "darkMode": "#DE1215",
                   "lightMode": "#DE1215",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Tromsø",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "value": 31,
-                "stat": {
-                  "name": "corner_taken_team",
-                  "value": 31,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -29082,10 +29366,10 @@
             "header": "Set piece goals",
             "participant": {
               "id": 0,
-              "name": "Tromsø",
+              "name": "Viking",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 8608,
+              "teamId": 8478,
               "value": 3,
               "stat": {
                 "name": "_set_piece_goals_team",
@@ -29098,28 +29382,8 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Tromsø",
-                "rank": 1,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "value": 3,
-                "stat": {
-                  "name": "_set_piece_goals_team",
-                  "value": 3,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Viking",
-                "rank": 2,
+                "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8478,
                 "value": 3,
@@ -29132,6 +29396,26 @@
                 "teamColors": {
                   "darkMode": "#244d89",
                   "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Tromsø",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "value": 3,
+                "stat": {
+                  "name": "_set_piece_goals_team",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -29166,14 +29450,14 @@
             "header": "xG conceded",
             "participant": {
               "id": 0,
-              "name": "Bodø/Glimt",
+              "name": "Viking",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 8402,
-              "value": 2.8,
+              "teamId": 8478,
+              "value": 4,
               "stat": {
                 "name": "expected_goals_conceded_team",
-                "value": 2.8,
+                "value": 4,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -29182,40 +29466,20 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Bodø/Glimt",
+                "name": "Viking",
                 "rank": 1,
                 "ccode": "NOR",
-                "teamId": 8402,
-                "value": 2.8,
+                "teamId": 8478,
+                "value": 4,
                 "stat": {
                   "name": "expected_goals_conceded_team",
-                  "value": 2.8,
+                  "value": 4,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#f8dc03",
-                  "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Tromsø",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "value": 3,
-                "stat": {
-                  "name": "expected_goals_conceded_team",
-                  "value": 3,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -29223,19 +29487,39 @@
               {
                 "id": 0,
                 "name": "Lillestrøm",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8476,
-                "value": 3,
+                "value": 4.3,
                 "stat": {
                   "name": "expected_goals_conceded_team",
-                  "value": 3,
+                  "value": 4.3,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
                   "darkMode": "#fede02",
                   "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Bodø/Glimt",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8402,
+                "value": 4.5,
+                "stat": {
+                  "name": "expected_goals_conceded_team",
+                  "value": 4.5,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -29538,8 +29822,28 @@
               },
               {
                 "id": 0,
-                "name": "Fredrikstad",
+                "name": "Bodø/Glimt",
                 "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8402,
+                "value": 5.3,
+                "stat": {
+                  "name": "poss_won_att_3rd_team",
+                  "value": 5.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Fredrikstad",
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8417,
                 "value": 5,
@@ -29555,26 +29859,6 @@
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
-              },
-              {
-                "id": 0,
-                "name": "Sarpsborg 08",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8509,
-                "value": 5,
-                "stat": {
-                  "name": "poss_won_att_3rd_team",
-                  "value": 5,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#2255a5",
-                  "lightMode": "#102763",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
               }
             ],
             "order": 66,
@@ -29586,10 +29870,10 @@
             "header": "Set piece goals conceded",
             "participant": {
               "id": 0,
-              "name": "Start",
+              "name": "Tromsø",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 9919,
+              "teamId": 8608,
               "value": 0,
               "stat": {
                 "name": "_set_piece_goals_conceded_team",
@@ -29602,28 +29886,8 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Start",
-                "rank": 1,
-                "ccode": "NOR",
-                "teamId": 9919,
-                "value": 0,
-                "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 0,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#F3D000",
-                  "lightMode": "#d9a200",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Tromsø",
-                "rank": 2,
+                "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
                 "value": 0,
@@ -29642,10 +29906,10 @@
               },
               {
                 "id": 0,
-                "name": "Vålerenga",
-                "rank": 3,
+                "name": "Lillestrøm",
+                "rank": 2,
                 "ccode": "NOR",
-                "teamId": 8007,
+                "teamId": 8476,
                 "value": 0,
                 "stat": {
                   "name": "_set_piece_goals_conceded_team",
@@ -29654,8 +29918,28 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#333bb3",
-                  "lightMode": "#283090",
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Sarpsborg 08",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8509,
+                "value": 0,
+                "stat": {
+                  "name": "_set_piece_goals_conceded_team",
+                  "value": 0,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#2255a5",
+                  "lightMode": "#102763",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -29790,40 +30074,40 @@
               },
               {
                 "id": 0,
-                "name": "Kristiansund",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8605,
-                "value": 4.3,
-                "stat": {
-                  "name": "saves_team",
-                  "value": 4.3,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#2c528c",
-                  "lightMode": "#0C2340",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Lillestrøm",
-                "rank": 2,
+                "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8476,
-                "value": 4.3,
+                "value": 4.8,
                 "stat": {
                   "name": "saves_team",
-                  "value": 4.3,
+                  "value": 4.8,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
                   "darkMode": "#fede02",
                   "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Bodø/Glimt",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8402,
+                "value": 4.3,
+                "stat": {
+                  "name": "saves_team",
+                  "value": 4.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -30181,8 +30465,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 31,
-          "firstUnplayedMatchId": "5104846"
+          "firstUnplayedMatchIndex": 32,
+          "firstUnplayedMatchId": "5104874"
         },
         "allMatches": [
           {
@@ -31131,12 +31415,21 @@
             "status": {
               "utcTime": "2026-04-15T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "15.04.2026 19:00:00"
+                "firstHalfStarted": "15.04.2026 19:00:18",
+                "secondHalfStarted": "15.04.2026 20:02:58"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 1",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -31157,12 +31450,21 @@
             "status": {
               "utcTime": "2026-04-15T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "15.04.2026 19:00:00"
+                "firstHalfStarted": "15.04.2026 19:00:07",
+                "secondHalfStarted": "15.04.2026 20:02:23"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 0",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
