@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T14:19:07.191020+00:00",
+  "generated_at": "2026-04-16T19:41:21.390575+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1271,13 +1271,13 @@
                   "pts": 13,
                   "teamId": 8608,
                   "teamName": "Tromsø",
-                  "xg": 12.995199918746948,
-                  "xgConceded": 4.422199994325638,
-                  "xPoints": 11.941309859940826,
+                  "xg": 13.282299995422363,
+                  "xgConceded": 4.475399941205978,
+                  "xPoints": 12.070952917264284,
                   "position": 1,
-                  "xgDiff": -2.9951999187469482,
-                  "xgConcededDiff": -3.422199994325638,
-                  "xPointsDiff": 1.0586901400591735,
+                  "xgDiff": -3.2822999954223633,
+                  "xgConcededDiff": -3.4753999412059784,
+                  "xPointsDiff": 0.9290470827357158,
                   "xPosition": 1,
                   "idx": 1,
                   "xPositionDiff": 0,
@@ -1649,13 +1649,13 @@
                   "pts": 3,
                   "teamId": 8605,
                   "teamName": "Kristiansund",
-                  "xg": 3.843400001525879,
-                  "xgConceded": 7.272600054740906,
-                  "xPoints": 2.551813869975444,
+                  "xg": 3.8965999484062195,
+                  "xgConceded": 7.559700131416321,
+                  "xPoints": 2.4546126043330188,
                   "position": 15,
-                  "xgDiff": -0.8434000015258789,
-                  "xgConcededDiff": -0.27260005474090576,
-                  "xPointsDiff": 0.4481861300245562,
+                  "xgDiff": -0.8965999484062195,
+                  "xgConcededDiff": -0.5597001314163208,
+                  "xPointsDiff": 0.5453873956669812,
                   "xPosition": 15,
                   "idx": 15,
                   "xPositionDiff": -3,
@@ -8135,13 +8135,13 @@
                     "pts": 13,
                     "teamId": 8608,
                     "teamName": "Tromsø",
-                    "xg": 12.995199918746948,
-                    "xgConceded": 4.422199994325638,
-                    "xPoints": 11.941309859940826,
+                    "xg": 13.282299995422363,
+                    "xgConceded": 4.475399941205978,
+                    "xPoints": 12.070952917264284,
                     "position": 1,
-                    "xgDiff": -2.9951999187469482,
-                    "xgConcededDiff": -3.422199994325638,
-                    "xPointsDiff": 1.0586901400591735,
+                    "xgDiff": -3.2822999954223633,
+                    "xgConcededDiff": -3.4753999412059784,
+                    "xPointsDiff": 0.9290470827357158,
                     "xPosition": 1,
                     "idx": 1,
                     "xPositionDiff": 0,
@@ -8513,13 +8513,13 @@
                     "pts": 3,
                     "teamId": 8605,
                     "teamName": "Kristiansund",
-                    "xg": 3.843400001525879,
-                    "xgConceded": 7.272600054740906,
-                    "xPoints": 2.551813869975444,
+                    "xg": 3.8965999484062195,
+                    "xgConceded": 7.559700131416321,
+                    "xPoints": 2.4546126043330188,
                     "position": 15,
-                    "xgDiff": -0.8434000015258789,
-                    "xgConcededDiff": -0.27260005474090576,
-                    "xPointsDiff": 0.4481861300245562,
+                    "xgDiff": -0.8965999484062195,
+                    "xgConcededDiff": -0.5597001314163208,
+                    "xPointsDiff": 0.5453873956669812,
                     "xPosition": 15,
                     "idx": 15,
                     "xPositionDiff": -3,
@@ -10957,26 +10957,6 @@
                 }
               },
               {
-                "id": 955759,
-                "name": "Peter Christiansen",
-                "teamId": 8478,
-                "teamName": "Viking FK",
-                "assists": 3,
-                "value": 3,
-                "stat": {
-                  "name": "assists",
-                  "value": 3,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 28115,
                 "name": "Ruben Yttergård Jenssen",
                 "teamId": 8608,
@@ -10992,6 +10972,26 @@
                 "teamColors": {
                   "darkMode": "#EB131C",
                   "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 955759,
+                "name": "Peter Christiansen",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "assists": 3,
+                "value": 3,
+                "stat": {
+                  "name": "assists",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -24810,30 +24810,9 @@
                 }
               },
               {
-                "id": 955759,
-                "name": "Peter Christiansen",
-                "rank": 2,
-                "ccode": "DEN",
-                "teamId": 8478,
-                "teamName": "Viking FK",
-                "value": 3,
-                "stat": {
-                  "name": "goal_assist",
-                  "value": 3,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 28115,
                 "name": "Ruben Yttergård Jenssen",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
@@ -24847,6 +24826,27 @@
                 "teamColors": {
                   "darkMode": "#EB131C",
                   "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 955759,
+                "name": "Peter Christiansen",
+                "rank": 3,
+                "ccode": "DEN",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 3,
+                "stat": {
+                  "name": "goal_assist",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -25218,10 +25218,10 @@
               "ccode": "NOR",
               "teamId": 8608,
               "teamName": "Tromsø",
-              "value": 4,
+              "value": 4.1,
               "stat": {
                 "name": "expected_goals",
-                "value": 4,
+                "value": 4.1,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -25235,10 +25235,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 4,
+                "value": 4.1,
                 "stat": {
                   "name": "expected_goals",
-                  "value": 4,
+                  "value": 4.1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25256,10 +25256,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 2.9,
+                "value": 2.8,
                 "stat": {
                   "name": "expected_goals",
-                  "value": 2.9,
+                  "value": 2.8,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25306,10 +25306,10 @@
               "ccode": "NOR",
               "teamId": 8608,
               "teamName": "Tromsø",
-              "value": 1.04,
+              "value": 1.08,
               "stat": {
                 "name": "expected_goals_per_90",
-                "value": 1.04,
+                "value": 1.08,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -25323,10 +25323,31 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 1.04,
+                "value": 1.08,
                 "stat": {
                   "name": "expected_goals_per_90",
-                  "value": 1.04,
+                  "value": 1.08,
+                  "format": "fraction",
+                  "fractions": 2
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1344554,
+                "name": "Daniel Braut",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 0.9,
+                "stat": {
+                  "name": "expected_goals_per_90",
+                  "value": 0.9,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -25340,7 +25361,7 @@
               {
                 "id": 1636186,
                 "name": "Niklas Fuglestad",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8478,
                 "teamName": "Viking FK",
@@ -25354,27 +25375,6 @@
                 "teamColors": {
                   "darkMode": "#244d89",
                   "lightMode": "#132847",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1344554,
-                "name": "Daniel Braut",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 0.89,
-                "stat": {
-                  "name": "expected_goals_per_90",
-                  "value": 0.89,
-                  "format": "fraction",
-                  "fractions": 2
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -25608,10 +25608,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 4.1,
+                "value": 3.9,
                 "stat": {
                   "name": "total_scoring_att",
-                  "value": 4.1,
+                  "value": 3.9,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -25778,9 +25778,30 @@
                 }
               },
               {
+                "id": 28115,
+                "name": "Ruben Yttergård Jenssen",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 5,
+                "stat": {
+                  "name": "big_chance_created",
+                  "value": 5,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 955759,
                 "name": "Peter Christiansen",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "DEN",
                 "teamId": 8478,
                 "teamName": "Viking FK",
@@ -25794,27 +25815,6 @@
                 "teamColors": {
                   "darkMode": "#244d89",
                   "lightMode": "#132847",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 28115,
-                "name": "Ruben Yttergård Jenssen",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 4,
-                "stat": {
-                  "name": "big_chance_created",
-                  "value": 4,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -25954,37 +25954,37 @@
                 }
               },
               {
-                "id": 1250673,
-                "name": "Tobias Guddal",
+                "id": 530635,
+                "name": "Patrick Berg",
                 "rank": 2,
                 "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 6.4,
+                "teamId": 8402,
+                "teamName": "Bodø/Glimt",
+                "value": 6.3,
                 "stat": {
                   "name": "accurate_long_balls",
-                  "value": 6.4,
+                  "value": 6.3,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 935100,
-                "name": "Vetle Skjærvik",
+                "id": 1250673,
+                "name": "Tobias Guddal",
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 6.4,
+                "value": 6.2,
                 "stat": {
                   "name": "accurate_long_balls",
-                  "value": 6.4,
+                  "value": 6.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -26042,31 +26042,31 @@
                 }
               },
               {
-                "id": 955759,
-                "name": "Peter Christiansen",
+                "id": 28115,
+                "name": "Ruben Yttergård Jenssen",
                 "rank": 2,
-                "ccode": "DEN",
-                "teamId": 8478,
-                "teamName": "Viking FK",
-                "value": 2.2,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 2.4,
                 "stat": {
                   "name": "expected_assists",
-                  "value": 2.2,
+                  "value": 2.4,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 313128,
-                "name": "Kristoffer Haugen",
+                "id": 955759,
+                "name": "Peter Christiansen",
                 "rank": 3,
-                "ccode": "NOR",
+                "ccode": "DEN",
                 "teamId": 8478,
                 "teamName": "Viking FK",
                 "value": 2.2,
@@ -26224,10 +26224,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 1.18,
+                "value": 1.22,
                 "stat": {
                   "name": "_expected_goals_and_expected_assists_per_90",
-                  "value": 1.18,
+                  "value": 1.22,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -26239,22 +26239,22 @@
                 }
               },
               {
-                "id": 1636186,
-                "name": "Niklas Fuglestad",
+                "id": 1344554,
+                "name": "Daniel Braut",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8478,
-                "teamName": "Viking FK",
-                "value": 1.07,
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 1.12,
                 "stat": {
                   "name": "_expected_goals_and_expected_assists_per_90",
-                  "value": 1.07,
+                  "value": 1.12,
                   "format": "fraction",
                   "fractions": 2
                 },
                 "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28430,10 +28430,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 13,
+              "value": 13.3,
               "stat": {
                 "name": "expected_goals_team",
-                "value": 13,
+                "value": 13.3,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28446,10 +28446,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 13,
+                "value": 13.3,
                 "stat": {
                   "name": "expected_goals_team",
-                  "value": 13,
+                  "value": 13.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28514,10 +28514,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 8.6,
+              "value": 8.8,
               "stat": {
                 "name": "_xg_diff_team",
-                "value": 8.6,
+                "value": 8.8,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28530,10 +28530,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 8.6,
+                "value": 8.8,
                 "stat": {
                   "name": "_xg_diff_team",
-                  "value": 8.6,
+                  "value": 8.8,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28682,10 +28682,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 21,
+              "value": 22,
               "stat": {
                 "name": "big_chance_team",
-                "value": 21,
+                "value": 22,
                 "format": "number",
                 "fractions": 0
               }
@@ -28698,10 +28698,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 21,
+                "value": 22,
                 "stat": {
                   "name": "big_chance_team",
-                  "value": 21,
+                  "value": 22,
                   "format": "number",
                   "fractions": 0
                 },
@@ -28766,10 +28766,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 12,
+              "value": 13,
               "stat": {
                 "name": "big_chance_missed_team",
-                "value": 12,
+                "value": 13,
                 "format": "number",
                 "fractions": 0
               }
@@ -28782,10 +28782,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 12,
+                "value": 13,
                 "stat": {
                   "name": "big_chance_missed_team",
-                  "value": 12,
+                  "value": 13,
                   "format": "number",
                   "fractions": 0
                 },
@@ -28906,10 +28906,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 435,
+                "value": 436.2,
                 "stat": {
                   "name": "accurate_pass_team",
-                  "value": 435,
+                  "value": 436.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28966,28 +28966,8 @@
               },
               {
                 "id": 0,
-                "name": "Tromsø",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "value": 29.2,
-                "stat": {
-                  "name": "accurate_long_balls_team",
-                  "value": 29.2,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Sandefjord",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8609,
                 "value": 28.5,
@@ -29000,6 +28980,26 @@
                 "teamColors": {
                   "darkMode": "#035db8",
                   "lightMode": "#104070",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Tromsø",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "value": 28.4,
+                "stat": {
+                  "name": "accurate_long_balls_team",
+                  "value": 28.4,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -29018,10 +29018,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8608,
-              "value": 8,
+              "value": 7.6,
               "stat": {
                 "name": "accurate_cross_team",
-                "value": 8,
+                "value": 7.6,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -29034,10 +29034,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 8,
+                "value": 7.6,
                 "stat": {
                   "name": "accurate_cross_team",
-                  "value": 8,
+                  "value": 7.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -29222,10 +29222,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 168,
+                "value": 169,
                 "stat": {
                   "name": "touches_in_opp_box_team",
-                  "value": 168,
+                  "value": 169,
                   "format": "number",
                   "fractions": 0
                 },
@@ -29474,10 +29474,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 4.4,
+                "value": 4.5,
                 "stat": {
                   "name": "expected_goals_conceded_team",
-                  "value": 4.4,
+                  "value": 4.5,
                   "format": "fraction",
                   "fractions": 1
                 },
