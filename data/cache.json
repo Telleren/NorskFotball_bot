@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T19:41:21.390575+00:00",
+  "generated_at": "2026-04-17T03:49:20.369254+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1406,13 +1406,13 @@
                   "pts": 4,
                   "teamId": 2305,
                   "teamName": "KFUM",
-                  "xg": 5.455600142478943,
+                  "xg": 5.7626999616622925,
                   "xgConceded": 5.630299836397171,
-                  "xPoints": 5.547766241635433,
+                  "xPoints": 5.719887032650158,
                   "position": 6,
-                  "xgDiff": 0.5443998575210571,
+                  "xgDiff": 0.23730003833770752,
                   "xgConcededDiff": 1.369700163602829,
-                  "xPointsDiff": -1.5477662416354327,
+                  "xPointsDiff": -1.719887032650158,
                   "xPosition": 6,
                   "idx": 6,
                   "xPositionDiff": 3,
@@ -1623,12 +1623,12 @@
                   "teamId": 8404,
                   "teamName": "Aalesund",
                   "xg": 4.869500041007996,
-                  "xgConceded": 8.74239993095398,
-                  "xPoints": 3.28314103260257,
+                  "xgConceded": 9.049499750137329,
+                  "xPoints": 3.1405395327660806,
                   "position": 14,
                   "xgDiff": 1.1304999589920044,
-                  "xgConcededDiff": 0.2576000690460205,
-                  "xPointsDiff": -1.28314103260257,
+                  "xgConcededDiff": -0.0494997501373291,
+                  "xPointsDiff": -1.1405395327660806,
                   "xPosition": 14,
                   "idx": 14,
                   "xPositionDiff": 1,
@@ -8270,13 +8270,13 @@
                     "pts": 4,
                     "teamId": 2305,
                     "teamName": "KFUM",
-                    "xg": 5.455600142478943,
+                    "xg": 5.7626999616622925,
                     "xgConceded": 5.630299836397171,
-                    "xPoints": 5.547766241635433,
+                    "xPoints": 5.719887032650158,
                     "position": 6,
-                    "xgDiff": 0.5443998575210571,
+                    "xgDiff": 0.23730003833770752,
                     "xgConcededDiff": 1.369700163602829,
-                    "xPointsDiff": -1.5477662416354327,
+                    "xPointsDiff": -1.719887032650158,
                     "xPosition": 6,
                     "idx": 6,
                     "xPositionDiff": 3,
@@ -8487,12 +8487,12 @@
                     "teamId": 8404,
                     "teamName": "Aalesund",
                     "xg": 4.869500041007996,
-                    "xgConceded": 8.74239993095398,
-                    "xPoints": 3.28314103260257,
+                    "xgConceded": 9.049499750137329,
+                    "xPoints": 3.1405395327660806,
                     "position": 14,
                     "xgDiff": 1.1304999589920044,
-                    "xgConcededDiff": 0.2576000690460205,
-                    "xPointsDiff": -1.28314103260257,
+                    "xgConcededDiff": -0.0494997501373291,
+                    "xPointsDiff": -1.1405395327660806,
                     "xPosition": 14,
                     "idx": 14,
                     "xPositionDiff": 1,
@@ -28346,10 +28346,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8478,
-              "value": 15503,
+              "value": 15702,
               "stat": {
                 "name": "home_attendance_team",
-                "value": 15503,
+                "value": 15702,
                 "format": "number",
                 "fractions": 0
               }
@@ -28362,10 +28362,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8478,
-                "value": 15503,
+                "value": 15702,
                 "stat": {
                   "name": "home_attendance_team",
-                  "value": 15503,
+                  "value": 15702,
                   "format": "number",
                   "fractions": 0
                 },
@@ -29726,10 +29726,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8404,
-                "value": 35,
+                "value": 35.5,
                 "stat": {
                   "name": "effective_clearance_team",
-                  "value": 35,
+                  "value": 35.5,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -39950,8 +39950,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/obos-ligaen",
-            "leagueName": "OBOS-ligaen",
+            "pageUrl": "/leagues/203/overview/1-divisjon",
+            "leagueName": "1. Divisjon",
             "legend": [
               {
                 "title": "Promotion",
@@ -45337,8 +45337,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/obos-ligaen",
-              "leagueName": "OBOS-ligaen",
+              "pageUrl": "/leagues/203/overview/1-divisjon",
+              "leagueName": "1. Divisjon",
               "legend": [
                 {
                   "title": "Promotion",
@@ -48364,8 +48364,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-17T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-17T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "17.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -55347,7 +55350,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -55805,8 +55808,11 @@
                 "id": "9812"
               },
               "status": {
-                "utcTime": "2026-04-17T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-04-17T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "17.04.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -60988,7 +60994,7 @@
               }
             }
           ],
-          "hasOngoingMatch": false,
+          "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "3",
@@ -62494,8 +62500,11 @@
               "id": "9812"
             },
             "status": {
-              "utcTime": "2026-04-17T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-04-17T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "17.04.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -67677,7 +67686,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "3",
