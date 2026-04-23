@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T19:43:25.275646+00:00",
+  "generated_at": "2026-04-23T03:51:57.153748+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -95366,14 +95366,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-22T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "22.04.2026 18:00:21",
-                "secondHalfStarted": "22.04.2026 19:05:37",
-                "firstExtraHalfStarted": "22.04.2026 20:04:50",
-                "secondExtraHalfStarted": "22.04.2026 20:27:15"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-22T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -95406,35 +95400,28 @@
               "score": 1
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-04-22T18:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "22.04.2026 20:01:42",
-                "secondHalfStarted": "22.04.2026 21:05:02"
-              },
-              "periodLength": 45,
-              "finished": false,
+              "utcTime": "2026-04-22T18:00:00Z",
+              "timezone": "UTC",
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
+              "awarded": false,
               "scoreStr": "2 - 1",
-              "liveTime": {
-                "short": "82‎’‎",
-                "shortKey": "",
-                "long": "81:11",
-                "longKey": "",
-                "maxTime": 90,
-                "basePeriod": 90,
-                "addedTime": 0
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "shotMap": null,
         "playoff": {
           "rounds": [
@@ -99920,8 +99907,9 @@
                   "drawOrder": 2,
                   "stage": "1/2",
                   "bestOf": 0,
-                  "homeScore": 0,
-                  "awayScore": 0,
+                  "winner": 8468,
+                  "homeScore": 2,
+                  "awayScore": 1,
                   "homeTeam": "Brann",
                   "awayTeam": "Aalesund",
                   "homeTeamShortName": "BRA",
@@ -99935,43 +99923,40 @@
                         "id": 8468,
                         "name": "Brann",
                         "shortName": "BRA",
-                        "score": 0,
-                        "winner": false
+                        "score": 2,
+                        "winner": true
                       },
                       "away": {
                         "id": 8404,
                         "name": "Aalesund",
                         "shortName": "AAL",
-                        "score": 0,
+                        "score": 1,
                         "winner": false
                       },
                       "pageUrl": "/matches/aalesund-vs-brann/2cr19k#5266350",
                       "status": {
                         "utcTime": "2026-04-22T16:00:00.000Z",
                         "timezone": "UTC",
-                        "finished": false,
+                        "finished": true,
                         "started": true,
                         "cancelled": false,
-                        "ongoing": true,
-                        "scoreStr": "0 - 0",
-                        "liveTime": {
-                          "short": "1‎’‎",
-                          "shortKey": "",
-                          "long": "00:01",
-                          "longKey": "",
-                          "maxTime": 90,
-                          "basePeriod": 90,
-                          "addedTime": 0
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
                         }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
+                    "homeScore": 2,
+                    "awayScore": 1
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8468,
+                  "aggregatedLoser": 8404
                 }
               ],
               "started": true
@@ -99981,17 +99966,14 @@
           "special": [],
           "liveFixtureApiLink": {
             "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-            "pollFromUtc": "2026-04-22T17:55:00Z"
+            "pollFromUtc": "9999-12-31T23:59:59.9999999"
           },
           "leagueId": 206,
           "bronzeFinal": null,
           "draw": null
         },
         "matches": {
-          "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 78,
-            "firstUnplayedMatchId": "5266350"
-          },
+          "firstUnplayedMatch": null,
           "allMatches": [
             {
               "round": "1",
@@ -102394,14 +102376,8 @@
                 "id": "2305"
               },
               "status": {
-                "utcTime": "2026-04-22T16:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "22.04.2026 18:00:21",
-                  "secondHalfStarted": "22.04.2026 19:05:37",
-                  "firstExtraHalfStarted": "22.04.2026 20:04:50",
-                  "secondExtraHalfStarted": "22.04.2026 20:27:15"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-04-22T16:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -102431,30 +102407,23 @@
                 "id": "8404"
               },
               "status": {
-                "utcTime": "2026-04-22T18:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "22.04.2026 20:01:42",
-                  "secondHalfStarted": "22.04.2026 21:05:02"
-                },
-                "periodLength": 45,
-                "finished": false,
+                "utcTime": "2026-04-22T18:00:00Z",
+                "timezone": "UTC",
+                "finished": true,
                 "started": true,
                 "cancelled": false,
-                "ongoing": true,
+                "awarded": false,
                 "scoreStr": "2 - 1",
-                "liveTime": {
-                  "short": "82‎’‎",
-                  "shortKey": "",
-                  "long": "81:11",
-                  "longKey": "",
-                  "maxTime": 90,
-                  "basePeriod": 90,
-                  "addedTime": 0
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
                 }
               }
             }
           ],
-          "hasOngoingMatch": true,
+          "hasOngoingMatch": false,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "1/2",
@@ -103833,10 +103802,7 @@
         ]
       },
       "fixtures": {
-        "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 78,
-          "firstUnplayedMatchId": "5266350"
-        },
+        "firstUnplayedMatch": null,
         "allMatches": [
           {
             "round": "1",
@@ -106239,14 +106205,8 @@
               "id": "2305"
             },
             "status": {
-              "utcTime": "2026-04-22T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "22.04.2026 18:00:21",
-                "secondHalfStarted": "22.04.2026 19:05:37",
-                "firstExtraHalfStarted": "22.04.2026 20:04:50",
-                "secondExtraHalfStarted": "22.04.2026 20:27:15"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-04-22T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -106276,30 +106236,23 @@
               "id": "8404"
             },
             "status": {
-              "utcTime": "2026-04-22T18:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "22.04.2026 20:01:42",
-                "secondHalfStarted": "22.04.2026 21:05:02"
-              },
-              "periodLength": 45,
-              "finished": false,
+              "utcTime": "2026-04-22T18:00:00Z",
+              "timezone": "UTC",
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
+              "awarded": false,
               "scoreStr": "2 - 1",
-              "liveTime": {
-                "short": "82‎’‎",
-                "shortKey": "",
-                "long": "81:11",
-                "longKey": "",
-                "maxTime": 90,
-                "basePeriod": 90,
-                "addedTime": 0
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "1/2",
@@ -111140,8 +111093,9 @@
                 "drawOrder": 2,
                 "stage": "1/2",
                 "bestOf": 0,
-                "homeScore": 0,
-                "awayScore": 0,
+                "winner": 8468,
+                "homeScore": 2,
+                "awayScore": 1,
                 "homeTeam": "Brann",
                 "awayTeam": "Aalesund",
                 "homeTeamShortName": "BRA",
@@ -111155,43 +111109,40 @@
                       "id": 8468,
                       "name": "Brann",
                       "shortName": "BRA",
-                      "score": 0,
-                      "winner": false
+                      "score": 2,
+                      "winner": true
                     },
                     "away": {
                       "id": 8404,
                       "name": "Aalesund",
                       "shortName": "AAL",
-                      "score": 0,
+                      "score": 1,
                       "winner": false
                     },
                     "pageUrl": "/matches/aalesund-vs-brann/2cr19k#5266350",
                     "status": {
                       "utcTime": "2026-04-22T16:00:00.000Z",
                       "timezone": "UTC",
-                      "finished": false,
+                      "finished": true,
                       "started": true,
                       "cancelled": false,
-                      "ongoing": true,
-                      "scoreStr": "0 - 0",
-                      "liveTime": {
-                        "short": "1‎’‎",
-                        "shortKey": "",
-                        "long": "00:01",
-                        "longKey": "",
-                        "maxTime": 90,
-                        "basePeriod": 90,
-                        "addedTime": 0
+                      "awarded": false,
+                      "scoreStr": "2 - 1",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
                       }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
+                  "homeScore": 2,
+                  "awayScore": 1
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8468,
+                "aggregatedLoser": 8404
               }
             ],
             "started": true
@@ -111201,7 +111152,7 @@
         "special": [],
         "liveFixtureApiLink": {
           "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-          "pollFromUtc": "2026-04-22T17:55:00Z"
+          "pollFromUtc": "9999-12-31T23:59:59.9999999"
         },
         "leagueId": 206,
         "bronzeFinal": null,
