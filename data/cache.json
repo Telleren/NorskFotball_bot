@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T09:23:19.452305+00:00",
+  "generated_at": "2026-05-13T15:18:25.013428+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1514,13 +1514,13 @@
                   "pts": 8,
                   "teamId": 8007,
                   "teamName": "Vålerenga",
-                  "xg": 11.650000214576721,
-                  "xgConceded": 14.904900014400482,
-                  "xPoints": 9.518703497023719,
+                  "xg": 11.69480013847351,
+                  "xgConceded": 14.856000006198883,
+                  "xPoints": 9.591756787440824,
                   "position": 10,
-                  "xgDiff": -4.650000214576721,
-                  "xgConcededDiff": -2.904900014400482,
-                  "xPointsDiff": -1.5187034970237185,
+                  "xgDiff": -4.694800138473511,
+                  "xgConcededDiff": -2.856000006198883,
+                  "xPointsDiff": -1.5917567874408238,
                   "xPosition": 10,
                   "idx": 10,
                   "xPositionDiff": 1,
@@ -1595,13 +1595,13 @@
                   "pts": 13,
                   "teamId": 8448,
                   "teamName": "Hamarkameratene",
-                  "xg": 9.618399918079376,
-                  "xgConceded": 11.469800114631653,
-                  "xPoints": 8.176337971672401,
+                  "xg": 9.569499909877777,
+                  "xgConceded": 11.514600038528442,
+                  "xPoints": 8.11509120260375,
                   "position": 13,
-                  "xgDiff": 2.381600081920624,
-                  "xgConcededDiff": 0.5301998853683472,
-                  "xPointsDiff": 4.823662028327599,
+                  "xgDiff": 2.430500090122223,
+                  "xgConcededDiff": 0.4853999614715576,
+                  "xPointsDiff": 4.88490879739625,
                   "xPosition": 13,
                   "idx": 13,
                   "xPositionDiff": -7,
@@ -9134,13 +9134,13 @@
                     "pts": 8,
                     "teamId": 8007,
                     "teamName": "Vålerenga",
-                    "xg": 11.650000214576721,
-                    "xgConceded": 14.904900014400482,
-                    "xPoints": 9.518703497023719,
+                    "xg": 11.69480013847351,
+                    "xgConceded": 14.856000006198883,
+                    "xPoints": 9.591756787440824,
                     "position": 10,
-                    "xgDiff": -4.650000214576721,
-                    "xgConcededDiff": -2.904900014400482,
-                    "xPointsDiff": -1.5187034970237185,
+                    "xgDiff": -4.694800138473511,
+                    "xgConcededDiff": -2.856000006198883,
+                    "xPointsDiff": -1.5917567874408238,
                     "xPosition": 10,
                     "idx": 10,
                     "xPositionDiff": 1,
@@ -9215,13 +9215,13 @@
                     "pts": 13,
                     "teamId": 8448,
                     "teamName": "Hamarkameratene",
-                    "xg": 9.618399918079376,
-                    "xgConceded": 11.469800114631653,
-                    "xPoints": 8.176337971672401,
+                    "xg": 9.569499909877777,
+                    "xgConceded": 11.514600038528442,
+                    "xPoints": 8.11509120260375,
                     "position": 13,
-                    "xgDiff": 2.381600081920624,
-                    "xgConcededDiff": 0.5301998853683472,
-                    "xPointsDiff": 4.823662028327599,
+                    "xgDiff": 2.430500090122223,
+                    "xgConcededDiff": 0.4853999614715576,
+                    "xPointsDiff": 4.88490879739625,
                     "xPosition": 13,
                     "idx": 13,
                     "xPositionDiff": -7,
@@ -30827,10 +30827,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8448,
-                "value": 28.7,
+                "value": 28.3,
                 "stat": {
                   "name": "accurate_long_balls_team",
-                  "value": 28.7,
+                  "value": 28.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31355,14 +31355,14 @@
             "header": "Interceptions per match",
             "participant": {
               "id": 0,
-              "name": "Molde",
+              "name": "Hamarkameratene",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 9917,
-              "value": 10.1,
+              "teamId": 8448,
+              "value": 10.3,
               "stat": {
                 "name": "interception_team",
-                "value": 10.1,
+                "value": 10.3,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -31371,8 +31371,28 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Molde",
+                "name": "Hamarkameratene",
                 "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8448,
+                "value": 10.3,
+                "stat": {
+                  "name": "interception_team",
+                  "value": 10.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#009040",
+                  "lightMode": "#009040",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Molde",
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 9917,
                 "value": 10.1,
@@ -31385,26 +31405,6 @@
                 "teamColors": {
                   "darkMode": "#0068b0",
                   "lightMode": "#0D47A0",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Hamarkameratene",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8448,
-                "value": 10.1,
-                "stat": {
-                  "name": "interception_team",
-                  "value": 10.1,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#009040",
-                  "lightMode": "#009040",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -31479,10 +31479,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8007,
-                "value": 18.1,
+                "value": 18.3,
                 "stat": {
                   "name": "total_tackle_team",
-                  "value": 18.1,
+                  "value": 18.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31523,14 +31523,14 @@
             "header": "Clearances per match",
             "participant": {
               "id": 0,
-              "name": "Aalesund",
+              "name": "Hamarkameratene",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 8404,
-              "value": 31.1,
+              "teamId": 8448,
+              "value": 31.3,
               "stat": {
                 "name": "effective_clearance_team",
-                "value": 31.1,
+                "value": 31.3,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -31539,8 +31539,28 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Aalesund",
+                "name": "Hamarkameratene",
                 "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8448,
+                "value": 31.3,
+                "stat": {
+                  "name": "effective_clearance_team",
+                  "value": 31.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#009040",
+                  "lightMode": "#009040",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Aalesund",
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8404,
                 "value": 31.1,
@@ -31553,26 +31573,6 @@
                 "teamColors": {
                   "darkMode": "#eb7805",
                   "lightMode": "#eb7805",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Hamarkameratene",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8448,
-                "value": 30.9,
-                "stat": {
-                  "name": "effective_clearance_team",
-                  "value": 30.9,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#009040",
-                  "lightMode": "#009040",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
