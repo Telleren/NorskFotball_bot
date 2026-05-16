@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T04:07:49.884864+00:00",
+  "generated_at": "2026-05-16T08:22:53.445571+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,39 @@
         "type": "league",
         "data": [
           {
+            "name": "Lucas Svenningsen",
+            "playerId": 1635847,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-05-16T06:28:21Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lillestrøm",
+            "fromClubFullName": "Lillestrøm",
+            "fromClubId": 8476,
+            "toClub": "Tromsdalen",
+            "toClubFullName": "Tromsdalen",
+            "toClubId": 8617,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-04-30T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
+            "marketValue": 386863
+          },
+          {
             "name": "Jesper Gregersen",
             "playerId": 1315454,
             "position": {
@@ -7646,39 +7679,6 @@
             "fromDate": "2026-02-01T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 365654
-          },
-          {
-            "name": "Camil Mmaee",
-            "playerId": 1341533,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-02-02T16:48:51Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "MVV Maastricht",
-            "fromClubFullName": "MVV Maastricht",
-            "fromClubId": 9838,
-            "toClub": "Sarpsborg 08",
-            "toClubFullName": "Sarpsborg 08",
-            "toClubId": 8509,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-01T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 243033
           }
         ]
       },
