@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T05:32:11.624901+00:00",
+  "generated_at": "2026-06-15T12:46:29.477447+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,142 @@
         "type": "league",
         "data": [
           {
+            "name": "Storm Strand-Kolbjørnsen",
+            "playerId": 1279385,
+            "position": {
+              "label": "GK",
+              "key": "keeper"
+            },
+            "transferDate": "2026-06-15T11:42:19Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Åsane",
+            "toClubFullName": "Åsane",
+            "toClubId": 10021,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-06-11T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 197936
+          },
+          {
+            "name": "Joachim Prent-Eckbo",
+            "playerId": 1404438,
+            "position": {
+              "label": "RM",
+              "key": "rightmidfielder_short"
+            },
+            "transferDate": "2026-06-15T11:36:19Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "KFUM",
+            "fromClubFullName": "KFUM",
+            "fromClubId": 2305,
+            "toClub": "Arendal Fotball",
+            "toClubFullName": "Arendal Fotball",
+            "toClubId": -1,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-06-12T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
+            "marketValue": 363945
+          },
+          {
+            "name": "Markus Edner Wæhler",
+            "playerId": 1636127,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-06-15T11:29:47Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lillestrøm",
+            "fromClubFullName": "Lillestrøm",
+            "fromClubId": 8476,
+            "toClub": "Strømmen",
+            "toClubFullName": "Strømmen",
+            "toClubId": 4249,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-06-12T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 807218
+          },
+          {
+            "name": "Jesper Eikrem",
+            "playerId": 1474509,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-06-15T11:25:24Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubFullName": "Brann",
+            "fromClubId": 8468,
+            "toClub": "Åsane",
+            "toClubFullName": "Åsane",
+            "toClubId": 10021,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-06-12T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 843615
+          },
+          {
             "name": "Joshua Kitolano",
             "playerId": 902675,
             "position": {
@@ -7651,137 +7787,6 @@
             "fromDate": "2026-02-02T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 1702054
-          },
-          {
-            "name": "Sverre Hakami Sandal",
-            "playerId": 1280596,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-02-03T13:31:41Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "KFUM",
-            "fromClubFullName": "KFUM",
-            "fromClubId": 2305,
-            "toClub": "Luton",
-            "toClubFullName": "Luton Town",
-            "toClubId": 8346,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 1300000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-02T00:00:00Z",
-            "toDate": null,
-            "marketValue": 970106
-          },
-          {
-            "name": "Joannes Bjartalid",
-            "playerId": 833474,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-02-02T16:55:55Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Fredrikstad",
-            "fromClubFullName": "Fredrikstad",
-            "fromClubId": 8417,
-            "toClub": "FC Kyzylzhar Petropavlovsk",
-            "toClubFullName": "FC Kyzylzhar Petropavlovsk",
-            "toClubId": 2120,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 252608
-          },
-          {
-            "name": "Kolbeinn Finnsson",
-            "playerId": 635743,
-            "position": null,
-            "transferDate": "2026-02-02T16:54:40Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "FC Utrecht",
-            "fromClubFullName": "FC Utrecht",
-            "fromClubId": 9908,
-            "toClub": "Vålerenga",
-            "toClubFullName": "Vålerenga",
-            "toClubId": 8007,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-02T00:00:00Z",
-            "toDate": "2026-06-30T00:00:00Z",
-            "marketValue": 525432
-          },
-          {
-            "name": "Loris Mettler",
-            "playerId": 1299490,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-02-02T16:51:10Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sandefjord",
-            "fromClubFullName": "Sandefjord",
-            "fromClubId": 8609,
-            "toClub": "HamKam",
-            "toClubFullName": "Hamarkameratene",
-            "toClubId": 8448,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-02T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 244644
           }
         ]
       },
@@ -43018,8 +43023,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/1-divisjon",
-            "leagueName": "1. Divisjon",
+            "pageUrl": "/leagues/203/overview/obos-ligaen",
+            "leagueName": "OBOS-ligaen",
             "legend": [
               {
                 "title": "Promotion",
@@ -47017,6 +47022,108 @@
         "type": "league",
         "data": [
           {
+            "name": "Storm Strand-Kolbjørnsen",
+            "playerId": 1279385,
+            "position": {
+              "label": "GK",
+              "key": "keeper"
+            },
+            "transferDate": "2026-06-15T11:42:19Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Åsane",
+            "toClubFullName": "Åsane",
+            "toClubId": 10021,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-06-11T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 197936
+          },
+          {
+            "name": "Markus Edner Wæhler",
+            "playerId": 1636127,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-06-15T11:29:47Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lillestrøm",
+            "fromClubFullName": "Lillestrøm",
+            "fromClubId": 8476,
+            "toClub": "Strømmen",
+            "toClubFullName": "Strømmen",
+            "toClubId": 4249,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-06-12T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 807218
+          },
+          {
+            "name": "Jesper Eikrem",
+            "playerId": 1474509,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-06-15T11:25:24Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubFullName": "Brann",
+            "fromClubId": 8468,
+            "toClub": "Åsane",
+            "toClubFullName": "Åsane",
+            "toClubId": 10021,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-06-12T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 843615
+          },
+          {
             "name": "Jesper Gregersen",
             "playerId": 1315454,
             "position": {
@@ -50204,109 +50311,6 @@
             "fromDate": "2025-07-29T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 351312
-          },
-          {
-            "name": "Jon Berisha",
-            "playerId": 1413148,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2025-07-28T12:49:03Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubFullName": "Brann",
-            "fromClubId": 8468,
-            "toClub": "Ranheim",
-            "toClubFullName": "Ranheim",
-            "toClubId": 6563,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-07-25T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 167803
-          },
-          {
-            "name": "Yaw Paintsil",
-            "playerId": 938023,
-            "position": {
-              "label": "RM",
-              "key": "rightmidfielder_short"
-            },
-            "transferDate": "2025-07-25T11:26:34Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Tromsø",
-            "fromClubFullName": "Tromsø",
-            "fromClubId": 8608,
-            "toClub": "Lillestrøm",
-            "toClubFullName": "Lillestrøm",
-            "toClubId": 8476,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 250000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-07-24T00:00:00Z",
-            "toDate": "2027-12-31T00:00:00Z",
-            "marketValue": 502197
-          },
-          {
-            "name": "Magnus Smelhus Sjøeng",
-            "playerId": 1144995,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2025-07-24T10:42:01Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Vålerenga",
-            "fromClubFullName": "Vålerenga",
-            "fromClubId": 8007,
-            "toClub": "Stabæk",
-            "toClubFullName": "Stabæk",
-            "toClubId": 9918,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-07-23T00:00:00Z",
-            "toDate": "2025-12-31T00:00:00Z",
-            "marketValue": 1270809
           }
         ]
       },
@@ -50318,8 +50322,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/1-divisjon",
-              "leagueName": "1. Divisjon",
+              "pageUrl": "/leagues/203/overview/obos-ligaen",
+              "leagueName": "OBOS-ligaen",
               "legend": [
                 {
                   "title": "Promotion",
@@ -88396,7 +88400,7 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-19T10:00:00Z",
+              "utcTime": "2026-08-19T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -92385,7 +92389,7 @@
                 "id": "4485"
               },
               "status": {
-                "utcTime": "2026-08-19T10:00:00Z",
+                "utcTime": "2026-08-19T16:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -97094,7 +97098,7 @@
               "id": "4485"
             },
             "status": {
-              "utcTime": "2026-08-19T10:00:00Z",
+              "utcTime": "2026-08-19T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
