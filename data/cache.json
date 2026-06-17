@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T05:21:01.173842+00:00",
+  "generated_at": "2026-06-17T11:20:34.836015+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,40 @@
         "type": "league",
         "data": [
           {
+            "name": "Chris Kouakou",
+            "playerId": 1179024,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-06-17T10:25:38Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sarpsborg 08",
+            "fromClubFullName": "Sarpsborg 08",
+            "fromClubId": 8509,
+            "toClub": "Ironi Tiberias",
+            "toClubFullName": "Ironi Tiberias",
+            "toClubId": 543580,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-01T00:00:00Z",
+            "toDate": "2027-06-30T00:00:00Z",
+            "marketValue": 450000
+          },
+          {
             "name": "Simen Hestnes",
             "playerId": 630365,
             "position": {
@@ -7751,37 +7785,6 @@
             "fromDate": "2026-02-04T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 213035
-          },
-          {
-            "name": "Sondre Halvorsen",
-            "playerId": 1377583,
-            "position": null,
-            "transferDate": "2026-02-04T00:03:00Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "KFUM",
-            "fromClubFullName": "KFUM",
-            "fromClubId": 2305,
-            "toClub": "Tromsdalen",
-            "toClubFullName": "Tromsdalen",
-            "toClubId": 8617,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-03T00:00:00Z",
-            "toDate": "2028-06-30T00:00:00Z",
-            "marketValue": 272765
           }
         ]
       },
