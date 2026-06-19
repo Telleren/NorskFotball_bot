@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T15:45:55.044872+00:00",
+  "generated_at": "2026-06-19T20:07:01.636632+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -43149,13 +43149,13 @@
                   "pageUrl": "/teams/6563/overview/ranheim",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 11,
-                  "wins": 5,
+                  "played": 12,
+                  "wins": 6,
                   "draws": 2,
                   "losses": 4,
-                  "scoresStr": "29-24",
-                  "goalConDiff": 5,
-                  "pts": 17,
+                  "scoresStr": "32-26",
+                  "goalConDiff": 6,
+                  "pts": 20,
                   "idx": 6,
                   "qualColor": "#FFD908"
                 },
@@ -43268,12 +43268,12 @@
                   "pageUrl": "/teams/10224/overview/lyn",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 11,
+                  "played": 12,
                   "wins": 3,
                   "draws": 1,
-                  "losses": 7,
-                  "scoresStr": "8-21",
-                  "goalConDiff": -13,
+                  "losses": 8,
+                  "scoresStr": "10-24",
+                  "goalConDiff": -14,
                   "pts": 10,
                   "idx": 13,
                   "qualColor": null
@@ -43350,6 +43350,24 @@
                   "qualColor": "#2AD572"
                 },
                 {
+                  "name": "Ranheim",
+                  "shortName": "Ranheim",
+                  "id": 6563,
+                  "pageUrl": "/teams/6563/overview/ranheim",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 7,
+                  "wins": 5,
+                  "draws": 2,
+                  "losses": 0,
+                  "scoresStr": "23-9",
+                  "goalConDiff": 14,
+                  "goalsScored": 23,
+                  "pts": 17,
+                  "idx": 2,
+                  "qualColor": "#2AD572"
+                },
+                {
                   "name": "Kongsvinger",
                   "shortName": "Kongsvinger",
                   "id": 8179,
@@ -43364,24 +43382,6 @@
                   "goalConDiff": 9,
                   "goalsScored": 14,
                   "pts": 15,
-                  "idx": 2,
-                  "qualColor": "#2AD572"
-                },
-                {
-                  "name": "Ranheim",
-                  "shortName": "Ranheim",
-                  "id": 6563,
-                  "pageUrl": "/teams/6563/overview/ranheim",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 6,
-                  "wins": 4,
-                  "draws": 2,
-                  "losses": 0,
-                  "scoresStr": "20-7",
-                  "goalConDiff": 13,
-                  "goalsScored": 20,
-                  "pts": 14,
                   "idx": 3,
                   "qualColor": "#FFD908"
                 },
@@ -43736,13 +43736,13 @@
                   "pageUrl": "/teams/10224/overview/lyn",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 5,
+                  "played": 6,
                   "wins": 2,
                   "draws": 1,
-                  "losses": 2,
-                  "scoresStr": "5-5",
-                  "goalConDiff": 0,
-                  "goalsScored": 5,
+                  "losses": 3,
+                  "scoresStr": "7-8",
+                  "goalConDiff": -1,
+                  "goalsScored": 7,
                   "pts": 7,
                   "idx": 7,
                   "qualColor": null
@@ -44155,9 +44155,9 @@
                   "wins": 1,
                   "draws": 1,
                   "losses": 3,
-                  "scoresStr": "1-9",
-                  "goalConDiff": -8,
-                  "goalsScored": 1,
+                  "scoresStr": "3-9",
+                  "goalConDiff": -6,
+                  "goalsScored": 3,
                   "pts": 4,
                   "ongoing": null,
                   "idx": 14,
@@ -44534,37 +44534,6 @@
             ],
             "6563": [
               {
-                "result": 1,
-                "resultString": "W",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7937_xsmall.png",
-                "linkToMatch": "/matches/ranheim-vs-hodd/1qlior#5105141",
-                "date": null,
-                "teamPageUrl": "/teams/7937/overview/hodd",
-                "tooltipText": {
-                  "utcTime": "2026-05-20T15:00:00.000Z",
-                  "timezone": "UTC",
-                  "homeTeam": "Ranheim",
-                  "homeTeamId": 6563,
-                  "homeScore": 3,
-                  "awayTeam": "Hødd",
-                  "awayTeamId": 7937,
-                  "awayScore": 2
-                },
-                "score": "3 - 2",
-                "home": {
-                  "id": "6563",
-                  "name": "Ranheim",
-                  "shortName": "Ranheim",
-                  "isOurTeam": true
-                },
-                "away": {
-                  "id": "7937",
-                  "name": "Hødd",
-                  "shortName": "Hødd",
-                  "isOurTeam": false
-                }
-              },
-              {
                 "result": -1,
                 "resultString": "L",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7988_xsmall.png",
@@ -44686,6 +44655,37 @@
                   "name": "Ranheim",
                   "shortName": "Ranheim",
                   "isOurTeam": true
+                }
+              },
+              {
+                "result": 1,
+                "resultString": "W",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10224_xsmall.png",
+                "linkToMatch": "/matches/ranheim-vs-lyn/2bwbz5#5105175",
+                "date": null,
+                "teamPageUrl": "/teams/10224/overview/lyn",
+                "tooltipText": {
+                  "utcTime": "2026-06-19T15:00:00.000Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Ranheim",
+                  "homeTeamId": 6563,
+                  "homeScore": 3,
+                  "awayTeam": "Lyn",
+                  "awayTeamId": 10224,
+                  "awayScore": 2
+                },
+                "score": "3 - 2",
+                "home": {
+                  "id": "6563",
+                  "name": "Ranheim",
+                  "shortName": "Ranheim",
+                  "isOurTeam": true
+                },
+                "away": {
+                  "id": "10224",
+                  "name": "Lyn",
+                  "shortName": "Lyn",
+                  "isOurTeam": false
                 }
               }
             ],
@@ -46575,37 +46575,6 @@
             ],
             "10224": [
               {
-                "result": -1,
-                "resultString": "L",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8179_xsmall.png",
-                "linkToMatch": "/matches/kongsvinger-vs-lyn/2sttah#5105134",
-                "date": null,
-                "teamPageUrl": "/teams/8179/overview/kongsvinger",
-                "tooltipText": {
-                  "utcTime": "2026-05-16T12:00:00.000Z",
-                  "timezone": "UTC",
-                  "homeTeam": "Lyn",
-                  "homeTeamId": 10224,
-                  "homeScore": 0,
-                  "awayTeam": "Kongsvinger",
-                  "awayTeamId": 8179,
-                  "awayScore": 3
-                },
-                "score": "0 - 3",
-                "home": {
-                  "id": "10224",
-                  "name": "Lyn",
-                  "shortName": "Lyn",
-                  "isOurTeam": true
-                },
-                "away": {
-                  "id": "8179",
-                  "name": "Kongsvinger",
-                  "shortName": "Kongsvinger",
-                  "isOurTeam": false
-                }
-              },
-              {
                 "result": 0,
                 "resultString": "D",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4722_xsmall.png",
@@ -46728,6 +46697,37 @@
                   "shortName": "Bryne",
                   "isOurTeam": false
                 }
+              },
+              {
+                "result": -1,
+                "resultString": "L",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6563_xsmall.png",
+                "linkToMatch": "/matches/ranheim-vs-lyn/2bwbz5#5105175",
+                "date": null,
+                "teamPageUrl": "/teams/6563/overview/ranheim",
+                "tooltipText": {
+                  "utcTime": "2026-06-19T15:00:00.000Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Ranheim",
+                  "homeTeamId": 6563,
+                  "homeScore": 3,
+                  "awayTeam": "Lyn",
+                  "awayTeamId": 10224,
+                  "awayScore": 2
+                },
+                "score": "3 - 2",
+                "home": {
+                  "id": "6563",
+                  "name": "Ranheim",
+                  "shortName": "Ranheim",
+                  "isOurTeam": false
+                },
+                "away": {
+                  "id": "10224",
+                  "name": "Lyn",
+                  "shortName": "Lyn",
+                  "isOurTeam": true
+                }
               }
             ]
           },
@@ -46765,20 +46765,20 @@
               "2026-06-21T14:00:00.000Z"
             ],
             "6563": [
-              "10224",
-              "Lyn",
-              "5105175",
+              "10021",
+              "Åsane",
+              "5105185",
+              {
+                "id": "10021",
+                "name": "Åsane",
+                "shortName": "Åsane"
+              },
               {
                 "id": "6563",
                 "name": "Ranheim",
                 "shortName": "Ranheim"
               },
-              {
-                "id": "10224",
-                "name": "Lyn",
-                "shortName": "Lyn"
-              },
-              "2026-06-19T17:00:00.000Z"
+              "2026-06-27T14:00:00.000Z"
             ],
             "7937": [
               "7988",
@@ -46973,20 +46973,20 @@
               "2026-06-21T14:00:00.000Z"
             ],
             "10224": [
-              "6563",
-              "Ranheim",
-              "5105175",
-              {
-                "id": "6563",
-                "name": "Ranheim",
-                "shortName": "Ranheim"
-              },
+              "7937",
+              "Hødd",
+              "5105179",
               {
                 "id": "10224",
                 "name": "Lyn",
                 "shortName": "Lyn"
               },
-              "2026-06-19T17:00:00.000Z"
+              {
+                "id": "7937",
+                "name": "Hødd",
+                "shortName": "Hødd"
+              },
+              "2026-06-27T14:00:00.000Z"
             ]
           },
           "tableHeader": {
@@ -50444,13 +50444,13 @@
                     "pageUrl": "/teams/6563/overview/ranheim",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 11,
-                    "wins": 5,
+                    "played": 12,
+                    "wins": 6,
                     "draws": 2,
                     "losses": 4,
-                    "scoresStr": "29-24",
-                    "goalConDiff": 5,
-                    "pts": 17,
+                    "scoresStr": "32-26",
+                    "goalConDiff": 6,
+                    "pts": 20,
                     "idx": 6,
                     "qualColor": "#FFD908"
                   },
@@ -50563,12 +50563,12 @@
                     "pageUrl": "/teams/10224/overview/lyn",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 11,
+                    "played": 12,
                     "wins": 3,
                     "draws": 1,
-                    "losses": 7,
-                    "scoresStr": "8-21",
-                    "goalConDiff": -13,
+                    "losses": 8,
+                    "scoresStr": "10-24",
+                    "goalConDiff": -14,
                     "pts": 10,
                     "idx": 13,
                     "qualColor": null
@@ -50645,6 +50645,24 @@
                     "qualColor": "#2AD572"
                   },
                   {
+                    "name": "Ranheim",
+                    "shortName": "Ranheim",
+                    "id": 6563,
+                    "pageUrl": "/teams/6563/overview/ranheim",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 7,
+                    "wins": 5,
+                    "draws": 2,
+                    "losses": 0,
+                    "scoresStr": "23-9",
+                    "goalConDiff": 14,
+                    "goalsScored": 23,
+                    "pts": 17,
+                    "idx": 2,
+                    "qualColor": "#2AD572"
+                  },
+                  {
                     "name": "Kongsvinger",
                     "shortName": "Kongsvinger",
                     "id": 8179,
@@ -50659,24 +50677,6 @@
                     "goalConDiff": 9,
                     "goalsScored": 14,
                     "pts": 15,
-                    "idx": 2,
-                    "qualColor": "#2AD572"
-                  },
-                  {
-                    "name": "Ranheim",
-                    "shortName": "Ranheim",
-                    "id": 6563,
-                    "pageUrl": "/teams/6563/overview/ranheim",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 6,
-                    "wins": 4,
-                    "draws": 2,
-                    "losses": 0,
-                    "scoresStr": "20-7",
-                    "goalConDiff": 13,
-                    "goalsScored": 20,
-                    "pts": 14,
                     "idx": 3,
                     "qualColor": "#FFD908"
                   },
@@ -51031,13 +51031,13 @@
                     "pageUrl": "/teams/10224/overview/lyn",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 5,
+                    "played": 6,
                     "wins": 2,
                     "draws": 1,
-                    "losses": 2,
-                    "scoresStr": "5-5",
-                    "goalConDiff": 0,
-                    "goalsScored": 5,
+                    "losses": 3,
+                    "scoresStr": "7-8",
+                    "goalConDiff": -1,
+                    "goalsScored": 7,
                     "pts": 7,
                     "idx": 7,
                     "qualColor": null
@@ -51450,9 +51450,9 @@
                     "wins": 1,
                     "draws": 1,
                     "losses": 3,
-                    "scoresStr": "1-9",
-                    "goalConDiff": -8,
-                    "goalsScored": 1,
+                    "scoresStr": "3-9",
+                    "goalConDiff": -6,
+                    "goalsScored": 3,
                     "pts": 4,
                     "ongoing": null,
                     "idx": 14,
@@ -51829,37 +51829,6 @@
               ],
               "6563": [
                 {
-                  "result": 1,
-                  "resultString": "W",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7937_xsmall.png",
-                  "linkToMatch": "/matches/ranheim-vs-hodd/1qlior#5105141",
-                  "date": null,
-                  "teamPageUrl": "/teams/7937/overview/hodd",
-                  "tooltipText": {
-                    "utcTime": "2026-05-20T15:00:00.000Z",
-                    "timezone": "UTC",
-                    "homeTeam": "Ranheim",
-                    "homeTeamId": 6563,
-                    "homeScore": 3,
-                    "awayTeam": "Hødd",
-                    "awayTeamId": 7937,
-                    "awayScore": 2
-                  },
-                  "score": "3 - 2",
-                  "home": {
-                    "id": "6563",
-                    "name": "Ranheim",
-                    "shortName": "Ranheim",
-                    "isOurTeam": true
-                  },
-                  "away": {
-                    "id": "7937",
-                    "name": "Hødd",
-                    "shortName": "Hødd",
-                    "isOurTeam": false
-                  }
-                },
-                {
                   "result": -1,
                   "resultString": "L",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7988_xsmall.png",
@@ -51981,6 +51950,37 @@
                     "name": "Ranheim",
                     "shortName": "Ranheim",
                     "isOurTeam": true
+                  }
+                },
+                {
+                  "result": 1,
+                  "resultString": "W",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10224_xsmall.png",
+                  "linkToMatch": "/matches/ranheim-vs-lyn/2bwbz5#5105175",
+                  "date": null,
+                  "teamPageUrl": "/teams/10224/overview/lyn",
+                  "tooltipText": {
+                    "utcTime": "2026-06-19T15:00:00.000Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Ranheim",
+                    "homeTeamId": 6563,
+                    "homeScore": 3,
+                    "awayTeam": "Lyn",
+                    "awayTeamId": 10224,
+                    "awayScore": 2
+                  },
+                  "score": "3 - 2",
+                  "home": {
+                    "id": "6563",
+                    "name": "Ranheim",
+                    "shortName": "Ranheim",
+                    "isOurTeam": true
+                  },
+                  "away": {
+                    "id": "10224",
+                    "name": "Lyn",
+                    "shortName": "Lyn",
+                    "isOurTeam": false
                   }
                 }
               ],
@@ -53870,37 +53870,6 @@
               ],
               "10224": [
                 {
-                  "result": -1,
-                  "resultString": "L",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8179_xsmall.png",
-                  "linkToMatch": "/matches/kongsvinger-vs-lyn/2sttah#5105134",
-                  "date": null,
-                  "teamPageUrl": "/teams/8179/overview/kongsvinger",
-                  "tooltipText": {
-                    "utcTime": "2026-05-16T12:00:00.000Z",
-                    "timezone": "UTC",
-                    "homeTeam": "Lyn",
-                    "homeTeamId": 10224,
-                    "homeScore": 0,
-                    "awayTeam": "Kongsvinger",
-                    "awayTeamId": 8179,
-                    "awayScore": 3
-                  },
-                  "score": "0 - 3",
-                  "home": {
-                    "id": "10224",
-                    "name": "Lyn",
-                    "shortName": "Lyn",
-                    "isOurTeam": true
-                  },
-                  "away": {
-                    "id": "8179",
-                    "name": "Kongsvinger",
-                    "shortName": "Kongsvinger",
-                    "isOurTeam": false
-                  }
-                },
-                {
                   "result": 0,
                   "resultString": "D",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4722_xsmall.png",
@@ -54023,6 +53992,37 @@
                     "shortName": "Bryne",
                     "isOurTeam": false
                   }
+                },
+                {
+                  "result": -1,
+                  "resultString": "L",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6563_xsmall.png",
+                  "linkToMatch": "/matches/ranheim-vs-lyn/2bwbz5#5105175",
+                  "date": null,
+                  "teamPageUrl": "/teams/6563/overview/ranheim",
+                  "tooltipText": {
+                    "utcTime": "2026-06-19T15:00:00.000Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Ranheim",
+                    "homeTeamId": 6563,
+                    "homeScore": 3,
+                    "awayTeam": "Lyn",
+                    "awayTeamId": 10224,
+                    "awayScore": 2
+                  },
+                  "score": "3 - 2",
+                  "home": {
+                    "id": "6563",
+                    "name": "Ranheim",
+                    "shortName": "Ranheim",
+                    "isOurTeam": false
+                  },
+                  "away": {
+                    "id": "10224",
+                    "name": "Lyn",
+                    "shortName": "Lyn",
+                    "isOurTeam": true
+                  }
                 }
               ]
             },
@@ -54060,20 +54060,20 @@
                 "2026-06-21T14:00:00.000Z"
               ],
               "6563": [
-                "10224",
-                "Lyn",
-                "5105175",
+                "10021",
+                "Åsane",
+                "5105185",
+                {
+                  "id": "10021",
+                  "name": "Åsane",
+                  "shortName": "Åsane"
+                },
                 {
                   "id": "6563",
                   "name": "Ranheim",
                   "shortName": "Ranheim"
                 },
-                {
-                  "id": "10224",
-                  "name": "Lyn",
-                  "shortName": "Lyn"
-                },
-                "2026-06-19T17:00:00.000Z"
+                "2026-06-27T14:00:00.000Z"
               ],
               "7937": [
                 "7988",
@@ -54268,20 +54268,20 @@
                 "2026-06-21T14:00:00.000Z"
               ],
               "10224": [
-                "6563",
-                "Ranheim",
-                "5105175",
-                {
-                  "id": "6563",
-                  "name": "Ranheim",
-                  "shortName": "Ranheim"
-                },
+                "7937",
+                "Hødd",
+                "5105179",
                 {
                   "id": "10224",
                   "name": "Lyn",
                   "shortName": "Lyn"
                 },
-                "2026-06-19T17:00:00.000Z"
+                {
+                  "id": "7937",
+                  "name": "Hødd",
+                  "shortName": "Hødd"
+                },
+                "2026-06-27T14:00:00.000Z"
               ]
             },
             "tableHeader": {
@@ -54350,22 +54350,22 @@
                 }
               },
               {
-                "id": 1343446,
-                "name": "Faniel Temesgen Tewelde",
-                "teamId": 7988,
-                "teamName": "Odds Ballklubb",
-                "goals": 9,
-                "value": 9,
+                "id": 935553,
+                "name": "Mikael Toerset Johnsen",
+                "teamId": 6563,
+                "teamName": "Ranheim",
+                "goals": 11,
+                "value": 11,
                 "stat": {
                   "name": "goals",
-                  "value": 9,
+                  "value": 11,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#181818",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#006DB5",
+                  "lightMode": "#006DB5",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -57879,32 +57879,41 @@
             "opponent": {
               "id": "6563",
               "name": "Ranheim",
-              "score": 0
+              "score": 3
             },
             "home": {
               "id": "6563",
               "name": "Ranheim",
-              "score": 0
+              "score": 3
             },
             "away": {
               "id": "10224",
               "name": "Lyn",
-              "score": 0
+              "score": 2
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-06-19T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "19.06.2026 19:00:00"
+                "firstHalfStarted": "19.06.2026 19:00:33",
+                "secondHalfStarted": "19.06.2026 20:03:08"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "3 - 2",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -62593,8 +62602,8 @@
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 88,
-            "firstUnplayedMatchId": "5105175"
+            "firstUnplayedMatchIndex": 89,
+            "firstUnplayedMatchId": "5105170"
           },
           "allMatches": [
             {
@@ -65343,12 +65352,21 @@
               "status": {
                 "utcTime": "2026-06-19T17:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "19.06.2026 19:00:00"
+                  "firstHalfStarted": "19.06.2026 19:00:33",
+                  "secondHalfStarted": "19.06.2026 20:03:08"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "3 - 2",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -69084,22 +69102,22 @@
                 }
               },
               {
-                "id": 1343446,
-                "name": "Faniel Temesgen Tewelde",
+                "id": 935553,
+                "name": "Mikael Toerset Johnsen",
                 "rank": 3,
-                "teamId": 7988,
-                "teamName": "Odds Ballklubb",
-                "value": 9,
+                "teamId": 6563,
+                "teamName": "Ranheim",
+                "value": 11,
                 "stat": {
                   "name": "goals",
-                  "value": 9,
+                  "value": 11,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#181818",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#006DB5",
+                  "lightMode": "#006DB5",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -69252,11 +69270,11 @@
                 }
               },
               {
-                "id": 1489442,
-                "name": "Sebastian Olderheim",
+                "id": 935553,
+                "name": "Mikael Toerset Johnsen",
                 "rank": 2,
-                "teamId": 9918,
-                "teamName": "Stabaek",
+                "teamId": 6563,
+                "teamName": "Ranheim",
                 "value": 12,
                 "stat": {
                   "name": "_goals_and_goal_assist",
@@ -69265,8 +69283,8 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#2e5483",
-                  "lightMode": "#003763",
+                  "darkMode": "#006DB5",
+                  "lightMode": "#006DB5",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -69511,10 +69529,10 @@
                 "rank": 3,
                 "teamId": 6563,
                 "teamName": "Ranheim",
-                "value": 2.6,
+                "value": 2.7,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 2.6,
+                  "value": 2.7,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -69675,10 +69693,10 @@
               },
               {
                 "id": 0,
-                "name": "Lyn",
+                "name": "Odds Ballklubb",
                 "rank": 2,
-                "teamId": 10224,
-                "teamName": "Lyn",
+                "teamId": 7988,
+                "teamName": "Odds Ballklubb",
                 "value": 4,
                 "stat": {
                   "name": "clean_sheet_team",
@@ -69687,9 +69705,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#A30013",
-                  "lightMode": "#A30013",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#ffffff",
+                  "lightMode": "#181818",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -70045,8 +70063,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 88,
-          "firstUnplayedMatchId": "5105175"
+          "firstUnplayedMatchIndex": 89,
+          "firstUnplayedMatchId": "5105170"
         },
         "allMatches": [
           {
@@ -72795,12 +72813,21 @@
             "status": {
               "utcTime": "2026-06-19T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "19.06.2026 19:00:00"
+                "firstHalfStarted": "19.06.2026 19:00:33",
+                "secondHalfStarted": "19.06.2026 20:03:08"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "3 - 2",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
