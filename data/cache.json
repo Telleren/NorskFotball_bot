@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T05:22:20.649795+00:00",
+  "generated_at": "2026-06-21T10:08:40.813492+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,34 @@
         "type": "league",
         "data": [
           {
+            "name": "Eirik Granaas",
+            "playerId": 1747225,
+            "position": null,
+            "transferDate": "2026-06-21T10:34:20Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Fredrikstad",
+            "fromClubFullName": "Fredrikstad",
+            "fromClubId": 8417,
+            "toClub": "FC Porto B",
+            "toClubFullName": "FC Porto B",
+            "toClubId": -1,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-01T00:00:00Z",
+            "toDate": null,
+            "marketValue": 733169
+          },
+          {
             "name": "Abubacarr Sedi Kinteh",
             "playerId": 1734316,
             "position": {
@@ -7751,37 +7779,6 @@
             "fromDate": "2026-02-05T00:00:00Z",
             "toDate": "2027-12-31T00:00:00Z",
             "marketValue": 92387
-          },
-          {
-            "name": "Kasper Sætherbø",
-            "playerId": 1377129,
-            "position": {
-              "label": "DM",
-              "key": "centerdefensivemidfielder_short"
-            },
-            "transferDate": "2026-02-06T07:29:26Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Viking",
-            "fromClubFullName": "Viking",
-            "fromClubId": 8478,
-            "toClub": "Egersund",
-            "toClubFullName": "Egersund",
-            "toClubId": 4722,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-03T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 290115
           }
         ]
       },
