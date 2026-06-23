@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:06:20.312592+00:00",
+  "generated_at": "2026-06-23T15:28:30.174948+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Isak Dahlqvist",
+            "playerId": 1156490,
+            "position": {
+              "label": "RW",
+              "key": "rightwinger_short"
+            },
+            "transferDate": "2026-06-23T16:45:08Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "BW Linz",
+            "fromClubFullName": "BW Linz",
+            "fromClubId": 2433,
+            "toClub": "Tromsø",
+            "toClubFullName": "Tromsø",
+            "toClubId": 8608,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-01T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 340754
+          },
+          {
             "name": "Eirik Granaas",
             "playerId": 1747225,
             "position": null,
@@ -7744,41 +7775,6 @@
             "fromDate": "2026-02-02T00:00:00Z",
             "toDate": "2026-12-31T00:00:00Z",
             "marketValue": 60000
-          },
-          {
-            "name": "Viktor Ekblom",
-            "playerId": 1276180,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-02-06T08:53:11Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Falkenbergs FF",
-            "fromClubFullName": "Falkenbergs FF",
-            "fromClubId": 6545,
-            "toClub": "Tromsø",
-            "toClubFullName": "Tromsø",
-            "toClubId": 8608,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 300000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-05T00:00:00Z",
-            "toDate": "2027-12-31T00:00:00Z",
-            "marketValue": 92387
           }
         ]
       },
