@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T20:20:11.423130+00:00",
+  "generated_at": "2026-06-30T04:39:32.177724+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,68 @@
         "type": "league",
         "data": [
           {
+            "name": "Daniel Skaarud",
+            "playerId": 1414892,
+            "position": null,
+            "transferDate": "2026-06-30T05:04:37Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Ajax",
+            "fromClubFullName": "Ajax",
+            "fromClubId": 8593,
+            "toClub": "Sandefjord",
+            "toClubFullName": "Sandefjord",
+            "toClubId": 8609,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": null,
+            "toDate": "2030-12-31T00:00:00Z",
+            "marketValue": null
+          },
+          {
+            "name": "Devon Koswal",
+            "playerId": 1189480,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-06-30T05:02:19Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Telstar",
+            "fromClubFullName": "Telstar",
+            "fromClubId": 6414,
+            "toClub": "Sandefjord",
+            "toClubFullName": "Sandefjord",
+            "toClubId": 8609,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-01T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": 670705
+          },
+          {
             "name": "Isak Dahlqvist",
             "playerId": 1156490,
             "position": {
@@ -7767,74 +7829,6 @@
             "fromDate": "2026-02-03T23:00:00Z",
             "toDate": null,
             "marketValue": 83663
-          },
-          {
-            "name": "Krzysztof Bakowski",
-            "playerId": 1070708,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2026-02-07T14:13:11Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lech Poznań",
-            "fromClubFullName": "Lech Poznań",
-            "fromClubId": 2182,
-            "toClub": "KFUM",
-            "toClubFullName": "KFUM",
-            "toClubId": 2305,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-06T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 345543
-          },
-          {
-            "name": "Eivind Strømsheim Kolve",
-            "playerId": 1377160,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-02-07T07:35:16Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Aalesund",
-            "fromClubFullName": "Aalesund",
-            "fromClubId": 8404,
-            "toClub": "Brattvag",
-            "toClubFullName": "Brattvag",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-01T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": null
           }
         ]
       },
