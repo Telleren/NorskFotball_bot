@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T04:39:32.177724+00:00",
+  "generated_at": "2026-06-30T10:06:26.480146+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Casper Øyvann",
+            "playerId": 935515,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-06-30T11:05:00Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubFullName": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Tromsø",
+            "toClubFullName": "Tromsø",
+            "toClubId": 8608,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 25000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": "2028-06-30T00:00:00Z",
+            "marketValue": 431028
+          },
+          {
             "name": "Daniel Skaarud",
             "playerId": 1414892,
             "position": null,
@@ -7795,40 +7830,6 @@
             "fromDate": "2026-02-05T23:00:00Z",
             "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 1098258
-          },
-          {
-            "name": "Alexander Nilsson",
-            "playerId": 1075261,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2026-02-07T20:07:10Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "HamKam",
-            "fromClubFullName": "Hamarkameratene",
-            "fromClubId": 8448,
-            "toClub": "FC Rosengård",
-            "toClubFullName": "FC Rosengård",
-            "toClubId": 6170,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-03T23:00:00Z",
-            "toDate": null,
-            "marketValue": 83663
           }
         ]
       },
@@ -48308,7 +48309,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-02-06T06:33:12Z",
+            "transferDate": "2026-02-06T07:33:12Z",
             "transferText": [
               null,
               null,
@@ -48331,8 +48332,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-02-04T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
+            "fromDate": "2026-02-05T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
             "marketValue": 376570
           },
           {
