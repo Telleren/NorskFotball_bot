@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T04:58:57.661818+00:00",
+  "generated_at": "2026-07-01T10:20:43.999817+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,130 @@
         "type": "league",
         "data": [
           {
+            "name": "Onyebuchi Obasi",
+            "playerId": 1633184,
+            "position": null,
+            "transferDate": "2026-07-01T09:56:40Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Vålerenga",
+            "fromClubFullName": "Vålerenga",
+            "fromClubId": 8007,
+            "toClub": "Hobro",
+            "toClubFullName": "Hobro",
+            "toClubId": 9950,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-01T00:00:00Z",
+            "toDate": null,
+            "marketValue": 238018
+          },
+          {
+            "name": "Hilmir Mikaelsson",
+            "playerId": 1179695,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-07-01T09:53:09Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Viking",
+            "fromClubFullName": "Viking",
+            "fromClubId": 8478,
+            "toClub": "Sigma Olomouc",
+            "toClubFullName": "Sigma Olomouc",
+            "toClubId": 6461,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-01T00:00:00Z",
+            "toDate": null,
+            "marketValue": 485494
+          },
+          {
+            "name": "Eivind Strømsheim Kolve",
+            "playerId": 1377160,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-07-01T09:48:10Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Aalesund",
+            "fromClubFullName": "Aalesund",
+            "fromClubId": 8404,
+            "toClub": "Jerv",
+            "toClubFullName": "Jerv",
+            "toClubId": 2303,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": "2028-12-31T00:00:00Z",
+            "marketValue": null
+          },
+          {
+            "name": "Kristoffer Klaesson",
+            "playerId": 837268,
+            "position": {
+              "label": "GK",
+              "key": "keeper"
+            },
+            "transferDate": "2026-07-01T09:46:39Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Aalesund",
+            "fromClubFullName": "Aalesund",
+            "fromClubId": 8404,
+            "toClub": "Free agent",
+            "toClubFullName": "Free agent",
+            "toClubId": 2,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-06-30T00:00:00Z",
+            "toDate": null,
+            "marketValue": 755292
+          },
+          {
             "name": "Casper Øyvann",
             "playerId": 935515,
             "position": {
@@ -4535,7 +4659,7 @@
             "onLoan": false,
             "fromDate": "2026-07-14T00:00:00Z",
             "toDate": "2028-06-30T00:00:00Z",
-            "marketValue": 431028
+            "marketValue": 427900
           },
           {
             "name": "Daniel Skaarud",
@@ -4634,7 +4758,7 @@
             "name": "Eirik Granaas",
             "playerId": 1747225,
             "position": null,
-            "transferDate": "2026-06-21T08:34:20Z",
+            "transferDate": "2026-06-21T10:34:20Z",
             "transferText": [
               null,
               null,
@@ -4646,7 +4770,11 @@
             "toClub": "FC Porto B",
             "toClubFullName": "FC Porto B",
             "toClubId": -1,
-            "fee": null,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 1800000
+            },
             "amountEuroEstimated": null,
             "transferType": {
               "text": "contract",
@@ -4654,9 +4782,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-06-30T22:00:00Z",
-            "toDate": null,
-            "marketValue": 733169
+            "fromDate": "2026-07-01T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 743001
           },
           {
             "name": "Abubacarr Sedi Kinteh",
@@ -6909,7 +7037,7 @@
             "name": "Onyebuchi Obasi",
             "playerId": 1633184,
             "position": null,
-            "transferDate": "2026-02-28T20:42:27Z",
+            "transferDate": "2026-02-28T21:42:27Z",
             "transferText": [
               null,
               null,
@@ -6932,9 +7060,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-02-27T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 297523
+            "fromDate": "2026-02-28T00:00:00Z",
+            "toDate": "2026-06-30T00:00:00Z",
+            "marketValue": 238018
           },
           {
             "name": "Anders Trondsen",
@@ -7695,141 +7823,6 @@
             "fromDate": "2026-02-09T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
             "marketValue": 173324
-          },
-          {
-            "name": "Daniel Job",
-            "playerId": 1617099,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-02-09T16:33:03Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubFullName": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "Kongsvinger",
-            "toClubFullName": "Kongsvinger",
-            "toClubId": 8179,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-05T23:00:00Z",
-            "toDate": null,
-            "marketValue": 464981
-          },
-          {
-            "name": "Noa Williams",
-            "playerId": 1156491,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-02-09T16:32:10Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Kongsvinger",
-            "fromClubFullName": "Kongsvinger",
-            "fromClubId": 8179,
-            "toClub": "Sarpsborg 08",
-            "toClubFullName": "Sarpsborg 08",
-            "toClubId": 8509,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 500000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-05T23:00:00Z",
-            "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 498850
-          },
-          {
-            "name": "Mads Kristian Hansen",
-            "playerId": 1104712,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-02-09T16:30:45Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubFullName": "Brann",
-            "fromClubId": 8468,
-            "toClub": "Brommapojkarna",
-            "toClubFullName": "Brommapojkarna",
-            "toClubId": 8501,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-07T23:00:00Z",
-            "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 810241
-          },
-          {
-            "name": "Max Nilsson",
-            "playerId": 1430375,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-02-07T20:09:29Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Landskrona BoIS",
-            "fromClubFullName": "Landskrona BoIS",
-            "fromClubId": 8511,
-            "toClub": "Fredrikstad",
-            "toClubFullName": "Fredrikstad",
-            "toClubId": 8417,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 500000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-05T23:00:00Z",
-            "toDate": "2030-12-30T23:00:00Z",
-            "marketValue": 1098258
           }
         ]
       },
@@ -48334,7 +48327,7 @@
             "onLoan": true,
             "fromDate": "2026-02-05T00:00:00Z",
             "toDate": "2026-06-30T00:00:00Z",
-            "marketValue": 376570
+            "marketValue": 317823
           },
           {
             "name": "Kasper Sætherbø",
