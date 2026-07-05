@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T04:35:18.299863+00:00",
+  "generated_at": "2026-07-05T09:27:55.236072+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,110 @@
         "type": "league",
         "data": [
           {
+            "name": "Jens Husebø",
+            "playerId": 842246,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-05T10:27:11Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Tromsø",
+            "fromClubFullName": "Tromsø",
+            "fromClubId": 8608,
+            "toClub": "Start",
+            "toClubFullName": "Start",
+            "toClubId": 9919,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 180000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": 279015
+          },
+          {
+            "name": "Seydina Diop",
+            "playerId": 1680293,
+            "position": {
+              "label": "RW",
+              "key": "rightwinger_short"
+            },
+            "transferDate": "2026-07-05T10:11:29Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Ranheim",
+            "fromClubFullName": "Ranheim",
+            "fromClubId": 6563,
+            "toClub": "Molde",
+            "toClubFullName": "Molde",
+            "toClubId": 9917,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 1070000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 504522
+          },
+          {
+            "name": "Fredrik Gulbrandsen",
+            "playerId": 120432,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-07-05T09:57:18Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubFullName": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Lillestrøm",
+            "toClubFullName": "Lillestrøm",
+            "toClubId": 8476,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": "2027-12-31T00:00:00Z",
+            "marketValue": 349462
+          },
+          {
             "name": "Onyebuchi Obasi",
             "playerId": 1633184,
             "position": null,
@@ -7335,6 +7439,40 @@
             "marketValue": 338147
           },
           {
+            "name": "Lorents Apold-Aasen",
+            "playerId": 1563219,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-02-18T20:14:14Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Vålerenga",
+            "fromClubFullName": "Vålerenga",
+            "fromClubId": 8007,
+            "toClub": "Skeid",
+            "toClubFullName": "Skeid",
+            "toClubId": 8421,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-02-16T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 333198
+          },
+          {
             "name": "Johan Bakke",
             "playerId": 1183556,
             "position": {
@@ -7364,40 +7502,6 @@
             "fromDate": "2026-02-15T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 642081
-          },
-          {
-            "name": "Lorents Apold-Aasen",
-            "playerId": 1563219,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-02-18T19:14:14Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Vålerenga",
-            "fromClubFullName": "Vålerenga",
-            "fromClubId": 8007,
-            "toClub": "Skeid",
-            "toClubFullName": "Skeid",
-            "toClubId": 8421,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-15T23:00:00Z",
-            "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": 416498
           },
           {
             "name": "Kolbeinn Finnsson",
@@ -7727,102 +7831,6 @@
             "fromDate": "2026-02-08T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
             "marketValue": null
-          },
-          {
-            "name": "Nikolaj Möller",
-            "playerId": 1199736,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-02-12T15:29:57Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Dundee United",
-            "fromClubFullName": "Dundee United",
-            "fromClubId": 9938,
-            "toClub": "Sandefjord",
-            "toClubFullName": "Sandefjord",
-            "toClubId": 8609,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-11T23:00:00Z",
-            "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 510320
-          },
-          {
-            "name": "Tochukwu Joseph",
-            "playerId": 1736012,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-02-11T03:55:21Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lillestrøm",
-            "fromClubFullName": "Lillestrøm",
-            "fromClubId": 8476,
-            "toClub": "Strømmen",
-            "toClubFullName": "Strømmen",
-            "toClubId": 4249,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-09T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 340529
-          },
-          {
-            "name": "William Da Rocha",
-            "playerId": 1280365,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2026-02-11T02:16:15Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "KFUM",
-            "fromClubFullName": "KFUM",
-            "fromClubId": 2305,
-            "toClub": "Kongsvinger",
-            "toClubFullName": "Kongsvinger",
-            "toClubId": 8179,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-09T23:00:00Z",
-            "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 173324
           }
         ]
       },
@@ -47057,6 +47065,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Seydina Diop",
+            "playerId": 1680293,
+            "position": {
+              "label": "RW",
+              "key": "rightwinger_short"
+            },
+            "transferDate": "2026-07-05T10:11:29Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Ranheim",
+            "fromClubFullName": "Ranheim",
+            "fromClubId": 6563,
+            "toClub": "Molde",
+            "toClubFullName": "Molde",
+            "toClubId": 9917,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 1070000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 504522
+          },
+          {
             "name": "Johan Solstad-Noeis",
             "playerId": 1745340,
             "position": null,
@@ -50369,40 +50412,6 @@
             "fromDate": "2025-07-31T22:00:00Z",
             "toDate": "2025-12-30T23:00:00Z",
             "marketValue": 320841
-          },
-          {
-            "name": "Blerton Isufi",
-            "playerId": 1643943,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2025-07-30T09:30:03Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Molde",
-            "fromClubFullName": "Molde",
-            "fromClubId": 9917,
-            "toClub": "Moss",
-            "toClubFullName": "Moss",
-            "toClubId": 8405,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-07-29T22:00:00Z",
-            "toDate": "2025-09-08T22:00:00Z",
-            "marketValue": 809866
           }
         ]
       },
