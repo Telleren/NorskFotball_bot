@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T04:44:56.047607+00:00",
+  "generated_at": "2026-07-06T11:10:00.922378+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Romano Postema",
+            "playerId": 1069826,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-07-06T11:00:20Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "FC Groningen",
+            "fromClubFullName": "FC Groningen",
+            "fromClubId": 8674,
+            "toClub": "Viking",
+            "toClubFullName": "Viking",
+            "toClubId": 8478,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 800000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": null,
+            "marketValue": 725635
+          },
+          {
             "name": "Jens Husebø",
             "playerId": 842246,
             "position": {
@@ -7795,41 +7830,6 @@
             "onLoan": true,
             "fromDate": "2026-02-09T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": null
-          },
-          {
-            "name": "Andreas Tveiten",
-            "playerId": 1421047,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-02-12T23:11:24Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brattvag",
-            "fromClubFullName": "Brattvag",
-            "fromClubId": -1,
-            "toClub": "Molde",
-            "toClubFullName": "Molde",
-            "toClubId": 9917,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 180000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-08T23:00:00Z",
-            "toDate": "2028-12-30T23:00:00Z",
             "marketValue": null
           }
         ]
@@ -43066,8 +43066,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/1-divisjon",
-            "leagueName": "1. Divisjon",
+            "pageUrl": "/leagues/203/overview/obos-ligaen",
+            "leagueName": "OBOS-ligaen",
             "legend": [
               {
                 "title": "Promotion",
@@ -50423,8 +50423,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/1-divisjon",
-              "leagueName": "1. Divisjon",
+              "pageUrl": "/leagues/203/overview/obos-ligaen",
+              "leagueName": "OBOS-ligaen",
               "legend": [
                 {
                   "title": "Promotion",
