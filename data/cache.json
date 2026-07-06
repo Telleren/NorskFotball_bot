@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T11:10:00.922378+00:00",
+  "generated_at": "2026-07-06T15:59:44.619925+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Zinedin Smajlovic",
+            "playerId": 1457854,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-06T15:33:06Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sandefjord",
+            "fromClubFullName": "Sandefjord",
+            "fromClubId": 8609,
+            "toClub": "Olympiacos",
+            "toClubFullName": "Olympiacos",
+            "toClubId": 8638,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 6500000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-06T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 1632694
+          },
+          {
             "name": "Romano Postema",
             "playerId": 1069826,
             "position": {
@@ -7797,40 +7832,6 @@
             "fromDate": "2026-02-10T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
             "marketValue": 316332
-          },
-          {
-            "name": "Andreas Tveiten",
-            "playerId": 1421047,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-02-12T23:11:47Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Molde",
-            "fromClubFullName": "Molde",
-            "fromClubId": 9917,
-            "toClub": "Brattvag",
-            "toClubFullName": "Brattvag",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-09T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": null
           }
         ]
       },
