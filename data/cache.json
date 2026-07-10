@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:07:57.763283+00:00",
+  "generated_at": "2026-07-10T19:57:06.068111+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,40 @@
         "type": "league",
         "data": [
           {
+            "name": "Eron Gojani",
+            "playerId": 1654356,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-07-10T18:01:42Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "HamKam",
+            "fromClubFullName": "Hamarkameratene",
+            "fromClubId": 8448,
+            "toClub": "GIF Sundsvall",
+            "toClubFullName": "GIF Sundsvall",
+            "toClubId": 8359,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-10T00:00:00Z",
+            "toDate": "2026-11-30T00:00:00Z",
+            "marketValue": null
+          },
+          {
             "name": "Robin Dzabic",
             "playerId": 1245539,
             "position": {
@@ -7804,37 +7838,6 @@
             "fromDate": "2026-02-11T23:00:00Z",
             "toDate": null,
             "marketValue": 200090
-          },
-          {
-            "name": "Olav Dobloug Mengshoel",
-            "playerId": 1655006,
-            "position": null,
-            "transferDate": "2026-02-12T23:19:07Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "HamKam",
-            "fromClubFullName": "Hamarkameratene",
-            "fromClubId": 8448,
-            "toClub": "Eidsvold TF",
-            "toClubFullName": "Eidsvold TF",
-            "toClubId": 8292,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-11T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 302664
           }
         ]
       },
