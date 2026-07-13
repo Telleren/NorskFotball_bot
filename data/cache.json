@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T04:06:55.521039+00:00",
+  "generated_at": "2026-07-13T09:53:05.775576+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1352,13 +1352,13 @@
                   "pts": 22,
                   "teamId": 8476,
                   "teamName": "Lillestrøm",
-                  "xg": 20.884999960660934,
-                  "xgConceded": 17.116199910640717,
-                  "xPoints": 19.421696624197807,
+                  "xg": 20.911799997091293,
+                  "xgConceded": 16.834399938583374,
+                  "xPoints": 19.68090643867234,
                   "position": 4,
-                  "xgDiff": -1.8849999606609344,
-                  "xgConcededDiff": -6.1161999106407166,
-                  "xPointsDiff": 2.578303375802193,
+                  "xgDiff": -1.9117999970912933,
+                  "xgConcededDiff": -5.834399938583374,
+                  "xPointsDiff": 2.3190935613276586,
                   "xPosition": 4,
                   "idx": 4,
                   "xPositionDiff": 0,
@@ -1649,13 +1649,13 @@
                   "pts": 14,
                   "teamId": 8417,
                   "teamName": "Fredrikstad",
-                  "xg": 14.511700063943863,
-                  "xgConceded": 23.324800193309784,
-                  "xPoints": 11.529544029152879,
+                  "xg": 14.22990009188652,
+                  "xgConceded": 23.351600229740143,
+                  "xPoints": 11.264970250375107,
                   "position": 15,
-                  "xgDiff": 0.4882999360561371,
-                  "xgConcededDiff": -1.324800193309784,
-                  "xPointsDiff": 2.470455970847121,
+                  "xgDiff": 0.7700999081134796,
+                  "xgConcededDiff": -1.3516002297401428,
+                  "xPointsDiff": 2.7350297496248928,
                   "xPosition": 15,
                   "idx": 15,
                   "xPositionDiff": -5,
@@ -4502,6 +4502,40 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Igor Jelicic",
+            "playerId": 1284435,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-13T10:37:25Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Kristiansund",
+            "fromClubFullName": "Kristiansund",
+            "fromClubId": 8605,
+            "toClub": "Free agent",
+            "toClubFullName": "Free agent",
+            "toClubId": 2,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-13T00:00:00Z",
+            "toDate": null,
+            "marketValue": 181512
+          },
           {
             "name": "Mamour N'diaye",
             "playerId": 1478010,
@@ -7808,40 +7842,6 @@
             "fromDate": "2026-02-15T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
             "marketValue": 297034
-          },
-          {
-            "name": "Theodor Martin Agelin",
-            "playerId": 1280704,
-            "position": {
-              "label": "LB",
-              "key": "leftback_short"
-            },
-            "transferDate": "2026-02-15T12:28:12Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sandefjord",
-            "fromClubFullName": "Sandefjord",
-            "fromClubId": 8609,
-            "toClub": "Jerv",
-            "toClubFullName": "Jerv",
-            "toClubId": 2303,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-12T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 267226
           }
         ]
       },
@@ -9135,13 +9135,13 @@
                     "pts": 22,
                     "teamId": 8476,
                     "teamName": "Lillestrøm",
-                    "xg": 20.884999960660934,
-                    "xgConceded": 17.116199910640717,
-                    "xPoints": 19.421696624197807,
+                    "xg": 20.911799997091293,
+                    "xgConceded": 16.834399938583374,
+                    "xPoints": 19.68090643867234,
                     "position": 4,
-                    "xgDiff": -1.8849999606609344,
-                    "xgConcededDiff": -6.1161999106407166,
-                    "xPointsDiff": 2.578303375802193,
+                    "xgDiff": -1.9117999970912933,
+                    "xgConcededDiff": -5.834399938583374,
+                    "xPointsDiff": 2.3190935613276586,
                     "xPosition": 4,
                     "idx": 4,
                     "xPositionDiff": 0,
@@ -9432,13 +9432,13 @@
                     "pts": 14,
                     "teamId": 8417,
                     "teamName": "Fredrikstad",
-                    "xg": 14.511700063943863,
-                    "xgConceded": 23.324800193309784,
-                    "xPoints": 11.529544029152879,
+                    "xg": 14.22990009188652,
+                    "xgConceded": 23.351600229740143,
+                    "xPoints": 11.264970250375107,
                     "position": 15,
-                    "xgDiff": 0.4882999360561371,
-                    "xgConcededDiff": -1.324800193309784,
-                    "xPointsDiff": 2.470455970847121,
+                    "xgDiff": 0.7700999081134796,
+                    "xgConcededDiff": -1.3516002297401428,
+                    "xPointsDiff": 2.7350297496248928,
                     "xPosition": 15,
                     "idx": 15,
                     "xPositionDiff": -5,
@@ -31450,10 +31450,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8476,
-                "value": 409,
+                "value": 409.2,
                 "stat": {
                   "name": "accurate_pass_team",
-                  "value": 409,
+                  "value": 409.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32034,21 +32034,21 @@
               },
               {
                 "id": 0,
-                "name": "Sarpsborg 08",
+                "name": "Lillestrøm",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8509,
-                "value": 16.9,
+                "teamId": 8476,
+                "value": 16.8,
                 "stat": {
                   "name": "expected_goals_conceded_team",
-                  "value": 16.9,
+                  "value": 16.8,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#2255a5",
-                  "lightMode": "#102763",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
