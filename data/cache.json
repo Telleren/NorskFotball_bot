@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T15:16:31.192997+00:00",
+  "generated_at": "2026-07-13T19:55:24.370675+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Mathias Fjørtoft Løvik",
+            "playerId": 1130733,
+            "position": {
+              "label": "LB",
+              "key": "leftback_short"
+            },
+            "transferDate": "2026-07-13T21:41:22Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Trabzonspor",
+            "fromClubFullName": "Trabzonspor",
+            "fromClubId": 9752,
+            "toClub": "Molde",
+            "toClubFullName": "Molde",
+            "toClubId": 9917,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 2500000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-13T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 4348476
+          },
+          {
             "name": "Igor Jelicic",
             "playerId": 1284435,
             "position": {
@@ -7808,40 +7843,6 @@
             "fromDate": "2026-02-15T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
             "marketValue": null
-          },
-          {
-            "name": "Magnus Wolff Eikrem",
-            "playerId": 185389,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-02-16T13:50:34Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Molde",
-            "fromClubFullName": "Molde",
-            "fromClubId": 9917,
-            "toClub": "KFUM",
-            "toClubFullName": "KFUM",
-            "toClubId": 2305,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-15T23:00:00Z",
-            "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 297034
           }
         ]
       },
