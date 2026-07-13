@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:53:05.775576+00:00",
+  "generated_at": "2026-07-13T15:16:31.192997+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -47280,6 +47280,40 @@
         "type": "league",
         "data": [
           {
+            "name": "Gottfrid Rapp",
+            "playerId": 1478089,
+            "position": {
+              "label": "RM",
+              "key": "rightmidfielder_short"
+            },
+            "transferDate": "2026-07-13T16:49:10Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Elfsborg",
+            "fromClubFullName": "Elfsborg",
+            "fromClubId": 8014,
+            "toClub": "Stabæk",
+            "toClubFullName": "Stabæk",
+            "toClubId": 9918,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-13T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": null
+          },
+          {
             "name": "Seydina Diop",
             "playerId": 1680293,
             "position": {
@@ -50593,40 +50627,6 @@
             "fromDate": "2025-07-31T22:00:00Z",
             "toDate": "2025-12-30T23:00:00Z",
             "marketValue": 162721
-          },
-          {
-            "name": "Solomon Owusu",
-            "playerId": 936341,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2025-08-01T19:09:29Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Odd",
-            "fromClubFullName": "Odds Ballklubb",
-            "fromClubId": 7988,
-            "toClub": "Fredrikstad",
-            "toClubFullName": "Fredrikstad",
-            "toClubId": 8417,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-07-31T22:00:00Z",
-            "toDate": "2025-12-30T23:00:00Z",
-            "marketValue": 320841
           }
         ]
       },
