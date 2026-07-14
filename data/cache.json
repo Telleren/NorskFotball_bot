@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:32:18.593151+00:00",
+  "generated_at": "2026-07-14T14:18:55.154751+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,65 @@
         "type": "league",
         "data": [
           {
+            "name": "Ahmed Adebayo",
+            "playerId": 1524647,
+            "position": null,
+            "transferDate": "2026-07-14T14:01:06Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Academia F. Amadou Diallo",
+            "toClubFullName": "Academia F. Amadou Diallo",
+            "toClubId": 194004,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": null,
+            "marketValue": 300254
+          },
+          {
+            "name": "Luca Podlech",
+            "playerId": 1659418,
+            "position": null,
+            "transferDate": "2026-07-14T11:16:59Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Schalke 04",
+            "fromClubFullName": "Schalke 04",
+            "fromClubId": 10189,
+            "toClub": "Aalesund",
+            "toClubFullName": "Aalesund",
+            "toClubId": 8404,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-14T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 209266
+          },
+          {
             "name": "Gustav Nordh",
             "playerId": 1196237,
             "position": {
@@ -7775,74 +7834,6 @@
             "fromDate": "2026-02-26T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 456000
-          },
-          {
-            "name": "Yann-Erik de Lanlay",
-            "playerId": 215401,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-02-27T08:52:55Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Viking",
-            "fromClubFullName": "Viking",
-            "fromClubId": 8478,
-            "toClub": "Sandnes Ulf",
-            "toClubFullName": "Sandnes Ulf",
-            "toClubId": 8133,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-25T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 112737
-          },
-          {
-            "name": "Niclas Schjøth Semmen",
-            "playerId": 1483200,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-02-24T06:34:14Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "KFUM",
-            "fromClubFullName": "KFUM",
-            "fromClubId": 2305,
-            "toClub": "Moss",
-            "toClubFullName": "Moss",
-            "toClubId": 8405,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-21T23:00:00Z",
-            "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 209752
           }
         ]
       },
