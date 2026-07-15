@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:41:22.448137+00:00",
+  "generated_at": "2026-07-15T14:16:41.128318+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,40 @@
         "type": "league",
         "data": [
           {
+            "name": "Nikolai Skuseth",
+            "playerId": 1526793,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-15T15:31:48Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sarpsborg 08",
+            "fromClubFullName": "Sarpsborg 08",
+            "fromClubId": 8509,
+            "toClub": "Degerfors",
+            "toClubFullName": "Degerfors",
+            "toClubId": 6544,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-15T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 544087
+          },
+          {
             "name": "Ahmed Adebayo",
             "playerId": 1524647,
             "position": null,
@@ -7799,41 +7833,6 @@
             "fromDate": "2026-01-25T23:00:00Z",
             "toDate": "2026-06-29T22:00:00Z",
             "marketValue": 250212
-          },
-          {
-            "name": "Trent Koné-Doherty",
-            "playerId": 1347272,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-02-27T20:10:15Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Liverpool",
-            "fromClubFullName": "Liverpool",
-            "fromClubId": 8650,
-            "toClub": "Molde",
-            "toClubFullName": "Molde",
-            "toClubId": 9917,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 750000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-02-26T23:00:00Z",
-            "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 456000
           }
         ]
       },
