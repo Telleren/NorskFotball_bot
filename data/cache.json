@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T03:45:05.766960+00:00",
+  "generated_at": "2026-07-16T08:39:11.987841+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Salieu Drammeh",
+            "playerId": 1391768,
+            "position": {
+              "label": "LW",
+              "key": "leftwinger_short"
+            },
+            "transferDate": "2026-07-16T09:38:35Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lillestrøm",
+            "fromClubFullName": "Lillestrøm",
+            "fromClubId": 8476,
+            "toClub": "Standard Liege",
+            "toClubFullName": "Standard Liege",
+            "toClubId": 9985,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 2200000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-15T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 1248863
+          },
+          {
             "name": "Nikolai Skuseth",
             "playerId": 1526793,
             "position": {
@@ -7802,37 +7837,6 @@
             "fromDate": "2026-02-26T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 191638
-          },
-          {
-            "name": "Ahmed Adebayo",
-            "playerId": 1524647,
-            "position": null,
-            "transferDate": "2026-02-27T20:35:49Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Start",
-            "fromClubFullName": "Start",
-            "fromClubId": 9919,
-            "toClub": "Valletta",
-            "toClubFullName": "Valletta",
-            "toClubId": 2139,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-01-25T23:00:00Z",
-            "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": 250212
           }
         ]
       },
@@ -43210,7 +43214,8 @@
         "tv_guide_world_cup_subheading": "World Cup TV Schedule in %s",
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
-        "stats_definitions": "Stats definitions"
+        "stats_definitions": "Stats definitions",
+        "skip_to_main_content": "Skip to main content"
       }
     },
     "203": {
@@ -80208,7 +80213,8 @@
         "tv_guide_world_cup_subheading": "World Cup TV Schedule in %s",
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
-        "stats_definitions": "Stats definitions"
+        "stats_definitions": "Stats definitions",
+        "skip_to_main_content": "Skip to main content"
       }
     },
     "331": {
@@ -102355,7 +102361,8 @@
         "tv_guide_world_cup_subheading": "World Cup TV Schedule in %s",
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
-        "stats_definitions": "Stats definitions"
+        "stats_definitions": "Stats definitions",
+        "skip_to_main_content": "Skip to main content"
       }
     },
     "206": {
@@ -118588,7 +118595,8 @@
         "tv_guide_world_cup_subheading": "World Cup TV Schedule in %s",
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
-        "stats_definitions": "Stats definitions"
+        "stats_definitions": "Stats definitions",
+        "skip_to_main_content": "Skip to main content"
       }
     }
   },
