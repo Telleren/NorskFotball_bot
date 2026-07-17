@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T19:39:46.025032+00:00",
+  "generated_at": "2026-07-17T03:44:13.674307+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -16278,12 +16278,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-07-16T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "16.07.2026 19:00:32",
-                "secondHalfStarted": "16.07.2026 20:05:30"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-07-16T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -16321,8 +16317,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-07-17T17:15:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-07-17T17:15:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "17.07.2026 19:15:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -23731,12 +23730,8 @@
                 "id": "8404"
               },
               "status": {
-                "utcTime": "2026-07-16T17:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "16.07.2026 19:00:32",
-                  "secondHalfStarted": "16.07.2026 20:05:30"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-07-16T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -23766,8 +23761,11 @@
                 "id": "8417"
               },
               "status": {
-                "utcTime": "2026-07-17T17:15:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-07-17T17:15:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "17.07.2026 19:15:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -29112,10 +29110,10 @@
                 "ccode": "CMR",
                 "teamId": 8007,
                 "teamName": "Vålerenga",
-                "value": 16.2,
+                "value": 16,
                 "stat": {
                   "name": "defensive_contributions",
-                  "value": 16.2,
+                  "value": 16,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -36053,12 +36051,8 @@
               "id": "8404"
             },
             "status": {
-              "utcTime": "2026-07-16T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "16.07.2026 19:00:32",
-                "secondHalfStarted": "16.07.2026 20:05:30"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-07-16T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -36088,8 +36082,11 @@
               "id": "8417"
             },
             "status": {
-              "utcTime": "2026-07-17T17:15:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-07-17T17:15:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "17.07.2026 19:15:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
