@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T03:44:13.674307+00:00",
+  "generated_at": "2026-07-17T08:34:20.997167+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,74 @@
         "type": "league",
         "data": [
           {
+            "name": "Martin Hellan",
+            "playerId": 1452369,
+            "position": {
+              "label": "RB",
+              "key": "rightback_short"
+            },
+            "transferDate": "2026-07-17T09:48:17Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubFullName": "Brann",
+            "fromClubId": 8468,
+            "toClub": "Sandefjord",
+            "toClubFullName": "Sandefjord",
+            "toClubId": 8609,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-16T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 290308
+          },
+          {
+            "name": "Olaus Jair Skarsem",
+            "playerId": 741429,
+            "position": {
+              "label": "AM",
+              "key": "centerattackingmidfielder_short"
+            },
+            "transferDate": "2026-07-17T09:46:41Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "CSKA Sofia",
+            "fromClubFullName": "CSKA Sofia",
+            "fromClubId": 10144,
+            "toClub": "Sarpsborg 08",
+            "toClubFullName": "Sarpsborg 08",
+            "toClubId": 8509,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-16T00:00:00Z",
+            "toDate": "2028-12-31T00:00:00Z",
+            "marketValue": 194776
+          },
+          {
             "name": "Mathias Sauer",
             "playerId": 214039,
             "position": null,
@@ -7766,71 +7834,6 @@
             "fromDate": "2026-03-01T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 146793
-          },
-          {
-            "name": "John Kitolano",
-            "playerId": 730743,
-            "position": {
-              "label": "LM",
-              "key": "leftmidfielder_short"
-            },
-            "transferDate": "2026-03-03T19:53:27Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Aalesund",
-            "fromClubFullName": "Aalesund",
-            "fromClubId": 8404,
-            "toClub": "Lillestrøm",
-            "toClubFullName": "Lillestrøm",
-            "toClubId": 8476,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-01T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 241195
-          },
-          {
-            "name": "Onyebuchi Obasi",
-            "playerId": 1633184,
-            "position": null,
-            "transferDate": "2026-02-28T21:42:27Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Vålerenga",
-            "fromClubFullName": "Vålerenga",
-            "fromClubId": 8007,
-            "toClub": "FC Stockholm",
-            "toClubFullName": "FC Stockholm",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-02-28T00:00:00Z",
-            "toDate": "2026-06-30T00:00:00Z",
-            "marketValue": 238018
           }
         ]
       },
