@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T03:38:48.519923+00:00",
+  "generated_at": "2026-07-18T08:13:48.854372+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,71 @@
         "type": "league",
         "data": [
           {
+            "name": "Rasmus Holten",
+            "playerId": 1281389,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-18T09:39:16Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubFullName": "Brann",
+            "fromClubId": 8468,
+            "toClub": "Sandefjord",
+            "toClubFullName": "Sandefjord",
+            "toClubId": 8609,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-17T00:00:00Z",
+            "toDate": "2030-12-31T00:00:00Z",
+            "marketValue": 425441
+          },
+          {
+            "name": "Mansour Sinyan",
+            "playerId": 1047531,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-07-18T09:37:59Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "KFUM",
+            "fromClubFullName": "KFUM",
+            "fromClubId": 2305,
+            "toClub": "Klaksvik",
+            "toClubFullName": "Klaksvik",
+            "toClubId": 8106,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-15T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 300368
+          },
+          {
             "name": "Martin Hellan",
             "playerId": 1452369,
             "position": {
@@ -7766,74 +7831,6 @@
             "fromDate": "2026-03-03T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 221695
-          },
-          {
-            "name": "Ulrik Yttergård Jenssen",
-            "playerId": 429581,
-            "position": {
-              "label": "LB",
-              "key": "leftback_short"
-            },
-            "transferDate": "2026-03-04T18:24:47Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Rosenborg",
-            "fromClubFullName": "Rosenborg",
-            "fromClubId": 8422,
-            "toClub": "Lillestrøm",
-            "toClubFullName": "Lillestrøm",
-            "toClubId": 8476,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-03T23:00:00Z",
-            "toDate": "2026-07-30T22:00:00Z",
-            "marketValue": 232544
-          },
-          {
-            "name": "Vebjørn Hoff",
-            "playerId": 457164,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-03-03T19:54:36Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lillestrøm",
-            "fromClubFullName": "Lillestrøm",
-            "fromClubId": 8476,
-            "toClub": "Molde",
-            "toClubFullName": "Molde",
-            "toClubId": 9917,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-01T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 146793
           }
         ]
       },
