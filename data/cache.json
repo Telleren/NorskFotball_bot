@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:13:48.854372+00:00",
+  "generated_at": "2026-07-18T13:56:22.329652+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -109,16 +109,64 @@
                 ]
               }
             ],
-            "ongoing": [],
+            "ongoing": [
+              {
+                "id": 5104950,
+                "hTeam": "Hamarkameratene",
+                "aTeam": "Tromsø",
+                "hScore": 1,
+                "aScore": 4,
+                "hId": 8448,
+                "aId": 8608,
+                "stage": "14",
+                "time": "18.07.2026 14:00",
+                "status": "S",
+                "sId": 3,
+                "gs": "18.07.2026 14:01:48",
+                "shs": "18.07.2026 15:03:20",
+                "extId": "ls_0"
+              }
+            ],
             "table": {
               "all": [
+                {
+                  "name": "Tromsø",
+                  "shortName": "Tromsø",
+                  "id": 8608,
+                  "pageUrl": "/teams/8608/overview/tromso",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 15,
+                  "wins": 9,
+                  "draws": 4,
+                  "losses": 2,
+                  "scoresStr": "26-15",
+                  "goalConDiff": 11,
+                  "pts": 31,
+                  "idx": 1,
+                  "qualColor": "#FFD908"
+                },
                 {
                   "name": "Bodø/Glimt",
                   "shortName": "Bodø/Glimt",
                   "id": 8402,
                   "pageUrl": "/teams/8402/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 9,
                   "draws": 2,
@@ -126,23 +174,6 @@
                   "scoresStr": "31-11",
                   "goalConDiff": 20,
                   "pts": 29,
-                  "idx": 1,
-                  "qualColor": "#FFD908"
-                },
-                {
-                  "name": "Tromsø",
-                  "shortName": "Tromsø",
-                  "id": 8608,
-                  "pageUrl": "/teams/8608/overview/tromso",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 14,
-                  "wins": 8,
-                  "draws": 4,
-                  "losses": 2,
-                  "scoresStr": "22-14",
-                  "goalConDiff": 8,
-                  "pts": 28,
                   "idx": 2,
                   "qualColor": "#FFD908"
                 },
@@ -152,7 +183,6 @@
                   "id": 8478,
                   "pageUrl": "/teams/8478/overview/viking",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 11,
                   "wins": 9,
                   "draws": 0,
@@ -169,7 +199,6 @@
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 12,
                   "wins": 7,
                   "draws": 1,
@@ -186,7 +215,6 @@
                   "id": 9917,
                   "pageUrl": "/teams/9917/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 12,
                   "wins": 6,
                   "draws": 2,
@@ -203,13 +231,28 @@
                   "id": 8448,
                   "pageUrl": "/teams/8448/overview/hamarkameratene",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 11,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 12,
                   "wins": 5,
                   "draws": 3,
-                  "losses": 3,
-                  "scoresStr": "19-18",
-                  "goalConDiff": 1,
+                  "losses": 4,
+                  "scoresStr": "20-22",
+                  "goalConDiff": -2,
                   "pts": 18,
                   "idx": 6,
                   "qualColor": null
@@ -220,7 +263,6 @@
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 12,
                   "wins": 5,
                   "draws": 2,
@@ -237,7 +279,6 @@
                   "id": 8007,
                   "pageUrl": "/teams/8007/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 5,
                   "draws": 2,
@@ -254,7 +295,6 @@
                   "id": 8468,
                   "pageUrl": "/teams/8468/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 5,
                   "draws": 1,
@@ -271,7 +311,6 @@
                   "id": 8609,
                   "pageUrl": "/teams/8609/overview/sandefjord",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 12,
                   "wins": 4,
                   "draws": 3,
@@ -288,7 +327,6 @@
                   "id": 8417,
                   "pageUrl": "/teams/8417/overview/fredrikstad",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 4,
                   "draws": 2,
@@ -305,7 +343,6 @@
                   "id": 8422,
                   "pageUrl": "/teams/8422/overview/rosenborg",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 12,
                   "wins": 3,
                   "draws": 3,
@@ -322,7 +359,6 @@
                   "id": 2305,
                   "pageUrl": "/teams/2305/overview/kfum",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 12,
                   "wins": 3,
                   "draws": 3,
@@ -339,7 +375,6 @@
                   "id": 8404,
                   "pageUrl": "/teams/8404/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 2,
                   "draws": 6,
@@ -356,7 +391,6 @@
                   "id": 8605,
                   "pageUrl": "/teams/8605/overview/kristiansund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 12,
                   "wins": 3,
                   "draws": 2,
@@ -373,7 +407,6 @@
                   "id": 9919,
                   "pageUrl": "/teams/9919/overview/start",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 1,
                   "draws": 4,
@@ -392,7 +425,22 @@
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
                   "played": 9,
                   "wins": 6,
                   "draws": 2,
@@ -410,7 +458,6 @@
                   "id": 8478,
                   "pageUrl": "/teams/8478/overview/viking",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 5,
                   "wins": 5,
                   "draws": 0,
@@ -428,7 +475,6 @@
                   "id": 8402,
                   "pageUrl": "/teams/8402/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 5,
                   "draws": 0,
@@ -446,7 +492,6 @@
                   "id": 9917,
                   "pageUrl": "/teams/9917/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 5,
                   "draws": 0,
@@ -464,14 +509,29 @@
                   "id": 8448,
                   "pageUrl": "/teams/8448/overview/hamarkameratene",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 6,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 7,
                   "wins": 5,
                   "draws": 0,
-                  "losses": 1,
-                  "scoresStr": "12-7",
-                  "goalConDiff": 5,
-                  "goalsScored": 12,
+                  "losses": 2,
+                  "scoresStr": "13-11",
+                  "goalConDiff": 2,
+                  "goalsScored": 13,
                   "pts": 15,
                   "idx": 5,
                   "qualColor": null
@@ -482,7 +542,6 @@
                   "id": 8007,
                   "pageUrl": "/teams/8007/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 4,
                   "draws": 1,
@@ -500,7 +559,6 @@
                   "id": 8422,
                   "pageUrl": "/teams/8422/overview/rosenborg",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 3,
                   "draws": 2,
@@ -518,7 +576,6 @@
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 3,
                   "draws": 2,
@@ -536,7 +593,6 @@
                   "id": 8417,
                   "pageUrl": "/teams/8417/overview/fredrikstad",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 3,
                   "draws": 1,
@@ -554,7 +610,6 @@
                   "id": 2305,
                   "pageUrl": "/teams/2305/overview/kfum",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 3,
                   "draws": 1,
@@ -572,7 +627,6 @@
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 5,
                   "wins": 3,
                   "draws": 0,
@@ -590,7 +644,6 @@
                   "id": 8468,
                   "pageUrl": "/teams/8468/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 3,
                   "draws": 0,
@@ -608,7 +661,6 @@
                   "id": 8609,
                   "pageUrl": "/teams/8609/overview/sandefjord",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 2,
                   "draws": 3,
@@ -626,7 +678,6 @@
                   "id": 8605,
                   "pageUrl": "/teams/8605/overview/kristiansund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 5,
                   "wins": 2,
                   "draws": 1,
@@ -644,7 +695,6 @@
                   "id": 8404,
                   "pageUrl": "/teams/8404/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 1,
                   "draws": 4,
@@ -662,7 +712,6 @@
                   "id": 9919,
                   "pageUrl": "/teams/9919/overview/start",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 5,
                   "wins": 1,
                   "draws": 3,
@@ -682,7 +731,6 @@
                   "id": 8402,
                   "pageUrl": "/teams/8402/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 4,
                   "draws": 2,
@@ -700,7 +748,6 @@
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 4,
                   "draws": 1,
@@ -718,7 +765,6 @@
                   "id": 8478,
                   "pageUrl": "/teams/8478/overview/viking",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 4,
                   "draws": 0,
@@ -736,15 +782,30 @@
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 5,
-                  "wins": 2,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 6,
+                  "wins": 3,
                   "draws": 2,
                   "losses": 1,
-                  "scoresStr": "4-7",
-                  "goalConDiff": -3,
-                  "goalsScored": 4,
-                  "pts": 8,
+                  "scoresStr": "8-8",
+                  "goalConDiff": 0,
+                  "goalsScored": 8,
+                  "pts": 11,
                   "idx": 4,
                   "qualColor": "#02CCF0"
                 },
@@ -754,7 +815,6 @@
                   "id": 8468,
                   "pageUrl": "/teams/8468/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 2,
                   "draws": 1,
@@ -772,7 +832,6 @@
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 2,
                   "draws": 0,
@@ -790,7 +849,6 @@
                   "id": 8609,
                   "pageUrl": "/teams/8609/overview/sandefjord",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 2,
                   "draws": 0,
@@ -808,7 +866,6 @@
                   "id": 9917,
                   "pageUrl": "/teams/9917/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 1,
                   "draws": 2,
@@ -826,7 +883,6 @@
                   "id": 8404,
                   "pageUrl": "/teams/8404/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 1,
                   "draws": 2,
@@ -844,7 +900,6 @@
                   "id": 8417,
                   "pageUrl": "/teams/8417/overview/fredrikstad",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 1,
                   "draws": 1,
@@ -862,7 +917,6 @@
                   "id": 8007,
                   "pageUrl": "/teams/8007/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 1,
                   "draws": 1,
@@ -880,7 +934,6 @@
                   "id": 8605,
                   "pageUrl": "/teams/8605/overview/kristiansund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 1,
                   "draws": 1,
@@ -898,7 +951,22 @@
                   "id": 8448,
                   "pageUrl": "/teams/8448/overview/hamarkameratene",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
                   "played": 5,
                   "wins": 0,
                   "draws": 3,
@@ -916,7 +984,6 @@
                   "id": 2305,
                   "pageUrl": "/teams/2305/overview/kfum",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 5,
                   "wins": 0,
                   "draws": 2,
@@ -934,7 +1001,6 @@
                   "id": 8422,
                   "pageUrl": "/teams/8422/overview/rosenborg",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 5,
                   "wins": 0,
                   "draws": 1,
@@ -952,7 +1018,6 @@
                   "id": 9919,
                   "pageUrl": "/teams/9919/overview/start",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 0,
                   "draws": 1,
@@ -980,7 +1045,6 @@
                   "goalConDiff": 8,
                   "goalsScored": 12,
                   "pts": 13,
-                  "ongoing": null,
                   "idx": 1,
                   "qualColor": "#FFD908"
                 },
@@ -998,7 +1062,6 @@
                   "goalConDiff": 8,
                   "goalsScored": 13,
                   "pts": 12,
-                  "ongoing": null,
                   "idx": 2,
                   "qualColor": "#FFD908"
                 },
@@ -1016,7 +1079,6 @@
                   "goalConDiff": 3,
                   "goalsScored": 9,
                   "pts": 12,
-                  "ongoing": null,
                   "idx": 3,
                   "qualColor": "#02CCF0"
                 },
@@ -1034,7 +1096,6 @@
                   "goalConDiff": 2,
                   "goalsScored": 12,
                   "pts": 9,
-                  "ongoing": null,
                   "idx": 4,
                   "qualColor": "#02CCF0"
                 },
@@ -1052,7 +1113,22 @@
                   "goalConDiff": 2,
                   "goalsScored": 8,
                   "pts": 8,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
                   "idx": 5,
                   "qualColor": null
                 },
@@ -1070,7 +1146,22 @@
                   "goalConDiff": 1,
                   "goalsScored": 7,
                   "pts": 8,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
                   "idx": 6,
                   "qualColor": null
                 },
@@ -1088,7 +1179,6 @@
                   "goalConDiff": 2,
                   "goalsScored": 9,
                   "pts": 7,
-                  "ongoing": null,
                   "idx": 7,
                   "qualColor": null
                 },
@@ -1106,7 +1196,6 @@
                   "goalConDiff": -1,
                   "goalsScored": 6,
                   "pts": 7,
-                  "ongoing": null,
                   "idx": 8,
                   "qualColor": null
                 },
@@ -1124,7 +1213,6 @@
                   "goalConDiff": -1,
                   "goalsScored": 5,
                   "pts": 7,
-                  "ongoing": null,
                   "idx": 9,
                   "qualColor": null
                 },
@@ -1142,7 +1230,6 @@
                   "goalConDiff": -1,
                   "goalsScored": 6,
                   "pts": 6,
-                  "ongoing": null,
                   "idx": 10,
                   "qualColor": null
                 },
@@ -1160,7 +1247,6 @@
                   "goalConDiff": -2,
                   "goalsScored": 7,
                   "pts": 6,
-                  "ongoing": null,
                   "idx": 11,
                   "qualColor": null
                 },
@@ -1178,7 +1264,6 @@
                   "goalConDiff": -4,
                   "goalsScored": 8,
                   "pts": 6,
-                  "ongoing": null,
                   "idx": 12,
                   "qualColor": null
                 },
@@ -1196,7 +1281,6 @@
                   "goalConDiff": -1,
                   "goalsScored": 7,
                   "pts": 5,
-                  "ongoing": null,
                   "idx": 13,
                   "qualColor": null
                 },
@@ -1214,7 +1298,6 @@
                   "goalConDiff": -3,
                   "goalsScored": 3,
                   "pts": 4,
-                  "ongoing": null,
                   "idx": 14,
                   "qualColor": "#FFA72F"
                 },
@@ -1232,7 +1315,6 @@
                   "goalConDiff": -6,
                   "goalsScored": 8,
                   "pts": 3,
-                  "ongoing": null,
                   "idx": 15,
                   "qualColor": "#FF4646"
                 },
@@ -1250,7 +1332,6 @@
                   "goalConDiff": -6,
                   "goalsScored": 4,
                   "pts": 3,
-                  "ongoing": null,
                   "idx": 16,
                   "qualColor": "#FF4646"
                 }
@@ -1261,7 +1342,6 @@
                   "shortName": "Bodø/Glimt",
                   "id": 8402,
                   "pageUrl": "/teams/8402/overview/bodoglimt",
-                  "ongoing": null,
                   "played": 13,
                   "wins": 9,
                   "draws": 2,
@@ -1280,7 +1360,7 @@
                   "xPointsDiff": -1.0287029477727536,
                   "xPosition": 1,
                   "idx": 1,
-                  "xPositionDiff": 0,
+                  "xPositionDiff": 1,
                   "qualColor": "#FFD908"
                 },
                 {
@@ -1288,26 +1368,41 @@
                   "shortName": "Tromsø",
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
-                  "ongoing": null,
-                  "played": 14,
-                  "wins": 8,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 15,
+                  "wins": 9,
                   "draws": 4,
                   "losses": 2,
-                  "scoresStr": "22-14",
-                  "goalConDiff": 8,
-                  "pts": 28,
+                  "scoresStr": "26-15",
+                  "goalConDiff": 11,
+                  "pts": 31,
                   "teamId": 8608,
                   "teamName": "Tromsø",
-                  "xg": 25.28129991889,
-                  "xgConceded": 18.12379989027977,
-                  "xPoints": 25.099652812873163,
+                  "xg": 27.204499930143356,
+                  "xgConceded": 18.929599910974503,
+                  "xPoints": 27.320501739820152,
                   "position": 2,
-                  "xgDiff": -3.2812999188899994,
-                  "xgConcededDiff": -4.12379989027977,
-                  "xPointsDiff": 2.9003471871268367,
+                  "xgDiff": -1.2044999301433563,
+                  "xgConcededDiff": -3.9295999109745026,
+                  "xPointsDiff": 3.679498260179848,
                   "xPosition": 2,
                   "idx": 2,
-                  "xPositionDiff": 0,
+                  "xPositionDiff": -1,
                   "qualColor": "#FFD908"
                 },
                 {
@@ -1315,7 +1410,6 @@
                   "shortName": "Viking",
                   "id": 8478,
                   "pageUrl": "/teams/8478/overview/viking",
-                  "ongoing": null,
                   "played": 11,
                   "wins": 9,
                   "draws": 0,
@@ -1342,7 +1436,6 @@
                   "shortName": "Lillestrøm",
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
-                  "ongoing": null,
                   "played": 12,
                   "wins": 7,
                   "draws": 1,
@@ -1369,7 +1462,6 @@
                   "shortName": "Brann",
                   "id": 8468,
                   "pageUrl": "/teams/8468/overview/brann",
-                  "ongoing": null,
                   "played": 13,
                   "wins": 5,
                   "draws": 1,
@@ -1396,7 +1488,6 @@
                   "shortName": "Sarpsborg 08",
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
-                  "ongoing": null,
                   "played": 12,
                   "wins": 5,
                   "draws": 2,
@@ -1423,7 +1514,6 @@
                   "shortName": "Vålerenga",
                   "id": 8007,
                   "pageUrl": "/teams/8007/overview/valerenga",
-                  "ongoing": null,
                   "played": 13,
                   "wins": 5,
                   "draws": 2,
@@ -1450,7 +1540,6 @@
                   "shortName": "Molde",
                   "id": 9917,
                   "pageUrl": "/teams/9917/overview/molde",
-                  "ongoing": null,
                   "played": 12,
                   "wins": 6,
                   "draws": 2,
@@ -1477,7 +1566,6 @@
                   "shortName": "Rosenborg",
                   "id": 8422,
                   "pageUrl": "/teams/8422/overview/rosenborg",
-                  "ongoing": null,
                   "played": 12,
                   "wins": 3,
                   "draws": 3,
@@ -1504,23 +1592,38 @@
                   "shortName": "HamKam",
                   "id": 8448,
                   "pageUrl": "/teams/8448/overview/hamarkameratene",
-                  "ongoing": null,
-                  "played": 11,
+                  "ongoing": {
+                    "id": 5104950,
+                    "hTeam": "Hamarkameratene",
+                    "aTeam": "Tromsø",
+                    "hScore": 1,
+                    "aScore": 4,
+                    "hId": 8448,
+                    "aId": 8608,
+                    "stage": "14",
+                    "time": "18.07.2026 14:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "18.07.2026 14:01:48",
+                    "shs": "18.07.2026 15:03:20",
+                    "extId": "ls_0"
+                  },
+                  "played": 12,
                   "wins": 5,
                   "draws": 3,
-                  "losses": 3,
-                  "scoresStr": "19-18",
-                  "goalConDiff": 1,
+                  "losses": 4,
+                  "scoresStr": "20-22",
+                  "goalConDiff": -2,
                   "pts": 18,
                   "teamId": 8448,
                   "teamName": "Hamarkameratene",
-                  "xg": 17.851099908351898,
-                  "xgConceded": 17.460199892520905,
-                  "xPoints": 15.246047302926247,
+                  "xg": 18.65689992904663,
+                  "xgConceded": 19.38339990377426,
+                  "xPoints": 15.817973120306721,
                   "position": 10,
-                  "xgDiff": 1.1489000916481018,
-                  "xgConcededDiff": 0.5398001074790955,
-                  "xPointsDiff": 2.7539526970737533,
+                  "xgDiff": 1.3431000709533691,
+                  "xgConcededDiff": 2.6166000962257385,
+                  "xPointsDiff": 2.1820268796932787,
                   "xPosition": 10,
                   "idx": 10,
                   "xPositionDiff": -4,
@@ -1531,7 +1634,6 @@
                   "shortName": "Sandefjord",
                   "id": 8609,
                   "pageUrl": "/teams/8609/overview/sandefjord",
-                  "ongoing": null,
                   "played": 12,
                   "wins": 4,
                   "draws": 3,
@@ -1558,7 +1660,6 @@
                   "shortName": "Start",
                   "id": 9919,
                   "pageUrl": "/teams/9919/overview/start",
-                  "ongoing": null,
                   "played": 13,
                   "wins": 1,
                   "draws": 4,
@@ -1585,7 +1686,6 @@
                   "shortName": "Kristiansund",
                   "id": 8605,
                   "pageUrl": "/teams/8605/overview/kristiansund",
-                  "ongoing": null,
                   "played": 12,
                   "wins": 3,
                   "draws": 2,
@@ -1612,7 +1712,6 @@
                   "shortName": "KFUM",
                   "id": 2305,
                   "pageUrl": "/teams/2305/overview/kfum",
-                  "ongoing": null,
                   "played": 12,
                   "wins": 3,
                   "draws": 3,
@@ -1639,7 +1738,6 @@
                   "shortName": "Aalesund",
                   "id": 8404,
                   "pageUrl": "/teams/8404/overview/aalesund",
-                  "ongoing": null,
                   "played": 13,
                   "wins": 2,
                   "draws": 6,
@@ -1666,7 +1764,6 @@
                   "shortName": "Fredrikstad",
                   "id": 8417,
                   "pageUrl": "/teams/8417/overview/fredrikstad",
-                  "ongoing": null,
                   "played": 13,
                   "wins": 4,
                   "draws": 2,
@@ -4320,20 +4417,20 @@
               "2026-07-18T14:00:00Z"
             ],
             "8448": [
-              "8608",
-              "Tromsø",
-              "5104950",
+              "8402",
+              "Bodø/Glimt",
+              "5104857",
+              {
+                "id": "8402",
+                "name": "Bodø/Glimt",
+                "shortName": "Bodø/Glimt"
+              },
               {
                 "id": "8448",
                 "name": "Hamarkameratene",
                 "shortName": "Hamarkameratene"
               },
-              {
-                "id": "8608",
-                "name": "Tromsø",
-                "shortName": "Tromsø"
-              },
-              "2026-07-18T12:00:00Z"
+              "2026-07-22T17:00:00Z"
             ],
             "8468": [
               "9917",
@@ -4416,20 +4513,20 @@
               "2026-07-18T14:00:00Z"
             ],
             "8608": [
-              "8448",
-              "Hamarkameratene",
-              "5104950",
+              "8404",
+              "Aalesund",
+              "5104967",
               {
-                "id": "8448",
-                "name": "Hamarkameratene",
-                "shortName": "Hamarkameratene"
+                "id": "8404",
+                "name": "Aalesund",
+                "shortName": "Aalesund"
               },
               {
                 "id": "8608",
                 "name": "Tromsø",
                 "shortName": "Tromsø"
               },
-              "2026-07-18T12:00:00Z"
+              "2026-08-02T15:00:00Z"
             ],
             "8609": [
               "8478",
@@ -7881,16 +7978,64 @@
                   ]
                 }
               ],
-              "ongoing": [],
+              "ongoing": [
+                {
+                  "id": 5104950,
+                  "hTeam": "Hamarkameratene",
+                  "aTeam": "Tromsø",
+                  "hScore": 1,
+                  "aScore": 4,
+                  "hId": 8448,
+                  "aId": 8608,
+                  "stage": "14",
+                  "time": "18.07.2026 14:00",
+                  "status": "S",
+                  "sId": 3,
+                  "gs": "18.07.2026 14:01:48",
+                  "shs": "18.07.2026 15:03:20",
+                  "extId": "ls_0"
+                }
+              ],
               "table": {
                 "all": [
+                  {
+                    "name": "Tromsø",
+                    "shortName": "Tromsø",
+                    "id": 8608,
+                    "pageUrl": "/teams/8608/overview/tromso",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 15,
+                    "wins": 9,
+                    "draws": 4,
+                    "losses": 2,
+                    "scoresStr": "26-15",
+                    "goalConDiff": 11,
+                    "pts": 31,
+                    "idx": 1,
+                    "qualColor": "#FFD908"
+                  },
                   {
                     "name": "Bodø/Glimt",
                     "shortName": "Bodø/Glimt",
                     "id": 8402,
                     "pageUrl": "/teams/8402/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 9,
                     "draws": 2,
@@ -7898,23 +8043,6 @@
                     "scoresStr": "31-11",
                     "goalConDiff": 20,
                     "pts": 29,
-                    "idx": 1,
-                    "qualColor": "#FFD908"
-                  },
-                  {
-                    "name": "Tromsø",
-                    "shortName": "Tromsø",
-                    "id": 8608,
-                    "pageUrl": "/teams/8608/overview/tromso",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 14,
-                    "wins": 8,
-                    "draws": 4,
-                    "losses": 2,
-                    "scoresStr": "22-14",
-                    "goalConDiff": 8,
-                    "pts": 28,
                     "idx": 2,
                     "qualColor": "#FFD908"
                   },
@@ -7924,7 +8052,6 @@
                     "id": 8478,
                     "pageUrl": "/teams/8478/overview/viking",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 11,
                     "wins": 9,
                     "draws": 0,
@@ -7941,7 +8068,6 @@
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 12,
                     "wins": 7,
                     "draws": 1,
@@ -7958,7 +8084,6 @@
                     "id": 9917,
                     "pageUrl": "/teams/9917/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 12,
                     "wins": 6,
                     "draws": 2,
@@ -7975,13 +8100,28 @@
                     "id": 8448,
                     "pageUrl": "/teams/8448/overview/hamarkameratene",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 11,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 12,
                     "wins": 5,
                     "draws": 3,
-                    "losses": 3,
-                    "scoresStr": "19-18",
-                    "goalConDiff": 1,
+                    "losses": 4,
+                    "scoresStr": "20-22",
+                    "goalConDiff": -2,
                     "pts": 18,
                     "idx": 6,
                     "qualColor": null
@@ -7992,7 +8132,6 @@
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 12,
                     "wins": 5,
                     "draws": 2,
@@ -8009,7 +8148,6 @@
                     "id": 8007,
                     "pageUrl": "/teams/8007/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 5,
                     "draws": 2,
@@ -8026,7 +8164,6 @@
                     "id": 8468,
                     "pageUrl": "/teams/8468/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 5,
                     "draws": 1,
@@ -8043,7 +8180,6 @@
                     "id": 8609,
                     "pageUrl": "/teams/8609/overview/sandefjord",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 12,
                     "wins": 4,
                     "draws": 3,
@@ -8060,7 +8196,6 @@
                     "id": 8417,
                     "pageUrl": "/teams/8417/overview/fredrikstad",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 4,
                     "draws": 2,
@@ -8077,7 +8212,6 @@
                     "id": 8422,
                     "pageUrl": "/teams/8422/overview/rosenborg",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 12,
                     "wins": 3,
                     "draws": 3,
@@ -8094,7 +8228,6 @@
                     "id": 2305,
                     "pageUrl": "/teams/2305/overview/kfum",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 12,
                     "wins": 3,
                     "draws": 3,
@@ -8111,7 +8244,6 @@
                     "id": 8404,
                     "pageUrl": "/teams/8404/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 2,
                     "draws": 6,
@@ -8128,7 +8260,6 @@
                     "id": 8605,
                     "pageUrl": "/teams/8605/overview/kristiansund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 12,
                     "wins": 3,
                     "draws": 2,
@@ -8145,7 +8276,6 @@
                     "id": 9919,
                     "pageUrl": "/teams/9919/overview/start",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 1,
                     "draws": 4,
@@ -8164,7 +8294,22 @@
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
                     "played": 9,
                     "wins": 6,
                     "draws": 2,
@@ -8182,7 +8327,6 @@
                     "id": 8478,
                     "pageUrl": "/teams/8478/overview/viking",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 5,
                     "wins": 5,
                     "draws": 0,
@@ -8200,7 +8344,6 @@
                     "id": 8402,
                     "pageUrl": "/teams/8402/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 5,
                     "draws": 0,
@@ -8218,7 +8361,6 @@
                     "id": 9917,
                     "pageUrl": "/teams/9917/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 5,
                     "draws": 0,
@@ -8236,14 +8378,29 @@
                     "id": 8448,
                     "pageUrl": "/teams/8448/overview/hamarkameratene",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 6,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 7,
                     "wins": 5,
                     "draws": 0,
-                    "losses": 1,
-                    "scoresStr": "12-7",
-                    "goalConDiff": 5,
-                    "goalsScored": 12,
+                    "losses": 2,
+                    "scoresStr": "13-11",
+                    "goalConDiff": 2,
+                    "goalsScored": 13,
                     "pts": 15,
                     "idx": 5,
                     "qualColor": null
@@ -8254,7 +8411,6 @@
                     "id": 8007,
                     "pageUrl": "/teams/8007/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 4,
                     "draws": 1,
@@ -8272,7 +8428,6 @@
                     "id": 8422,
                     "pageUrl": "/teams/8422/overview/rosenborg",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 3,
                     "draws": 2,
@@ -8290,7 +8445,6 @@
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 3,
                     "draws": 2,
@@ -8308,7 +8462,6 @@
                     "id": 8417,
                     "pageUrl": "/teams/8417/overview/fredrikstad",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 3,
                     "draws": 1,
@@ -8326,7 +8479,6 @@
                     "id": 2305,
                     "pageUrl": "/teams/2305/overview/kfum",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 3,
                     "draws": 1,
@@ -8344,7 +8496,6 @@
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 5,
                     "wins": 3,
                     "draws": 0,
@@ -8362,7 +8513,6 @@
                     "id": 8468,
                     "pageUrl": "/teams/8468/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 3,
                     "draws": 0,
@@ -8380,7 +8530,6 @@
                     "id": 8609,
                     "pageUrl": "/teams/8609/overview/sandefjord",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 2,
                     "draws": 3,
@@ -8398,7 +8547,6 @@
                     "id": 8605,
                     "pageUrl": "/teams/8605/overview/kristiansund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 5,
                     "wins": 2,
                     "draws": 1,
@@ -8416,7 +8564,6 @@
                     "id": 8404,
                     "pageUrl": "/teams/8404/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 1,
                     "draws": 4,
@@ -8434,7 +8581,6 @@
                     "id": 9919,
                     "pageUrl": "/teams/9919/overview/start",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 5,
                     "wins": 1,
                     "draws": 3,
@@ -8454,7 +8600,6 @@
                     "id": 8402,
                     "pageUrl": "/teams/8402/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 4,
                     "draws": 2,
@@ -8472,7 +8617,6 @@
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 4,
                     "draws": 1,
@@ -8490,7 +8634,6 @@
                     "id": 8478,
                     "pageUrl": "/teams/8478/overview/viking",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 4,
                     "draws": 0,
@@ -8508,15 +8651,30 @@
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 5,
-                    "wins": 2,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 6,
+                    "wins": 3,
                     "draws": 2,
                     "losses": 1,
-                    "scoresStr": "4-7",
-                    "goalConDiff": -3,
-                    "goalsScored": 4,
-                    "pts": 8,
+                    "scoresStr": "8-8",
+                    "goalConDiff": 0,
+                    "goalsScored": 8,
+                    "pts": 11,
                     "idx": 4,
                     "qualColor": "#02CCF0"
                   },
@@ -8526,7 +8684,6 @@
                     "id": 8468,
                     "pageUrl": "/teams/8468/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 2,
                     "draws": 1,
@@ -8544,7 +8701,6 @@
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 2,
                     "draws": 0,
@@ -8562,7 +8718,6 @@
                     "id": 8609,
                     "pageUrl": "/teams/8609/overview/sandefjord",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 2,
                     "draws": 0,
@@ -8580,7 +8735,6 @@
                     "id": 9917,
                     "pageUrl": "/teams/9917/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 1,
                     "draws": 2,
@@ -8598,7 +8752,6 @@
                     "id": 8404,
                     "pageUrl": "/teams/8404/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 1,
                     "draws": 2,
@@ -8616,7 +8769,6 @@
                     "id": 8417,
                     "pageUrl": "/teams/8417/overview/fredrikstad",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 1,
                     "draws": 1,
@@ -8634,7 +8786,6 @@
                     "id": 8007,
                     "pageUrl": "/teams/8007/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 1,
                     "draws": 1,
@@ -8652,7 +8803,6 @@
                     "id": 8605,
                     "pageUrl": "/teams/8605/overview/kristiansund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 1,
                     "draws": 1,
@@ -8670,7 +8820,22 @@
                     "id": 8448,
                     "pageUrl": "/teams/8448/overview/hamarkameratene",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
                     "played": 5,
                     "wins": 0,
                     "draws": 3,
@@ -8688,7 +8853,6 @@
                     "id": 2305,
                     "pageUrl": "/teams/2305/overview/kfum",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 5,
                     "wins": 0,
                     "draws": 2,
@@ -8706,7 +8870,6 @@
                     "id": 8422,
                     "pageUrl": "/teams/8422/overview/rosenborg",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 5,
                     "wins": 0,
                     "draws": 1,
@@ -8724,7 +8887,6 @@
                     "id": 9919,
                     "pageUrl": "/teams/9919/overview/start",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 0,
                     "draws": 1,
@@ -8752,7 +8914,6 @@
                     "goalConDiff": 8,
                     "goalsScored": 12,
                     "pts": 13,
-                    "ongoing": null,
                     "idx": 1,
                     "qualColor": "#FFD908"
                   },
@@ -8770,7 +8931,6 @@
                     "goalConDiff": 8,
                     "goalsScored": 13,
                     "pts": 12,
-                    "ongoing": null,
                     "idx": 2,
                     "qualColor": "#FFD908"
                   },
@@ -8788,7 +8948,6 @@
                     "goalConDiff": 3,
                     "goalsScored": 9,
                     "pts": 12,
-                    "ongoing": null,
                     "idx": 3,
                     "qualColor": "#02CCF0"
                   },
@@ -8806,7 +8965,6 @@
                     "goalConDiff": 2,
                     "goalsScored": 12,
                     "pts": 9,
-                    "ongoing": null,
                     "idx": 4,
                     "qualColor": "#02CCF0"
                   },
@@ -8824,7 +8982,22 @@
                     "goalConDiff": 2,
                     "goalsScored": 8,
                     "pts": 8,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
                     "idx": 5,
                     "qualColor": null
                   },
@@ -8842,7 +9015,22 @@
                     "goalConDiff": 1,
                     "goalsScored": 7,
                     "pts": 8,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
                     "idx": 6,
                     "qualColor": null
                   },
@@ -8860,7 +9048,6 @@
                     "goalConDiff": 2,
                     "goalsScored": 9,
                     "pts": 7,
-                    "ongoing": null,
                     "idx": 7,
                     "qualColor": null
                   },
@@ -8878,7 +9065,6 @@
                     "goalConDiff": -1,
                     "goalsScored": 6,
                     "pts": 7,
-                    "ongoing": null,
                     "idx": 8,
                     "qualColor": null
                   },
@@ -8896,7 +9082,6 @@
                     "goalConDiff": -1,
                     "goalsScored": 5,
                     "pts": 7,
-                    "ongoing": null,
                     "idx": 9,
                     "qualColor": null
                   },
@@ -8914,7 +9099,6 @@
                     "goalConDiff": -1,
                     "goalsScored": 6,
                     "pts": 6,
-                    "ongoing": null,
                     "idx": 10,
                     "qualColor": null
                   },
@@ -8932,7 +9116,6 @@
                     "goalConDiff": -2,
                     "goalsScored": 7,
                     "pts": 6,
-                    "ongoing": null,
                     "idx": 11,
                     "qualColor": null
                   },
@@ -8950,7 +9133,6 @@
                     "goalConDiff": -4,
                     "goalsScored": 8,
                     "pts": 6,
-                    "ongoing": null,
                     "idx": 12,
                     "qualColor": null
                   },
@@ -8968,7 +9150,6 @@
                     "goalConDiff": -1,
                     "goalsScored": 7,
                     "pts": 5,
-                    "ongoing": null,
                     "idx": 13,
                     "qualColor": null
                   },
@@ -8986,7 +9167,6 @@
                     "goalConDiff": -3,
                     "goalsScored": 3,
                     "pts": 4,
-                    "ongoing": null,
                     "idx": 14,
                     "qualColor": "#FFA72F"
                   },
@@ -9004,7 +9184,6 @@
                     "goalConDiff": -6,
                     "goalsScored": 8,
                     "pts": 3,
-                    "ongoing": null,
                     "idx": 15,
                     "qualColor": "#FF4646"
                   },
@@ -9022,7 +9201,6 @@
                     "goalConDiff": -6,
                     "goalsScored": 4,
                     "pts": 3,
-                    "ongoing": null,
                     "idx": 16,
                     "qualColor": "#FF4646"
                   }
@@ -9033,7 +9211,6 @@
                     "shortName": "Bodø/Glimt",
                     "id": 8402,
                     "pageUrl": "/teams/8402/overview/bodoglimt",
-                    "ongoing": null,
                     "played": 13,
                     "wins": 9,
                     "draws": 2,
@@ -9052,7 +9229,7 @@
                     "xPointsDiff": -1.0287029477727536,
                     "xPosition": 1,
                     "idx": 1,
-                    "xPositionDiff": 0,
+                    "xPositionDiff": 1,
                     "qualColor": "#FFD908"
                   },
                   {
@@ -9060,26 +9237,41 @@
                     "shortName": "Tromsø",
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
-                    "ongoing": null,
-                    "played": 14,
-                    "wins": 8,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 15,
+                    "wins": 9,
                     "draws": 4,
                     "losses": 2,
-                    "scoresStr": "22-14",
-                    "goalConDiff": 8,
-                    "pts": 28,
+                    "scoresStr": "26-15",
+                    "goalConDiff": 11,
+                    "pts": 31,
                     "teamId": 8608,
                     "teamName": "Tromsø",
-                    "xg": 25.28129991889,
-                    "xgConceded": 18.12379989027977,
-                    "xPoints": 25.099652812873163,
+                    "xg": 27.204499930143356,
+                    "xgConceded": 18.929599910974503,
+                    "xPoints": 27.320501739820152,
                     "position": 2,
-                    "xgDiff": -3.2812999188899994,
-                    "xgConcededDiff": -4.12379989027977,
-                    "xPointsDiff": 2.9003471871268367,
+                    "xgDiff": -1.2044999301433563,
+                    "xgConcededDiff": -3.9295999109745026,
+                    "xPointsDiff": 3.679498260179848,
                     "xPosition": 2,
                     "idx": 2,
-                    "xPositionDiff": 0,
+                    "xPositionDiff": -1,
                     "qualColor": "#FFD908"
                   },
                   {
@@ -9087,7 +9279,6 @@
                     "shortName": "Viking",
                     "id": 8478,
                     "pageUrl": "/teams/8478/overview/viking",
-                    "ongoing": null,
                     "played": 11,
                     "wins": 9,
                     "draws": 0,
@@ -9114,7 +9305,6 @@
                     "shortName": "Lillestrøm",
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
-                    "ongoing": null,
                     "played": 12,
                     "wins": 7,
                     "draws": 1,
@@ -9141,7 +9331,6 @@
                     "shortName": "Brann",
                     "id": 8468,
                     "pageUrl": "/teams/8468/overview/brann",
-                    "ongoing": null,
                     "played": 13,
                     "wins": 5,
                     "draws": 1,
@@ -9168,7 +9357,6 @@
                     "shortName": "Sarpsborg 08",
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
-                    "ongoing": null,
                     "played": 12,
                     "wins": 5,
                     "draws": 2,
@@ -9195,7 +9383,6 @@
                     "shortName": "Vålerenga",
                     "id": 8007,
                     "pageUrl": "/teams/8007/overview/valerenga",
-                    "ongoing": null,
                     "played": 13,
                     "wins": 5,
                     "draws": 2,
@@ -9222,7 +9409,6 @@
                     "shortName": "Molde",
                     "id": 9917,
                     "pageUrl": "/teams/9917/overview/molde",
-                    "ongoing": null,
                     "played": 12,
                     "wins": 6,
                     "draws": 2,
@@ -9249,7 +9435,6 @@
                     "shortName": "Rosenborg",
                     "id": 8422,
                     "pageUrl": "/teams/8422/overview/rosenborg",
-                    "ongoing": null,
                     "played": 12,
                     "wins": 3,
                     "draws": 3,
@@ -9276,23 +9461,38 @@
                     "shortName": "HamKam",
                     "id": 8448,
                     "pageUrl": "/teams/8448/overview/hamarkameratene",
-                    "ongoing": null,
-                    "played": 11,
+                    "ongoing": {
+                      "id": 5104950,
+                      "hTeam": "Hamarkameratene",
+                      "aTeam": "Tromsø",
+                      "hScore": 1,
+                      "aScore": 4,
+                      "hId": 8448,
+                      "aId": 8608,
+                      "stage": "14",
+                      "time": "18.07.2026 14:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "18.07.2026 14:01:48",
+                      "shs": "18.07.2026 15:03:20",
+                      "extId": "ls_0"
+                    },
+                    "played": 12,
                     "wins": 5,
                     "draws": 3,
-                    "losses": 3,
-                    "scoresStr": "19-18",
-                    "goalConDiff": 1,
+                    "losses": 4,
+                    "scoresStr": "20-22",
+                    "goalConDiff": -2,
                     "pts": 18,
                     "teamId": 8448,
                     "teamName": "Hamarkameratene",
-                    "xg": 17.851099908351898,
-                    "xgConceded": 17.460199892520905,
-                    "xPoints": 15.246047302926247,
+                    "xg": 18.65689992904663,
+                    "xgConceded": 19.38339990377426,
+                    "xPoints": 15.817973120306721,
                     "position": 10,
-                    "xgDiff": 1.1489000916481018,
-                    "xgConcededDiff": 0.5398001074790955,
-                    "xPointsDiff": 2.7539526970737533,
+                    "xgDiff": 1.3431000709533691,
+                    "xgConcededDiff": 2.6166000962257385,
+                    "xPointsDiff": 2.1820268796932787,
                     "xPosition": 10,
                     "idx": 10,
                     "xPositionDiff": -4,
@@ -9303,7 +9503,6 @@
                     "shortName": "Sandefjord",
                     "id": 8609,
                     "pageUrl": "/teams/8609/overview/sandefjord",
-                    "ongoing": null,
                     "played": 12,
                     "wins": 4,
                     "draws": 3,
@@ -9330,7 +9529,6 @@
                     "shortName": "Start",
                     "id": 9919,
                     "pageUrl": "/teams/9919/overview/start",
-                    "ongoing": null,
                     "played": 13,
                     "wins": 1,
                     "draws": 4,
@@ -9357,7 +9555,6 @@
                     "shortName": "Kristiansund",
                     "id": 8605,
                     "pageUrl": "/teams/8605/overview/kristiansund",
-                    "ongoing": null,
                     "played": 12,
                     "wins": 3,
                     "draws": 2,
@@ -9384,7 +9581,6 @@
                     "shortName": "KFUM",
                     "id": 2305,
                     "pageUrl": "/teams/2305/overview/kfum",
-                    "ongoing": null,
                     "played": 12,
                     "wins": 3,
                     "draws": 3,
@@ -9411,7 +9607,6 @@
                     "shortName": "Aalesund",
                     "id": 8404,
                     "pageUrl": "/teams/8404/overview/aalesund",
-                    "ongoing": null,
                     "played": 13,
                     "wins": 2,
                     "draws": 6,
@@ -9438,7 +9633,6 @@
                     "shortName": "Fredrikstad",
                     "id": 8417,
                     "pageUrl": "/teams/8417/overview/fredrikstad",
-                    "ongoing": null,
                     "played": 13,
                     "wins": 4,
                     "draws": 2,
@@ -12092,20 +12286,20 @@
                 "2026-07-18T14:00:00Z"
               ],
               "8448": [
-                "8608",
-                "Tromsø",
-                "5104950",
+                "8402",
+                "Bodø/Glimt",
+                "5104857",
+                {
+                  "id": "8402",
+                  "name": "Bodø/Glimt",
+                  "shortName": "Bodø/Glimt"
+                },
                 {
                   "id": "8448",
                   "name": "Hamarkameratene",
                   "shortName": "Hamarkameratene"
                 },
-                {
-                  "id": "8608",
-                  "name": "Tromsø",
-                  "shortName": "Tromsø"
-                },
-                "2026-07-18T12:00:00Z"
+                "2026-07-22T17:00:00Z"
               ],
               "8468": [
                 "9917",
@@ -12188,20 +12382,20 @@
                 "2026-07-18T14:00:00Z"
               ],
               "8608": [
-                "8448",
-                "Hamarkameratene",
-                "5104950",
+                "8404",
+                "Aalesund",
+                "5104967",
                 {
-                  "id": "8448",
-                  "name": "Hamarkameratene",
-                  "shortName": "Hamarkameratene"
+                  "id": "8404",
+                  "name": "Aalesund",
+                  "shortName": "Aalesund"
                 },
                 {
                   "id": "8608",
                   "name": "Tromsø",
                   "shortName": "Tromsø"
                 },
-                "2026-07-18T12:00:00Z"
+                "2026-08-02T15:00:00Z"
               ],
               "8609": [
                 "8478",
@@ -12340,6 +12534,26 @@
           "byGoals": {
             "players": [
               {
+                "id": 1377949,
+                "name": "Jens Hjertø-Dahl",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "goals": 7,
+                "value": 7,
+                "stat": {
+                  "name": "goals",
+                  "value": 7,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 934960,
                 "name": "Kasper Waarts Høgh",
                 "teamId": 8402,
@@ -12375,26 +12589,6 @@
                 "teamColors": {
                   "darkMode": "#0068b0",
                   "lightMode": "#0D47A0",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1377949,
-                "name": "Jens Hjertø-Dahl",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "goals": 6,
-                "value": 6,
-                "stat": {
-                  "name": "goals",
-                  "value": 6,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -16338,17 +16532,17 @@
             "opponent": {
               "id": "8448",
               "name": "HamKam",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "8448",
               "name": "HamKam",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8608",
               "name": "Tromsø",
-              "score": 0
+              "score": 4
             },
             "displayTournament": true,
             "notStarted": true,
@@ -16358,12 +16552,24 @@
             "status": {
               "utcTime": "2026-07-18T12:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "18.07.2026 14:00:00"
+                "firstHalfStarted": "18.07.2026 14:01:48",
+                "secondHalfStarted": "18.07.2026 15:03:20"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 4",
+              "liveTime": {
+                "short": "94‎’‎",
+                "shortKey": "",
+                "long": "93:47",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -23817,12 +24023,24 @@
               "status": {
                 "utcTime": "2026-07-18T12:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "18.07.2026 14:00:00"
+                  "firstHalfStarted": "18.07.2026 14:01:48",
+                  "secondHalfStarted": "18.07.2026 15:03:20"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 4",
+                "liveTime": {
+                  "short": "94‎’‎",
+                  "shortKey": "",
+                  "long": "93:47",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -27264,12 +27482,12 @@
           {
             "header": "Top scorer",
             "participant": {
-              "id": 934960,
-              "name": "Kasper Waarts Høgh",
+              "id": 1377949,
+              "name": "Jens Hjertø-Dahl",
               "rank": 1,
-              "ccode": "DEN",
-              "teamId": 8402,
-              "teamName": "Bodø/Glimt",
+              "ccode": "NOR",
+              "teamId": 8608,
+              "teamName": "Tromsø",
               "value": 7,
               "stat": {
                 "name": "goals",
@@ -27281,9 +27499,30 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/goals.json",
             "topThree": [
               {
+                "id": 1377949,
+                "name": "Jens Hjertø-Dahl",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 7,
+                "stat": {
+                  "name": "goals",
+                  "value": 7,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 934960,
                 "name": "Kasper Waarts Høgh",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "DEN",
                 "teamId": 8402,
                 "teamName": "Bodø/Glimt",
@@ -27304,7 +27543,7 @@
               {
                 "id": 962795,
                 "name": "Emil Breivik",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 9917,
                 "teamName": "Molde",
@@ -27318,27 +27557,6 @@
                 "teamColors": {
                   "darkMode": "#0068b0",
                   "lightMode": "#0D47A0",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1377949,
-                "name": "Jens Hjertø-Dahl",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 6,
-                "stat": {
-                  "name": "goals",
-                  "value": 6,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -27836,10 +28054,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 7.3,
+                "value": 7.5,
                 "stat": {
                   "name": "expected_goals",
-                  "value": 7.3,
+                  "value": 7.5,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28012,10 +28230,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 6,
+                "value": 6.9,
                 "stat": {
                   "name": "expected_goalsontarget",
-                  "value": 6,
+                  "value": 6.9,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28094,9 +28312,30 @@
                 }
               },
               {
+                "id": 1377921,
+                "name": "Troy Nyhammer",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 2.2,
+                "stat": {
+                  "name": "ontarget_scoring_att",
+                  "value": 2.2,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1376639,
                 "name": "Sebastian Holm Mathisen",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8609,
                 "teamName": "Sandefjord",
@@ -28110,27 +28349,6 @@
                 "teamColors": {
                   "darkMode": "#035db8",
                   "lightMode": "#104070",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 538580,
-                "name": "Sondre Bjørshol",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8478,
-                "teamName": "Viking FK",
-                "value": 2,
-                "stat": {
-                  "name": "ontarget_scoring_att",
-                  "value": 2,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28452,10 +28670,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 31,
+                "value": 36,
                 "stat": {
                   "name": "total_att_assist",
-                  "value": 31,
+                  "value": 36,
                   "format": "number",
                   "fractions": 0
                 },
@@ -28555,22 +28773,22 @@
                 }
               },
               {
-                "id": 168890,
-                "name": "Magnar Ødegaard",
+                "id": 935100,
+                "name": "Vetle Skjærvik",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8509,
-                "teamName": "Sarpsborg 08",
-                "value": 5.8,
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 6,
                 "stat": {
                   "name": "accurate_long_balls",
-                  "value": 5.8,
+                  "value": 6,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#2255a5",
-                  "lightMode": "#102763",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28643,23 +28861,23 @@
                 }
               },
               {
-                "id": 1086551,
-                "name": "Ole Blomberg",
+                "id": 28115,
+                "name": "Ruben Yttergård Jenssen",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8402,
-                "teamName": "Bodø/Glimt",
-                "value": 5.5,
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 5.8,
                 "stat": {
                   "name": "expected_assists",
-                  "value": 5.5,
+                  "value": 5.8,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#f8dc03",
-                  "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -30206,9 +30424,30 @@
                 }
               },
               {
+                "id": 127723,
+                "name": "Marcus Sandberg",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8448,
+                "teamName": "HamKam",
+                "value": 2,
+                "stat": {
+                  "name": "goals_conceded",
+                  "value": 2,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#009040",
+                  "lightMode": "#009040",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1555515,
                 "name": "Martin Børsheim",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8417,
                 "teamName": "Fredrikstad",
@@ -30222,27 +30461,6 @@
                 "teamColors": {
                   "darkMode": "#f13c26",
                   "lightMode": "#f13c26",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1280650,
-                "name": "Adrian Sæther",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8605,
-                "teamName": "Kristiansund",
-                "value": 1.8,
-                "stat": {
-                  "name": "goals_conceded",
-                  "value": 1.8,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#2c528c",
-                  "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -30583,10 +30801,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 7.09,
+                "value": 7.1,
                 "stat": {
                   "name": "rating_team",
-                  "value": 7.09,
+                  "value": 7.1,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -30691,10 +30909,10 @@
             "header": "Goals conceded per match",
             "participant": {
               "id": 0,
-              "name": "Bodø/Glimt",
+              "name": "Lillestrøm",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 8402,
+              "teamId": 8476,
               "value": 0.8,
               "stat": {
                 "name": "goals_conceded_team_match",
@@ -30705,6 +30923,26 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/goals_conceded_team_match.json",
             "topThree": [
+              {
+                "id": 0,
+                "name": "Lillestrøm",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8476,
+                "value": 0.8,
+                "stat": {
+                  "name": "goals_conceded_team_match",
+                  "value": 0.8,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 0,
                 "name": "Bodø/Glimt",
@@ -30721,26 +30959,6 @@
                 "teamColors": {
                   "darkMode": "#f8dc03",
                   "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Lillestrøm",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8476,
-                "value": 0.9,
-                "stat": {
-                  "name": "goals_conceded_team_match",
-                  "value": 0.9,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -31067,10 +31285,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 25.3,
+                "value": 27.2,
                 "stat": {
                   "name": "expected_goals_team",
-                  "value": 25.3,
+                  "value": 27.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31171,10 +31389,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 7.2,
+                "value": 8.3,
                 "stat": {
                   "name": "_xg_diff_team",
-                  "value": 7.2,
+                  "value": 8.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31255,10 +31473,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 5.3,
+                "value": 5.4,
                 "stat": {
                   "name": "ontarget_scoring_att_team",
-                  "value": 5.3,
+                  "value": 5.4,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31339,10 +31557,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 37,
+                "value": 40,
                 "stat": {
                   "name": "big_chance_team",
-                  "value": 37,
+                  "value": 40,
                   "format": "number",
                   "fractions": 0
                 },
@@ -31503,21 +31721,21 @@
               },
               {
                 "id": 0,
-                "name": "Lillestrøm",
+                "name": "Tromsø",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8476,
-                "value": 409.2,
+                "teamId": 8608,
+                "value": 410.9,
                 "stat": {
                   "name": "accurate_pass_team",
-                  "value": 409.2,
+                  "value": 410.9,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -31571,10 +31789,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 29,
+                "value": 29.5,
                 "stat": {
                   "name": "accurate_long_balls_team",
-                  "value": 29,
+                  "value": 29.5,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31587,10 +31805,10 @@
               },
               {
                 "id": 0,
-                "name": "Hamarkameratene",
+                "name": "Brann",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8448,
+                "teamId": 8468,
                 "value": 27.2,
                 "stat": {
                   "name": "accurate_long_balls_team",
@@ -31599,8 +31817,8 @@
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#009040",
-                  "lightMode": "#009040",
+                  "darkMode": "#DE1215",
+                  "lightMode": "#DE1215",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -31671,10 +31889,10 @@
               },
               {
                 "id": 0,
-                "name": "Tromsø",
+                "name": "Vålerenga",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8608,
+                "teamId": 8007,
                 "value": 6.5,
                 "stat": {
                   "name": "accurate_cross_team",
@@ -31683,8 +31901,8 @@
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
+                  "darkMode": "#333bb3",
+                  "lightMode": "#283090",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -31843,10 +32061,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 427,
+                "value": 464,
                 "stat": {
                   "name": "touches_in_opp_box_team",
-                  "value": 427,
+                  "value": 464,
                   "format": "number",
                   "fractions": 0
                 },
@@ -32119,14 +32337,14 @@
             "header": "Interceptions per match",
             "participant": {
               "id": 0,
-              "name": "Sarpsborg 08",
+              "name": "Fredrikstad",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 8509,
-              "value": 9.6,
+              "teamId": 8417,
+              "value": 9.5,
               "stat": {
                 "name": "interception_team",
-                "value": 9.6,
+                "value": 9.5,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -32135,28 +32353,8 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Sarpsborg 08",
-                "rank": 1,
-                "ccode": "NOR",
-                "teamId": 8509,
-                "value": 9.6,
-                "stat": {
-                  "name": "interception_team",
-                  "value": 9.6,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#2255a5",
-                  "lightMode": "#102763",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Fredrikstad",
-                "rank": 2,
+                "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8417,
                 "value": 9.5,
@@ -32176,7 +32374,7 @@
               {
                 "id": 0,
                 "name": "Molde",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 9917,
                 "value": 9.4,
@@ -32189,6 +32387,26 @@
                 "teamColors": {
                   "darkMode": "#0068b0",
                   "lightMode": "#0D47A0",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Hamarkameratene",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8448,
+                "value": 9.1,
+                "stat": {
+                  "name": "interception_team",
+                  "value": 9.1,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#009040",
+                  "lightMode": "#009040",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -32323,40 +32541,40 @@
               },
               {
                 "id": 0,
-                "name": "Start",
+                "name": "Sandefjord",
                 "rank": 2,
                 "ccode": "NOR",
-                "teamId": 9919,
-                "value": 30.2,
+                "teamId": 8609,
+                "value": 29.1,
                 "stat": {
                   "name": "effective_clearance_team",
-                  "value": 30.2,
+                  "value": 29.1,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#F3D000",
-                  "lightMode": "#d9a200",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#035db8",
+                  "lightMode": "#104070",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
                 "id": 0,
-                "name": "KFUM",
+                "name": "Hamarkameratene",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 2305,
-                "value": 30.1,
+                "teamId": 8448,
+                "value": 28.5,
                 "stat": {
                   "name": "effective_clearance_team",
-                  "value": 30.1,
+                  "value": 28.5,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#E60000",
-                  "lightMode": "#E60000",
+                  "darkMode": "#009040",
+                  "lightMode": "#009040",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -32663,10 +32881,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8605,
-                "value": 3.9,
+                "value": 3.6,
                 "stat": {
                   "name": "saves_team",
-                  "value": 3.9,
+                  "value": 3.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32679,21 +32897,21 @@
               },
               {
                 "id": 0,
-                "name": "Lillestrøm",
+                "name": "Fredrikstad",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8476,
-                "value": 3.7,
+                "teamId": 8417,
+                "value": 3.5,
                 "stat": {
                   "name": "saves_team",
-                  "value": 3.7,
+                  "value": 3.5,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#f13c26",
+                  "lightMode": "#f13c26",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -32767,10 +32985,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8448,
-                "value": 12.6,
+                "value": 12.5,
                 "stat": {
                   "name": "fk_foul_lost_team",
-                  "value": 12.6,
+                  "value": 12.5,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -36161,12 +36379,24 @@
             "status": {
               "utcTime": "2026-07-18T12:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "18.07.2026 14:00:00"
+                "firstHalfStarted": "18.07.2026 14:01:48",
+                "secondHalfStarted": "18.07.2026 15:03:20"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 4",
+              "liveTime": {
+                "short": "94‎’‎",
+                "shortKey": "",
+                "long": "93:47",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
