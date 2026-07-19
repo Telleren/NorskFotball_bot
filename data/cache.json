@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:59:23.763357+00:00",
+  "generated_at": "2026-07-19T19:37:58.905960+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Stian Kristiansen",
+            "playerId": 843275,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-19T18:37:19Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sandefjord",
+            "fromClubFullName": "Sandefjord",
+            "fromClubId": 8609,
+            "toClub": "Lillestrøm",
+            "toClubFullName": "Lillestrøm",
+            "toClubId": 8476,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-19T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": 298701
+          },
+          {
             "name": "Rasmus Holten",
             "playerId": 1281389,
             "position": {
@@ -7797,40 +7828,6 @@
             "fromDate": "2026-03-03T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 2068243
-          },
-          {
-            "name": "Mats Pedersen",
-            "playerId": 1523841,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-03-04T21:44:44Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "HamKam",
-            "fromClubFullName": "Hamarkameratene",
-            "fromClubId": 8448,
-            "toClub": "FF Jaro",
-            "toClubFullName": "FF Jaro",
-            "toClubId": 8473,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-03T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 221695
           }
         ]
       },
