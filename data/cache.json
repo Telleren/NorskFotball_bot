@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T09:39:34.707042+00:00",
+  "generated_at": "2026-07-20T14:38:18.751750+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1379,13 +1379,13 @@
                   "pts": 19,
                   "teamId": 8468,
                   "teamName": "Brann",
-                  "xg": 25.273000076413155,
-                  "xgConceded": 24.640999734401703,
-                  "xPoints": 20.0361530673201,
+                  "xg": 25.68710006773472,
+                  "xgConceded": 24.817899763584137,
+                  "xPoints": 20.26261957115443,
                   "position": 5,
-                  "xgDiff": 2.7269999235868454,
-                  "xgConcededDiff": -2.640999734401703,
-                  "xPointsDiff": -1.0361530673201003,
+                  "xgDiff": 2.3128999322652817,
+                  "xgConcededDiff": -2.817899763584137,
+                  "xPointsDiff": -1.2626195711544312,
                   "xPosition": 5,
                   "idx": 5,
                   "xPositionDiff": 1,
@@ -1433,13 +1433,13 @@
                   "pts": 20,
                   "teamId": 9917,
                   "teamName": "Molde",
-                  "xg": 20.16130006313324,
-                  "xgConceded": 18.689800024032593,
-                  "xPoints": 18.820003599240046,
+                  "xg": 20.338200092315674,
+                  "xgConceded": 19.103900015354156,
+                  "xPoints": 18.606232484708876,
                   "position": 7,
-                  "xgDiff": 0.8386999368667603,
-                  "xgConcededDiff": -1.6898000240325928,
-                  "xPointsDiff": 1.1799964007599542,
+                  "xgDiff": 0.6617999076843262,
+                  "xgConcededDiff": -2.1039000153541565,
+                  "xPointsDiff": 1.393767515291124,
                   "xPosition": 7,
                   "idx": 7,
                   "xPositionDiff": -2,
@@ -9148,13 +9148,13 @@
                     "pts": 19,
                     "teamId": 8468,
                     "teamName": "Brann",
-                    "xg": 25.273000076413155,
-                    "xgConceded": 24.640999734401703,
-                    "xPoints": 20.0361530673201,
+                    "xg": 25.68710006773472,
+                    "xgConceded": 24.817899763584137,
+                    "xPoints": 20.26261957115443,
                     "position": 5,
-                    "xgDiff": 2.7269999235868454,
-                    "xgConcededDiff": -2.640999734401703,
-                    "xPointsDiff": -1.0361530673201003,
+                    "xgDiff": 2.3128999322652817,
+                    "xgConcededDiff": -2.817899763584137,
+                    "xPointsDiff": -1.2626195711544312,
                     "xPosition": 5,
                     "idx": 5,
                     "xPositionDiff": 1,
@@ -9202,13 +9202,13 @@
                     "pts": 20,
                     "teamId": 9917,
                     "teamName": "Molde",
-                    "xg": 20.16130006313324,
-                    "xgConceded": 18.689800024032593,
-                    "xPoints": 18.820003599240046,
+                    "xg": 20.338200092315674,
+                    "xgConceded": 19.103900015354156,
+                    "xPoints": 18.606232484708876,
                     "position": 7,
-                    "xgDiff": 0.8386999368667603,
-                    "xgConcededDiff": -1.6898000240325928,
-                    "xPointsDiff": 1.1799964007599542,
+                    "xgDiff": 0.6617999076843262,
+                    "xgConcededDiff": -2.1039000153541565,
+                    "xPointsDiff": 1.393767515291124,
                     "xPosition": 7,
                     "idx": 7,
                     "xPositionDiff": -2,
@@ -29295,30 +29295,9 @@
                 }
               },
               {
-                "id": 1232229,
-                "name": "Denzel De Roeve",
-                "rank": 2,
-                "ccode": "BEL",
-                "teamId": 8468,
-                "teamName": "Brann",
-                "value": 4.7,
-                "stat": {
-                  "name": "total_tackle",
-                  "value": 4.7,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#DE1215",
-                  "lightMode": "#DE1215",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 1585827,
                 "name": "Vetle Auklend",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
                 "teamName": "Viking FK",
@@ -29333,6 +29312,27 @@
                   "darkMode": "#244d89",
                   "lightMode": "#132847",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1279168,
+                "name": "Ousmane Toure",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 9919,
+                "teamName": "IK Start",
+                "value": 4.5,
+                "stat": {
+                  "name": "total_tackle",
+                  "value": 4.5,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#F3D000",
+                  "lightMode": "#d9a200",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -29647,9 +29647,30 @@
                 }
               },
               {
+                "id": 354136,
+                "name": "Mathias Dyngeland",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8468,
+                "teamName": "Brann",
+                "value": 10.7,
+                "stat": {
+                  "name": "ball_recovery",
+                  "value": 10.7,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#DE1215",
+                  "lightMode": "#DE1215",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 629821,
                 "name": "Emil Ødegaard",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 2305,
                 "teamName": "KFUM Oslo",
@@ -29663,27 +29684,6 @@
                 "teamColors": {
                   "darkMode": "#E60000",
                   "lightMode": "#E60000",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 354136,
-                "name": "Mathias Dyngeland",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8468,
-                "teamName": "Brann",
-                "value": 10.4,
-                "stat": {
-                  "name": "ball_recovery",
-                  "value": 10.4,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#DE1215",
-                  "lightMode": "#DE1215",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -30872,10 +30872,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8468,
-                "value": 57.9,
+                "value": 58,
                 "stat": {
                   "name": "possession_percentage_team",
-                  "value": 57.9,
+                  "value": 58,
                   "format": "percent",
                   "fractions": 1
                 },
@@ -31544,10 +31544,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 9917,
-                "value": 470.2,
+                "value": 469.9,
                 "stat": {
                   "name": "accurate_pass_team",
-                  "value": 470.2,
+                  "value": 469.9,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31880,10 +31880,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8468,
-                "value": 501,
+                "value": 502,
                 "stat": {
                   "name": "touches_in_opp_box_team",
-                  "value": 501,
+                  "value": 502,
                   "format": "number",
                   "fractions": 0
                 },
@@ -32180,10 +32180,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 9917,
-              "value": 9.9,
+              "value": 9.7,
               "stat": {
                 "name": "interception_team",
-                "value": 9.9,
+                "value": 9.7,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -32196,10 +32196,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 9917,
-                "value": 9.9,
+                "value": 9.7,
                 "stat": {
                   "name": "interception_team",
-                  "value": 9.9,
+                  "value": 9.7,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32264,10 +32264,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8468,
-              "value": 19.3,
+              "value": 19.2,
               "stat": {
                 "name": "total_tackle_team",
-                "value": 19.3,
+                "value": 19.2,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -32280,10 +32280,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8468,
-                "value": 19.3,
+                "value": 19.2,
                 "stat": {
                   "name": "total_tackle_team",
-                  "value": 19.3,
+                  "value": 19.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32320,10 +32320,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 9917,
-                "value": 18.5,
+                "value": 18.4,
                 "stat": {
                   "name": "total_tackle_team",
-                  "value": 18.5,
+                  "value": 18.4,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32464,8 +32464,28 @@
               },
               {
                 "id": 0,
-                "name": "Brann",
+                "name": "Molde",
                 "rank": 2,
+                "ccode": "NOR",
+                "teamId": 9917,
+                "value": 4.9,
+                "stat": {
+                  "name": "poss_won_att_3rd_team",
+                  "value": 4.9,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#0068b0",
+                  "lightMode": "#0D47A0",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Brann",
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8468,
                 "value": 4.8,
@@ -32478,26 +32498,6 @@
                 "teamColors": {
                   "darkMode": "#DE1215",
                   "lightMode": "#DE1215",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Molde",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 9917,
-                "value": 4.8,
-                "stat": {
-                  "name": "poss_won_att_3rd_team",
-                  "value": 4.8,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#0068b0",
-                  "lightMode": "#0D47A0",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
