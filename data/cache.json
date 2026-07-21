@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T08:52:33.677116+00:00",
+  "generated_at": "2026-07-21T19:58:08.481701+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,75 @@
         "type": "league",
         "data": [
           {
+            "name": "Danilo Al Saed",
+            "playerId": 1231588,
+            "position": {
+              "label": "LW",
+              "key": "leftwinger_short"
+            },
+            "transferDate": "2026-07-21T15:27:23Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Häcken",
+            "fromClubFullName": "Häcken",
+            "fromClubId": 8428,
+            "toClub": "HamKam",
+            "toClubFullName": "Hamarkameratene",
+            "toClubId": 8448,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-21T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 391938
+          },
+          {
+            "name": "Mame Alassane Niang",
+            "playerId": 1689485,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-07-21T14:00:37Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "HamKam",
+            "fromClubFullName": "Hamarkameratene",
+            "fromClubId": 8448,
+            "toClub": "FC Porto B",
+            "toClubFullName": "FC Porto B",
+            "toClubId": -1,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 1600000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-21T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 465246
+          },
+          {
             "name": "Stian Kristiansen",
             "playerId": 843275,
             "position": {
@@ -7759,75 +7828,6 @@
             "fromDate": "2026-03-05T23:00:00Z",
             "toDate": null,
             "marketValue": 50000
-          },
-          {
-            "name": "Håvar Jenssen",
-            "playerId": 439126,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2026-03-06T20:44:40Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubFullName": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "KFUM",
-            "toClubFullName": "KFUM",
-            "toClubId": 2305,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-05T23:00:00Z",
-            "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 249439
-          },
-          {
-            "name": "Jalal Abdullai",
-            "playerId": 1509545,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-03-05T09:14:23Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Elfsborg",
-            "fromClubFullName": "Elfsborg",
-            "fromClubId": 8014,
-            "toClub": "Molde",
-            "toClubFullName": "Molde",
-            "toClubId": 9917,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 3000000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-03T23:00:00Z",
-            "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 2068243
           }
         ]
       },
