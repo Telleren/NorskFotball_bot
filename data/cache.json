@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T03:54:05.829637+00:00",
+  "generated_at": "2026-07-22T08:50:49.502196+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1298,13 +1298,13 @@
                   "pts": 31,
                   "teamId": 8608,
                   "teamName": "Tromsø",
-                  "xg": 27.984199851751328,
+                  "xg": 28.225999921560287,
                   "xgConceded": 18.95559987425804,
-                  "xPoints": 27.69487413793364,
+                  "xPoints": 27.78273376565623,
                   "position": 2,
-                  "xgDiff": -1.9841998517513275,
+                  "xgDiff": -2.2259999215602875,
                   "xgConcededDiff": -3.9555998742580414,
-                  "xPointsDiff": 3.3051258620663617,
+                  "xPointsDiff": 3.2172662343437715,
                   "xPosition": 2,
                   "idx": 2,
                   "xPositionDiff": -1,
@@ -1515,12 +1515,12 @@
                   "teamId": 8448,
                   "teamName": "Hamarkameratene",
                   "xg": 18.68289989233017,
-                  "xgConceded": 20.163099825382233,
-                  "xPoints": 15.530994721437509,
+                  "xgConceded": 20.404899895191193,
+                  "xPoints": 15.465943462104303,
                   "position": 10,
                   "xgDiff": 1.3171001076698303,
-                  "xgConcededDiff": 1.8369001746177673,
-                  "xPointsDiff": 2.4690052785624914,
+                  "xgConcededDiff": 1.5951001048088074,
+                  "xPointsDiff": 2.5340565378956974,
                   "xPosition": 10,
                   "idx": 10,
                   "xPositionDiff": -3,
@@ -4502,6 +4502,37 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Omar Jebali",
+            "playerId": 1391325,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-22T10:14:23Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Moss",
+            "toClubFullName": "Moss",
+            "toClubId": 8405,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-21T00:00:00Z",
+            "toDate": null,
+            "marketValue": 399338
+          },
           {
             "name": "Danilo Al Saed",
             "playerId": 1231588,
@@ -7794,40 +7825,6 @@
             "fromDate": "2026-03-05T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 478888
-          },
-          {
-            "name": "Mohammed Hopsdal Abbas",
-            "playerId": 1280524,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-03-09T10:20:51Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "KFUM",
-            "fromClubFullName": "KFUM",
-            "fromClubId": 2305,
-            "toClub": "Eik-Tonsberg",
-            "toClubFullName": "Eik-Tonsberg",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-05T23:00:00Z",
-            "toDate": null,
-            "marketValue": 50000
           }
         ]
       },
@@ -9067,13 +9064,13 @@
                     "pts": 31,
                     "teamId": 8608,
                     "teamName": "Tromsø",
-                    "xg": 27.984199851751328,
+                    "xg": 28.225999921560287,
                     "xgConceded": 18.95559987425804,
-                    "xPoints": 27.69487413793364,
+                    "xPoints": 27.78273376565623,
                     "position": 2,
-                    "xgDiff": -1.9841998517513275,
+                    "xgDiff": -2.2259999215602875,
                     "xgConcededDiff": -3.9555998742580414,
-                    "xPointsDiff": 3.3051258620663617,
+                    "xPointsDiff": 3.2172662343437715,
                     "xPosition": 2,
                     "idx": 2,
                     "xPositionDiff": -1,
@@ -9284,12 +9281,12 @@
                     "teamId": 8448,
                     "teamName": "Hamarkameratene",
                     "xg": 18.68289989233017,
-                    "xgConceded": 20.163099825382233,
-                    "xPoints": 15.530994721437509,
+                    "xgConceded": 20.404899895191193,
+                    "xPoints": 15.465943462104303,
                     "position": 10,
                     "xgDiff": 1.3171001076698303,
-                    "xgConcededDiff": 1.8369001746177673,
-                    "xPointsDiff": 2.4690052785624914,
+                    "xgConcededDiff": 1.5951001048088074,
+                    "xPointsDiff": 2.5340565378956974,
                     "xPosition": 10,
                     "idx": 10,
                     "xPositionDiff": -3,
@@ -27905,10 +27902,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 8,
+                "value": 8.1,
                 "stat": {
                   "name": "expected_goals",
-                  "value": 8,
+                  "value": 8.1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28081,10 +28078,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 6.8,
+                "value": 6.9,
                 "stat": {
                   "name": "expected_goalsontarget",
-                  "value": 6.8,
+                  "value": 6.9,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28184,12 +28181,12 @@
                 }
               },
               {
-                "id": 1376639,
-                "name": "Sebastian Holm Mathisen",
+                "id": 1377921,
+                "name": "Troy Nyhammer",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8609,
-                "teamName": "Sandefjord",
+                "teamId": 8608,
+                "teamName": "Tromsø",
                 "value": 1.9,
                 "stat": {
                   "name": "ontarget_scoring_att",
@@ -28198,8 +28195,8 @@
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#035db8",
-                  "lightMode": "#104070",
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28718,10 +28715,10 @@
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
-                "value": 5.5,
+                "value": 5.6,
                 "stat": {
                   "name": "expected_assists",
-                  "value": 5.5,
+                  "value": 5.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31136,10 +31133,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 28,
+                "value": 28.2,
                 "stat": {
                   "name": "expected_goals_team",
-                  "value": 28,
+                  "value": 28.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31240,10 +31237,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 9,
+                "value": 9.3,
                 "stat": {
                   "name": "_xg_diff_team",
-                  "value": 9,
+                  "value": 9.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31324,10 +31321,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8608,
-                "value": 5.4,
+                "value": 5.5,
                 "stat": {
                   "name": "ontarget_scoring_att_team",
-                  "value": 5.4,
+                  "value": 5.5,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -43408,7 +43405,10 @@
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
         "stats_definitions": "Stats definitions",
-        "skip_to_main_content": "Skip to main content"
+        "skip_to_main_content": "Skip to main content",
+        "odds_aria_home_win": "Home win, odds %1$s",
+        "odds_aria_draw": "Draw, odds %1$s",
+        "odds_aria_away_win": "Away win, odds %1$s"
       }
     },
     "203": {
@@ -47478,6 +47478,71 @@
         "type": "league",
         "data": [
           {
+            "name": "Per Kristian Bråtveit",
+            "playerId": 360107,
+            "position": {
+              "label": "GK",
+              "key": "keeper"
+            },
+            "transferDate": "2026-07-22T10:18:40Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Aberdeen",
+            "fromClubFullName": "Aberdeen",
+            "fromClubId": 8485,
+            "toClub": "FK Haugesund",
+            "toClubFullName": "FK Haugesund",
+            "toClubId": 8512,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-20T00:00:00Z",
+            "toDate": "2028-12-31T00:00:00Z",
+            "marketValue": 302308
+          },
+          {
+            "name": "Omar Jebali",
+            "playerId": 1391325,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-22T10:14:23Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Moss",
+            "toClubFullName": "Moss",
+            "toClubId": 8405,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-21T00:00:00Z",
+            "toDate": null,
+            "marketValue": 399338
+          },
+          {
             "name": "Brage Tobiassen",
             "playerId": 1478300,
             "position": {
@@ -50762,71 +50827,6 @@
             "fromDate": "2025-08-08T22:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
             "marketValue": 380316
-          },
-          {
-            "name": "Sondre Norheim",
-            "playerId": 630368,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2025-08-10T00:54:47Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Bryne",
-            "fromClubFullName": "Bryne",
-            "fromClubId": 8531,
-            "toClub": "Kongsvinger",
-            "toClubFullName": "Kongsvinger",
-            "toClubId": 8179,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-08-08T22:00:00Z",
-            "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 163936
-          },
-          {
-            "name": "William Osnes-Ringen",
-            "playerId": 1527083,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2025-08-05T17:50:50Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "HamKam",
-            "fromClubFullName": "Hamarkameratene",
-            "fromClubId": 8448,
-            "toClub": "Raufoss",
-            "toClubFullName": "Raufoss",
-            "toClubId": 9812,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-08-04T22:00:00Z",
-            "toDate": "2025-08-31T22:00:00Z",
-            "marketValue": 560066
           }
         ]
       },
@@ -80408,7 +80408,10 @@
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
         "stats_definitions": "Stats definitions",
-        "skip_to_main_content": "Skip to main content"
+        "skip_to_main_content": "Skip to main content",
+        "odds_aria_home_win": "Home win, odds %1$s",
+        "odds_aria_draw": "Draw, odds %1$s",
+        "odds_aria_away_win": "Away win, odds %1$s"
       }
     },
     "331": {
@@ -102557,7 +102560,10 @@
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
         "stats_definitions": "Stats definitions",
-        "skip_to_main_content": "Skip to main content"
+        "skip_to_main_content": "Skip to main content",
+        "odds_aria_home_win": "Home win, odds %1$s",
+        "odds_aria_draw": "Draw, odds %1$s",
+        "odds_aria_away_win": "Away win, odds %1$s"
       }
     },
     "206": {
@@ -118792,7 +118798,10 @@
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
         "stats_definitions": "Stats definitions",
-        "skip_to_main_content": "Skip to main content"
+        "skip_to_main_content": "Skip to main content",
+        "odds_aria_home_win": "Home win, odds %1$s",
+        "odds_aria_draw": "Draw, odds %1$s",
+        "odds_aria_away_win": "Away win, odds %1$s"
       }
     }
   },
