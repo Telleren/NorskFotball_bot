@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:50:49.502196+00:00",
+  "generated_at": "2026-07-22T14:29:28.127214+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1406,13 +1406,13 @@
                   "pts": 18,
                   "teamId": 8509,
                   "teamName": "Sarpsborg 08",
-                  "xg": 19.368800044059753,
-                  "xgConceded": 17.815499782562256,
-                  "xPoints": 19.27817145921469,
+                  "xg": 19.341099977493286,
+                  "xgConceded": 17.806699752807617,
+                  "xPoints": 19.261431201142035,
                   "position": 6,
-                  "xgDiff": -5.368800044059753,
-                  "xgConcededDiff": -1.8154997825622559,
-                  "xPointsDiff": -1.2781714592146898,
+                  "xgDiff": -5.341099977493286,
+                  "xgConcededDiff": -1.8066997528076172,
+                  "xPointsDiff": -1.2614312011420346,
                   "xPosition": 6,
                   "idx": 6,
                   "xPositionDiff": 2,
@@ -1460,13 +1460,13 @@
                   "pts": 15,
                   "teamId": 8422,
                   "teamName": "Rosenborg",
-                  "xg": 19.67490005493164,
-                  "xgConceded": 21.28079989552498,
-                  "xPoints": 18.16369638829541,
+                  "xg": 19.61300003528595,
+                  "xgConceded": 21.2498998939991,
+                  "xPoints": 18.144196643517514,
                   "position": 8,
-                  "xgDiff": -4.674900054931641,
-                  "xgConcededDiff": -3.2807998955249786,
-                  "xPointsDiff": -3.16369638829541,
+                  "xgDiff": -4.61300003528595,
+                  "xgConcededDiff": -3.2498998939990997,
+                  "xPointsDiff": -3.144196643517514,
                   "xPosition": 8,
                   "idx": 8,
                   "xPositionDiff": 2,
@@ -1568,13 +1568,13 @@
                   "pts": 7,
                   "teamId": 9919,
                   "teamName": "Start",
-                  "xg": 17.067199915647507,
-                  "xgConceded": 25.105699956417084,
-                  "xPoints": 14.536806798091506,
+                  "xg": 17.036299914121628,
+                  "xgConceded": 25.043799936771393,
+                  "xPoints": 14.549110811125507,
                   "position": 12,
-                  "xgDiff": -3.0671999156475067,
-                  "xgConcededDiff": 7.894300043582916,
-                  "xPointsDiff": -7.536806798091506,
+                  "xgDiff": -3.036299914121628,
+                  "xgConcededDiff": 7.956200063228607,
+                  "xPointsDiff": -7.549110811125507,
                   "xPosition": 12,
                   "idx": 12,
                   "xPositionDiff": 4,
@@ -1595,13 +1595,13 @@
                   "pts": 12,
                   "teamId": 8605,
                   "teamName": "Kristiansund",
-                  "xg": 16.97019988298416,
-                  "xgConceded": 24.13850027322769,
-                  "xPoints": 14.257439959041093,
+                  "xg": 16.961399853229523,
+                  "xgConceded": 24.110800206661224,
+                  "xPoints": 14.270354335081752,
                   "position": 13,
-                  "xgDiff": -5.970199882984161,
-                  "xgConcededDiff": -3.1385002732276917,
-                  "xPointsDiff": -2.2574399590410934,
+                  "xgDiff": -5.961399853229523,
+                  "xgConcededDiff": -3.1108002066612244,
+                  "xPointsDiff": -2.270354335081752,
                   "xPosition": 13,
                   "idx": 13,
                   "xPositionDiff": 2,
@@ -4502,6 +4502,41 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Santeri Väänänen",
+            "playerId": 942032,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-07-22T15:44:31Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Rosenborg",
+            "fromClubFullName": "Rosenborg",
+            "fromClubId": 8422,
+            "toClub": "Karlsruher SC",
+            "toClubFullName": "Karlsruher SC",
+            "toClubId": 8295,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 100000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-22T00:00:00Z",
+            "toDate": null,
+            "marketValue": 816402
+          },
           {
             "name": "Omar Jebali",
             "playerId": 1391325,
@@ -7791,40 +7826,6 @@
             "fromDate": "2026-03-07T23:00:00Z",
             "toDate": "2026-07-13T22:00:00Z",
             "marketValue": 162721
-          },
-          {
-            "name": "Martin Håheim Elveseter",
-            "playerId": 1377183,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-03-09T10:24:32Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubFullName": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "Egersund",
-            "toClubFullName": "Egersund",
-            "toClubId": 4722,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-05T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 478888
           }
         ]
       },
@@ -9172,13 +9173,13 @@
                     "pts": 18,
                     "teamId": 8509,
                     "teamName": "Sarpsborg 08",
-                    "xg": 19.368800044059753,
-                    "xgConceded": 17.815499782562256,
-                    "xPoints": 19.27817145921469,
+                    "xg": 19.341099977493286,
+                    "xgConceded": 17.806699752807617,
+                    "xPoints": 19.261431201142035,
                     "position": 6,
-                    "xgDiff": -5.368800044059753,
-                    "xgConcededDiff": -1.8154997825622559,
-                    "xPointsDiff": -1.2781714592146898,
+                    "xgDiff": -5.341099977493286,
+                    "xgConcededDiff": -1.8066997528076172,
+                    "xPointsDiff": -1.2614312011420346,
                     "xPosition": 6,
                     "idx": 6,
                     "xPositionDiff": 2,
@@ -9226,13 +9227,13 @@
                     "pts": 15,
                     "teamId": 8422,
                     "teamName": "Rosenborg",
-                    "xg": 19.67490005493164,
-                    "xgConceded": 21.28079989552498,
-                    "xPoints": 18.16369638829541,
+                    "xg": 19.61300003528595,
+                    "xgConceded": 21.2498998939991,
+                    "xPoints": 18.144196643517514,
                     "position": 8,
-                    "xgDiff": -4.674900054931641,
-                    "xgConcededDiff": -3.2807998955249786,
-                    "xPointsDiff": -3.16369638829541,
+                    "xgDiff": -4.61300003528595,
+                    "xgConcededDiff": -3.2498998939990997,
+                    "xPointsDiff": -3.144196643517514,
                     "xPosition": 8,
                     "idx": 8,
                     "xPositionDiff": 2,
@@ -9334,13 +9335,13 @@
                     "pts": 7,
                     "teamId": 9919,
                     "teamName": "Start",
-                    "xg": 17.067199915647507,
-                    "xgConceded": 25.105699956417084,
-                    "xPoints": 14.536806798091506,
+                    "xg": 17.036299914121628,
+                    "xgConceded": 25.043799936771393,
+                    "xPoints": 14.549110811125507,
                     "position": 12,
-                    "xgDiff": -3.0671999156475067,
-                    "xgConcededDiff": 7.894300043582916,
-                    "xPointsDiff": -7.536806798091506,
+                    "xgDiff": -3.036299914121628,
+                    "xgConcededDiff": 7.956200063228607,
+                    "xPointsDiff": -7.549110811125507,
                     "xPosition": 12,
                     "idx": 12,
                     "xPositionDiff": 4,
@@ -9361,13 +9362,13 @@
                     "pts": 12,
                     "teamId": 8605,
                     "teamName": "Kristiansund",
-                    "xg": 16.97019988298416,
-                    "xgConceded": 24.13850027322769,
-                    "xPoints": 14.257439959041093,
+                    "xg": 16.961399853229523,
+                    "xgConceded": 24.110800206661224,
+                    "xPoints": 14.270354335081752,
                     "position": 13,
-                    "xgDiff": -5.970199882984161,
-                    "xgConcededDiff": -3.1385002732276917,
-                    "xPointsDiff": -2.2574399590410934,
+                    "xgDiff": -5.961399853229523,
+                    "xgConcededDiff": -3.1108002066612244,
+                    "xPointsDiff": -2.270354335081752,
                     "xPosition": 13,
                     "idx": 13,
                     "xPositionDiff": 2,
@@ -29832,30 +29833,9 @@
                 }
               },
               {
-                "id": 1609553,
-                "name": "Jesper Cornelius",
-                "rank": 2,
-                "ccode": "DEN",
-                "teamId": 9919,
-                "teamName": "IK Start",
-                "value": 1.6,
-                "stat": {
-                  "name": "poss_won_att_3rd",
-                  "value": 1.6,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#F3D000",
-                  "lightMode": "#d9a200",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 737091,
                 "name": "Martin Tangen Vinjor",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 2305,
                 "teamName": "KFUM Oslo",
@@ -29870,6 +29850,27 @@
                   "darkMode": "#E60000",
                   "lightMode": "#E60000",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1609553,
+                "name": "Jesper Cornelius",
+                "rank": 3,
+                "ccode": "DEN",
+                "teamId": 9919,
+                "teamName": "IK Start",
+                "value": 1.5,
+                "stat": {
+                  "name": "poss_won_att_3rd",
+                  "value": 1.5,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#F3D000",
+                  "lightMode": "#d9a200",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -32221,28 +32222,8 @@
               },
               {
                 "id": 0,
-                "name": "Kristiansund",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8605,
-                "value": 9.4,
-                "stat": {
-                  "name": "interception_team",
-                  "value": 9.4,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#2c528c",
-                  "lightMode": "#0C2340",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Fredrikstad",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8417,
                 "value": 9.3,
@@ -32255,6 +32236,26 @@
                 "teamColors": {
                   "darkMode": "#f13c26",
                   "lightMode": "#f13c26",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Kristiansund",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8605,
+                "value": 9.3,
+                "stat": {
+                  "name": "interception_team",
+                  "value": 9.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#2c528c",
+                  "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -43408,7 +43409,27 @@
         "skip_to_main_content": "Skip to main content",
         "odds_aria_home_win": "Home win, odds %1$s",
         "odds_aria_draw": "Draw, odds %1$s",
-        "odds_aria_away_win": "Away win, odds %1$s"
+        "odds_aria_away_win": "Away win, odds %1$s",
+        "odds_partner_link_aria": "Visit betting partner",
+        "odds_partner_logo_alt": "Betting partner logo",
+        "stat_answer_sentence_generic_player": "%1$s leads %2$s%3$s in %4$s with %5$s.",
+        "stat_answer_sentence_generic_player_position": "%1$s leads %2$s%3$s in %4$s among %5$s with %6$s.",
+        "stat_answer_sentence_generic_player_team": "%1$s leads %2$s%3$s in %4$s for %5$s with %6$s.",
+        "stat_answer_sentence_generic_player_position_team": "%1$s leads %2$s%3$s in %4$s for %5$s among %6$s with %7$s.",
+        "stat_answer_position_keeper": "keepers",
+        "stat_answer_position_center_back": "centre-backs",
+        "stat_answer_position_fullback": "fullbacks",
+        "stat_answer_position_midfielder": "midfielders",
+        "stat_answer_position_attacking_midfielder": "attacking midfielders",
+        "stat_answer_position_winger": "wingers",
+        "stat_answer_position_striker": "strikers",
+        "stat_answer_sentence_goals_player": "%1$s is the top scorer in %2$s%3$s season with %4$s goals",
+        "stat_answer_sentence_goals_player_position": "%1$s is the top scorer among %2$s in %3$s%4$s season with %5$s goals",
+        "stat_answer_sentence_goals_player_team": "%1$s is the top scorer for %2$s in %3$s%4$s season with %5$s goals",
+        "stat_answer_sentence_goals_player_position_team": "%1$s is the top scorer among %2$s for %3$s in %4$s%5$s season with %6$s goals",
+        "stat_answer_sentence_generic_team": "%1$s leads %2$s%3$s in %4$s with %5$s.",
+        "stat_answer_sentence_generic_team_lowest": "%1$s has the lowest %4$s in %2$s%3$s with %5$s.",
+        "stat_answer_sentence_generic_team_fewest": "%1$s has the fewest %4$s in %2$s%3$s with %5$s."
       }
     },
     "203": {
@@ -80411,7 +80432,27 @@
         "skip_to_main_content": "Skip to main content",
         "odds_aria_home_win": "Home win, odds %1$s",
         "odds_aria_draw": "Draw, odds %1$s",
-        "odds_aria_away_win": "Away win, odds %1$s"
+        "odds_aria_away_win": "Away win, odds %1$s",
+        "odds_partner_link_aria": "Visit betting partner",
+        "odds_partner_logo_alt": "Betting partner logo",
+        "stat_answer_sentence_generic_player": "%1$s leads %2$s%3$s in %4$s with %5$s.",
+        "stat_answer_sentence_generic_player_position": "%1$s leads %2$s%3$s in %4$s among %5$s with %6$s.",
+        "stat_answer_sentence_generic_player_team": "%1$s leads %2$s%3$s in %4$s for %5$s with %6$s.",
+        "stat_answer_sentence_generic_player_position_team": "%1$s leads %2$s%3$s in %4$s for %5$s among %6$s with %7$s.",
+        "stat_answer_position_keeper": "keepers",
+        "stat_answer_position_center_back": "centre-backs",
+        "stat_answer_position_fullback": "fullbacks",
+        "stat_answer_position_midfielder": "midfielders",
+        "stat_answer_position_attacking_midfielder": "attacking midfielders",
+        "stat_answer_position_winger": "wingers",
+        "stat_answer_position_striker": "strikers",
+        "stat_answer_sentence_goals_player": "%1$s is the top scorer in %2$s%3$s season with %4$s goals",
+        "stat_answer_sentence_goals_player_position": "%1$s is the top scorer among %2$s in %3$s%4$s season with %5$s goals",
+        "stat_answer_sentence_goals_player_team": "%1$s is the top scorer for %2$s in %3$s%4$s season with %5$s goals",
+        "stat_answer_sentence_goals_player_position_team": "%1$s is the top scorer among %2$s for %3$s in %4$s%5$s season with %6$s goals",
+        "stat_answer_sentence_generic_team": "%1$s leads %2$s%3$s in %4$s with %5$s.",
+        "stat_answer_sentence_generic_team_lowest": "%1$s has the lowest %4$s in %2$s%3$s with %5$s.",
+        "stat_answer_sentence_generic_team_fewest": "%1$s has the fewest %4$s in %2$s%3$s with %5$s."
       }
     },
     "331": {
@@ -102563,7 +102604,27 @@
         "skip_to_main_content": "Skip to main content",
         "odds_aria_home_win": "Home win, odds %1$s",
         "odds_aria_draw": "Draw, odds %1$s",
-        "odds_aria_away_win": "Away win, odds %1$s"
+        "odds_aria_away_win": "Away win, odds %1$s",
+        "odds_partner_link_aria": "Visit betting partner",
+        "odds_partner_logo_alt": "Betting partner logo",
+        "stat_answer_sentence_generic_player": "%1$s leads %2$s%3$s in %4$s with %5$s.",
+        "stat_answer_sentence_generic_player_position": "%1$s leads %2$s%3$s in %4$s among %5$s with %6$s.",
+        "stat_answer_sentence_generic_player_team": "%1$s leads %2$s%3$s in %4$s for %5$s with %6$s.",
+        "stat_answer_sentence_generic_player_position_team": "%1$s leads %2$s%3$s in %4$s for %5$s among %6$s with %7$s.",
+        "stat_answer_position_keeper": "keepers",
+        "stat_answer_position_center_back": "centre-backs",
+        "stat_answer_position_fullback": "fullbacks",
+        "stat_answer_position_midfielder": "midfielders",
+        "stat_answer_position_attacking_midfielder": "attacking midfielders",
+        "stat_answer_position_winger": "wingers",
+        "stat_answer_position_striker": "strikers",
+        "stat_answer_sentence_goals_player": "%1$s is the top scorer in %2$s%3$s season with %4$s goals",
+        "stat_answer_sentence_goals_player_position": "%1$s is the top scorer among %2$s in %3$s%4$s season with %5$s goals",
+        "stat_answer_sentence_goals_player_team": "%1$s is the top scorer for %2$s in %3$s%4$s season with %5$s goals",
+        "stat_answer_sentence_goals_player_position_team": "%1$s is the top scorer among %2$s for %3$s in %4$s%5$s season with %6$s goals",
+        "stat_answer_sentence_generic_team": "%1$s leads %2$s%3$s in %4$s with %5$s.",
+        "stat_answer_sentence_generic_team_lowest": "%1$s has the lowest %4$s in %2$s%3$s with %5$s.",
+        "stat_answer_sentence_generic_team_fewest": "%1$s has the fewest %4$s in %2$s%3$s with %5$s."
       }
     },
     "206": {
@@ -118801,7 +118862,27 @@
         "skip_to_main_content": "Skip to main content",
         "odds_aria_home_win": "Home win, odds %1$s",
         "odds_aria_draw": "Draw, odds %1$s",
-        "odds_aria_away_win": "Away win, odds %1$s"
+        "odds_aria_away_win": "Away win, odds %1$s",
+        "odds_partner_link_aria": "Visit betting partner",
+        "odds_partner_logo_alt": "Betting partner logo",
+        "stat_answer_sentence_generic_player": "%1$s leads %2$s%3$s in %4$s with %5$s.",
+        "stat_answer_sentence_generic_player_position": "%1$s leads %2$s%3$s in %4$s among %5$s with %6$s.",
+        "stat_answer_sentence_generic_player_team": "%1$s leads %2$s%3$s in %4$s for %5$s with %6$s.",
+        "stat_answer_sentence_generic_player_position_team": "%1$s leads %2$s%3$s in %4$s for %5$s among %6$s with %7$s.",
+        "stat_answer_position_keeper": "keepers",
+        "stat_answer_position_center_back": "centre-backs",
+        "stat_answer_position_fullback": "fullbacks",
+        "stat_answer_position_midfielder": "midfielders",
+        "stat_answer_position_attacking_midfielder": "attacking midfielders",
+        "stat_answer_position_winger": "wingers",
+        "stat_answer_position_striker": "strikers",
+        "stat_answer_sentence_goals_player": "%1$s is the top scorer in %2$s%3$s season with %4$s goals",
+        "stat_answer_sentence_goals_player_position": "%1$s is the top scorer among %2$s in %3$s%4$s season with %5$s goals",
+        "stat_answer_sentence_goals_player_team": "%1$s is the top scorer for %2$s in %3$s%4$s season with %5$s goals",
+        "stat_answer_sentence_goals_player_position_team": "%1$s is the top scorer among %2$s for %3$s in %4$s%5$s season with %6$s goals",
+        "stat_answer_sentence_generic_team": "%1$s leads %2$s%3$s in %4$s with %5$s.",
+        "stat_answer_sentence_generic_team_lowest": "%1$s has the lowest %4$s in %2$s%3$s with %5$s.",
+        "stat_answer_sentence_generic_team_fewest": "%1$s has the fewest %4$s in %2$s%3$s with %5$s."
       }
     }
   },
