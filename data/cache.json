@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:58:08.481701+00:00",
+  "generated_at": "2026-07-22T03:54:05.829637+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -16587,8 +16587,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-07-22T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-07-22T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "22.07.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -16618,8 +16621,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-07-22T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-07-22T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "22.07.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -20749,7 +20755,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -24028,8 +24034,11 @@
                 "id": "8448"
               },
               "status": {
-                "utcTime": "2026-07-22T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-07-22T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "22.07.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -24051,8 +24060,11 @@
                 "id": "8478"
               },
               "status": {
-                "utcTime": "2026-07-22T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-07-22T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "22.07.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -27118,7 +27130,7 @@
               }
             }
           ],
-          "hasOngoingMatch": false,
+          "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "14",
@@ -36402,8 +36414,11 @@
               "id": "8448"
             },
             "status": {
-              "utcTime": "2026-07-22T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-07-22T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "22.07.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -36425,8 +36440,11 @@
               "id": "8478"
             },
             "status": {
-              "utcTime": "2026-07-22T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-07-22T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "22.07.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -39492,7 +39510,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "14",
@@ -102722,6 +102740,37 @@
             }
           },
           {
+            "id": "5835768",
+            "pageUrl": "/matches/raufoss-vs-ridabu/gq9jya4e#5835768",
+            "opponent": {
+              "id": "1609447",
+              "name": "Ridabu",
+              "score": 0
+            },
+            "home": {
+              "id": "1609447",
+              "name": "Ridabu",
+              "score": 0
+            },
+            "away": {
+              "id": "9812",
+              "name": "Raufoss",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-21T17:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
             "id": "5835754",
             "pageUrl": "/matches/kvik-halden-vs-asker/18urc7#5835754",
             "opponent": {
@@ -103791,37 +103840,6 @@
             "away": {
               "id": "2305",
               "name": "KFUM",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "id": "5835768",
-            "pageUrl": "/matches/raufoss-vs-ridabu/gq9jya4e#5835768",
-            "opponent": {
-              "id": "1609447",
-              "name": "Ridabu",
-              "score": 0
-            },
-            "home": {
-              "id": "1609447",
-              "name": "Ridabu",
-              "score": 0
-            },
-            "away": {
-              "id": "9812",
-              "name": "Raufoss",
               "score": 0
             },
             "displayTournament": true,
@@ -105434,7 +105452,7 @@
                       },
                       "pageUrl": "/matches/raufoss-vs-ridabu/gq9jya4e#5835768",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-21T15:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -107649,6 +107667,27 @@
               }
             },
             {
+              "pageUrl": "/matches/raufoss-vs-ridabu/gq9jya4e#5835768",
+              "id": "5835768",
+              "home": {
+                "name": "Ridabu",
+                "shortName": "Ridabu",
+                "id": "1609447"
+              },
+              "away": {
+                "name": "Raufoss",
+                "shortName": "Raufoss",
+                "id": "9812"
+              },
+              "status": {
+                "utcTime": "2026-08-21T17:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
               "pageUrl": "/matches/kvik-halden-vs-asker/18urc7#5835754",
               "id": "5835754",
               "home": {
@@ -108374,27 +108413,6 @@
                 "name": "KFUM",
                 "shortName": "KFUM",
                 "id": "2305"
-              },
-              "status": {
-                "utcTime": "2026-08-22T14:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "pageUrl": "/matches/raufoss-vs-ridabu/gq9jya4e#5835768",
-              "id": "5835768",
-              "home": {
-                "name": "Ridabu",
-                "shortName": "Ridabu",
-                "id": "1609447"
-              },
-              "away": {
-                "name": "Raufoss",
-                "shortName": "Raufoss",
-                "id": "9812"
               },
               "status": {
                 "utcTime": "2026-08-22T14:00:00Z",
@@ -109709,6 +109727,27 @@
             }
           },
           {
+            "pageUrl": "/matches/raufoss-vs-ridabu/gq9jya4e#5835768",
+            "id": "5835768",
+            "home": {
+              "name": "Ridabu",
+              "shortName": "Ridabu",
+              "id": "1609447"
+            },
+            "away": {
+              "name": "Raufoss",
+              "shortName": "Raufoss",
+              "id": "9812"
+            },
+            "status": {
+              "utcTime": "2026-08-21T17:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
             "pageUrl": "/matches/kvik-halden-vs-asker/18urc7#5835754",
             "id": "5835754",
             "home": {
@@ -110434,27 +110473,6 @@
               "name": "KFUM",
               "shortName": "KFUM",
               "id": "2305"
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "pageUrl": "/matches/raufoss-vs-ridabu/gq9jya4e#5835768",
-            "id": "5835768",
-            "home": {
-              "name": "Ridabu",
-              "shortName": "Ridabu",
-              "id": "1609447"
-            },
-            "away": {
-              "name": "Raufoss",
-              "shortName": "Raufoss",
-              "id": "9812"
             },
             "status": {
               "utcTime": "2026-08-22T14:00:00Z",
@@ -112329,7 +112347,7 @@
                     },
                     "pageUrl": "/matches/raufoss-vs-ridabu/gq9jya4e#5835768",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-21T15:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
