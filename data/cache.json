@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:50:39.298361+00:00",
+  "generated_at": "2026-07-23T14:39:12.551826+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Ulrik Yttergård Jenssen",
+            "playerId": 429581,
+            "position": {
+              "label": "LB",
+              "key": "leftback_short"
+            },
+            "transferDate": "2026-07-23T12:47:46Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Rosenborg",
+            "fromClubFullName": "Rosenborg",
+            "fromClubId": 8422,
+            "toClub": "OB",
+            "toClubFullName": "OB",
+            "toClubId": 8414,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-23T00:00:00Z",
+            "toDate": "2028-06-30T00:00:00Z",
+            "marketValue": 232544
+          },
+          {
             "name": "Santeri Väänänen",
             "playerId": 942032,
             "position": {
@@ -7792,40 +7823,6 @@
             "fromDate": "2026-03-08T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
             "marketValue": 166035
-          },
-          {
-            "name": "Franklin Nyenetue",
-            "playerId": 1145728,
-            "position": {
-              "label": "RM",
-              "key": "rightmidfielder_short"
-            },
-            "transferDate": "2026-03-09T20:02:29Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Kristiansund",
-            "fromClubFullName": "Kristiansund",
-            "fromClubId": 8605,
-            "toClub": "Ranheim",
-            "toClubFullName": "Ranheim",
-            "toClubId": 6563,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-07T23:00:00Z",
-            "toDate": "2026-07-13T22:00:00Z",
-            "marketValue": 162721
           }
         ]
       },
