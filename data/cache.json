@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T03:50:17.513604+00:00",
+  "generated_at": "2026-07-24T08:47:47.148683+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,71 @@
         "type": "league",
         "data": [
           {
+            "name": "Santino Samuyiwa",
+            "playerId": 2097560,
+            "position": null,
+            "transferDate": "2026-07-24T09:39:14Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Real Sociedad B",
+            "fromClubFullName": "Real Sociedad B",
+            "fromClubId": 161744,
+            "toClub": "Start",
+            "toClubFullName": "Start",
+            "toClubId": 9919,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-23T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": null
+          },
+          {
+            "name": "Jakub Jezierski",
+            "playerId": 1631259,
+            "position": {
+              "label": "DM",
+              "key": "centerdefensivemidfielder_short"
+            },
+            "transferDate": "2026-07-24T07:24:55Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sigma Olomouc",
+            "fromClubFullName": "Sigma Olomouc",
+            "fromClubId": 6461,
+            "toClub": "Fredrikstad",
+            "toClubFullName": "Fredrikstad",
+            "toClubId": 8417,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-23T00:00:00Z",
+            "toDate": "2027-06-30T00:00:00Z",
+            "marketValue": 283591
+          },
+          {
             "name": "Ulrik Yttergård Jenssen",
             "playerId": 429581,
             "position": {
@@ -7755,74 +7820,6 @@
             "fromDate": "2026-03-10T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 413176
-          },
-          {
-            "name": "Noah Pallas",
-            "playerId": 1167599,
-            "position": {
-              "label": "LB",
-              "key": "leftback_short"
-            },
-            "transferDate": "2026-03-09T20:05:09Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Vålerenga",
-            "fromClubFullName": "Vålerenga",
-            "fromClubId": 8007,
-            "toClub": "Ranheim",
-            "toClubFullName": "Ranheim",
-            "toClubId": 6563,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-08T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 258341
-          },
-          {
-            "name": "Kent-Are Antonsen",
-            "playerId": 313806,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-03-09T20:03:49Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Tromsø",
-            "fromClubFullName": "Tromsø",
-            "fromClubId": 8608,
-            "toClub": "Strømsgodset",
-            "toClubFullName": "Strømsgodset",
-            "toClubId": 8180,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-08T23:00:00Z",
-            "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 166035
           }
         ]
       },
