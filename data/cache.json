@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T14:18:22.436917+00:00",
+  "generated_at": "2026-07-24T19:53:16.052991+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Alexander Gurendal",
+            "playerId": 1793869,
+            "position": null,
+            "transferDate": "2026-07-24T21:26:23Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Hønefoss",
+            "toClubFullName": "Hønefoss",
+            "toClubId": 8067,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-24T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 284687
+          },
+          {
             "name": "Santino Samuyiwa",
             "playerId": 2097560,
             "position": null,
@@ -7786,40 +7817,6 @@
             "fromDate": "2026-03-11T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
             "marketValue": 160438
-          },
-          {
-            "name": "Leonard Owusu",
-            "playerId": 1128263,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-03-11T17:13:56Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Partizan Beograd",
-            "fromClubFullName": "Partizan Beograd",
-            "fromClubId": 7998,
-            "toClub": "Fredrikstad",
-            "toClubFullName": "Fredrikstad",
-            "toClubId": 8417,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-10T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 413176
           }
         ]
       },
