@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T20:02:07.039540+00:00",
+  "generated_at": "2026-07-28T03:43:52.026211+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -16887,12 +16887,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-07-27T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "27.07.2026 19:00:16",
-                "secondHalfStarted": "27.07.2026 20:04:19"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-07-27T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -20813,7 +20809,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -24340,12 +24336,8 @@
                 "id": "8417"
               },
               "status": {
-                "utcTime": "2026-07-27T17:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "27.07.2026 19:00:16",
-                  "secondHalfStarted": "27.07.2026 20:04:19"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-07-27T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -27258,7 +27250,7 @@
               }
             }
           ],
-          "hasOngoingMatch": true,
+          "hasOngoingMatch": false,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "16",
@@ -36790,12 +36782,8 @@
               "id": "8417"
             },
             "status": {
-              "utcTime": "2026-07-27T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "27.07.2026 19:00:16",
-                "secondHalfStarted": "27.07.2026 20:04:19"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-07-27T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -39708,7 +39696,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "16",
@@ -47700,6 +47688,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Famara Camara",
+            "playerId": 1736094,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-07-28T03:54:06Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Ranheim",
+            "fromClubFullName": "Ranheim",
+            "fromClubId": 6563,
+            "toClub": "Nashville SC",
+            "toClubFullName": "Nashville SC",
+            "toClubId": 915807,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-27T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 486710
+          },
+          {
             "name": "Sivert Heltne Nilsen",
             "playerId": 200124,
             "position": {
@@ -51015,40 +51034,6 @@
             "fromDate": "2025-08-14T22:00:00Z",
             "toDate": "2025-12-30T23:00:00Z",
             "marketValue": 853183
-          },
-          {
-            "name": "Adrian Bajrami",
-            "playerId": 1348741,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2025-08-16T07:38:24Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Young Boys",
-            "fromClubFullName": "Young Boys",
-            "fromClubId": 10192,
-            "toClub": "Skeid",
-            "toClubFullName": "Skeid",
-            "toClubId": 8421,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-08-14T22:00:00Z",
-            "toDate": "2025-12-30T23:00:00Z",
-            "marketValue": 2331413
           }
         ]
       },
@@ -59858,12 +59843,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-07-27T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "27.07.2026 19:01:30",
-                "secondHalfStarted": "27.07.2026 20:02:11"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-07-27T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -63598,7 +63579,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -67311,12 +67292,8 @@
                 "id": "7937"
               },
               "status": {
-                "utcTime": "2026-07-27T17:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "27.07.2026 19:01:30",
-                  "secondHalfStarted": "27.07.2026 20:02:11"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-07-27T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -70091,7 +70068,7 @@
               }
             }
           ],
-          "hasOngoingMatch": true,
+          "hasOngoingMatch": false,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "16",
@@ -75188,12 +75165,8 @@
               "id": "7937"
             },
             "status": {
-              "utcTime": "2026-07-27T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "27.07.2026 19:01:30",
-                "secondHalfStarted": "27.07.2026 20:02:11"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-07-27T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -77968,7 +77941,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "16",
