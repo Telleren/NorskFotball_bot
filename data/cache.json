@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:43:52.026211+00:00",
+  "generated_at": "2026-07-28T09:10:36.684581+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1271,13 +1271,13 @@
                   "pts": 35,
                   "teamId": 8402,
                   "teamName": "Bodø/Glimt",
-                  "xg": 41.85309964418411,
-                  "xgConceded": 15.625100128352642,
-                  "xPoints": 35.24067919935485,
+                  "xg": 42.81349974870682,
+                  "xgConceded": 15.775100126862526,
+                  "xPoints": 35.350678076344515,
                   "position": 1,
-                  "xgDiff": -4.8530996441841125,
-                  "xgConcededDiff": -4.625100128352642,
-                  "xPointsDiff": -0.24067919935485094,
+                  "xgDiff": -5.813499748706818,
+                  "xgConcededDiff": -4.775100126862526,
+                  "xPointsDiff": -0.350678076344515,
                   "xPosition": 1,
                   "idx": 1,
                   "xPositionDiff": 0,
@@ -1676,13 +1676,13 @@
                   "pts": 14,
                   "teamId": 8417,
                   "teamName": "Fredrikstad",
-                  "xg": 14.890500076115131,
-                  "xgConceded": 28.133000195026398,
-                  "xPoints": 11.577236837807195,
+                  "xg": 15.040500074625015,
+                  "xgConceded": 29.093400299549103,
+                  "xPoints": 11.517327829700076,
                   "position": 16,
-                  "xgDiff": 0.10949992388486862,
-                  "xgConcededDiff": -1.1330001950263977,
-                  "xPointsDiff": 2.4227631621928047,
+                  "xgDiff": -0.04050007462501526,
+                  "xgConcededDiff": -2.093400299549103,
+                  "xPointsDiff": 2.4826721702999244,
                   "xPosition": 16,
                   "idx": 16,
                   "xPositionDiff": -4,
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Ilir Kukleci",
+            "playerId": 936441,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-07-28T05:40:39Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "HamKam",
+            "fromClubFullName": "Hamarkameratene",
+            "fromClubId": 8448,
+            "toClub": "Teuta Durres",
+            "toClubFullName": "Teuta Durres",
+            "toClubId": 10037,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 136000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-27T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 330655
+          },
+          {
             "name": "Mustapha Isah",
             "playerId": 1411367,
             "position": {
@@ -4521,7 +4556,11 @@
             "toClub": "RAAL La Louviere",
             "toClubFullName": "RAAL La Louviere",
             "toClubId": 1218969,
-            "fee": null,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 1800000
+            },
             "amountEuroEstimated": null,
             "transferType": {
               "text": "contract",
@@ -7782,40 +7821,6 @@
             "fromDate": "2026-03-04T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
             "marketValue": null
-          },
-          {
-            "name": "Awet Ermias Alemseged",
-            "playerId": 1504542,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-03-13T21:52:55Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Kristiansund",
-            "fromClubFullName": "Kristiansund",
-            "fromClubId": 8605,
-            "toClub": "Grorud",
-            "toClubFullName": "Grorud",
-            "toClubId": 4201,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-12T23:00:00Z",
-            "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 194897
           }
         ]
       },
@@ -9028,13 +9033,13 @@
                     "pts": 35,
                     "teamId": 8402,
                     "teamName": "Bodø/Glimt",
-                    "xg": 41.85309964418411,
-                    "xgConceded": 15.625100128352642,
-                    "xPoints": 35.24067919935485,
+                    "xg": 42.81349974870682,
+                    "xgConceded": 15.775100126862526,
+                    "xPoints": 35.350678076344515,
                     "position": 1,
-                    "xgDiff": -4.8530996441841125,
-                    "xgConcededDiff": -4.625100128352642,
-                    "xPointsDiff": -0.24067919935485094,
+                    "xgDiff": -5.813499748706818,
+                    "xgConcededDiff": -4.775100126862526,
+                    "xPointsDiff": -0.350678076344515,
                     "xPosition": 1,
                     "idx": 1,
                     "xPositionDiff": 0,
@@ -9433,13 +9438,13 @@
                     "pts": 14,
                     "teamId": 8417,
                     "teamName": "Fredrikstad",
-                    "xg": 14.890500076115131,
-                    "xgConceded": 28.133000195026398,
-                    "xPoints": 11.577236837807195,
+                    "xg": 15.040500074625015,
+                    "xgConceded": 29.093400299549103,
+                    "xPoints": 11.517327829700076,
                     "position": 16,
-                    "xgDiff": 0.10949992388486862,
-                    "xgConcededDiff": -1.1330001950263977,
-                    "xPointsDiff": 2.4227631621928047,
+                    "xgDiff": -0.04050007462501526,
+                    "xgConcededDiff": -2.093400299549103,
+                    "xPointsDiff": 2.4826721702999244,
                     "xPosition": 16,
                     "idx": 16,
                     "xPositionDiff": -4,
@@ -28075,10 +28080,10 @@
               "ccode": "NOR",
               "teamId": 8402,
               "teamName": "Bodø/Glimt",
-              "value": 1,
+              "value": 1.05,
               "stat": {
                 "name": "expected_goals_per_90",
-                "value": 1,
+                "value": 1.05,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -28092,10 +28097,10 @@
                 "ccode": "NOR",
                 "teamId": 8402,
                 "teamName": "Bodø/Glimt",
-                "value": 1,
+                "value": 1.05,
                 "stat": {
                   "name": "expected_goals_per_90",
-                  "value": 1,
+                  "value": 1.05,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -28817,10 +28822,10 @@
                 "ccode": "NOR",
                 "teamId": 8402,
                 "teamName": "Bodø/Glimt",
-                "value": 6.8,
+                "value": 6.9,
                 "stat": {
                   "name": "expected_assists",
-                  "value": 6.8,
+                  "value": 6.9,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -28955,10 +28960,10 @@
               "ccode": "NOR",
               "teamId": 8402,
               "teamName": "Bodø/Glimt",
-              "value": 1.06,
+              "value": 1.12,
               "stat": {
                 "name": "_expected_goals_and_expected_assists_per_90",
-                "value": 1.06,
+                "value": 1.12,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -28972,10 +28977,10 @@
                 "ccode": "NOR",
                 "teamId": 8402,
                 "teamName": "Bodø/Glimt",
-                "value": 1.06,
+                "value": 1.12,
                 "stat": {
                   "name": "_expected_goals_and_expected_assists_per_90",
-                  "value": 1.06,
+                  "value": 1.12,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -29014,10 +29019,10 @@
                 "ccode": "NOR",
                 "teamId": 8402,
                 "teamName": "Bodø/Glimt",
-                "value": 1.03,
+                "value": 1.05,
                 "stat": {
                   "name": "_expected_goals_and_expected_assists_per_90",
-                  "value": 1.03,
+                  "value": 1.05,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -31220,10 +31225,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8402,
-              "value": 41.9,
+              "value": 42.8,
               "stat": {
                 "name": "expected_goals_team",
-                "value": 41.9,
+                "value": 42.8,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -31236,10 +31241,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8402,
-                "value": 41.9,
+                "value": 42.8,
                 "stat": {
                   "name": "expected_goals_team",
-                  "value": 41.9,
+                  "value": 42.8,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31304,10 +31309,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8402,
-              "value": 26.2,
+              "value": 27,
               "stat": {
                 "name": "_xg_diff_team",
-                "value": 26.2,
+                "value": 27,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -31320,10 +31325,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8402,
-                "value": 26.2,
+                "value": 27,
                 "stat": {
                   "name": "_xg_diff_team",
-                  "value": 26.2,
+                  "value": 27,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31640,10 +31645,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8402,
-              "value": 585.7,
+              "value": 585.5,
               "stat": {
                 "name": "accurate_pass_team",
-                "value": 585.7,
+                "value": 585.5,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -31656,10 +31661,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8402,
-                "value": 585.7,
+                "value": 585.5,
                 "stat": {
                   "name": "accurate_pass_team",
-                  "value": 585.7,
+                  "value": 585.5,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32264,10 +32269,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8402,
-                "value": 15.6,
+                "value": 15.8,
                 "stat": {
                   "name": "expected_goals_conceded_team",
-                  "value": 15.6,
+                  "value": 15.8,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -43689,8 +43694,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/1-divisjon",
-            "leagueName": "1. Divisjon",
+            "pageUrl": "/leagues/203/overview/obos-ligaen",
+            "leagueName": "OBOS-ligaen",
             "legend": [
               {
                 "title": "Promotion",
@@ -51045,8 +51050,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/1-divisjon",
-              "leagueName": "1. Divisjon",
+              "pageUrl": "/leagues/203/overview/obos-ligaen",
+              "leagueName": "OBOS-ligaen",
               "legend": [
                 {
                   "title": "Promotion",
