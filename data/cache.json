@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T19:59:25.452330+00:00",
+  "generated_at": "2026-07-29T03:47:48.052665+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Anders Klynge",
+            "playerId": 1161870,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-07-28T22:43:06Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Bodø/Glimt",
+            "fromClubFullName": "Bodø/Glimt",
+            "fromClubId": 8402,
+            "toClub": "Jagiellonia Białystok",
+            "toClubFullName": "Jagiellonia Białystok",
+            "toClubId": 1957,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 850000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-28T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 769799
+          },
+          {
             "name": "Kasper Waarts Høgh",
             "playerId": 934960,
             "position": {
@@ -7797,37 +7832,6 @@
             "fromDate": "2026-03-17T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 371763
-          },
-          {
-            "name": "Elias Johnsson Solberg",
-            "playerId": 1636875,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-03-19T14:40:56Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Fredrikstad",
-            "fromClubFullName": "Fredrikstad",
-            "fromClubId": 8417,
-            "toClub": "Ranheim",
-            "toClubFullName": "Ranheim",
-            "toClubId": 6563,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-15T23:00:00Z",
-            "toDate": null,
-            "marketValue": 383057
           }
         ]
       },
