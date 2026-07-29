@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T03:47:48.052665+00:00",
+  "generated_at": "2026-07-29T09:15:03.458156+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Isak Helstad Amundsen",
+            "playerId": 1136680,
+            "position": {
+              "label": "RB",
+              "key": "rightback_short"
+            },
+            "transferDate": "2026-07-29T09:46:02Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubFullName": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Fredrikstad",
+            "toClubFullName": "Fredrikstad",
+            "toClubId": 8417,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 400000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-28T00:00:00Z",
+            "toDate": "2030-12-31T00:00:00Z",
+            "marketValue": 557675
+          },
+          {
             "name": "Anders Klynge",
             "playerId": 1161870,
             "position": {
@@ -7798,40 +7833,6 @@
             "fromDate": "2026-03-18T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
             "marketValue": 534377
-          },
-          {
-            "name": "Lars Bjørnerud Remmem",
-            "playerId": 1606369,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-03-19T14:44:10Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubFullName": "Brann",
-            "fromClubId": 8468,
-            "toClub": "FK Haugesund",
-            "toClubFullName": "FK Haugesund",
-            "toClubId": 8512,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-17T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 371763
           }
         ]
       },
