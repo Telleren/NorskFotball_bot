@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:38:54.765018+00:00",
+  "generated_at": "2026-07-30T19:58:52.846007+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,71 @@
         "type": "league",
         "data": [
           {
+            "name": "Teodor Berg Haltvik",
+            "playerId": 1047036,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-07-30T17:50:53Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "KFUM",
+            "fromClubFullName": "KFUM",
+            "fromClubId": 2305,
+            "toClub": "Sønderjyske",
+            "toClubFullName": "Sønderjyske",
+            "toClubId": 8487,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-30T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 299558
+          },
+          {
+            "name": "Sander Svendsen",
+            "playerId": 440647,
+            "position": {
+              "label": "RW",
+              "key": "rightwinger_short"
+            },
+            "transferDate": "2026-07-30T17:09:32Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Konyaspor",
+            "fromClubFullName": "Konyaspor",
+            "fromClubId": 8622,
+            "toClub": "Kristiansund",
+            "toClubFullName": "Kristiansund",
+            "toClubId": 8605,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-07-30T00:00:00Z",
+            "toDate": "2028-06-30T00:00:00Z",
+            "marketValue": 310829
+          },
+          {
             "name": "Isak Helstad Amundsen",
             "playerId": 1136680,
             "position": {
@@ -7768,71 +7833,6 @@
             "fromDate": "2026-03-19T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": null
-          },
-          {
-            "name": "Julian Lægreid",
-            "playerId": 1606401,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-03-21T19:39:06Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubFullName": "Brann",
-            "fromClubId": 8468,
-            "toClub": "Moss",
-            "toClubFullName": "Moss",
-            "toClubId": 8405,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-20T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 361529
-          },
-          {
-            "name": "Uba Charles",
-            "playerId": 1351897,
-            "position": {
-              "label": "RM",
-              "key": "rightmidfielder_short"
-            },
-            "transferDate": "2026-03-19T17:49:51Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lillestrøm",
-            "fromClubFullName": "Lillestrøm",
-            "fromClubId": 8476,
-            "toClub": "Aalesund",
-            "toClubFullName": "Aalesund",
-            "toClubId": 8404,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-18T23:00:00Z",
-            "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 534377
           }
         ]
       },
