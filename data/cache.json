@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T08:38:52.573792+00:00",
+  "generated_at": "2026-08-01T14:02:16.906910+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Tobias Guddal",
+            "playerId": 1250673,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-01T10:45:11Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Tromsø",
+            "fromClubFullName": "Tromsø",
+            "fromClubId": 8608,
+            "toClub": "Sparta Prague",
+            "toClubFullName": "Sparta Prague",
+            "toClubId": 10247,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 4500000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-01T00:00:00Z",
+            "toDate": null,
+            "marketValue": 2906917
+          },
+          {
             "name": "Igor Fabian Gosik",
             "playerId": 1748169,
             "position": {
@@ -7798,41 +7833,6 @@
             "fromDate": "2026-03-24T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 149095
-          },
-          {
-            "name": "Kolbeinn Finnsson",
-            "playerId": 635743,
-            "position": {
-              "label": "LB",
-              "key": "leftback_short"
-            },
-            "transferDate": "2026-03-24T11:09:01Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "FC Utrecht",
-            "fromClubFullName": "FC Utrecht",
-            "fromClubId": 9908,
-            "toClub": "Vålerenga",
-            "toClubFullName": "Vålerenga",
-            "toClubId": 8007,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 500000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-22T23:00:00Z",
-            "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 378222
           }
         ]
       },
@@ -32405,26 +32405,6 @@
               },
               {
                 "id": 0,
-                "name": "Fredrikstad",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8417,
-                "value": 9.4,
-                "stat": {
-                  "name": "interception_team",
-                  "value": 9.4,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#f13c26",
-                  "lightMode": "#f13c26",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Kristiansund",
                 "rank": 2,
                 "ccode": "NOR",
@@ -32440,6 +32420,26 @@
                   "darkMode": "#2c528c",
                   "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Rosenborg",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8422,
+                "value": 9.3,
+                "stat": {
+                  "name": "interception_team",
+                  "value": 9.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#ffffff",
+                  "lightMode": "#000000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -33013,20 +33013,20 @@
               },
               {
                 "id": 0,
-                "name": "Sandefjord",
+                "name": "Hamarkameratene",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8609,
-                "value": 13,
+                "teamId": 8448,
+                "value": 12.9,
                 "stat": {
                   "name": "fk_foul_lost_team",
-                  "value": 13,
+                  "value": 12.9,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#035db8",
-                  "lightMode": "#104070",
+                  "darkMode": "#009040",
+                  "lightMode": "#009040",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
