@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T03:59:17.562790+00:00",
+  "generated_at": "2026-08-02T08:41:20.218911+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Niklas Ødegård",
+            "playerId": 1283254,
+            "position": {
+              "label": "AM",
+              "key": "centerattackingmidfielder_short"
+            },
+            "transferDate": "2026-08-02T09:17:26Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Kristiansund",
+            "fromClubFullName": "Kristiansund",
+            "fromClubId": 8605,
+            "toClub": "Molde",
+            "toClubFullName": "Molde",
+            "toClubId": 9917,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 550000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-01T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 895343
+          },
+          {
             "name": "Tobias Guddal",
             "playerId": 1250673,
             "position": {
@@ -7802,37 +7837,6 @@
             "fromDate": "2026-03-24T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 180637
-          },
-          {
-            "name": "Mads Sande",
-            "playerId": 632929,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-03-25T20:04:16Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubFullName": "Brann",
-            "fromClubId": 8468,
-            "toClub": "Kongsvinger",
-            "toClubFullName": "Kongsvinger",
-            "toClubId": 8179,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-24T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 149095
           }
         ]
       },
