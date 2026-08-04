@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T03:44:44.293168+00:00",
+  "generated_at": "2026-08-04T09:15:27.976070+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1487,16 +1487,43 @@
                   "pts": 20,
                   "teamId": 8007,
                   "teamName": "Vålerenga",
-                  "xg": 25.292200088500977,
-                  "xgConceded": 27.866200149059296,
-                  "xPoints": 19.455830445375867,
+                  "xg": 25.229400098323822,
+                  "xgConceded": 28.13910013437271,
+                  "xPoints": 19.253091918957434,
                   "position": 9,
-                  "xgDiff": -3.2922000885009766,
-                  "xgConcededDiff": -0.8662001490592957,
-                  "xPointsDiff": 0.5441695546241334,
+                  "xgDiff": -3.229400098323822,
+                  "xgConcededDiff": -1.1391001343727112,
+                  "xPointsDiff": 0.7469080810425659,
                   "xPosition": 9,
                   "idx": 9,
                   "xPositionDiff": 0,
+                  "qualColor": null
+                },
+                {
+                  "name": "Hamarkameratene",
+                  "shortName": "HamKam",
+                  "id": 8448,
+                  "pageUrl": "/teams/8448/overview/hamarkameratene",
+                  "ongoing": null,
+                  "played": 15,
+                  "wins": 6,
+                  "draws": 3,
+                  "losses": 6,
+                  "scoresStr": "23-26",
+                  "goalConDiff": -3,
+                  "pts": 21,
+                  "teamId": 8448,
+                  "teamName": "Hamarkameratene",
+                  "xg": 22.561399906873703,
+                  "xgConceded": 25.56409990787506,
+                  "xPoints": 19.121564176741252,
+                  "position": 10,
+                  "xgDiff": 0.438600093126297,
+                  "xgConcededDiff": 0.43590009212493896,
+                  "xPointsDiff": 1.878435823258748,
+                  "xPosition": 10,
+                  "idx": 10,
+                  "xPositionDiff": -2,
                   "qualColor": null
                 },
                 {
@@ -1517,40 +1544,13 @@
                   "xg": 21.238899916410446,
                   "xgConceded": 27.126499891281128,
                   "xPoints": 18.90057853060153,
-                  "position": 10,
+                  "position": 11,
                   "xgDiff": -5.238899916410446,
                   "xgConcededDiff": 9.873500108718872,
                   "xPointsDiff": -8.900578530601528,
-                  "xPosition": 10,
-                  "idx": 10,
-                  "xPositionDiff": 6,
-                  "qualColor": null
-                },
-                {
-                  "name": "Hamarkameratene",
-                  "shortName": "HamKam",
-                  "id": 8448,
-                  "pageUrl": "/teams/8448/overview/hamarkameratene",
-                  "ongoing": null,
-                  "played": 15,
-                  "wins": 6,
-                  "draws": 3,
-                  "losses": 6,
-                  "scoresStr": "23-26",
-                  "goalConDiff": -3,
-                  "pts": 21,
-                  "teamId": 8448,
-                  "teamName": "Hamarkameratene",
-                  "xg": 22.288499921560287,
-                  "xgConceded": 25.626899898052216,
-                  "xPoints": 18.872138036011584,
-                  "position": 11,
-                  "xgDiff": 0.7115000784397125,
-                  "xgConcededDiff": 0.3731001019477844,
-                  "xPointsDiff": 2.1278619639884155,
                   "xPosition": 11,
                   "idx": 11,
-                  "xPositionDiff": -3,
+                  "xPositionDiff": 5,
                   "qualColor": null
                 },
                 {
@@ -4502,6 +4502,40 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Joachim Prent-Eckbo",
+            "playerId": 1404438,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-04T09:46:39Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "KFUM",
+            "fromClubFullName": "KFUM",
+            "fromClubId": 2305,
+            "toClub": "Ull/Kisa",
+            "toClubFullName": "Ull/Kisa",
+            "toClubId": 10232,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-02T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 395361
+          },
           {
             "name": "Niklas Ødegård",
             "playerId": 1283254,
@@ -7803,40 +7837,6 @@
             "fromDate": "2026-03-24T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 458470
-          },
-          {
-            "name": "Magnus Holte",
-            "playerId": 1406655,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-03-25T20:05:33Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Rosenborg",
-            "fromClubFullName": "Rosenborg",
-            "fromClubId": 8422,
-            "toClub": "Norrby",
-            "toClubFullName": "Norrby",
-            "toClubId": 2014,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-24T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 180637
           }
         ]
       },
@@ -9265,16 +9265,43 @@
                     "pts": 20,
                     "teamId": 8007,
                     "teamName": "Vålerenga",
-                    "xg": 25.292200088500977,
-                    "xgConceded": 27.866200149059296,
-                    "xPoints": 19.455830445375867,
+                    "xg": 25.229400098323822,
+                    "xgConceded": 28.13910013437271,
+                    "xPoints": 19.253091918957434,
                     "position": 9,
-                    "xgDiff": -3.2922000885009766,
-                    "xgConcededDiff": -0.8662001490592957,
-                    "xPointsDiff": 0.5441695546241334,
+                    "xgDiff": -3.229400098323822,
+                    "xgConcededDiff": -1.1391001343727112,
+                    "xPointsDiff": 0.7469080810425659,
                     "xPosition": 9,
                     "idx": 9,
                     "xPositionDiff": 0,
+                    "qualColor": null
+                  },
+                  {
+                    "name": "Hamarkameratene",
+                    "shortName": "HamKam",
+                    "id": 8448,
+                    "pageUrl": "/teams/8448/overview/hamarkameratene",
+                    "ongoing": null,
+                    "played": 15,
+                    "wins": 6,
+                    "draws": 3,
+                    "losses": 6,
+                    "scoresStr": "23-26",
+                    "goalConDiff": -3,
+                    "pts": 21,
+                    "teamId": 8448,
+                    "teamName": "Hamarkameratene",
+                    "xg": 22.561399906873703,
+                    "xgConceded": 25.56409990787506,
+                    "xPoints": 19.121564176741252,
+                    "position": 10,
+                    "xgDiff": 0.438600093126297,
+                    "xgConcededDiff": 0.43590009212493896,
+                    "xPointsDiff": 1.878435823258748,
+                    "xPosition": 10,
+                    "idx": 10,
+                    "xPositionDiff": -2,
                     "qualColor": null
                   },
                   {
@@ -9295,40 +9322,13 @@
                     "xg": 21.238899916410446,
                     "xgConceded": 27.126499891281128,
                     "xPoints": 18.90057853060153,
-                    "position": 10,
+                    "position": 11,
                     "xgDiff": -5.238899916410446,
                     "xgConcededDiff": 9.873500108718872,
                     "xPointsDiff": -8.900578530601528,
-                    "xPosition": 10,
-                    "idx": 10,
-                    "xPositionDiff": 6,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Hamarkameratene",
-                    "shortName": "HamKam",
-                    "id": 8448,
-                    "pageUrl": "/teams/8448/overview/hamarkameratene",
-                    "ongoing": null,
-                    "played": 15,
-                    "wins": 6,
-                    "draws": 3,
-                    "losses": 6,
-                    "scoresStr": "23-26",
-                    "goalConDiff": -3,
-                    "pts": 21,
-                    "teamId": 8448,
-                    "teamName": "Hamarkameratene",
-                    "xg": 22.288499921560287,
-                    "xgConceded": 25.626899898052216,
-                    "xPoints": 18.872138036011584,
-                    "position": 11,
-                    "xgDiff": 0.7115000784397125,
-                    "xgConcededDiff": 0.3731001019477844,
-                    "xPointsDiff": 2.1278619639884155,
                     "xPosition": 11,
                     "idx": 11,
-                    "xPositionDiff": -3,
+                    "xPositionDiff": 5,
                     "qualColor": null
                   },
                   {
@@ -29494,10 +29494,10 @@
                 "ccode": "CMR",
                 "teamId": 8007,
                 "teamName": "Vålerenga",
-                "value": 15.6,
+                "value": 15.9,
                 "stat": {
                   "name": "defensive_contributions",
-                  "value": 15.6,
+                  "value": 15.9,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -29582,10 +29582,10 @@
                 "ccode": "NOR",
                 "teamId": 8007,
                 "teamName": "Vålerenga",
-                "value": 4.1,
+                "value": 4.3,
                 "stat": {
                   "name": "total_tackle",
-                  "value": 4.1,
+                  "value": 4.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32577,8 +32577,28 @@
               },
               {
                 "id": 0,
-                "name": "Molde",
+                "name": "Vålerenga",
                 "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8007,
+                "value": 19,
+                "stat": {
+                  "name": "total_tackle_team",
+                  "value": 19,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#333bb3",
+                  "lightMode": "#283090",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Molde",
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 9917,
                 "value": 18.9,
@@ -32591,26 +32611,6 @@
                 "teamColors": {
                   "darkMode": "#0068b0",
                   "lightMode": "#0D47A0",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Vålerenga",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8007,
-                "value": 18.8,
-                "stat": {
-                  "name": "total_tackle_team",
-                  "value": 18.8,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#333bb3",
-                  "lightMode": "#283090",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -41410,7 +41410,7 @@
             "147": "Serie C",
             "150": "Coupe de la Ligue",
             "151": "Turkish Cup",
-            "161": "Primera Division",
+            "161": "Liga AUF Uruguaya",
             "163": "Challenge League",
             "169": "Ettan",
             "171": "Svenska Cupen",
@@ -41708,7 +41708,8 @@
             "11648": "Soccer Aid",
             "11697": "Copa de la Liga",
             "11839": "WSL Promotion/Relegation",
-            "11840": "Throne Cup"
+            "11840": "Throne Cup",
+            "13169": "MLS All-Star Game"
           },
           "Words": {},
           "LeagueMapping": {
@@ -41735,6 +41736,7 @@
             "9333": "63",
             "9334": "144",
             "9382": "331",
+            "9409": "523",
             "9410": "256",
             "9422": "9080",
             "9555": "540",
@@ -42208,7 +42210,8 @@
             "1680173": "Amaimouni",
             "1682313": "Dro",
             "1791531": "Ipswich U18",
-            "1897602": "Ati Allah"
+            "1897602": "Ati Allah",
+            "1911284": "Issa"
           },
           "RemoteLocalizableStrings": {
             "championsleague": "Champions League",
@@ -43902,8 +43905,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/1-divisjon",
-            "leagueName": "1. Divisjon",
+            "pageUrl": "/leagues/203/overview/obos-ligaen",
+            "leagueName": "OBOS-ligaen",
             "legend": [
               {
                 "title": "Promotion",
@@ -51258,8 +51261,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/1-divisjon",
-              "leagueName": "1. Divisjon",
+              "pageUrl": "/leagues/203/overview/obos-ligaen",
+              "leagueName": "OBOS-ligaen",
               "legend": [
                 {
                   "title": "Promotion",
@@ -78983,7 +78986,7 @@
             "147": "Serie C",
             "150": "Coupe de la Ligue",
             "151": "Turkish Cup",
-            "161": "Primera Division",
+            "161": "Liga AUF Uruguaya",
             "163": "Challenge League",
             "169": "Ettan",
             "171": "Svenska Cupen",
@@ -79281,7 +79284,8 @@
             "11648": "Soccer Aid",
             "11697": "Copa de la Liga",
             "11839": "WSL Promotion/Relegation",
-            "11840": "Throne Cup"
+            "11840": "Throne Cup",
+            "13169": "MLS All-Star Game"
           },
           "Words": {},
           "LeagueMapping": {
@@ -79308,6 +79312,7 @@
             "9333": "63",
             "9334": "144",
             "9382": "331",
+            "9409": "523",
             "9410": "256",
             "9422": "9080",
             "9555": "540",
@@ -79781,7 +79786,8 @@
             "1680173": "Amaimouni",
             "1682313": "Dro",
             "1791531": "Ipswich U18",
-            "1897602": "Ati Allah"
+            "1897602": "Ati Allah",
+            "1911284": "Issa"
           },
           "RemoteLocalizableStrings": {
             "championsleague": "Champions League",
@@ -101156,7 +101162,7 @@
             "147": "Serie C",
             "150": "Coupe de la Ligue",
             "151": "Turkish Cup",
-            "161": "Primera Division",
+            "161": "Liga AUF Uruguaya",
             "163": "Challenge League",
             "169": "Ettan",
             "171": "Svenska Cupen",
@@ -101454,7 +101460,8 @@
             "11648": "Soccer Aid",
             "11697": "Copa de la Liga",
             "11839": "WSL Promotion/Relegation",
-            "11840": "Throne Cup"
+            "11840": "Throne Cup",
+            "13169": "MLS All-Star Game"
           },
           "Words": {},
           "LeagueMapping": {
@@ -101481,6 +101488,7 @@
             "9333": "63",
             "9334": "144",
             "9382": "331",
+            "9409": "523",
             "9410": "256",
             "9422": "9080",
             "9555": "540",
@@ -101954,7 +101962,8 @@
             "1680173": "Amaimouni",
             "1682313": "Dro",
             "1791531": "Ipswich U18",
-            "1897602": "Ati Allah"
+            "1897602": "Ati Allah",
+            "1911284": "Issa"
           },
           "RemoteLocalizableStrings": {
             "championsleague": "Champions League",
@@ -117415,7 +117424,7 @@
             "147": "Serie C",
             "150": "Coupe de la Ligue",
             "151": "Turkish Cup",
-            "161": "Primera Division",
+            "161": "Liga AUF Uruguaya",
             "163": "Challenge League",
             "169": "Ettan",
             "171": "Svenska Cupen",
@@ -117713,7 +117722,8 @@
             "11648": "Soccer Aid",
             "11697": "Copa de la Liga",
             "11839": "WSL Promotion/Relegation",
-            "11840": "Throne Cup"
+            "11840": "Throne Cup",
+            "13169": "MLS All-Star Game"
           },
           "Words": {},
           "LeagueMapping": {
@@ -117740,6 +117750,7 @@
             "9333": "63",
             "9334": "144",
             "9382": "331",
+            "9409": "523",
             "9410": "256",
             "9422": "9080",
             "9555": "540",
@@ -118213,7 +118224,8 @@
             "1680173": "Amaimouni",
             "1682313": "Dro",
             "1791531": "Ipswich U18",
-            "1897602": "Ati Allah"
+            "1897602": "Ati Allah",
+            "1911284": "Issa"
           },
           "RemoteLocalizableStrings": {
             "championsleague": "Champions League",
