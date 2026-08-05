@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:39:15.205794+00:00",
+  "generated_at": "2026-08-05T20:02:19.710093+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,109 @@
         "type": "league",
         "data": [
           {
+            "name": "Leon Hien",
+            "playerId": 1351077,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-05T17:01:12Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Djurgården",
+            "fromClubFullName": "Djurgården",
+            "fromClubId": 9802,
+            "toClub": "Tromsø",
+            "toClubFullName": "Tromsø",
+            "toClubId": 8608,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-05T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 515390
+          },
+          {
+            "name": "Jesper Daland",
+            "playerId": 633094,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-05T16:59:33Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Cardiff",
+            "fromClubFullName": "Cardiff City",
+            "fromClubId": 8344,
+            "toClub": "Viking",
+            "toClubFullName": "Viking",
+            "toClubId": 8478,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-04T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 1240787
+          },
+          {
+            "name": "Felix Horn Myhre",
+            "playerId": 632885,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-05T16:58:11Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubFullName": "Brann",
+            "fromClubId": 8468,
+            "toClub": "West Brom",
+            "toClubFullName": "West Bromwich Albion",
+            "toClubId": 8659,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 3000000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-05T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 2150627
+          },
+          {
             "name": "Filip Manojlovic",
             "playerId": 643563,
             "position": {
@@ -7734,109 +7837,6 @@
             "fromDate": "2026-03-29T22:00:00Z",
             "toDate": "2026-06-29T22:00:00Z",
             "marketValue": 176412
-          },
-          {
-            "name": "Cheikh Mbacke Diop",
-            "playerId": 1712222,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-03-30T16:09:04Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "NK Lokomotiva",
-            "fromClubFullName": "NK Lokomotiva",
-            "fromClubId": 175388,
-            "toClub": "Brann",
-            "toClubFullName": "Brann",
-            "toClubId": 8468,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 2500000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-29T22:00:00Z",
-            "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 1720346
-          },
-          {
-            "name": "Adam Kaszuba",
-            "playerId": 1637863,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-03-30T02:37:43Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubFullName": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "Kvik Halden",
-            "toClubFullName": "Kvik Halden",
-            "toClubId": 5734,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-01-29T23:00:00Z",
-            "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": null
-          },
-          {
-            "name": "James Ampofo",
-            "playerId": 1459262,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-03-28T08:46:12Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Strømsgodset",
-            "fromClubFullName": "Strømsgodset",
-            "fromClubId": 8180,
-            "toClub": "Start",
-            "toClubFullName": "Start",
-            "toClubId": 9919,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-26T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 328612
           }
         ]
       },
