@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T09:13:13.114583+00:00",
+  "generated_at": "2026-08-05T14:39:15.205794+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1487,13 +1487,13 @@
                   "pts": 20,
                   "teamId": 8007,
                   "teamName": "Vålerenga",
-                  "xg": 25.229400098323822,
-                  "xgConceded": 28.13910013437271,
-                  "xPoints": 19.253091918957434,
+                  "xg": 25.269000113010406,
+                  "xgConceded": 28.146800100803375,
+                  "xPoints": 19.278594507751226,
                   "position": 9,
-                  "xgDiff": -3.229400098323822,
-                  "xgConcededDiff": -1.1391001343727112,
-                  "xPointsDiff": 0.7469080810425659,
+                  "xgDiff": -3.2690001130104065,
+                  "xgConcededDiff": -1.1468001008033752,
+                  "xPointsDiff": 0.721405492248774,
                   "xPosition": 9,
                   "idx": 9,
                   "xPositionDiff": 0,
@@ -1514,13 +1514,13 @@
                   "pts": 21,
                   "teamId": 8448,
                   "teamName": "Hamarkameratene",
-                  "xg": 22.561399906873703,
-                  "xgConceded": 25.56409990787506,
-                  "xPoints": 19.121564176741252,
+                  "xg": 22.569099873304367,
+                  "xgConceded": 25.603699922561646,
+                  "xPoints": 19.093777064147666,
                   "position": 10,
-                  "xgDiff": 0.438600093126297,
-                  "xgConcededDiff": 0.43590009212493896,
-                  "xPointsDiff": 1.878435823258748,
+                  "xgDiff": 0.43090012669563293,
+                  "xgConcededDiff": 0.3963000774383545,
+                  "xPointsDiff": 1.906222935852334,
                   "xPosition": 10,
                   "idx": 10,
                   "xPositionDiff": -2,
@@ -9265,13 +9265,13 @@
                     "pts": 20,
                     "teamId": 8007,
                     "teamName": "Vålerenga",
-                    "xg": 25.229400098323822,
-                    "xgConceded": 28.13910013437271,
-                    "xPoints": 19.253091918957434,
+                    "xg": 25.269000113010406,
+                    "xgConceded": 28.146800100803375,
+                    "xPoints": 19.278594507751226,
                     "position": 9,
-                    "xgDiff": -3.229400098323822,
-                    "xgConcededDiff": -1.1391001343727112,
-                    "xPointsDiff": 0.7469080810425659,
+                    "xgDiff": -3.2690001130104065,
+                    "xgConcededDiff": -1.1468001008033752,
+                    "xPointsDiff": 0.721405492248774,
                     "xPosition": 9,
                     "idx": 9,
                     "xPositionDiff": 0,
@@ -9292,13 +9292,13 @@
                     "pts": 21,
                     "teamId": 8448,
                     "teamName": "Hamarkameratene",
-                    "xg": 22.561399906873703,
-                    "xgConceded": 25.56409990787506,
-                    "xPoints": 19.121564176741252,
+                    "xg": 22.569099873304367,
+                    "xgConceded": 25.603699922561646,
+                    "xPoints": 19.093777064147666,
                     "position": 10,
-                    "xgDiff": 0.438600093126297,
-                    "xgConcededDiff": 0.43590009212493896,
-                    "xPointsDiff": 1.878435823258748,
+                    "xgDiff": 0.43090012669563293,
+                    "xgConcededDiff": 0.3963000774383545,
+                    "xPointsDiff": 1.906222935852334,
                     "xPosition": 10,
                     "idx": 10,
                     "xPositionDiff": -2,
@@ -90532,37 +90532,6 @@
             }
           },
           {
-            "id": "5105396",
-            "pageUrl": "/matches/brann-vs-roa/md733#5105396",
-            "opponent": {
-              "id": "4182",
-              "name": "Brann (W)",
-              "score": 0
-            },
-            "home": {
-              "id": "4182",
-              "name": "Brann (W)",
-              "score": 0
-            },
-            "away": {
-              "id": "4485",
-              "name": "Røa (W)",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-19T16:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "5105400",
             "pageUrl": "/matches/valerenga-vs-honefoss/5gi1u22b#5105400",
             "opponent": {
@@ -90618,6 +90587,37 @@
             },
             "status": {
               "utcTime": "2026-08-20T16:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5105396",
+            "pageUrl": "/matches/brann-vs-roa/md733#5105396",
+            "opponent": {
+              "id": "4182",
+              "name": "Brann (W)",
+              "score": 0
+            },
+            "home": {
+              "id": "4182",
+              "name": "Brann (W)",
+              "score": 0
+            },
+            "away": {
+              "id": "4485",
+              "name": "Røa (W)",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-21T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -90811,37 +90811,6 @@
             }
           },
           {
-            "id": "5105408",
-            "pageUrl": "/matches/aalesund-vs-bodoglimt/gexfz546#5105408",
-            "opponent": {
-              "id": "1599447",
-              "name": "Bodø/Glimt (W)",
-              "score": 0
-            },
-            "home": {
-              "id": "1599447",
-              "name": "Bodø/Glimt (W)",
-              "score": 0
-            },
-            "away": {
-              "id": "4500",
-              "name": "Aalesund (W)",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-09-11T16:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "5105412",
             "pageUrl": "/matches/roa-vs-valerenga/o2pez#5105412",
             "opponent": {
@@ -90866,6 +90835,37 @@
             },
             "status": {
               "utcTime": "2026-09-11T16:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5105408",
+            "pageUrl": "/matches/aalesund-vs-bodoglimt/gexfz546#5105408",
+            "opponent": {
+              "id": "1599447",
+              "name": "Bodø/Glimt (W)",
+              "score": 0
+            },
+            "home": {
+              "id": "1599447",
+              "name": "Bodø/Glimt (W)",
+              "score": 0
+            },
+            "away": {
+              "id": "4500",
+              "name": "Aalesund (W)",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-09-11T17:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -94579,29 +94579,6 @@
             {
               "round": "13",
               "roundName": 13,
-              "pageUrl": "/matches/brann-vs-roa/md733#5105396",
-              "id": "5105396",
-              "home": {
-                "name": "Brann (W)",
-                "shortName": "Brann (W)",
-                "id": "4182"
-              },
-              "away": {
-                "name": "Røa (W)",
-                "shortName": "Røa (W)",
-                "id": "4485"
-              },
-              "status": {
-                "utcTime": "2026-08-19T16:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "13",
-              "roundName": 13,
               "pageUrl": "/matches/valerenga-vs-honefoss/5gi1u22b#5105400",
               "id": "5105400",
               "home": {
@@ -94639,6 +94616,29 @@
               },
               "status": {
                 "utcTime": "2026-08-20T16:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "round": "13",
+              "roundName": 13,
+              "pageUrl": "/matches/brann-vs-roa/md733#5105396",
+              "id": "5105396",
+              "home": {
+                "name": "Brann (W)",
+                "shortName": "Brann (W)",
+                "id": "4182"
+              },
+              "away": {
+                "name": "Røa (W)",
+                "shortName": "Røa (W)",
+                "id": "4485"
+              },
+              "status": {
+                "utcTime": "2026-08-21T16:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -94786,29 +94786,6 @@
             {
               "round": "15",
               "roundName": 15,
-              "pageUrl": "/matches/aalesund-vs-bodoglimt/gexfz546#5105408",
-              "id": "5105408",
-              "home": {
-                "name": "Bodø/Glimt (W)",
-                "shortName": "Bodø/Glimt (W)",
-                "id": "1599447"
-              },
-              "away": {
-                "name": "Aalesund (W)",
-                "shortName": "Aalesund (W)",
-                "id": "4500"
-              },
-              "status": {
-                "utcTime": "2026-09-11T16:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "15",
-              "roundName": 15,
               "pageUrl": "/matches/roa-vs-valerenga/o2pez#5105412",
               "id": "5105412",
               "home": {
@@ -94823,6 +94800,29 @@
               },
               "status": {
                 "utcTime": "2026-09-11T16:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "round": "15",
+              "roundName": 15,
+              "pageUrl": "/matches/aalesund-vs-bodoglimt/gexfz546#5105408",
+              "id": "5105408",
+              "home": {
+                "name": "Bodø/Glimt (W)",
+                "shortName": "Bodø/Glimt (W)",
+                "id": "1599447"
+              },
+              "away": {
+                "name": "Aalesund (W)",
+                "shortName": "Aalesund (W)",
+                "id": "4500"
+              },
+              "status": {
+                "utcTime": "2026-09-11T17:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -99336,29 +99336,6 @@
           {
             "round": "13",
             "roundName": 13,
-            "pageUrl": "/matches/brann-vs-roa/md733#5105396",
-            "id": "5105396",
-            "home": {
-              "name": "Brann (W)",
-              "shortName": "Brann (W)",
-              "id": "4182"
-            },
-            "away": {
-              "name": "Røa (W)",
-              "shortName": "Røa (W)",
-              "id": "4485"
-            },
-            "status": {
-              "utcTime": "2026-08-19T16:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "13",
-            "roundName": 13,
             "pageUrl": "/matches/valerenga-vs-honefoss/5gi1u22b#5105400",
             "id": "5105400",
             "home": {
@@ -99396,6 +99373,29 @@
             },
             "status": {
               "utcTime": "2026-08-20T16:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "round": "13",
+            "roundName": 13,
+            "pageUrl": "/matches/brann-vs-roa/md733#5105396",
+            "id": "5105396",
+            "home": {
+              "name": "Brann (W)",
+              "shortName": "Brann (W)",
+              "id": "4182"
+            },
+            "away": {
+              "name": "Røa (W)",
+              "shortName": "Røa (W)",
+              "id": "4485"
+            },
+            "status": {
+              "utcTime": "2026-08-21T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -99543,29 +99543,6 @@
           {
             "round": "15",
             "roundName": 15,
-            "pageUrl": "/matches/aalesund-vs-bodoglimt/gexfz546#5105408",
-            "id": "5105408",
-            "home": {
-              "name": "Bodø/Glimt (W)",
-              "shortName": "Bodø/Glimt (W)",
-              "id": "1599447"
-            },
-            "away": {
-              "name": "Aalesund (W)",
-              "shortName": "Aalesund (W)",
-              "id": "4500"
-            },
-            "status": {
-              "utcTime": "2026-09-11T16:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "15",
-            "roundName": 15,
             "pageUrl": "/matches/roa-vs-valerenga/o2pez#5105412",
             "id": "5105412",
             "home": {
@@ -99580,6 +99557,29 @@
             },
             "status": {
               "utcTime": "2026-09-11T16:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "round": "15",
+            "roundName": 15,
+            "pageUrl": "/matches/aalesund-vs-bodoglimt/gexfz546#5105408",
+            "id": "5105408",
+            "home": {
+              "name": "Bodø/Glimt (W)",
+              "shortName": "Bodø/Glimt (W)",
+              "id": "1599447"
+            },
+            "away": {
+              "name": "Aalesund (W)",
+              "shortName": "Aalesund (W)",
+              "id": "4500"
+            },
+            "status": {
+              "utcTime": "2026-09-11T17:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -103893,6 +103893,99 @@
             }
           },
           {
+            "id": "5835778",
+            "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
+            "opponent": {
+              "id": "8125",
+              "name": "Nordstrand",
+              "score": 0
+            },
+            "home": {
+              "id": "8125",
+              "name": "Nordstrand",
+              "score": 0
+            },
+            "away": {
+              "id": "8421",
+              "name": "Skeid",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-22T12:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5835759",
+            "pageUrl": "/matches/spjelkavik-vs-hodd/vbb09#5835759",
+            "opponent": {
+              "id": "2318",
+              "name": "Spjelkavik",
+              "score": 0
+            },
+            "home": {
+              "id": "2318",
+              "name": "Spjelkavik",
+              "score": 0
+            },
+            "away": {
+              "id": "7937",
+              "name": "Hødd",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-22T12:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5835769",
+            "pageUrl": "/matches/strommen-vs-lillehammer-fk/1bqhmy#5835769",
+            "opponent": {
+              "id": "8413",
+              "name": "Lillehammer FK",
+              "score": 0
+            },
+            "home": {
+              "id": "8413",
+              "name": "Lillehammer FK",
+              "score": 0
+            },
+            "away": {
+              "id": "4249",
+              "name": "Strømmen",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-22T13:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
             "id": "5835755",
             "pageUrl": "/matches/rade-vs-follo/1myrhs#5835755",
             "opponent": {
@@ -103908,6 +104001,37 @@
             "away": {
               "id": "7963",
               "name": "Follo",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-22T13:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5835761",
+            "pageUrl": "/matches/traeff-vs-rollon/1bt5y5#5835761",
+            "opponent": {
+              "id": "6557",
+              "name": "Rollon",
+              "score": 0
+            },
+            "home": {
+              "id": "6557",
+              "name": "Rollon",
+              "score": 0
+            },
+            "away": {
+              "id": "6115",
+              "name": "Træff",
               "score": 0
             },
             "displayTournament": true,
@@ -104234,37 +104358,6 @@
             }
           },
           {
-            "id": "5835876",
-            "pageUrl": "/matches/sarpsborg-08-vs-fk-sparta-sarpsborg/16xk3075#5835876",
-            "opponent": {
-              "id": "423819",
-              "name": "FK Sparta Sarpsborg",
-              "score": 0
-            },
-            "home": {
-              "id": "423819",
-              "name": "FK Sparta Sarpsborg",
-              "score": 0
-            },
-            "away": {
-              "id": "8509",
-              "name": "Sarpsborg 08",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "5835869",
             "pageUrl": "/matches/flekkefjord-vs-start/25pa61#5835869",
             "opponent": {
@@ -104342,37 +104435,6 @@
             "away": {
               "id": "2303",
               "name": "Jerv",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "id": "5835776",
-            "pageUrl": "/matches/frigg-vs-kjelsas/1180dn#5835776",
-            "opponent": {
-              "id": "4621",
-              "name": "Frigg",
-              "score": 0
-            },
-            "home": {
-              "id": "4621",
-              "name": "Frigg",
-              "score": 0
-            },
-            "away": {
-              "id": "6560",
-              "name": "Kjelsås",
               "score": 0
             },
             "displayTournament": true,
@@ -104497,37 +104559,6 @@
             "away": {
               "id": "9918",
               "name": "Stabæk",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "id": "5835769",
-            "pageUrl": "/matches/strommen-vs-lillehammer-fk/1bqhmy#5835769",
-            "opponent": {
-              "id": "8413",
-              "name": "Lillehammer FK",
-              "score": 0
-            },
-            "home": {
-              "id": "8413",
-              "name": "Lillehammer FK",
-              "score": 0
-            },
-            "away": {
-              "id": "4249",
-              "name": "Strømmen",
               "score": 0
             },
             "displayTournament": true,
@@ -104761,37 +104792,6 @@
             }
           },
           {
-            "id": "5835778",
-            "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
-            "opponent": {
-              "id": "8125",
-              "name": "Nordstrand",
-              "score": 0
-            },
-            "home": {
-              "id": "8125",
-              "name": "Nordstrand",
-              "score": 0
-            },
-            "away": {
-              "id": "8421",
-              "name": "Skeid",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "5835762",
             "pageUrl": "/matches/os-vs-lysekloster/13piohqz#5835762",
             "opponent": {
@@ -104854,37 +104854,6 @@
             }
           },
           {
-            "id": "5835761",
-            "pageUrl": "/matches/traeff-vs-rollon/1bt5y5#5835761",
-            "opponent": {
-              "id": "6557",
-              "name": "Rollon",
-              "score": 0
-            },
-            "home": {
-              "id": "6557",
-              "name": "Rollon",
-              "score": 0
-            },
-            "away": {
-              "id": "6115",
-              "name": "Træff",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "5835773",
             "pageUrl": "/matches/kongsvinger-vs-skreia/gp1tgok8#5835773",
             "opponent": {
@@ -104900,37 +104869,6 @@
             "away": {
               "id": "8179",
               "name": "Kongsvinger",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "id": "5835759",
-            "pageUrl": "/matches/spjelkavik-vs-hodd/vbb09#5835759",
-            "opponent": {
-              "id": "2318",
-              "name": "Spjelkavik",
-              "score": 0
-            },
-            "home": {
-              "id": "2318",
-              "name": "Spjelkavik",
-              "score": 0
-            },
-            "away": {
-              "id": "7937",
-              "name": "Hødd",
               "score": 0
             },
             "displayTournament": true,
@@ -105257,6 +105195,68 @@
             }
           },
           {
+            "id": "5835876",
+            "pageUrl": "/matches/sarpsborg-08-vs-fk-sparta-sarpsborg/16xk3075#5835876",
+            "opponent": {
+              "id": "423819",
+              "name": "FK Sparta Sarpsborg",
+              "score": 0
+            },
+            "home": {
+              "id": "423819",
+              "name": "FK Sparta Sarpsborg",
+              "score": 0
+            },
+            "away": {
+              "id": "8509",
+              "name": "Sarpsborg 08",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-22T16:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5835776",
+            "pageUrl": "/matches/frigg-vs-kjelsas/1180dn#5835776",
+            "opponent": {
+              "id": "4621",
+              "name": "Frigg",
+              "score": 0
+            },
+            "home": {
+              "id": "4621",
+              "name": "Frigg",
+              "score": 0
+            },
+            "away": {
+              "id": "6560",
+              "name": "Kjelsås",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-22T16:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
             "id": "5835877",
             "pageUrl": "/matches/gjovik-lyn-vs-eidsvold-tf/28t5fi#5835877",
             "opponent": {
@@ -105311,7 +105311,7 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-23T11:00:00Z",
+              "utcTime": "2026-08-22T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -106067,7 +106067,7 @@
                       },
                       "pageUrl": "/matches/spjelkavik-vs-hodd/vbb09#5835759",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-22T10:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -106159,7 +106159,7 @@
                       },
                       "pageUrl": "/matches/traeff-vs-rollon/1bt5y5#5835761",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-22T11:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -106527,7 +106527,7 @@
                       },
                       "pageUrl": "/matches/strommen-vs-lillehammer-fk/1bqhmy#5835769",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-22T11:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -106849,7 +106849,7 @@
                       },
                       "pageUrl": "/matches/frigg-vs-kjelsas/1180dn#5835776",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-22T14:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -106941,7 +106941,7 @@
                       },
                       "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-22T10:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -107815,7 +107815,7 @@
                       },
                       "pageUrl": "/matches/sarpsborg-08-vs-fk-sparta-sarpsborg/16xk3075#5835876",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-22T14:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -108275,7 +108275,7 @@
                       },
                       "pageUrl": "/matches/harstad-vs-tromsdalen/29m6pg#5835779",
                       "status": {
-                        "utcTime": "2026-08-23T09:00:00.000Z",
+                        "utcTime": "2026-08-22T14:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -108780,6 +108780,69 @@
               }
             },
             {
+              "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
+              "id": "5835778",
+              "home": {
+                "name": "Nordstrand",
+                "shortName": "Nordstrand",
+                "id": "8125"
+              },
+              "away": {
+                "name": "Skeid",
+                "shortName": "Skeid",
+                "id": "8421"
+              },
+              "status": {
+                "utcTime": "2026-08-22T12:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "pageUrl": "/matches/spjelkavik-vs-hodd/vbb09#5835759",
+              "id": "5835759",
+              "home": {
+                "name": "Spjelkavik",
+                "shortName": "Spjelkavik",
+                "id": "2318"
+              },
+              "away": {
+                "name": "Hødd",
+                "shortName": "Hødd",
+                "id": "7937"
+              },
+              "status": {
+                "utcTime": "2026-08-22T12:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "pageUrl": "/matches/strommen-vs-lillehammer-fk/1bqhmy#5835769",
+              "id": "5835769",
+              "home": {
+                "name": "Lillehammer FK",
+                "shortName": "Lillehammer FK",
+                "id": "8413"
+              },
+              "away": {
+                "name": "Strømmen",
+                "shortName": "Strømmen",
+                "id": "4249"
+              },
+              "status": {
+                "utcTime": "2026-08-22T13:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
               "pageUrl": "/matches/rade-vs-follo/1myrhs#5835755",
               "id": "5835755",
               "home": {
@@ -108791,6 +108854,27 @@
                 "name": "Follo",
                 "shortName": "Follo",
                 "id": "7963"
+              },
+              "status": {
+                "utcTime": "2026-08-22T13:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "pageUrl": "/matches/traeff-vs-rollon/1bt5y5#5835761",
+              "id": "5835761",
+              "home": {
+                "name": "Rollon",
+                "shortName": "Rollon",
+                "id": "6557"
+              },
+              "away": {
+                "name": "Træff",
+                "shortName": "Træff",
+                "id": "6115"
               },
               "status": {
                 "utcTime": "2026-08-22T13:00:00Z",
@@ -109011,27 +109095,6 @@
               }
             },
             {
-              "pageUrl": "/matches/sarpsborg-08-vs-fk-sparta-sarpsborg/16xk3075#5835876",
-              "id": "5835876",
-              "home": {
-                "name": "FK Sparta Sarpsborg",
-                "shortName": "FK Sparta Sarpsborg",
-                "id": "423819"
-              },
-              "away": {
-                "name": "Sarpsborg 08",
-                "shortName": "Sarpsborg 08",
-                "id": "8509"
-              },
-              "status": {
-                "utcTime": "2026-08-22T14:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
               "pageUrl": "/matches/flekkefjord-vs-start/25pa61#5835869",
               "id": "5835869",
               "home": {
@@ -109085,27 +109148,6 @@
                 "name": "Jerv",
                 "shortName": "Jerv",
                 "id": "2303"
-              },
-              "status": {
-                "utcTime": "2026-08-22T14:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "pageUrl": "/matches/frigg-vs-kjelsas/1180dn#5835776",
-              "id": "5835776",
-              "home": {
-                "name": "Frigg",
-                "shortName": "Frigg",
-                "id": "4621"
-              },
-              "away": {
-                "name": "Kjelsås",
-                "shortName": "Kjelsås",
-                "id": "6560"
               },
               "status": {
                 "utcTime": "2026-08-22T14:00:00Z",
@@ -109190,27 +109232,6 @@
                 "name": "Stabæk",
                 "shortName": "Stabæk",
                 "id": "9918"
-              },
-              "status": {
-                "utcTime": "2026-08-22T14:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "pageUrl": "/matches/strommen-vs-lillehammer-fk/1bqhmy#5835769",
-              "id": "5835769",
-              "home": {
-                "name": "Lillehammer FK",
-                "shortName": "Lillehammer FK",
-                "id": "8413"
-              },
-              "away": {
-                "name": "Strømmen",
-                "shortName": "Strømmen",
-                "id": "4249"
               },
               "status": {
                 "utcTime": "2026-08-22T14:00:00Z",
@@ -109368,27 +109389,6 @@
               }
             },
             {
-              "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
-              "id": "5835778",
-              "home": {
-                "name": "Nordstrand",
-                "shortName": "Nordstrand",
-                "id": "8125"
-              },
-              "away": {
-                "name": "Skeid",
-                "shortName": "Skeid",
-                "id": "8421"
-              },
-              "status": {
-                "utcTime": "2026-08-22T14:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
               "pageUrl": "/matches/os-vs-lysekloster/13piohqz#5835762",
               "id": "5835762",
               "home": {
@@ -109431,27 +109431,6 @@
               }
             },
             {
-              "pageUrl": "/matches/traeff-vs-rollon/1bt5y5#5835761",
-              "id": "5835761",
-              "home": {
-                "name": "Rollon",
-                "shortName": "Rollon",
-                "id": "6557"
-              },
-              "away": {
-                "name": "Træff",
-                "shortName": "Træff",
-                "id": "6115"
-              },
-              "status": {
-                "utcTime": "2026-08-22T14:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
               "pageUrl": "/matches/kongsvinger-vs-skreia/gp1tgok8#5835773",
               "id": "5835773",
               "home": {
@@ -109463,27 +109442,6 @@
                 "name": "Kongsvinger",
                 "shortName": "Kongsvinger",
                 "id": "8179"
-              },
-              "status": {
-                "utcTime": "2026-08-22T14:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "pageUrl": "/matches/spjelkavik-vs-hodd/vbb09#5835759",
-              "id": "5835759",
-              "home": {
-                "name": "Spjelkavik",
-                "shortName": "Spjelkavik",
-                "id": "2318"
-              },
-              "away": {
-                "name": "Hødd",
-                "shortName": "Hødd",
-                "id": "7937"
               },
               "status": {
                 "utcTime": "2026-08-22T14:00:00Z",
@@ -109704,6 +109662,48 @@
               }
             },
             {
+              "pageUrl": "/matches/sarpsborg-08-vs-fk-sparta-sarpsborg/16xk3075#5835876",
+              "id": "5835876",
+              "home": {
+                "name": "FK Sparta Sarpsborg",
+                "shortName": "FK Sparta Sarpsborg",
+                "id": "423819"
+              },
+              "away": {
+                "name": "Sarpsborg 08",
+                "shortName": "Sarpsborg 08",
+                "id": "8509"
+              },
+              "status": {
+                "utcTime": "2026-08-22T16:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "pageUrl": "/matches/frigg-vs-kjelsas/1180dn#5835776",
+              "id": "5835776",
+              "home": {
+                "name": "Frigg",
+                "shortName": "Frigg",
+                "id": "4621"
+              },
+              "away": {
+                "name": "Kjelsås",
+                "shortName": "Kjelsås",
+                "id": "6560"
+              },
+              "status": {
+                "utcTime": "2026-08-22T16:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
               "pageUrl": "/matches/gjovik-lyn-vs-eidsvold-tf/28t5fi#5835877",
               "id": "5835877",
               "home": {
@@ -109738,7 +109738,7 @@
                 "id": "8617"
               },
               "status": {
-                "utcTime": "2026-08-23T11:00:00Z",
+                "utcTime": "2026-08-22T16:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -110840,6 +110840,69 @@
             }
           },
           {
+            "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
+            "id": "5835778",
+            "home": {
+              "name": "Nordstrand",
+              "shortName": "Nordstrand",
+              "id": "8125"
+            },
+            "away": {
+              "name": "Skeid",
+              "shortName": "Skeid",
+              "id": "8421"
+            },
+            "status": {
+              "utcTime": "2026-08-22T12:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "pageUrl": "/matches/spjelkavik-vs-hodd/vbb09#5835759",
+            "id": "5835759",
+            "home": {
+              "name": "Spjelkavik",
+              "shortName": "Spjelkavik",
+              "id": "2318"
+            },
+            "away": {
+              "name": "Hødd",
+              "shortName": "Hødd",
+              "id": "7937"
+            },
+            "status": {
+              "utcTime": "2026-08-22T12:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "pageUrl": "/matches/strommen-vs-lillehammer-fk/1bqhmy#5835769",
+            "id": "5835769",
+            "home": {
+              "name": "Lillehammer FK",
+              "shortName": "Lillehammer FK",
+              "id": "8413"
+            },
+            "away": {
+              "name": "Strømmen",
+              "shortName": "Strømmen",
+              "id": "4249"
+            },
+            "status": {
+              "utcTime": "2026-08-22T13:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
             "pageUrl": "/matches/rade-vs-follo/1myrhs#5835755",
             "id": "5835755",
             "home": {
@@ -110851,6 +110914,27 @@
               "name": "Follo",
               "shortName": "Follo",
               "id": "7963"
+            },
+            "status": {
+              "utcTime": "2026-08-22T13:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "pageUrl": "/matches/traeff-vs-rollon/1bt5y5#5835761",
+            "id": "5835761",
+            "home": {
+              "name": "Rollon",
+              "shortName": "Rollon",
+              "id": "6557"
+            },
+            "away": {
+              "name": "Træff",
+              "shortName": "Træff",
+              "id": "6115"
             },
             "status": {
               "utcTime": "2026-08-22T13:00:00Z",
@@ -111071,27 +111155,6 @@
             }
           },
           {
-            "pageUrl": "/matches/sarpsborg-08-vs-fk-sparta-sarpsborg/16xk3075#5835876",
-            "id": "5835876",
-            "home": {
-              "name": "FK Sparta Sarpsborg",
-              "shortName": "FK Sparta Sarpsborg",
-              "id": "423819"
-            },
-            "away": {
-              "name": "Sarpsborg 08",
-              "shortName": "Sarpsborg 08",
-              "id": "8509"
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "pageUrl": "/matches/flekkefjord-vs-start/25pa61#5835869",
             "id": "5835869",
             "home": {
@@ -111145,27 +111208,6 @@
               "name": "Jerv",
               "shortName": "Jerv",
               "id": "2303"
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "pageUrl": "/matches/frigg-vs-kjelsas/1180dn#5835776",
-            "id": "5835776",
-            "home": {
-              "name": "Frigg",
-              "shortName": "Frigg",
-              "id": "4621"
-            },
-            "away": {
-              "name": "Kjelsås",
-              "shortName": "Kjelsås",
-              "id": "6560"
             },
             "status": {
               "utcTime": "2026-08-22T14:00:00Z",
@@ -111250,27 +111292,6 @@
               "name": "Stabæk",
               "shortName": "Stabæk",
               "id": "9918"
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "pageUrl": "/matches/strommen-vs-lillehammer-fk/1bqhmy#5835769",
-            "id": "5835769",
-            "home": {
-              "name": "Lillehammer FK",
-              "shortName": "Lillehammer FK",
-              "id": "8413"
-            },
-            "away": {
-              "name": "Strømmen",
-              "shortName": "Strømmen",
-              "id": "4249"
             },
             "status": {
               "utcTime": "2026-08-22T14:00:00Z",
@@ -111428,27 +111449,6 @@
             }
           },
           {
-            "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
-            "id": "5835778",
-            "home": {
-              "name": "Nordstrand",
-              "shortName": "Nordstrand",
-              "id": "8125"
-            },
-            "away": {
-              "name": "Skeid",
-              "shortName": "Skeid",
-              "id": "8421"
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "pageUrl": "/matches/os-vs-lysekloster/13piohqz#5835762",
             "id": "5835762",
             "home": {
@@ -111491,27 +111491,6 @@
             }
           },
           {
-            "pageUrl": "/matches/traeff-vs-rollon/1bt5y5#5835761",
-            "id": "5835761",
-            "home": {
-              "name": "Rollon",
-              "shortName": "Rollon",
-              "id": "6557"
-            },
-            "away": {
-              "name": "Træff",
-              "shortName": "Træff",
-              "id": "6115"
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "pageUrl": "/matches/kongsvinger-vs-skreia/gp1tgok8#5835773",
             "id": "5835773",
             "home": {
@@ -111523,27 +111502,6 @@
               "name": "Kongsvinger",
               "shortName": "Kongsvinger",
               "id": "8179"
-            },
-            "status": {
-              "utcTime": "2026-08-22T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "pageUrl": "/matches/spjelkavik-vs-hodd/vbb09#5835759",
-            "id": "5835759",
-            "home": {
-              "name": "Spjelkavik",
-              "shortName": "Spjelkavik",
-              "id": "2318"
-            },
-            "away": {
-              "name": "Hødd",
-              "shortName": "Hødd",
-              "id": "7937"
             },
             "status": {
               "utcTime": "2026-08-22T14:00:00Z",
@@ -111764,6 +111722,48 @@
             }
           },
           {
+            "pageUrl": "/matches/sarpsborg-08-vs-fk-sparta-sarpsborg/16xk3075#5835876",
+            "id": "5835876",
+            "home": {
+              "name": "FK Sparta Sarpsborg",
+              "shortName": "FK Sparta Sarpsborg",
+              "id": "423819"
+            },
+            "away": {
+              "name": "Sarpsborg 08",
+              "shortName": "Sarpsborg 08",
+              "id": "8509"
+            },
+            "status": {
+              "utcTime": "2026-08-22T16:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "pageUrl": "/matches/frigg-vs-kjelsas/1180dn#5835776",
+            "id": "5835776",
+            "home": {
+              "name": "Frigg",
+              "shortName": "Frigg",
+              "id": "4621"
+            },
+            "away": {
+              "name": "Kjelsås",
+              "shortName": "Kjelsås",
+              "id": "6560"
+            },
+            "status": {
+              "utcTime": "2026-08-22T16:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
             "pageUrl": "/matches/gjovik-lyn-vs-eidsvold-tf/28t5fi#5835877",
             "id": "5835877",
             "home": {
@@ -111798,7 +111798,7 @@
               "id": "8617"
             },
             "status": {
-              "utcTime": "2026-08-23T11:00:00Z",
+              "utcTime": "2026-08-22T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -112962,7 +112962,7 @@
                     },
                     "pageUrl": "/matches/spjelkavik-vs-hodd/vbb09#5835759",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-22T10:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -113054,7 +113054,7 @@
                     },
                     "pageUrl": "/matches/traeff-vs-rollon/1bt5y5#5835761",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-22T11:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -113422,7 +113422,7 @@
                     },
                     "pageUrl": "/matches/strommen-vs-lillehammer-fk/1bqhmy#5835769",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-22T11:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -113744,7 +113744,7 @@
                     },
                     "pageUrl": "/matches/frigg-vs-kjelsas/1180dn#5835776",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-22T14:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -113836,7 +113836,7 @@
                     },
                     "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-22T10:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -114710,7 +114710,7 @@
                     },
                     "pageUrl": "/matches/sarpsborg-08-vs-fk-sparta-sarpsborg/16xk3075#5835876",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-22T14:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -115170,7 +115170,7 @@
                     },
                     "pageUrl": "/matches/harstad-vs-tromsdalen/29m6pg#5835779",
                     "status": {
-                      "utcTime": "2026-08-23T09:00:00.000Z",
+                      "utcTime": "2026-08-22T14:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -119977,7 +119977,7 @@
     "257932": "Norac Stadion",
     "310874": "Frøya idrettspark",
     "413468": "Lysekloster Sporty Arena",
-    "423819": "-",
+    "423819": "Sparta Kunstgressbane",
     "428157": "Frogner Stadion",
     "429438": "OBOS Arena Kringsjå",
     "525114": "Koteng Arena",
