@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:11:21.513094+00:00",
+  "generated_at": "2026-08-06T14:41:37.374804+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -47904,6 +47904,40 @@
         "type": "league",
         "data": [
           {
+            "name": "Jonathan Moalem",
+            "playerId": 1654019,
+            "position": {
+              "label": "AM",
+              "key": "centerattackingmidfielder_short"
+            },
+            "transferDate": "2026-08-06T16:15:29Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "FC København",
+            "fromClubFullName": "FC København",
+            "fromClubId": 8391,
+            "toClub": "Strømsgodset",
+            "toClubFullName": "Strømsgodset",
+            "toClubId": 8180,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-06T00:00:00Z",
+            "toDate": "2027-06-30T00:00:00Z",
+            "marketValue": null
+          },
+          {
             "name": "João Barros",
             "playerId": 1195872,
             "position": {
@@ -51216,40 +51250,6 @@
             "fromDate": "2025-08-28T22:00:00Z",
             "toDate": "2025-12-30T23:00:00Z",
             "marketValue": 441522
-          },
-          {
-            "name": "Rasmus Holten",
-            "playerId": 1281389,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2025-08-23T08:48:38Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubFullName": "Brann",
-            "fromClubId": 8468,
-            "toClub": "Sogndal",
-            "toClubFullName": "Sogndal",
-            "toClubId": 8616,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-08-21T22:00:00Z",
-            "toDate": "2025-12-30T23:00:00Z",
-            "marketValue": 372018
           }
         ]
       },
