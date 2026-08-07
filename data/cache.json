@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:47:29.614459+00:00",
+  "generated_at": "2026-08-07T13:45:33.294289+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,75 @@
         "type": "league",
         "data": [
           {
+            "name": "Jens Hjertø-Dahl",
+            "playerId": 1377949,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-07T14:49:24Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Tromsø",
+            "fromClubFullName": "Tromsø",
+            "fromClubId": 8608,
+            "toClub": "Hull",
+            "toClubFullName": "Hull City",
+            "toClubId": 8667,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 10000000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-07T00:00:00Z",
+            "toDate": "2031-06-30T00:00:00Z",
+            "marketValue": 7773607
+          },
+          {
+            "name": "Oscar Forsmo Kapskarmo",
+            "playerId": 843274,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-07T09:35:26Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Egersund",
+            "fromClubFullName": "Egersund",
+            "fromClubId": 4722,
+            "toClub": "Sandefjord",
+            "toClubFullName": "Sandefjord",
+            "toClubId": 8609,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-06T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 247495
+          },
+          {
             "name": "Leon Hien",
             "playerId": 1351077,
             "position": {
@@ -7768,75 +7837,6 @@
             "fromDate": "2026-03-29T22:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 376015
-          },
-          {
-            "name": "Kristian Eriksen",
-            "playerId": 533370,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-03-30T21:35:59Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Molde",
-            "fromClubFullName": "Molde",
-            "fromClubId": 9917,
-            "toClub": "Brann",
-            "toClubFullName": "Brann",
-            "toClubId": 8468,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 650000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-29T22:00:00Z",
-            "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 497297
-          },
-          {
-            "name": "Deni Dashaev",
-            "playerId": 1377072,
-            "position": {
-              "label": "LM",
-              "key": "leftmidfielder_short"
-            },
-            "transferDate": "2026-03-30T18:08:44Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Start",
-            "fromClubFullName": "Start",
-            "fromClubId": 9919,
-            "toClub": "Strømmen",
-            "toClubFullName": "Strømmen",
-            "toClubId": 4249,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-29T22:00:00Z",
-            "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": 176412
           }
         ]
       },
