@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T03:23:57.862375+00:00",
+  "generated_at": "2026-08-07T07:47:29.614459+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -47914,6 +47914,40 @@
         "type": "league",
         "data": [
           {
+            "name": "Oscar Forsmo Kapskarmo",
+            "playerId": 843274,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-07T09:35:26Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Egersund",
+            "fromClubFullName": "Egersund",
+            "fromClubId": 4722,
+            "toClub": "Sandefjord",
+            "toClubFullName": "Sandefjord",
+            "toClubId": 8609,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-06T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 247495
+          },
+          {
             "name": "Jonathan Moalem",
             "playerId": 1654019,
             "position": {
@@ -51226,40 +51260,6 @@
             "fromDate": "2025-08-28T22:00:00Z",
             "toDate": "2025-12-30T23:00:00Z",
             "marketValue": 454794
-          },
-          {
-            "name": "Jasper Silva Torkildsen",
-            "playerId": 1252726,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2025-08-30T08:35:05Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Start",
-            "fromClubFullName": "Start",
-            "fromClubId": 9919,
-            "toClub": "Strømsgodset",
-            "toClubFullName": "Strømsgodset",
-            "toClubId": 8180,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-08-28T22:00:00Z",
-            "toDate": "2025-12-30T23:00:00Z",
-            "marketValue": 441522
           }
         ]
       },
