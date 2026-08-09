@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:22:46.000771+00:00",
+  "generated_at": "2026-08-09T13:21:09.000428+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -109,7 +109,23 @@
                 ]
               }
             ],
-            "ongoing": [],
+            "ongoing": [
+              {
+                "id": 5104973,
+                "hTeam": "Lillestrøm",
+                "aTeam": "Rosenborg",
+                "hScore": 0,
+                "aScore": 1,
+                "hId": 8476,
+                "aId": 8422,
+                "stage": "17",
+                "time": "09.08.2026 14:30",
+                "status": "S",
+                "sId": 2,
+                "gs": "09.08.2026 14:31:22",
+                "extId": "ls_0"
+              }
+            ],
             "table": {
               "all": [
                 {
@@ -118,7 +134,6 @@
                   "id": 8402,
                   "pageUrl": "/teams/8402/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 17,
                   "wins": 13,
                   "draws": 2,
@@ -135,7 +150,6 @@
                   "id": 8478,
                   "pageUrl": "/teams/8478/overview/viking",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 16,
                   "wins": 13,
                   "draws": 1,
@@ -152,7 +166,6 @@
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 16,
                   "wins": 10,
                   "draws": 4,
@@ -169,13 +182,27 @@
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 15,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
+                  "played": 16,
                   "wins": 8,
                   "draws": 1,
-                  "losses": 6,
-                  "scoresStr": "22-18",
-                  "goalConDiff": 4,
+                  "losses": 7,
+                  "scoresStr": "22-19",
+                  "goalConDiff": 3,
                   "pts": 25,
                   "idx": 4,
                   "qualColor": "#02CCF0"
@@ -186,7 +213,6 @@
                   "id": 9917,
                   "pageUrl": "/teams/9917/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 15,
                   "wins": 7,
                   "draws": 3,
@@ -203,7 +229,6 @@
                   "id": 8468,
                   "pageUrl": "/teams/8468/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 16,
                   "wins": 7,
                   "draws": 1,
@@ -220,7 +245,6 @@
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 16,
                   "wins": 6,
                   "draws": 4,
@@ -232,12 +256,42 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Rosenborg",
+                  "shortName": "Rosenborg",
+                  "id": 8422,
+                  "pageUrl": "/teams/8422/overview/rosenborg",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
+                  "played": 16,
+                  "wins": 6,
+                  "draws": 3,
+                  "losses": 7,
+                  "scoresStr": "22-21",
+                  "goalConDiff": 1,
+                  "pts": 21,
+                  "idx": 8,
+                  "qualColor": null
+                },
+                {
                   "name": "Hamarkameratene",
                   "shortName": "HamKam",
                   "id": 8448,
                   "pageUrl": "/teams/8448/overview/hamarkameratene",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 15,
                   "wins": 6,
                   "draws": 3,
@@ -245,7 +299,7 @@
                   "scoresStr": "23-26",
                   "goalConDiff": -3,
                   "pts": 21,
-                  "idx": 8,
+                  "idx": 9,
                   "qualColor": null
                 },
                 {
@@ -254,7 +308,6 @@
                   "id": 8007,
                   "pageUrl": "/teams/8007/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 16,
                   "wins": 6,
                   "draws": 2,
@@ -262,7 +315,7 @@
                   "scoresStr": "23-29",
                   "goalConDiff": -6,
                   "pts": 20,
-                  "idx": 9,
+                  "idx": 10,
                   "qualColor": null
                 },
                 {
@@ -271,7 +324,6 @@
                   "id": 8417,
                   "pageUrl": "/teams/8417/overview/fredrikstad",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 16,
                   "wins": 6,
                   "draws": 2,
@@ -279,23 +331,6 @@
                   "scoresStr": "17-27",
                   "goalConDiff": -10,
                   "pts": 20,
-                  "idx": 10,
-                  "qualColor": null
-                },
-                {
-                  "name": "Rosenborg",
-                  "shortName": "Rosenborg",
-                  "id": 8422,
-                  "pageUrl": "/teams/8422/overview/rosenborg",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 15,
-                  "wins": 5,
-                  "draws": 3,
-                  "losses": 7,
-                  "scoresStr": "21-21",
-                  "goalConDiff": 0,
-                  "pts": 18,
                   "idx": 11,
                   "qualColor": null
                 },
@@ -305,7 +340,6 @@
                   "id": 2305,
                   "pageUrl": "/teams/2305/overview/kfum",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 16,
                   "wins": 5,
                   "draws": 3,
@@ -322,7 +356,6 @@
                   "id": 8609,
                   "pageUrl": "/teams/8609/overview/sandefjord",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 16,
                   "wins": 4,
                   "draws": 3,
@@ -339,7 +372,6 @@
                   "id": 8404,
                   "pageUrl": "/teams/8404/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 15,
                   "wins": 2,
                   "draws": 7,
@@ -356,7 +388,6 @@
                   "id": 8605,
                   "pageUrl": "/teams/8605/overview/kristiansund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 15,
                   "wins": 3,
                   "draws": 3,
@@ -373,7 +404,6 @@
                   "id": 9919,
                   "pageUrl": "/teams/9919/overview/start",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 17,
                   "wins": 2,
                   "draws": 4,
@@ -392,7 +422,6 @@
                   "id": 8402,
                   "pageUrl": "/teams/8402/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 7,
                   "draws": 0,
@@ -410,7 +439,6 @@
                   "id": 8478,
                   "pageUrl": "/teams/8478/overview/viking",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 7,
                   "draws": 0,
@@ -428,7 +456,6 @@
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 6,
                   "draws": 2,
@@ -446,7 +473,6 @@
                   "id": 9917,
                   "pageUrl": "/teams/9917/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 5,
                   "draws": 1,
@@ -464,7 +490,6 @@
                   "id": 8448,
                   "pageUrl": "/teams/8448/overview/hamarkameratene",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 5,
                   "draws": 0,
@@ -482,7 +507,21 @@
                   "id": 8422,
                   "pageUrl": "/teams/8422/overview/rosenborg",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
                   "played": 8,
                   "wins": 4,
                   "draws": 2,
@@ -500,7 +539,6 @@
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 4,
                   "draws": 2,
@@ -518,7 +556,6 @@
                   "id": 8007,
                   "pageUrl": "/teams/8007/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 4,
                   "draws": 1,
@@ -536,7 +573,6 @@
                   "id": 8417,
                   "pageUrl": "/teams/8417/overview/fredrikstad",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 4,
                   "draws": 1,
@@ -554,7 +590,6 @@
                   "id": 2305,
                   "pageUrl": "/teams/2305/overview/kfum",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 4,
                   "draws": 1,
@@ -572,13 +607,27 @@
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 7,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
+                  "played": 8,
                   "wins": 4,
                   "draws": 0,
-                  "losses": 3,
-                  "scoresStr": "14-9",
-                  "goalConDiff": 5,
+                  "losses": 4,
+                  "scoresStr": "14-10",
+                  "goalConDiff": 4,
                   "goalsScored": 14,
                   "pts": 12,
                   "idx": 11,
@@ -590,7 +639,6 @@
                   "id": 8468,
                   "pageUrl": "/teams/8468/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 4,
                   "draws": 0,
@@ -608,7 +656,6 @@
                   "id": 8609,
                   "pageUrl": "/teams/8609/overview/sandefjord",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 2,
                   "draws": 3,
@@ -626,7 +673,6 @@
                   "id": 8605,
                   "pageUrl": "/teams/8605/overview/kristiansund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 2,
                   "draws": 2,
@@ -644,7 +690,6 @@
                   "id": 8404,
                   "pageUrl": "/teams/8404/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 1,
                   "draws": 5,
@@ -662,7 +707,6 @@
                   "id": 9919,
                   "pageUrl": "/teams/9919/overview/start",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 1,
                   "draws": 3,
@@ -682,7 +726,6 @@
                   "id": 8402,
                   "pageUrl": "/teams/8402/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 6,
                   "draws": 2,
@@ -700,7 +743,6 @@
                   "id": 8478,
                   "pageUrl": "/teams/8478/overview/viking",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 6,
                   "draws": 1,
@@ -718,7 +760,6 @@
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 4,
                   "draws": 2,
@@ -736,7 +777,21 @@
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
                   "played": 8,
                   "wins": 4,
                   "draws": 1,
@@ -754,7 +809,6 @@
                   "id": 8468,
                   "pageUrl": "/teams/8468/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 3,
                   "draws": 1,
@@ -772,7 +826,6 @@
                   "id": 9917,
                   "pageUrl": "/teams/9917/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 2,
                   "draws": 2,
@@ -790,7 +843,6 @@
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 2,
                   "draws": 2,
@@ -803,12 +855,43 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Rosenborg",
+                  "shortName": "Rosenborg",
+                  "id": 8422,
+                  "pageUrl": "/teams/8422/overview/rosenborg",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
+                  "played": 8,
+                  "wins": 2,
+                  "draws": 1,
+                  "losses": 5,
+                  "scoresStr": "6-12",
+                  "goalConDiff": -6,
+                  "goalsScored": 6,
+                  "pts": 7,
+                  "idx": 8,
+                  "qualColor": null
+                },
+                {
                   "name": "Vålerenga",
                   "shortName": "Vålerenga",
                   "id": 8007,
                   "pageUrl": "/teams/8007/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 2,
                   "draws": 1,
@@ -817,7 +900,7 @@
                   "goalConDiff": -8,
                   "goalsScored": 7,
                   "pts": 7,
-                  "idx": 8,
+                  "idx": 9,
                   "qualColor": null
                 },
                 {
@@ -826,7 +909,6 @@
                   "id": 8417,
                   "pageUrl": "/teams/8417/overview/fredrikstad",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 2,
                   "draws": 1,
@@ -835,7 +917,7 @@
                   "goalConDiff": -12,
                   "goalsScored": 7,
                   "pts": 7,
-                  "idx": 9,
+                  "idx": 10,
                   "qualColor": null
                 },
                 {
@@ -844,7 +926,6 @@
                   "id": 8448,
                   "pageUrl": "/teams/8448/overview/hamarkameratene",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 1,
                   "draws": 3,
@@ -853,7 +934,7 @@
                   "goalConDiff": -5,
                   "goalsScored": 10,
                   "pts": 6,
-                  "idx": 10,
+                  "idx": 11,
                   "qualColor": null
                 },
                 {
@@ -862,7 +943,6 @@
                   "id": 8609,
                   "pageUrl": "/teams/8609/overview/sandefjord",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 2,
                   "draws": 0,
@@ -871,7 +951,7 @@
                   "goalConDiff": -6,
                   "goalsScored": 7,
                   "pts": 6,
-                  "idx": 11,
+                  "idx": 12,
                   "qualColor": null
                 },
                 {
@@ -880,7 +960,6 @@
                   "id": 2305,
                   "pageUrl": "/teams/2305/overview/kfum",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 1,
                   "draws": 2,
@@ -889,7 +968,7 @@
                   "goalConDiff": -7,
                   "goalsScored": 8,
                   "pts": 5,
-                  "idx": 12,
+                  "idx": 13,
                   "qualColor": null
                 },
                 {
@@ -898,7 +977,6 @@
                   "id": 8404,
                   "pageUrl": "/teams/8404/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 1,
                   "draws": 2,
@@ -907,24 +985,6 @@
                   "goalConDiff": -8,
                   "goalsScored": 6,
                   "pts": 5,
-                  "idx": 13,
-                  "qualColor": null
-                },
-                {
-                  "name": "Rosenborg",
-                  "shortName": "Rosenborg",
-                  "id": 8422,
-                  "pageUrl": "/teams/8422/overview/rosenborg",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 7,
-                  "wins": 1,
-                  "draws": 1,
-                  "losses": 5,
-                  "scoresStr": "5-12",
-                  "goalConDiff": -7,
-                  "goalsScored": 5,
-                  "pts": 4,
                   "idx": 14,
                   "qualColor": "#FFA72F"
                 },
@@ -934,7 +994,6 @@
                   "id": 8605,
                   "pageUrl": "/teams/8605/overview/kristiansund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 1,
                   "draws": 1,
@@ -952,7 +1011,6 @@
                   "id": 9919,
                   "pageUrl": "/teams/9919/overview/start",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 1,
                   "draws": 1,
@@ -980,7 +1038,6 @@
                   "goalConDiff": 12,
                   "goalsScored": 13,
                   "pts": 15,
-                  "ongoing": null,
                   "idx": 1,
                   "qualColor": "#FFD908"
                 },
@@ -998,7 +1055,6 @@
                   "goalConDiff": 6,
                   "goalsScored": 10,
                   "pts": 13,
-                  "ongoing": null,
                   "idx": 2,
                   "qualColor": "#FFD908"
                 },
@@ -1016,7 +1072,6 @@
                   "goalConDiff": 11,
                   "goalsScored": 15,
                   "pts": 11,
-                  "ongoing": null,
                   "idx": 3,
                   "qualColor": "#02CCF0"
                 },
@@ -1034,7 +1089,21 @@
                   "goalConDiff": 9,
                   "goalsScored": 14,
                   "pts": 10,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
                   "idx": 4,
                   "qualColor": "#02CCF0"
                 },
@@ -1052,7 +1121,6 @@
                   "goalConDiff": 1,
                   "goalsScored": 10,
                   "pts": 9,
-                  "ongoing": null,
                   "idx": 5,
                   "qualColor": null
                 },
@@ -1070,7 +1138,6 @@
                   "goalConDiff": 2,
                   "goalsScored": 12,
                   "pts": 8,
-                  "ongoing": null,
                   "idx": 6,
                   "qualColor": null
                 },
@@ -1088,7 +1155,6 @@
                   "goalConDiff": 1,
                   "goalsScored": 6,
                   "pts": 8,
-                  "ongoing": null,
                   "idx": 7,
                   "qualColor": null
                 },
@@ -1106,7 +1172,6 @@
                   "goalConDiff": -2,
                   "goalsScored": 10,
                   "pts": 6,
-                  "ongoing": null,
                   "idx": 8,
                   "qualColor": null
                 },
@@ -1124,7 +1189,6 @@
                   "goalConDiff": -3,
                   "goalsScored": 6,
                   "pts": 6,
-                  "ongoing": null,
                   "idx": 9,
                   "qualColor": null
                 },
@@ -1142,7 +1206,21 @@
                   "goalConDiff": -4,
                   "goalsScored": 5,
                   "pts": 6,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
                   "idx": 10,
                   "qualColor": null
                 },
@@ -1160,7 +1238,6 @@
                   "goalConDiff": -5,
                   "goalsScored": 2,
                   "pts": 6,
-                  "ongoing": null,
                   "idx": 11,
                   "qualColor": null
                 },
@@ -1178,7 +1255,6 @@
                   "goalConDiff": -4,
                   "goalsScored": 6,
                   "pts": 4,
-                  "ongoing": null,
                   "idx": 12,
                   "qualColor": null
                 },
@@ -1196,7 +1272,6 @@
                   "goalConDiff": -7,
                   "goalsScored": 3,
                   "pts": 3,
-                  "ongoing": null,
                   "idx": 13,
                   "qualColor": null
                 },
@@ -1214,7 +1289,6 @@
                   "goalConDiff": -9,
                   "goalsScored": 8,
                   "pts": 3,
-                  "ongoing": null,
                   "idx": 14,
                   "qualColor": "#FFA72F"
                 },
@@ -1232,7 +1306,6 @@
                   "goalConDiff": -6,
                   "goalsScored": 3,
                   "pts": 1,
-                  "ongoing": null,
                   "idx": 15,
                   "qualColor": "#FF4646"
                 },
@@ -1250,7 +1323,6 @@
                   "goalConDiff": -7,
                   "goalsScored": 3,
                   "pts": 1,
-                  "ongoing": null,
                   "idx": 16,
                   "qualColor": "#FF4646"
                 }
@@ -1261,7 +1333,6 @@
                   "shortName": "Bodø/Glimt",
                   "id": 8402,
                   "pageUrl": "/teams/8402/overview/bodoglimt",
-                  "ongoing": null,
                   "played": 17,
                   "wins": 13,
                   "draws": 2,
@@ -1288,7 +1359,6 @@
                   "shortName": "Viking",
                   "id": 8478,
                   "pageUrl": "/teams/8478/overview/viking",
-                  "ongoing": null,
                   "played": 16,
                   "wins": 13,
                   "draws": 1,
@@ -1315,7 +1385,6 @@
                   "shortName": "Tromsø",
                   "id": 8608,
                   "pageUrl": "/teams/8608/overview/tromso",
-                  "ongoing": null,
                   "played": 16,
                   "wins": 10,
                   "draws": 4,
@@ -1342,34 +1411,88 @@
                   "shortName": "Lillestrøm",
                   "id": 8476,
                   "pageUrl": "/teams/8476/overview/lillestrom",
-                  "ongoing": null,
-                  "played": 15,
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
+                  "played": 16,
                   "wins": 8,
                   "draws": 1,
-                  "losses": 6,
-                  "scoresStr": "22-18",
-                  "goalConDiff": 4,
+                  "losses": 7,
+                  "scoresStr": "22-19",
+                  "goalConDiff": 3,
                   "pts": 25,
                   "teamId": 8476,
                   "teamName": "Lillestrøm",
-                  "xg": 23.776999980211258,
-                  "xgConceded": 20.85199984908104,
-                  "xPoints": 23.2394051990294,
+                  "xg": 24.36149999499321,
+                  "xgConceded": 21.12289986014366,
+                  "xPoints": 24.842860332609938,
                   "position": 4,
-                  "xgDiff": -1.776999980211258,
-                  "xgConcededDiff": -2.8519998490810394,
-                  "xPointsDiff": 1.7605948009706012,
+                  "xgDiff": -2.36149999499321,
+                  "xgConcededDiff": -2.1228998601436615,
+                  "xPointsDiff": 0.15713966739006224,
                   "xPosition": 4,
                   "idx": 4,
                   "xPositionDiff": 0,
                   "qualColor": "#02CCF0"
                 },
                 {
+                  "name": "Rosenborg",
+                  "shortName": "Rosenborg",
+                  "id": 8422,
+                  "pageUrl": "/teams/8422/overview/rosenborg",
+                  "ongoing": {
+                    "id": 5104973,
+                    "hTeam": "Lillestrøm",
+                    "aTeam": "Rosenborg",
+                    "hScore": 0,
+                    "aScore": 1,
+                    "hId": 8476,
+                    "aId": 8422,
+                    "stage": "17",
+                    "time": "09.08.2026 14:30",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "09.08.2026 14:31:22",
+                    "extId": "ls_0"
+                  },
+                  "played": 16,
+                  "wins": 6,
+                  "draws": 3,
+                  "losses": 7,
+                  "scoresStr": "22-21",
+                  "goalConDiff": 1,
+                  "pts": 21,
+                  "teamId": 8422,
+                  "teamName": "Rosenborg",
+                  "xg": 24.919600129127502,
+                  "xgConceded": 23.4791998565197,
+                  "xPoints": 24.018879868059404,
+                  "position": 5,
+                  "xgDiff": -2.9196001291275024,
+                  "xgConcededDiff": -2.479199856519699,
+                  "xPointsDiff": -3.018879868059404,
+                  "xPosition": 5,
+                  "idx": 5,
+                  "xPositionDiff": 3,
+                  "qualColor": null
+                },
+                {
                   "name": "Molde",
                   "shortName": "Molde",
                   "id": 9917,
                   "pageUrl": "/teams/9917/overview/molde",
-                  "ongoing": null,
                   "played": 15,
                   "wins": 7,
                   "draws": 3,
@@ -1382,40 +1505,13 @@
                   "xg": 26.5527001619339,
                   "xgConceded": 21.013200044631958,
                   "xPoints": 23.239124932973397,
-                  "position": 5,
+                  "position": 6,
                   "xgDiff": 1.447299838066101,
                   "xgConcededDiff": 0.986799955368042,
                   "xPointsDiff": 0.7608750670266033,
-                  "xPosition": 5,
-                  "idx": 5,
-                  "xPositionDiff": 0,
-                  "qualColor": null
-                },
-                {
-                  "name": "Rosenborg",
-                  "shortName": "Rosenborg",
-                  "id": 8422,
-                  "pageUrl": "/teams/8422/overview/rosenborg",
-                  "ongoing": null,
-                  "played": 15,
-                  "wins": 5,
-                  "draws": 3,
-                  "losses": 7,
-                  "scoresStr": "21-21",
-                  "goalConDiff": 0,
-                  "pts": 18,
-                  "teamId": 8422,
-                  "teamName": "Rosenborg",
-                  "xg": 24.64870011806488,
-                  "xgConceded": 22.894699841737747,
-                  "xPoints": 23.109807650641457,
-                  "position": 6,
-                  "xgDiff": -3.6487001180648804,
-                  "xgConcededDiff": -1.8946998417377472,
-                  "xPointsDiff": -5.109807650641457,
                   "xPosition": 6,
                   "idx": 6,
-                  "xPositionDiff": 5,
+                  "xPositionDiff": -1,
                   "qualColor": null
                 },
                 {
@@ -1423,7 +1519,6 @@
                   "shortName": "Sarpsborg 08",
                   "id": 8509,
                   "pageUrl": "/teams/8509/overview/sarpsborg-08",
-                  "ongoing": null,
                   "played": 16,
                   "wins": 6,
                   "draws": 4,
@@ -1450,7 +1545,6 @@
                   "shortName": "Brann",
                   "id": 8468,
                   "pageUrl": "/teams/8468/overview/brann",
-                  "ongoing": null,
                   "played": 16,
                   "wins": 7,
                   "draws": 1,
@@ -1477,7 +1571,6 @@
                   "shortName": "Start",
                   "id": 9919,
                   "pageUrl": "/teams/9919/overview/start",
-                  "ongoing": null,
                   "played": 17,
                   "wins": 2,
                   "draws": 4,
@@ -1504,7 +1597,6 @@
                   "shortName": "Vålerenga",
                   "id": 8007,
                   "pageUrl": "/teams/8007/overview/valerenga",
-                  "ongoing": null,
                   "played": 16,
                   "wins": 6,
                   "draws": 2,
@@ -1523,7 +1615,7 @@
                   "xPointsDiff": -0.21804047958921302,
                   "xPosition": 10,
                   "idx": 10,
-                  "xPositionDiff": -1,
+                  "xPositionDiff": 0,
                   "qualColor": null
                 },
                 {
@@ -1531,7 +1623,6 @@
                   "shortName": "HamKam",
                   "id": 8448,
                   "pageUrl": "/teams/8448/overview/hamarkameratene",
-                  "ongoing": null,
                   "played": 15,
                   "wins": 6,
                   "draws": 3,
@@ -1550,7 +1641,7 @@
                   "xPointsDiff": 1.906222935852334,
                   "xPosition": 11,
                   "idx": 11,
-                  "xPositionDiff": -3,
+                  "xPositionDiff": -2,
                   "qualColor": null
                 },
                 {
@@ -1558,7 +1649,6 @@
                   "shortName": "KFUM",
                   "id": 2305,
                   "pageUrl": "/teams/2305/overview/kfum",
-                  "ongoing": null,
                   "played": 16,
                   "wins": 5,
                   "draws": 3,
@@ -1585,7 +1675,6 @@
                   "shortName": "Sandefjord",
                   "id": 8609,
                   "pageUrl": "/teams/8609/overview/sandefjord",
-                  "ongoing": null,
                   "played": 16,
                   "wins": 4,
                   "draws": 3,
@@ -1612,7 +1701,6 @@
                   "shortName": "Kristiansund",
                   "id": 8605,
                   "pageUrl": "/teams/8605/overview/kristiansund",
-                  "ongoing": null,
                   "played": 15,
                   "wins": 3,
                   "draws": 3,
@@ -1639,7 +1727,6 @@
                   "shortName": "Aalesund",
                   "id": 8404,
                   "pageUrl": "/teams/8404/overview/aalesund",
-                  "ongoing": null,
                   "played": 15,
                   "wins": 2,
                   "draws": 7,
@@ -1666,7 +1753,6 @@
                   "shortName": "Fredrikstad",
                   "id": 8417,
                   "pageUrl": "/teams/8417/overview/fredrikstad",
-                  "ongoing": null,
                   "played": 16,
                   "wins": 6,
                   "draws": 2,
@@ -1685,7 +1771,7 @@
                   "xPointsDiff": 5.692976398631696,
                   "xPosition": 16,
                   "idx": 16,
-                  "xPositionDiff": -6,
+                  "xPositionDiff": -5,
                   "qualColor": "#FF4646"
                 }
               ]
@@ -4304,20 +4390,20 @@
               "2026-08-16T17:15:00Z"
             ],
             "8422": [
-              "8476",
-              "Lillestrøm",
-              "5104973",
-              {
-                "id": "8476",
-                "name": "Lillestrøm",
-                "shortName": "Lillestrøm"
-              },
+              "8478",
+              "Viking",
+              "5104979",
               {
                 "id": "8422",
                 "name": "Rosenborg",
                 "shortName": "Rosenborg"
               },
-              "2026-08-09T12:30:00Z"
+              {
+                "id": "8478",
+                "name": "Viking",
+                "shortName": "Viking"
+              },
+              "2026-08-14T17:00:00Z"
             ],
             "8448": [
               "8404",
@@ -4352,20 +4438,20 @@
               "2026-08-16T15:00:00Z"
             ],
             "8476": [
-              "8422",
-              "Rosenborg",
-              "5104973",
+              "2305",
+              "KFUM",
+              "5104982",
+              {
+                "id": "2305",
+                "name": "KFUM",
+                "shortName": "KFUM"
+              },
               {
                 "id": "8476",
                 "name": "Lillestrøm",
                 "shortName": "Lillestrøm"
               },
-              {
-                "id": "8422",
-                "name": "Rosenborg",
-                "shortName": "Rosenborg"
-              },
-              "2026-08-09T12:30:00Z"
+              "2026-08-15T14:00:00Z"
             ],
             "8478": [
               "8422",
@@ -4502,6 +4588,102 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Hrannar Snær Magnusson",
+            "playerId": 1373521,
+            "position": {
+              "label": "LW",
+              "key": "leftwinger_short"
+            },
+            "transferDate": "2026-08-09T10:43:57Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Kristiansund",
+            "fromClubFullName": "Kristiansund",
+            "fromClubId": 8605,
+            "toClub": "Vikingur Reykjavik",
+            "toClubFullName": "Vikingur Reykjavik",
+            "toClubId": 6017,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-07T00:00:00Z",
+            "toDate": null,
+            "marketValue": 386870
+          },
+          {
+            "name": "Lucas Svenningsen",
+            "playerId": 1635847,
+            "position": {
+              "label": "LB",
+              "key": "leftback_short"
+            },
+            "transferDate": "2026-08-09T10:41:58Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lillestrøm",
+            "fromClubFullName": "Lillestrøm",
+            "fromClubId": 8476,
+            "toClub": "Skeid",
+            "toClubFullName": "Skeid",
+            "toClubId": 8421,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-06T00:00:00Z",
+            "toDate": "2027-07-31T00:00:00Z",
+            "marketValue": 304018
+          },
+          {
+            "name": "Mark Mampassi",
+            "playerId": 1339409,
+            "position": null,
+            "transferDate": "2026-08-09T10:37:14Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Free agent",
+            "fromClubFullName": "Free agent",
+            "fromClubId": 2,
+            "toClub": "Rosenborg",
+            "toClubFullName": "Rosenborg",
+            "toClubId": 8422,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-08T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": null
+          },
           {
             "name": "Markus Seehusen Karlsbakk",
             "playerId": 842682,
@@ -7739,109 +7921,6 @@
             "fromDate": "2026-03-31T00:00:00Z",
             "toDate": "2026-07-13T00:00:00Z",
             "marketValue": 939002
-          },
-          {
-            "name": "Mathias Klausen",
-            "playerId": 1463471,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2026-03-31T18:28:47Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubFullName": "Brann",
-            "fromClubId": 8468,
-            "toClub": "Sandviken",
-            "toClubFullName": "Sandviken",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-30T22:00:00Z",
-            "toDate": "2026-08-30T22:00:00Z",
-            "marketValue": 433799
-          },
-          {
-            "name": "Nikolai Skuseth",
-            "playerId": 1526793,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-03-31T18:27:21Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubFullName": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "Kristiansund",
-            "toClubFullName": "Kristiansund",
-            "toClubId": 8605,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-26T23:00:00Z",
-            "toDate": "2026-05-22T22:00:00Z",
-            "marketValue": 454794
-          },
-          {
-            "name": "Jacob Hanstad",
-            "playerId": 1276538,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-03-31T18:24:53Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sandefjord",
-            "fromClubFullName": "Sandefjord",
-            "fromClubId": 8609,
-            "toClub": "Stabæk",
-            "toClubFullName": "Stabæk",
-            "toClubId": 9918,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 100000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-30T22:00:00Z",
-            "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 283186
           }
         ]
       },
@@ -7892,7 +7971,23 @@
                   ]
                 }
               ],
-              "ongoing": [],
+              "ongoing": [
+                {
+                  "id": 5104973,
+                  "hTeam": "Lillestrøm",
+                  "aTeam": "Rosenborg",
+                  "hScore": 0,
+                  "aScore": 1,
+                  "hId": 8476,
+                  "aId": 8422,
+                  "stage": "17",
+                  "time": "09.08.2026 14:30",
+                  "status": "S",
+                  "sId": 2,
+                  "gs": "09.08.2026 14:31:22",
+                  "extId": "ls_0"
+                }
+              ],
               "table": {
                 "all": [
                   {
@@ -7901,7 +7996,6 @@
                     "id": 8402,
                     "pageUrl": "/teams/8402/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 17,
                     "wins": 13,
                     "draws": 2,
@@ -7918,7 +8012,6 @@
                     "id": 8478,
                     "pageUrl": "/teams/8478/overview/viking",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 16,
                     "wins": 13,
                     "draws": 1,
@@ -7935,7 +8028,6 @@
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 16,
                     "wins": 10,
                     "draws": 4,
@@ -7952,13 +8044,27 @@
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 15,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
+                    "played": 16,
                     "wins": 8,
                     "draws": 1,
-                    "losses": 6,
-                    "scoresStr": "22-18",
-                    "goalConDiff": 4,
+                    "losses": 7,
+                    "scoresStr": "22-19",
+                    "goalConDiff": 3,
                     "pts": 25,
                     "idx": 4,
                     "qualColor": "#02CCF0"
@@ -7969,7 +8075,6 @@
                     "id": 9917,
                     "pageUrl": "/teams/9917/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 15,
                     "wins": 7,
                     "draws": 3,
@@ -7986,7 +8091,6 @@
                     "id": 8468,
                     "pageUrl": "/teams/8468/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 16,
                     "wins": 7,
                     "draws": 1,
@@ -8003,7 +8107,6 @@
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 16,
                     "wins": 6,
                     "draws": 4,
@@ -8015,12 +8118,42 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Rosenborg",
+                    "shortName": "Rosenborg",
+                    "id": 8422,
+                    "pageUrl": "/teams/8422/overview/rosenborg",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
+                    "played": 16,
+                    "wins": 6,
+                    "draws": 3,
+                    "losses": 7,
+                    "scoresStr": "22-21",
+                    "goalConDiff": 1,
+                    "pts": 21,
+                    "idx": 8,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Hamarkameratene",
                     "shortName": "HamKam",
                     "id": 8448,
                     "pageUrl": "/teams/8448/overview/hamarkameratene",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 15,
                     "wins": 6,
                     "draws": 3,
@@ -8028,7 +8161,7 @@
                     "scoresStr": "23-26",
                     "goalConDiff": -3,
                     "pts": 21,
-                    "idx": 8,
+                    "idx": 9,
                     "qualColor": null
                   },
                   {
@@ -8037,7 +8170,6 @@
                     "id": 8007,
                     "pageUrl": "/teams/8007/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 16,
                     "wins": 6,
                     "draws": 2,
@@ -8045,7 +8177,7 @@
                     "scoresStr": "23-29",
                     "goalConDiff": -6,
                     "pts": 20,
-                    "idx": 9,
+                    "idx": 10,
                     "qualColor": null
                   },
                   {
@@ -8054,7 +8186,6 @@
                     "id": 8417,
                     "pageUrl": "/teams/8417/overview/fredrikstad",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 16,
                     "wins": 6,
                     "draws": 2,
@@ -8062,23 +8193,6 @@
                     "scoresStr": "17-27",
                     "goalConDiff": -10,
                     "pts": 20,
-                    "idx": 10,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Rosenborg",
-                    "shortName": "Rosenborg",
-                    "id": 8422,
-                    "pageUrl": "/teams/8422/overview/rosenborg",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 15,
-                    "wins": 5,
-                    "draws": 3,
-                    "losses": 7,
-                    "scoresStr": "21-21",
-                    "goalConDiff": 0,
-                    "pts": 18,
                     "idx": 11,
                     "qualColor": null
                   },
@@ -8088,7 +8202,6 @@
                     "id": 2305,
                     "pageUrl": "/teams/2305/overview/kfum",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 16,
                     "wins": 5,
                     "draws": 3,
@@ -8105,7 +8218,6 @@
                     "id": 8609,
                     "pageUrl": "/teams/8609/overview/sandefjord",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 16,
                     "wins": 4,
                     "draws": 3,
@@ -8122,7 +8234,6 @@
                     "id": 8404,
                     "pageUrl": "/teams/8404/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 15,
                     "wins": 2,
                     "draws": 7,
@@ -8139,7 +8250,6 @@
                     "id": 8605,
                     "pageUrl": "/teams/8605/overview/kristiansund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 15,
                     "wins": 3,
                     "draws": 3,
@@ -8156,7 +8266,6 @@
                     "id": 9919,
                     "pageUrl": "/teams/9919/overview/start",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 17,
                     "wins": 2,
                     "draws": 4,
@@ -8175,7 +8284,6 @@
                     "id": 8402,
                     "pageUrl": "/teams/8402/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 7,
                     "draws": 0,
@@ -8193,7 +8301,6 @@
                     "id": 8478,
                     "pageUrl": "/teams/8478/overview/viking",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 7,
                     "draws": 0,
@@ -8211,7 +8318,6 @@
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 6,
                     "draws": 2,
@@ -8229,7 +8335,6 @@
                     "id": 9917,
                     "pageUrl": "/teams/9917/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 5,
                     "draws": 1,
@@ -8247,7 +8352,6 @@
                     "id": 8448,
                     "pageUrl": "/teams/8448/overview/hamarkameratene",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 5,
                     "draws": 0,
@@ -8265,7 +8369,21 @@
                     "id": 8422,
                     "pageUrl": "/teams/8422/overview/rosenborg",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
                     "played": 8,
                     "wins": 4,
                     "draws": 2,
@@ -8283,7 +8401,6 @@
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 4,
                     "draws": 2,
@@ -8301,7 +8418,6 @@
                     "id": 8007,
                     "pageUrl": "/teams/8007/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 4,
                     "draws": 1,
@@ -8319,7 +8435,6 @@
                     "id": 8417,
                     "pageUrl": "/teams/8417/overview/fredrikstad",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 4,
                     "draws": 1,
@@ -8337,7 +8452,6 @@
                     "id": 2305,
                     "pageUrl": "/teams/2305/overview/kfum",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 4,
                     "draws": 1,
@@ -8355,13 +8469,27 @@
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 7,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
+                    "played": 8,
                     "wins": 4,
                     "draws": 0,
-                    "losses": 3,
-                    "scoresStr": "14-9",
-                    "goalConDiff": 5,
+                    "losses": 4,
+                    "scoresStr": "14-10",
+                    "goalConDiff": 4,
                     "goalsScored": 14,
                     "pts": 12,
                     "idx": 11,
@@ -8373,7 +8501,6 @@
                     "id": 8468,
                     "pageUrl": "/teams/8468/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 4,
                     "draws": 0,
@@ -8391,7 +8518,6 @@
                     "id": 8609,
                     "pageUrl": "/teams/8609/overview/sandefjord",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 2,
                     "draws": 3,
@@ -8409,7 +8535,6 @@
                     "id": 8605,
                     "pageUrl": "/teams/8605/overview/kristiansund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 2,
                     "draws": 2,
@@ -8427,7 +8552,6 @@
                     "id": 8404,
                     "pageUrl": "/teams/8404/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 1,
                     "draws": 5,
@@ -8445,7 +8569,6 @@
                     "id": 9919,
                     "pageUrl": "/teams/9919/overview/start",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 1,
                     "draws": 3,
@@ -8465,7 +8588,6 @@
                     "id": 8402,
                     "pageUrl": "/teams/8402/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 6,
                     "draws": 2,
@@ -8483,7 +8605,6 @@
                     "id": 8478,
                     "pageUrl": "/teams/8478/overview/viking",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 6,
                     "draws": 1,
@@ -8501,7 +8622,6 @@
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 4,
                     "draws": 2,
@@ -8519,7 +8639,21 @@
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
                     "played": 8,
                     "wins": 4,
                     "draws": 1,
@@ -8537,7 +8671,6 @@
                     "id": 8468,
                     "pageUrl": "/teams/8468/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 3,
                     "draws": 1,
@@ -8555,7 +8688,6 @@
                     "id": 9917,
                     "pageUrl": "/teams/9917/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 2,
                     "draws": 2,
@@ -8573,7 +8705,6 @@
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 2,
                     "draws": 2,
@@ -8586,12 +8717,43 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Rosenborg",
+                    "shortName": "Rosenborg",
+                    "id": 8422,
+                    "pageUrl": "/teams/8422/overview/rosenborg",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
+                    "played": 8,
+                    "wins": 2,
+                    "draws": 1,
+                    "losses": 5,
+                    "scoresStr": "6-12",
+                    "goalConDiff": -6,
+                    "goalsScored": 6,
+                    "pts": 7,
+                    "idx": 8,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Vålerenga",
                     "shortName": "Vålerenga",
                     "id": 8007,
                     "pageUrl": "/teams/8007/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 2,
                     "draws": 1,
@@ -8600,7 +8762,7 @@
                     "goalConDiff": -8,
                     "goalsScored": 7,
                     "pts": 7,
-                    "idx": 8,
+                    "idx": 9,
                     "qualColor": null
                   },
                   {
@@ -8609,7 +8771,6 @@
                     "id": 8417,
                     "pageUrl": "/teams/8417/overview/fredrikstad",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 2,
                     "draws": 1,
@@ -8618,7 +8779,7 @@
                     "goalConDiff": -12,
                     "goalsScored": 7,
                     "pts": 7,
-                    "idx": 9,
+                    "idx": 10,
                     "qualColor": null
                   },
                   {
@@ -8627,7 +8788,6 @@
                     "id": 8448,
                     "pageUrl": "/teams/8448/overview/hamarkameratene",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 1,
                     "draws": 3,
@@ -8636,7 +8796,7 @@
                     "goalConDiff": -5,
                     "goalsScored": 10,
                     "pts": 6,
-                    "idx": 10,
+                    "idx": 11,
                     "qualColor": null
                   },
                   {
@@ -8645,7 +8805,6 @@
                     "id": 8609,
                     "pageUrl": "/teams/8609/overview/sandefjord",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 2,
                     "draws": 0,
@@ -8654,7 +8813,7 @@
                     "goalConDiff": -6,
                     "goalsScored": 7,
                     "pts": 6,
-                    "idx": 11,
+                    "idx": 12,
                     "qualColor": null
                   },
                   {
@@ -8663,7 +8822,6 @@
                     "id": 2305,
                     "pageUrl": "/teams/2305/overview/kfum",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 1,
                     "draws": 2,
@@ -8672,7 +8830,7 @@
                     "goalConDiff": -7,
                     "goalsScored": 8,
                     "pts": 5,
-                    "idx": 12,
+                    "idx": 13,
                     "qualColor": null
                   },
                   {
@@ -8681,7 +8839,6 @@
                     "id": 8404,
                     "pageUrl": "/teams/8404/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 1,
                     "draws": 2,
@@ -8690,24 +8847,6 @@
                     "goalConDiff": -8,
                     "goalsScored": 6,
                     "pts": 5,
-                    "idx": 13,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Rosenborg",
-                    "shortName": "Rosenborg",
-                    "id": 8422,
-                    "pageUrl": "/teams/8422/overview/rosenborg",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 7,
-                    "wins": 1,
-                    "draws": 1,
-                    "losses": 5,
-                    "scoresStr": "5-12",
-                    "goalConDiff": -7,
-                    "goalsScored": 5,
-                    "pts": 4,
                     "idx": 14,
                     "qualColor": "#FFA72F"
                   },
@@ -8717,7 +8856,6 @@
                     "id": 8605,
                     "pageUrl": "/teams/8605/overview/kristiansund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 1,
                     "draws": 1,
@@ -8735,7 +8873,6 @@
                     "id": 9919,
                     "pageUrl": "/teams/9919/overview/start",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 1,
                     "draws": 1,
@@ -8763,7 +8900,6 @@
                     "goalConDiff": 12,
                     "goalsScored": 13,
                     "pts": 15,
-                    "ongoing": null,
                     "idx": 1,
                     "qualColor": "#FFD908"
                   },
@@ -8781,7 +8917,6 @@
                     "goalConDiff": 6,
                     "goalsScored": 10,
                     "pts": 13,
-                    "ongoing": null,
                     "idx": 2,
                     "qualColor": "#FFD908"
                   },
@@ -8799,7 +8934,6 @@
                     "goalConDiff": 11,
                     "goalsScored": 15,
                     "pts": 11,
-                    "ongoing": null,
                     "idx": 3,
                     "qualColor": "#02CCF0"
                   },
@@ -8817,7 +8951,21 @@
                     "goalConDiff": 9,
                     "goalsScored": 14,
                     "pts": 10,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
                     "idx": 4,
                     "qualColor": "#02CCF0"
                   },
@@ -8835,7 +8983,6 @@
                     "goalConDiff": 1,
                     "goalsScored": 10,
                     "pts": 9,
-                    "ongoing": null,
                     "idx": 5,
                     "qualColor": null
                   },
@@ -8853,7 +9000,6 @@
                     "goalConDiff": 2,
                     "goalsScored": 12,
                     "pts": 8,
-                    "ongoing": null,
                     "idx": 6,
                     "qualColor": null
                   },
@@ -8871,7 +9017,6 @@
                     "goalConDiff": 1,
                     "goalsScored": 6,
                     "pts": 8,
-                    "ongoing": null,
                     "idx": 7,
                     "qualColor": null
                   },
@@ -8889,7 +9034,6 @@
                     "goalConDiff": -2,
                     "goalsScored": 10,
                     "pts": 6,
-                    "ongoing": null,
                     "idx": 8,
                     "qualColor": null
                   },
@@ -8907,7 +9051,6 @@
                     "goalConDiff": -3,
                     "goalsScored": 6,
                     "pts": 6,
-                    "ongoing": null,
                     "idx": 9,
                     "qualColor": null
                   },
@@ -8925,7 +9068,21 @@
                     "goalConDiff": -4,
                     "goalsScored": 5,
                     "pts": 6,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
                     "idx": 10,
                     "qualColor": null
                   },
@@ -8943,7 +9100,6 @@
                     "goalConDiff": -5,
                     "goalsScored": 2,
                     "pts": 6,
-                    "ongoing": null,
                     "idx": 11,
                     "qualColor": null
                   },
@@ -8961,7 +9117,6 @@
                     "goalConDiff": -4,
                     "goalsScored": 6,
                     "pts": 4,
-                    "ongoing": null,
                     "idx": 12,
                     "qualColor": null
                   },
@@ -8979,7 +9134,6 @@
                     "goalConDiff": -7,
                     "goalsScored": 3,
                     "pts": 3,
-                    "ongoing": null,
                     "idx": 13,
                     "qualColor": null
                   },
@@ -8997,7 +9151,6 @@
                     "goalConDiff": -9,
                     "goalsScored": 8,
                     "pts": 3,
-                    "ongoing": null,
                     "idx": 14,
                     "qualColor": "#FFA72F"
                   },
@@ -9015,7 +9168,6 @@
                     "goalConDiff": -6,
                     "goalsScored": 3,
                     "pts": 1,
-                    "ongoing": null,
                     "idx": 15,
                     "qualColor": "#FF4646"
                   },
@@ -9033,7 +9185,6 @@
                     "goalConDiff": -7,
                     "goalsScored": 3,
                     "pts": 1,
-                    "ongoing": null,
                     "idx": 16,
                     "qualColor": "#FF4646"
                   }
@@ -9044,7 +9195,6 @@
                     "shortName": "Bodø/Glimt",
                     "id": 8402,
                     "pageUrl": "/teams/8402/overview/bodoglimt",
-                    "ongoing": null,
                     "played": 17,
                     "wins": 13,
                     "draws": 2,
@@ -9071,7 +9221,6 @@
                     "shortName": "Viking",
                     "id": 8478,
                     "pageUrl": "/teams/8478/overview/viking",
-                    "ongoing": null,
                     "played": 16,
                     "wins": 13,
                     "draws": 1,
@@ -9098,7 +9247,6 @@
                     "shortName": "Tromsø",
                     "id": 8608,
                     "pageUrl": "/teams/8608/overview/tromso",
-                    "ongoing": null,
                     "played": 16,
                     "wins": 10,
                     "draws": 4,
@@ -9125,34 +9273,88 @@
                     "shortName": "Lillestrøm",
                     "id": 8476,
                     "pageUrl": "/teams/8476/overview/lillestrom",
-                    "ongoing": null,
-                    "played": 15,
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
+                    "played": 16,
                     "wins": 8,
                     "draws": 1,
-                    "losses": 6,
-                    "scoresStr": "22-18",
-                    "goalConDiff": 4,
+                    "losses": 7,
+                    "scoresStr": "22-19",
+                    "goalConDiff": 3,
                     "pts": 25,
                     "teamId": 8476,
                     "teamName": "Lillestrøm",
-                    "xg": 23.776999980211258,
-                    "xgConceded": 20.85199984908104,
-                    "xPoints": 23.2394051990294,
+                    "xg": 24.36149999499321,
+                    "xgConceded": 21.12289986014366,
+                    "xPoints": 24.842860332609938,
                     "position": 4,
-                    "xgDiff": -1.776999980211258,
-                    "xgConcededDiff": -2.8519998490810394,
-                    "xPointsDiff": 1.7605948009706012,
+                    "xgDiff": -2.36149999499321,
+                    "xgConcededDiff": -2.1228998601436615,
+                    "xPointsDiff": 0.15713966739006224,
                     "xPosition": 4,
                     "idx": 4,
                     "xPositionDiff": 0,
                     "qualColor": "#02CCF0"
                   },
                   {
+                    "name": "Rosenborg",
+                    "shortName": "Rosenborg",
+                    "id": 8422,
+                    "pageUrl": "/teams/8422/overview/rosenborg",
+                    "ongoing": {
+                      "id": 5104973,
+                      "hTeam": "Lillestrøm",
+                      "aTeam": "Rosenborg",
+                      "hScore": 0,
+                      "aScore": 1,
+                      "hId": 8476,
+                      "aId": 8422,
+                      "stage": "17",
+                      "time": "09.08.2026 14:30",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "09.08.2026 14:31:22",
+                      "extId": "ls_0"
+                    },
+                    "played": 16,
+                    "wins": 6,
+                    "draws": 3,
+                    "losses": 7,
+                    "scoresStr": "22-21",
+                    "goalConDiff": 1,
+                    "pts": 21,
+                    "teamId": 8422,
+                    "teamName": "Rosenborg",
+                    "xg": 24.919600129127502,
+                    "xgConceded": 23.4791998565197,
+                    "xPoints": 24.018879868059404,
+                    "position": 5,
+                    "xgDiff": -2.9196001291275024,
+                    "xgConcededDiff": -2.479199856519699,
+                    "xPointsDiff": -3.018879868059404,
+                    "xPosition": 5,
+                    "idx": 5,
+                    "xPositionDiff": 3,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Molde",
                     "shortName": "Molde",
                     "id": 9917,
                     "pageUrl": "/teams/9917/overview/molde",
-                    "ongoing": null,
                     "played": 15,
                     "wins": 7,
                     "draws": 3,
@@ -9165,40 +9367,13 @@
                     "xg": 26.5527001619339,
                     "xgConceded": 21.013200044631958,
                     "xPoints": 23.239124932973397,
-                    "position": 5,
+                    "position": 6,
                     "xgDiff": 1.447299838066101,
                     "xgConcededDiff": 0.986799955368042,
                     "xPointsDiff": 0.7608750670266033,
-                    "xPosition": 5,
-                    "idx": 5,
-                    "xPositionDiff": 0,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Rosenborg",
-                    "shortName": "Rosenborg",
-                    "id": 8422,
-                    "pageUrl": "/teams/8422/overview/rosenborg",
-                    "ongoing": null,
-                    "played": 15,
-                    "wins": 5,
-                    "draws": 3,
-                    "losses": 7,
-                    "scoresStr": "21-21",
-                    "goalConDiff": 0,
-                    "pts": 18,
-                    "teamId": 8422,
-                    "teamName": "Rosenborg",
-                    "xg": 24.64870011806488,
-                    "xgConceded": 22.894699841737747,
-                    "xPoints": 23.109807650641457,
-                    "position": 6,
-                    "xgDiff": -3.6487001180648804,
-                    "xgConcededDiff": -1.8946998417377472,
-                    "xPointsDiff": -5.109807650641457,
                     "xPosition": 6,
                     "idx": 6,
-                    "xPositionDiff": 5,
+                    "xPositionDiff": -1,
                     "qualColor": null
                   },
                   {
@@ -9206,7 +9381,6 @@
                     "shortName": "Sarpsborg 08",
                     "id": 8509,
                     "pageUrl": "/teams/8509/overview/sarpsborg-08",
-                    "ongoing": null,
                     "played": 16,
                     "wins": 6,
                     "draws": 4,
@@ -9233,7 +9407,6 @@
                     "shortName": "Brann",
                     "id": 8468,
                     "pageUrl": "/teams/8468/overview/brann",
-                    "ongoing": null,
                     "played": 16,
                     "wins": 7,
                     "draws": 1,
@@ -9260,7 +9433,6 @@
                     "shortName": "Start",
                     "id": 9919,
                     "pageUrl": "/teams/9919/overview/start",
-                    "ongoing": null,
                     "played": 17,
                     "wins": 2,
                     "draws": 4,
@@ -9287,7 +9459,6 @@
                     "shortName": "Vålerenga",
                     "id": 8007,
                     "pageUrl": "/teams/8007/overview/valerenga",
-                    "ongoing": null,
                     "played": 16,
                     "wins": 6,
                     "draws": 2,
@@ -9306,7 +9477,7 @@
                     "xPointsDiff": -0.21804047958921302,
                     "xPosition": 10,
                     "idx": 10,
-                    "xPositionDiff": -1,
+                    "xPositionDiff": 0,
                     "qualColor": null
                   },
                   {
@@ -9314,7 +9485,6 @@
                     "shortName": "HamKam",
                     "id": 8448,
                     "pageUrl": "/teams/8448/overview/hamarkameratene",
-                    "ongoing": null,
                     "played": 15,
                     "wins": 6,
                     "draws": 3,
@@ -9333,7 +9503,7 @@
                     "xPointsDiff": 1.906222935852334,
                     "xPosition": 11,
                     "idx": 11,
-                    "xPositionDiff": -3,
+                    "xPositionDiff": -2,
                     "qualColor": null
                   },
                   {
@@ -9341,7 +9511,6 @@
                     "shortName": "KFUM",
                     "id": 2305,
                     "pageUrl": "/teams/2305/overview/kfum",
-                    "ongoing": null,
                     "played": 16,
                     "wins": 5,
                     "draws": 3,
@@ -9368,7 +9537,6 @@
                     "shortName": "Sandefjord",
                     "id": 8609,
                     "pageUrl": "/teams/8609/overview/sandefjord",
-                    "ongoing": null,
                     "played": 16,
                     "wins": 4,
                     "draws": 3,
@@ -9395,7 +9563,6 @@
                     "shortName": "Kristiansund",
                     "id": 8605,
                     "pageUrl": "/teams/8605/overview/kristiansund",
-                    "ongoing": null,
                     "played": 15,
                     "wins": 3,
                     "draws": 3,
@@ -9422,7 +9589,6 @@
                     "shortName": "Aalesund",
                     "id": 8404,
                     "pageUrl": "/teams/8404/overview/aalesund",
-                    "ongoing": null,
                     "played": 15,
                     "wins": 2,
                     "draws": 7,
@@ -9449,7 +9615,6 @@
                     "shortName": "Fredrikstad",
                     "id": 8417,
                     "pageUrl": "/teams/8417/overview/fredrikstad",
-                    "ongoing": null,
                     "played": 16,
                     "wins": 6,
                     "draws": 2,
@@ -9468,7 +9633,7 @@
                     "xPointsDiff": 5.692976398631696,
                     "xPosition": 16,
                     "idx": 16,
-                    "xPositionDiff": -6,
+                    "xPositionDiff": -5,
                     "qualColor": "#FF4646"
                   }
                 ]
@@ -12087,20 +12252,20 @@
                 "2026-08-16T17:15:00Z"
               ],
               "8422": [
-                "8476",
-                "Lillestrøm",
-                "5104973",
-                {
-                  "id": "8476",
-                  "name": "Lillestrøm",
-                  "shortName": "Lillestrøm"
-                },
+                "8478",
+                "Viking",
+                "5104979",
                 {
                   "id": "8422",
                   "name": "Rosenborg",
                   "shortName": "Rosenborg"
                 },
-                "2026-08-09T12:30:00Z"
+                {
+                  "id": "8478",
+                  "name": "Viking",
+                  "shortName": "Viking"
+                },
+                "2026-08-14T17:00:00Z"
               ],
               "8448": [
                 "8404",
@@ -12135,20 +12300,20 @@
                 "2026-08-16T15:00:00Z"
               ],
               "8476": [
-                "8422",
-                "Rosenborg",
-                "5104973",
+                "2305",
+                "KFUM",
+                "5104982",
+                {
+                  "id": "2305",
+                  "name": "KFUM",
+                  "shortName": "KFUM"
+                },
                 {
                   "id": "8476",
                   "name": "Lillestrøm",
                   "shortName": "Lillestrøm"
                 },
-                {
-                  "id": "8422",
-                  "name": "Rosenborg",
-                  "shortName": "Rosenborg"
-                },
-                "2026-08-09T12:30:00Z"
+                "2026-08-15T14:00:00Z"
               ],
               "8478": [
                 "8422",
@@ -17412,7 +17577,7 @@
             "away": {
               "id": "8422",
               "name": "Rosenborg",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -17422,12 +17587,23 @@
             "status": {
               "utcTime": "2026-08-09T12:30:00.000Z",
               "halfs": {
-                "firstHalfStarted": "09.08.2026 14:30:00"
+                "firstHalfStarted": "09.08.2026 14:31:22"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "46‎’‎",
+                "shortKey": "",
+                "long": "45:35",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -24872,12 +25048,23 @@
               "status": {
                 "utcTime": "2026-08-09T12:30:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "09.08.2026 14:30:00"
+                  "firstHalfStarted": "09.08.2026 14:31:22"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 1",
+                "liveTime": {
+                  "short": "46‎’‎",
+                  "shortKey": "",
+                  "long": "45:35",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -29543,10 +29730,10 @@
               "ccode": "NOR",
               "teamId": 8422,
               "teamName": "Rosenborg",
-              "value": 16,
+              "value": 17.6,
               "stat": {
                 "name": "defensive_contributions",
-                "value": 16,
+                "value": 17.6,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -29560,10 +29747,10 @@
                 "ccode": "NOR",
                 "teamId": 8422,
                 "teamName": "Rosenborg",
-                "value": 16,
+                "value": 17.6,
                 "stat": {
                   "name": "defensive_contributions",
-                  "value": 16,
+                  "value": 17.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -30417,16 +30604,16 @@
           {
             "header": "Saves per 90",
             "participant": {
-              "id": 1280650,
-              "name": "Adrian Sæther",
+              "id": 625168,
+              "name": "Pontus Dahlberg",
               "rank": 1,
-              "ccode": "NOR",
-              "teamId": 8605,
-              "teamName": "Kristiansund",
-              "value": 3.8,
+              "ccode": "SWE",
+              "teamId": 8476,
+              "teamName": "Lillestrøm",
+              "value": 3.9,
               "stat": {
                 "name": "saves",
-                "value": 3.8,
+                "value": 3.9,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -30434,9 +30621,30 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/saves.json",
             "topThree": [
               {
+                "id": 625168,
+                "name": "Pontus Dahlberg",
+                "rank": 1,
+                "ccode": "SWE",
+                "teamId": 8476,
+                "teamName": "Lillestrøm",
+                "value": 3.9,
+                "stat": {
+                  "name": "saves",
+                  "value": 3.9,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1280650,
                 "name": "Adrian Sæther",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8605,
                 "teamName": "Kristiansund",
@@ -30457,7 +30665,7 @@
               {
                 "id": 837268,
                 "name": "Kristoffer Klaesson",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8404,
                 "teamName": "Aalesund",
@@ -30472,27 +30680,6 @@
                   "darkMode": "#eb7805",
                   "lightMode": "#eb7805",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 625168,
-                "name": "Pontus Dahlberg",
-                "rank": 3,
-                "ccode": "SWE",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "value": 3.7,
-                "stat": {
-                  "name": "saves",
-                  "value": 3.7,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -30564,23 +30751,23 @@
                 }
               },
               {
-                "id": 625168,
-                "name": "Pontus Dahlberg",
+                "id": 1049254,
+                "name": "Elias Hadaya",
                 "rank": 3,
-                "ccode": "SWE",
-                "teamId": 8476,
-                "teamName": "Lillestrøm",
-                "value": 3.8,
+                "ccode": "SYR",
+                "teamId": 8609,
+                "teamName": "Sandefjord",
+                "value": 3.5,
                 "stat": {
                   "name": "_goals_prevented",
-                  "value": 3.8,
+                  "value": 3.5,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#035db8",
+                  "lightMode": "#104070",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -31340,10 +31527,10 @@
               },
               {
                 "id": 0,
-                "name": "Lillestrøm",
+                "name": "KFUM",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8476,
+                "teamId": 2305,
                 "value": 5,
                 "stat": {
                   "name": "clean_sheet_team",
@@ -31352,9 +31539,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#E60000",
+                  "lightMode": "#E60000",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -32516,21 +32703,21 @@
               },
               {
                 "id": 0,
-                "name": "Lillestrøm",
+                "name": "Molde",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8476,
-                "value": 20.9,
+                "teamId": 9917,
+                "value": 21,
                 "stat": {
                   "name": "expected_goals_conceded_team",
-                  "value": 20.9,
+                  "value": 21,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#0068b0",
+                  "lightMode": "#0D47A0",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -32748,28 +32935,8 @@
               },
               {
                 "id": 0,
-                "name": "Lillestrøm",
-                "rank": 2,
-                "ccode": "NOR",
-                "teamId": 8476,
-                "value": 29.7,
-                "stat": {
-                  "name": "effective_clearance_team",
-                  "value": 29.7,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "KFUM",
-                "rank": 3,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 2305,
                 "value": 29.4,
@@ -32783,6 +32950,26 @@
                   "darkMode": "#E60000",
                   "lightMode": "#E60000",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Lillestrøm",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8476,
+                "value": 28.3,
+                "stat": {
+                  "name": "effective_clearance_team",
+                  "value": 28.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -33108,10 +33295,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8476,
-                "value": 3.7,
+                "value": 3.6,
                 "stat": {
                   "name": "saves_team",
-                  "value": 3.7,
+                  "value": 3.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -37423,12 +37610,23 @@
             "status": {
               "utcTime": "2026-08-09T12:30:00.000Z",
               "halfs": {
-                "firstHalfStarted": "09.08.2026 14:30:00"
+                "firstHalfStarted": "09.08.2026 14:31:22"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "46‎’‎",
+                "shortKey": "",
+                "long": "45:35",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
