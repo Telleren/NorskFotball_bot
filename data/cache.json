@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:43:53.253245+00:00",
+  "generated_at": "2026-08-11T13:49:10.482470+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1487,13 +1487,13 @@
                   "pts": 22,
                   "teamId": 8448,
                   "teamName": "Hamarkameratene",
-                  "xg": 24.16109988093376,
-                  "xgConceded": 26.23279994726181,
-                  "xPoints": 21.2423895546839,
+                  "xg": 24.736899822950363,
+                  "xgConceded": 26.300899922847748,
+                  "xPoints": 21.53057660466465,
                   "position": 9,
-                  "xgDiff": -0.1610998809337616,
-                  "xgConcededDiff": 0.7672000527381897,
-                  "xPointsDiff": 0.7576104453161001,
+                  "xgDiff": -0.7368998229503632,
+                  "xgConcededDiff": 0.6991000771522522,
+                  "xPointsDiff": 0.46942339533535105,
                   "xPosition": 9,
                   "idx": 9,
                   "xPositionDiff": -1,
@@ -1649,13 +1649,13 @@
                   "pts": 14,
                   "teamId": 8404,
                   "teamName": "Aalesund",
-                  "xg": 23.63390016555786,
-                  "xgConceded": 35.046300172805786,
-                  "xPoints": 15.170072858838319,
+                  "xg": 23.7020001411438,
+                  "xgConceded": 35.62210011482239,
+                  "xPoints": 14.956265704194546,
                   "position": 15,
-                  "xgDiff": -1.6339001655578613,
-                  "xgConcededDiff": 0.9536998271942139,
-                  "xPointsDiff": -1.170072858838319,
+                  "xgDiff": -1.7020001411437988,
+                  "xgConcededDiff": 0.3778998851776123,
+                  "xPointsDiff": -0.9562657041945464,
                   "xPosition": 15,
                   "idx": 15,
                   "xPositionDiff": 0,
@@ -4502,6 +4502,75 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Filip Thorvaldsen",
+            "playerId": 1460786,
+            "position": {
+              "label": "RW",
+              "key": "rightwinger_short"
+            },
+            "transferDate": "2026-08-11T12:26:33Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Vålerenga",
+            "fromClubFullName": "Vålerenga",
+            "fromClubId": 8007,
+            "toClub": "FC Twente",
+            "toClubFullName": "FC Twente",
+            "toClubId": 8611,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 5500000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-11T00:00:00Z",
+            "toDate": "2031-06-30T00:00:00Z",
+            "marketValue": 2059542
+          },
+          {
+            "name": "Jacob Steen Christensen",
+            "playerId": 949273,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-11T09:30:12Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubFullName": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Sønderjyske",
+            "toClubFullName": "Sønderjyske",
+            "toClubId": 8487,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-10T00:00:00Z",
+            "toDate": "2027-06-30T00:00:00Z",
+            "marketValue": null
+          },
           {
             "name": "Jacob Blixt Flaten",
             "playerId": 1145004,
@@ -7767,74 +7836,6 @@
             "fromDate": "2026-03-30T22:00:00Z",
             "toDate": "2026-06-27T22:00:00Z",
             "marketValue": 149293
-          },
-          {
-            "name": "Jørgen Bøe",
-            "playerId": 1281276,
-            "position": {
-              "label": "RM",
-              "key": "rightmidfielder_short"
-            },
-            "transferDate": "2026-03-31T20:46:06Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Aalesund",
-            "fromClubFullName": "Aalesund",
-            "fromClubId": 8404,
-            "toClub": "Træff",
-            "toClubFullName": "Træff",
-            "toClubId": 6115,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-30T22:00:00Z",
-            "toDate": "2026-07-14T22:00:00Z",
-            "marketValue": 79608
-          },
-          {
-            "name": "Erik Frøysa",
-            "playerId": 1053645,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-03-31T20:44:54Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Aalesund",
-            "fromClubFullName": "Aalesund",
-            "fromClubId": 8404,
-            "toClub": "Raufoss",
-            "toClubFullName": "Raufoss",
-            "toClubId": 9812,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-30T22:00:00Z",
-            "toDate": "2026-07-14T22:00:00Z",
-            "marketValue": 116620
           }
         ]
       },
@@ -9263,13 +9264,13 @@
                     "pts": 22,
                     "teamId": 8448,
                     "teamName": "Hamarkameratene",
-                    "xg": 24.16109988093376,
-                    "xgConceded": 26.23279994726181,
-                    "xPoints": 21.2423895546839,
+                    "xg": 24.736899822950363,
+                    "xgConceded": 26.300899922847748,
+                    "xPoints": 21.53057660466465,
                     "position": 9,
-                    "xgDiff": -0.1610998809337616,
-                    "xgConcededDiff": 0.7672000527381897,
-                    "xPointsDiff": 0.7576104453161001,
+                    "xgDiff": -0.7368998229503632,
+                    "xgConcededDiff": 0.6991000771522522,
+                    "xPointsDiff": 0.46942339533535105,
                     "xPosition": 9,
                     "idx": 9,
                     "xPositionDiff": -1,
@@ -9425,13 +9426,13 @@
                     "pts": 14,
                     "teamId": 8404,
                     "teamName": "Aalesund",
-                    "xg": 23.63390016555786,
-                    "xgConceded": 35.046300172805786,
-                    "xPoints": 15.170072858838319,
+                    "xg": 23.7020001411438,
+                    "xgConceded": 35.62210011482239,
+                    "xPoints": 14.956265704194546,
                     "position": 15,
-                    "xgDiff": -1.6339001655578613,
-                    "xgConcededDiff": 0.9536998271942139,
-                    "xPointsDiff": -1.170072858838319,
+                    "xgDiff": -1.7020001411437988,
+                    "xgConcededDiff": 0.3778998851776123,
+                    "xPointsDiff": -0.9562657041945464,
                     "xPosition": 15,
                     "idx": 15,
                     "xPositionDiff": 0,
@@ -29777,7 +29778,7 @@
                 "id": 1734316,
                 "name": "Abubacarr Sedi Kinteh",
                 "rank": 2,
-                "ccode": "GMB",
+                "ccode": "TMB",
                 "teamId": 8608,
                 "teamName": "Tromsø",
                 "value": 2.4,
@@ -32739,10 +32740,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8404,
-              "value": 31.2,
+              "value": 31.3,
               "stat": {
                 "name": "effective_clearance_team",
-                "value": 31.2,
+                "value": 31.3,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -32755,10 +32756,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8404,
-                "value": 31.2,
+                "value": 31.3,
                 "stat": {
                   "name": "effective_clearance_team",
-                  "value": 31.2,
+                  "value": 31.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -106208,7 +106209,7 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-09-22T16:00:00Z",
+              "utcTime": "2026-09-02T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -108647,7 +108648,7 @@
                       },
                       "pageUrl": "/matches/viking-vs-brodd/3qo7cv3#5835906",
                       "status": {
-                        "utcTime": "2026-09-22T14:00:00.000Z",
+                        "utcTime": "2026-09-02T14:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -110525,7 +110526,7 @@
                 "id": "8478"
               },
               "status": {
-                "utcTime": "2026-09-22T16:00:00Z",
+                "utcTime": "2026-09-02T16:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -112585,7 +112586,7 @@
               "id": "8478"
             },
             "status": {
-              "utcTime": "2026-09-22T16:00:00Z",
+              "utcTime": "2026-09-02T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -115542,7 +115543,7 @@
                     },
                     "pageUrl": "/matches/viking-vs-brodd/3qo7cv3#5835906",
                     "status": {
-                      "utcTime": "2026-09-22T14:00:00.000Z",
+                      "utcTime": "2026-09-02T14:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
