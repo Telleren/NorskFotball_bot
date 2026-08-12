@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:53:39.191748+00:00",
+  "generated_at": "2026-08-12T19:32:11.293533+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,76 @@
         "type": "league",
         "data": [
           {
+            "name": "Julian Bakkeli Gonstad",
+            "playerId": 1298879,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-12T19:16:12Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "HamKam",
+            "fromClubFullName": "Hamarkameratene",
+            "fromClubId": 8448,
+            "toClub": "KFUM",
+            "toClubFullName": "KFUM",
+            "toClubId": 2305,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 500000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-12T00:00:00Z",
+            "toDate": "2030-12-31T00:00:00Z",
+            "marketValue": 1515004
+          },
+          {
+            "name": "Håkon Røsten",
+            "playerId": 1310473,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-12T19:14:02Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Rosenborg",
+            "fromClubFullName": "Rosenborg",
+            "fromClubId": 8422,
+            "toClub": "KFUM",
+            "toClubFullName": "KFUM",
+            "toClubId": 2305,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 450000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-12T00:00:00Z",
+            "toDate": "2030-12-31T00:00:00Z",
+            "marketValue": 965806
+          },
+          {
             "name": "Filip Thorvaldsen",
             "playerId": 1460786,
             "position": {
@@ -7771,71 +7841,6 @@
             "fromDate": "2026-03-31T22:00:00Z",
             "toDate": "2026-06-29T22:00:00Z",
             "marketValue": 50000
-          },
-          {
-            "name": "Niklas Sandberg",
-            "playerId": 526809,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-04-01T10:47:30Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubFullName": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "FK Haugesund",
-            "toClubFullName": "FK Haugesund",
-            "toClubId": 8512,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-03-30T22:00:00Z",
-            "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 139071
-          },
-          {
-            "name": "Isak Hagen Aalberg",
-            "playerId": 1292359,
-            "position": {
-              "label": "LWB",
-              "key": "left_wing_back_short"
-            },
-            "transferDate": "2026-04-01T10:45:53Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Kristiansund",
-            "fromClubFullName": "Kristiansund",
-            "fromClubId": 8605,
-            "toClub": "Mjøndalen",
-            "toClubFullName": "Mjøndalen",
-            "toClubId": 6541,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-03-30T22:00:00Z",
-            "toDate": "2026-06-27T22:00:00Z",
-            "marketValue": 149293
           }
         ]
       },
@@ -12324,11 +12329,11 @@
                 "name": "Eirik Hestad",
                 "teamId": 9917,
                 "teamName": "Molde",
-                "rating": 7.68,
-                "value": 7.68,
+                "rating": 7.69,
+                "value": 7.69,
                 "stat": {
                   "name": "rating",
-                  "value": 7.68,
+                  "value": 7.69,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -28042,10 +28047,10 @@
                 "ccode": "NOR",
                 "teamId": 9917,
                 "teamName": "Molde",
-                "value": 7.68,
+                "value": 7.69,
                 "stat": {
                   "name": "rating",
-                  "value": 7.68,
+                  "value": 7.69,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -31788,10 +31793,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 9917,
-                "value": 49,
+                "value": 50,
                 "stat": {
                   "name": "big_chance_team",
-                  "value": 49,
+                  "value": 50,
                   "format": "number",
                   "fractions": 0
                 },
@@ -31872,10 +31877,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 9917,
-                "value": 28,
+                "value": 29,
                 "stat": {
                   "name": "big_chance_missed_team",
-                  "value": 28,
+                  "value": 29,
                   "format": "number",
                   "fractions": 0
                 },
@@ -32624,21 +32629,21 @@
               },
               {
                 "id": 0,
-                "name": "Rosenborg",
-                "rank": 2,
+                "name": "Kristiansund",
+                "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8422,
-                "value": 9.5,
+                "teamId": 8605,
+                "value": 9.4,
                 "stat": {
                   "name": "interception_team",
-                  "value": 9.5,
+                  "value": 9.4,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#000000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#2c528c",
+                  "lightMode": "#0C2340",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -32792,10 +32797,10 @@
               },
               {
                 "id": 0,
-                "name": "Lillestrøm",
+                "name": "Kristiansund",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8476,
+                "teamId": 8605,
                 "value": 28.9,
                 "stat": {
                   "name": "effective_clearance_team",
@@ -32804,9 +32809,9 @@
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#dba000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#2c528c",
+                  "lightMode": "#0C2340",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
