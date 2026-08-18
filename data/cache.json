@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T01:56:10.084163+00:00",
+  "generated_at": "2026-08-18T07:10:08.572347+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Tom Strannegård",
+            "playerId": 1104342,
+            "position": {
+              "label": "LM",
+              "key": "leftmidfielder_short"
+            },
+            "transferDate": "2026-08-18T07:41:59Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Thun",
+            "toClubFullName": "Thun",
+            "toClubId": 10191,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 400000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-17T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 340641
+          },
+          {
             "name": "Alexander Munksgaard",
             "playerId": 659281,
             "position": {
@@ -7809,40 +7844,6 @@
             "fromDate": "2026-07-14T00:00:00Z",
             "toDate": "2030-06-30T00:00:00Z",
             "marketValue": 1847735
-          },
-          {
-            "name": "Lucas Svenningsen",
-            "playerId": 1635847,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-05-16T04:28:21Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lillestrøm",
-            "fromClubFullName": "Lillestrøm",
-            "fromClubId": 8476,
-            "toClub": "Tromsdalen",
-            "toClubFullName": "Tromsdalen",
-            "toClubId": 8617,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-04-29T22:00:00Z",
-            "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": 309490
           }
         ]
       },
