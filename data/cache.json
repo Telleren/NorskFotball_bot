@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:14:56.058493+00:00",
+  "generated_at": "2026-08-18T19:02:05.282198+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,106 @@
         "type": "league",
         "data": [
           {
+            "name": "Mads Enggård",
+            "playerId": 1185549,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-18T18:17:26Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Molde",
+            "fromClubFullName": "Molde",
+            "fromClubId": 9917,
+            "toClub": "Mjällby",
+            "toClubFullName": "Mjällby",
+            "toClubId": 8127,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 1500000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-18T00:00:00Z",
+            "toDate": "2030-12-31T00:00:00Z",
+            "marketValue": 2132046
+          },
+          {
+            "name": "Harald Tangen",
+            "playerId": 860269,
+            "position": {
+              "label": "AM",
+              "key": "centerattackingmidfielder_short"
+            },
+            "transferDate": "2026-08-18T16:51:31Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sarpsborg 08",
+            "fromClubFullName": "Sarpsborg 08",
+            "fromClubId": 8509,
+            "toClub": "Vendsyssel FF",
+            "toClubFullName": "Vendsyssel FF",
+            "toClubId": 8615,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-16T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 462288
+          },
+          {
+            "name": "Joel Mvuka",
+            "playerId": 1049665,
+            "position": {
+              "label": "RWB",
+              "key": "right_wing_back_short"
+            },
+            "transferDate": "2026-08-18T15:06:32Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lorient",
+            "fromClubFullName": "Lorient",
+            "fromClubId": 8689,
+            "toClub": "Bodø/Glimt",
+            "toClubFullName": "Bodø/Glimt",
+            "toClubId": 8402,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-18T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 1362658
+          },
+          {
             "name": "Tom Strannegård",
             "playerId": 1104342,
             "position": {
@@ -7742,108 +7842,6 @@
             "fromDate": "2026-06-11T22:00:00Z",
             "toDate": "2026-06-29T22:00:00Z",
             "marketValue": 363945
-          },
-          {
-            "name": "Markus Edner Wæhler",
-            "playerId": 1636127,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-06-15T09:29:47Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lillestrøm",
-            "fromClubFullName": "Lillestrøm",
-            "fromClubId": 8476,
-            "toClub": "Strømmen",
-            "toClubFullName": "Strømmen",
-            "toClubId": 4249,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-06-11T22:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 807218
-          },
-          {
-            "name": "Jesper Eikrem",
-            "playerId": 1474509,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2026-06-15T09:25:24Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Brann",
-            "fromClubFullName": "Brann",
-            "fromClubId": 8468,
-            "toClub": "Åsane",
-            "toClubFullName": "Åsane",
-            "toClubId": 10021,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-06-11T22:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 843615
-          },
-          {
-            "name": "Joshua Kitolano",
-            "playerId": 902675,
-            "position": {
-              "label": "DM",
-              "key": "centerdefensivemidfielder_short"
-            },
-            "transferDate": "2026-05-27T13:55:31Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sparta Rotterdam",
-            "fromClubFullName": "Sparta Rotterdam",
-            "fromClubId": 8614,
-            "toClub": "Bodø/Glimt",
-            "toClubFullName": "Bodø/Glimt",
-            "toClubId": 8402,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": "2030-06-30T00:00:00Z",
-            "marketValue": 1847735
           }
         ]
       },
