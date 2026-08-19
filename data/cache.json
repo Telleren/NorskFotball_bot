@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:15:22.371656+00:00",
+  "generated_at": "2026-08-19T18:58:47.808549+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Amin Chiakha",
+            "playerId": 1555050,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-19T16:43:46Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "FC København",
+            "fromClubFullName": "FC København",
+            "fromClubId": 8391,
+            "toClub": "Rosenborg",
+            "toClubFullName": "Rosenborg",
+            "toClubId": 8422,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 5000000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-19T00:00:00Z",
+            "toDate": "2031-06-30T00:00:00Z",
+            "marketValue": 4406794
+          },
+          {
             "name": "Mads Enggård",
             "playerId": 1185549,
             "position": {
@@ -7808,40 +7843,6 @@
             "fromDate": "2026-06-10T22:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 197936
-          },
-          {
-            "name": "Joachim Prent-Eckbo",
-            "playerId": 1404438,
-            "position": {
-              "label": "RM",
-              "key": "rightmidfielder_short"
-            },
-            "transferDate": "2026-06-15T09:36:19Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "KFUM",
-            "fromClubFullName": "KFUM",
-            "fromClubId": 2305,
-            "toClub": "Arendal Fotball",
-            "toClubFullName": "Arendal Fotball",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-06-11T22:00:00Z",
-            "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": 363945
           }
         ]
       },
@@ -82360,13 +82361,13 @@
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 13,
-                  "wins": 7,
+                  "played": 14,
+                  "wins": 8,
                   "draws": 1,
                   "losses": 5,
-                  "scoresStr": "31-19",
-                  "goalConDiff": 12,
-                  "pts": 22,
+                  "scoresStr": "33-20",
+                  "goalConDiff": 13,
+                  "pts": 25,
                   "idx": 4,
                   "qualColor": null
                 },
@@ -82479,12 +82480,12 @@
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 12,
+                  "played": 13,
                   "wins": 2,
                   "draws": 2,
-                  "losses": 8,
-                  "scoresStr": "10-26",
-                  "goalConDiff": -16,
+                  "losses": 9,
+                  "scoresStr": "11-28",
+                  "goalConDiff": -17,
                   "pts": 8,
                   "idx": 11,
                   "qualColor": "#FF4646"
@@ -82509,6 +82510,24 @@
               ],
               "home": [
                 {
+                  "name": "Vålerenga",
+                  "shortName": "Vålerenga",
+                  "id": 4507,
+                  "pageUrl": "/teams/4507/overview/valerenga",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 8,
+                  "wins": 5,
+                  "draws": 0,
+                  "losses": 3,
+                  "scoresStr": "20-12",
+                  "goalConDiff": 8,
+                  "goalsScored": 20,
+                  "pts": 15,
+                  "idx": 1,
+                  "qualColor": "#FFD908"
+                },
+                {
                   "name": "Brann",
                   "shortName": "Brann",
                   "id": 4182,
@@ -82523,7 +82542,7 @@
                   "goalConDiff": 13,
                   "goalsScored": 14,
                   "pts": 14,
-                  "idx": 1,
+                  "idx": 2,
                   "qualColor": "#FFD908"
                 },
                 {
@@ -82541,8 +82560,8 @@
                   "goalConDiff": 10,
                   "goalsScored": 15,
                   "pts": 13,
-                  "idx": 2,
-                  "qualColor": "#FFD908"
+                  "idx": 3,
+                  "qualColor": "#0046A7"
                 },
                 {
                   "name": "Rosenborg BK",
@@ -82559,24 +82578,6 @@
                   "goalConDiff": 6,
                   "goalsScored": 10,
                   "pts": 13,
-                  "idx": 3,
-                  "qualColor": "#0046A7"
-                },
-                {
-                  "name": "Vålerenga",
-                  "shortName": "Vålerenga",
-                  "id": 4507,
-                  "pageUrl": "/teams/4507/overview/valerenga",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 7,
-                  "wins": 4,
-                  "draws": 0,
-                  "losses": 3,
-                  "scoresStr": "18-11",
-                  "goalConDiff": 7,
-                  "goalsScored": 18,
-                  "pts": 12,
                   "idx": 4,
                   "qualColor": null
                 },
@@ -82913,13 +82914,13 @@
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 6,
+                  "played": 7,
                   "wins": 0,
                   "draws": 2,
-                  "losses": 4,
-                  "scoresStr": "3-14",
-                  "goalConDiff": -11,
-                  "goalsScored": 3,
+                  "losses": 5,
+                  "scoresStr": "4-16",
+                  "goalConDiff": -12,
+                  "goalsScored": 4,
                   "pts": 2,
                   "idx": 11,
                   "qualColor": "#FF4646"
@@ -83062,9 +83063,9 @@
                   "wins": 2,
                   "draws": 0,
                   "losses": 3,
-                  "scoresStr": "13-10",
-                  "goalConDiff": 3,
-                  "goalsScored": 13,
+                  "scoresStr": "8-10",
+                  "goalConDiff": -2,
+                  "goalsScored": 8,
                   "pts": 6,
                   "ongoing": null,
                   "idx": 7,
@@ -83134,9 +83135,9 @@
                   "wins": 1,
                   "draws": 1,
                   "losses": 3,
-                  "scoresStr": "5-9",
+                  "scoresStr": "4-8",
                   "goalConDiff": -4,
-                  "goalsScored": 5,
+                  "goalsScored": 4,
                   "pts": 4,
                   "ongoing": null,
                   "idx": 11,
@@ -83966,37 +83967,6 @@
             ],
             "4507": [
               {
-                "result": 1,
-                "resultString": "W",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1599447_xsmall.png",
-                "linkToMatch": "/matches/valerenga-vs-bodoglimt/gexmnsfq#5105371",
-                "date": null,
-                "teamPageUrl": "/teams/1599447/overview/bodoglimt",
-                "tooltipText": {
-                  "utcTime": "2026-05-26T16:00:00Z",
-                  "timezone": "UTC",
-                  "homeTeam": "Vålerenga (W)",
-                  "homeTeamId": 4507,
-                  "homeScore": 7,
-                  "awayTeam": "Bodø/Glimt (W)",
-                  "awayTeamId": 1599447,
-                  "awayScore": 1
-                },
-                "score": "7 - 1",
-                "home": {
-                  "id": "4507",
-                  "name": "Vålerenga (W)",
-                  "shortName": "Vålerenga (W)",
-                  "isOurTeam": true
-                },
-                "away": {
-                  "id": "1599447",
-                  "name": "Bodø/Glimt (W)",
-                  "shortName": "Bodø/Glimt (W)",
-                  "isOurTeam": false
-                }
-              },
-              {
                 "result": -1,
                 "resultString": "L",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429438_xsmall.png",
@@ -84118,6 +84088,37 @@
                   "name": "Vålerenga (W)",
                   "shortName": "Vålerenga (W)",
                   "isOurTeam": true
+                }
+              },
+              {
+                "result": 1,
+                "resultString": "W",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/920414_xsmall.png",
+                "linkToMatch": "/matches/valerenga-vs-honefoss/5gi1u22b#5105400",
+                "date": null,
+                "teamPageUrl": "/teams/920414/overview/honefoss",
+                "tooltipText": {
+                  "utcTime": "2026-08-19T16:00:00Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Vålerenga (W)",
+                  "homeTeamId": 4507,
+                  "homeScore": 2,
+                  "awayTeam": "Hønefoss (W)",
+                  "awayTeamId": 920414,
+                  "awayScore": 1
+                },
+                "score": "2 - 1",
+                "home": {
+                  "id": "4507",
+                  "name": "Vålerenga (W)",
+                  "shortName": "Vålerenga (W)",
+                  "isOurTeam": true
+                },
+                "away": {
+                  "id": "920414",
+                  "name": "Hønefoss (W)",
+                  "shortName": "Hønefoss (W)",
+                  "isOurTeam": false
                 }
               }
             ],
@@ -84753,37 +84754,6 @@
               {
                 "result": -1,
                 "resultString": "L",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4486_xsmall.png",
-                "linkToMatch": "/matches/lsk-kvinner-vs-honefoss/5ghq9r2w#5105367",
-                "date": null,
-                "teamPageUrl": "/teams/4486/overview/lsk-kvinner",
-                "tooltipText": {
-                  "utcTime": "2026-05-26T16:00:00Z",
-                  "timezone": "UTC",
-                  "homeTeam": "LSK Kvinner (W)",
-                  "homeTeamId": 4486,
-                  "homeScore": 3,
-                  "awayTeam": "Hønefoss (W)",
-                  "awayTeamId": 920414,
-                  "awayScore": 2
-                },
-                "score": "3 - 2",
-                "home": {
-                  "id": "4486",
-                  "name": "LSK Kvinner (W)",
-                  "shortName": "LSK Kvinner (W)",
-                  "isOurTeam": false
-                },
-                "away": {
-                  "id": "920414",
-                  "name": "Hønefoss (W)",
-                  "shortName": "Hønefoss (W)",
-                  "isOurTeam": true
-                }
-              },
-              {
-                "result": -1,
-                "resultString": "L",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/92171_xsmall.png",
                 "linkToMatch": "/matches/stabaek-vs-honefoss/6jijdnbc#5105374",
                 "date": null,
@@ -84903,6 +84873,37 @@
                   "name": "Brann (W)",
                   "shortName": "Brann (W)",
                   "isOurTeam": false
+                }
+              },
+              {
+                "result": -1,
+                "resultString": "L",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4507_xsmall.png",
+                "linkToMatch": "/matches/valerenga-vs-honefoss/5gi1u22b#5105400",
+                "date": null,
+                "teamPageUrl": "/teams/4507/overview/valerenga",
+                "tooltipText": {
+                  "utcTime": "2026-08-19T16:00:00Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Vålerenga (W)",
+                  "homeTeamId": 4507,
+                  "homeScore": 2,
+                  "awayTeam": "Hønefoss (W)",
+                  "awayTeamId": 920414,
+                  "awayScore": 1
+                },
+                "score": "2 - 1",
+                "home": {
+                  "id": "4507",
+                  "name": "Vålerenga (W)",
+                  "shortName": "Vålerenga (W)",
+                  "isOurTeam": false
+                },
+                "away": {
+                  "id": "920414",
+                  "name": "Hønefoss (W)",
+                  "shortName": "Hønefoss (W)",
+                  "isOurTeam": true
                 }
               }
             ],
@@ -85146,20 +85147,20 @@
               "2026-08-22T12:00:00Z"
             ],
             "4507": [
-              "920414",
-              "Hønefoss (W)",
-              "5105400",
+              "4485",
+              "Røa (W)",
+              "5105412",
+              {
+                "id": "4485",
+                "name": "Røa (W)",
+                "shortName": "Røa (W)"
+              },
               {
                 "id": "4507",
                 "name": "Vålerenga (W)",
                 "shortName": "Vålerenga (W)"
               },
-              {
-                "id": "920414",
-                "name": "Hønefoss (W)",
-                "shortName": "Hønefoss (W)"
-              },
-              "2026-08-19T16:00:00Z"
+              "2026-09-11T16:00:00Z"
             ],
             "92171": [
               "1599447",
@@ -85226,20 +85227,20 @@
               "2026-08-22T12:00:00Z"
             ],
             "920414": [
-              "4507",
-              "Vålerenga (W)",
-              "5105400",
-              {
-                "id": "4507",
-                "name": "Vålerenga (W)",
-                "shortName": "Vålerenga (W)"
-              },
+              "4500",
+              "Aalesund (W)",
+              "5105403",
               {
                 "id": "920414",
                 "name": "Hønefoss (W)",
                 "shortName": "Hønefoss (W)"
               },
-              "2026-08-19T16:00:00Z"
+              {
+                "id": "4500",
+                "name": "Aalesund (W)",
+                "shortName": "Aalesund (W)"
+              },
+              "2026-08-29T11:00:00Z"
             ],
             "1599447": [
               "92171",
@@ -85388,13 +85389,13 @@
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 13,
-                    "wins": 7,
+                    "played": 14,
+                    "wins": 8,
                     "draws": 1,
                     "losses": 5,
-                    "scoresStr": "31-19",
-                    "goalConDiff": 12,
-                    "pts": 22,
+                    "scoresStr": "33-20",
+                    "goalConDiff": 13,
+                    "pts": 25,
                     "idx": 4,
                     "qualColor": null
                   },
@@ -85507,12 +85508,12 @@
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 12,
+                    "played": 13,
                     "wins": 2,
                     "draws": 2,
-                    "losses": 8,
-                    "scoresStr": "10-26",
-                    "goalConDiff": -16,
+                    "losses": 9,
+                    "scoresStr": "11-28",
+                    "goalConDiff": -17,
                     "pts": 8,
                     "idx": 11,
                     "qualColor": "#FF4646"
@@ -85537,6 +85538,24 @@
                 ],
                 "home": [
                   {
+                    "name": "Vålerenga",
+                    "shortName": "Vålerenga",
+                    "id": 4507,
+                    "pageUrl": "/teams/4507/overview/valerenga",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 8,
+                    "wins": 5,
+                    "draws": 0,
+                    "losses": 3,
+                    "scoresStr": "20-12",
+                    "goalConDiff": 8,
+                    "goalsScored": 20,
+                    "pts": 15,
+                    "idx": 1,
+                    "qualColor": "#FFD908"
+                  },
+                  {
                     "name": "Brann",
                     "shortName": "Brann",
                     "id": 4182,
@@ -85551,7 +85570,7 @@
                     "goalConDiff": 13,
                     "goalsScored": 14,
                     "pts": 14,
-                    "idx": 1,
+                    "idx": 2,
                     "qualColor": "#FFD908"
                   },
                   {
@@ -85569,8 +85588,8 @@
                     "goalConDiff": 10,
                     "goalsScored": 15,
                     "pts": 13,
-                    "idx": 2,
-                    "qualColor": "#FFD908"
+                    "idx": 3,
+                    "qualColor": "#0046A7"
                   },
                   {
                     "name": "Rosenborg BK",
@@ -85587,24 +85606,6 @@
                     "goalConDiff": 6,
                     "goalsScored": 10,
                     "pts": 13,
-                    "idx": 3,
-                    "qualColor": "#0046A7"
-                  },
-                  {
-                    "name": "Vålerenga",
-                    "shortName": "Vålerenga",
-                    "id": 4507,
-                    "pageUrl": "/teams/4507/overview/valerenga",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 7,
-                    "wins": 4,
-                    "draws": 0,
-                    "losses": 3,
-                    "scoresStr": "18-11",
-                    "goalConDiff": 7,
-                    "goalsScored": 18,
-                    "pts": 12,
                     "idx": 4,
                     "qualColor": null
                   },
@@ -85941,13 +85942,13 @@
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 6,
+                    "played": 7,
                     "wins": 0,
                     "draws": 2,
-                    "losses": 4,
-                    "scoresStr": "3-14",
-                    "goalConDiff": -11,
-                    "goalsScored": 3,
+                    "losses": 5,
+                    "scoresStr": "4-16",
+                    "goalConDiff": -12,
+                    "goalsScored": 4,
                     "pts": 2,
                     "idx": 11,
                     "qualColor": "#FF4646"
@@ -86090,9 +86091,9 @@
                     "wins": 2,
                     "draws": 0,
                     "losses": 3,
-                    "scoresStr": "13-10",
-                    "goalConDiff": 3,
-                    "goalsScored": 13,
+                    "scoresStr": "8-10",
+                    "goalConDiff": -2,
+                    "goalsScored": 8,
                     "pts": 6,
                     "ongoing": null,
                     "idx": 7,
@@ -86162,9 +86163,9 @@
                     "wins": 1,
                     "draws": 1,
                     "losses": 3,
-                    "scoresStr": "5-9",
+                    "scoresStr": "4-8",
                     "goalConDiff": -4,
-                    "goalsScored": 5,
+                    "goalsScored": 4,
                     "pts": 4,
                     "ongoing": null,
                     "idx": 11,
@@ -86994,37 +86995,6 @@
               ],
               "4507": [
                 {
-                  "result": 1,
-                  "resultString": "W",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1599447_xsmall.png",
-                  "linkToMatch": "/matches/valerenga-vs-bodoglimt/gexmnsfq#5105371",
-                  "date": null,
-                  "teamPageUrl": "/teams/1599447/overview/bodoglimt",
-                  "tooltipText": {
-                    "utcTime": "2026-05-26T16:00:00Z",
-                    "timezone": "UTC",
-                    "homeTeam": "Vålerenga (W)",
-                    "homeTeamId": 4507,
-                    "homeScore": 7,
-                    "awayTeam": "Bodø/Glimt (W)",
-                    "awayTeamId": 1599447,
-                    "awayScore": 1
-                  },
-                  "score": "7 - 1",
-                  "home": {
-                    "id": "4507",
-                    "name": "Vålerenga (W)",
-                    "shortName": "Vålerenga (W)",
-                    "isOurTeam": true
-                  },
-                  "away": {
-                    "id": "1599447",
-                    "name": "Bodø/Glimt (W)",
-                    "shortName": "Bodø/Glimt (W)",
-                    "isOurTeam": false
-                  }
-                },
-                {
                   "result": -1,
                   "resultString": "L",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429438_xsmall.png",
@@ -87146,6 +87116,37 @@
                     "name": "Vålerenga (W)",
                     "shortName": "Vålerenga (W)",
                     "isOurTeam": true
+                  }
+                },
+                {
+                  "result": 1,
+                  "resultString": "W",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/920414_xsmall.png",
+                  "linkToMatch": "/matches/valerenga-vs-honefoss/5gi1u22b#5105400",
+                  "date": null,
+                  "teamPageUrl": "/teams/920414/overview/honefoss",
+                  "tooltipText": {
+                    "utcTime": "2026-08-19T16:00:00Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Vålerenga (W)",
+                    "homeTeamId": 4507,
+                    "homeScore": 2,
+                    "awayTeam": "Hønefoss (W)",
+                    "awayTeamId": 920414,
+                    "awayScore": 1
+                  },
+                  "score": "2 - 1",
+                  "home": {
+                    "id": "4507",
+                    "name": "Vålerenga (W)",
+                    "shortName": "Vålerenga (W)",
+                    "isOurTeam": true
+                  },
+                  "away": {
+                    "id": "920414",
+                    "name": "Hønefoss (W)",
+                    "shortName": "Hønefoss (W)",
+                    "isOurTeam": false
                   }
                 }
               ],
@@ -87781,37 +87782,6 @@
                 {
                   "result": -1,
                   "resultString": "L",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4486_xsmall.png",
-                  "linkToMatch": "/matches/lsk-kvinner-vs-honefoss/5ghq9r2w#5105367",
-                  "date": null,
-                  "teamPageUrl": "/teams/4486/overview/lsk-kvinner",
-                  "tooltipText": {
-                    "utcTime": "2026-05-26T16:00:00Z",
-                    "timezone": "UTC",
-                    "homeTeam": "LSK Kvinner (W)",
-                    "homeTeamId": 4486,
-                    "homeScore": 3,
-                    "awayTeam": "Hønefoss (W)",
-                    "awayTeamId": 920414,
-                    "awayScore": 2
-                  },
-                  "score": "3 - 2",
-                  "home": {
-                    "id": "4486",
-                    "name": "LSK Kvinner (W)",
-                    "shortName": "LSK Kvinner (W)",
-                    "isOurTeam": false
-                  },
-                  "away": {
-                    "id": "920414",
-                    "name": "Hønefoss (W)",
-                    "shortName": "Hønefoss (W)",
-                    "isOurTeam": true
-                  }
-                },
-                {
-                  "result": -1,
-                  "resultString": "L",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/92171_xsmall.png",
                   "linkToMatch": "/matches/stabaek-vs-honefoss/6jijdnbc#5105374",
                   "date": null,
@@ -87931,6 +87901,37 @@
                     "name": "Brann (W)",
                     "shortName": "Brann (W)",
                     "isOurTeam": false
+                  }
+                },
+                {
+                  "result": -1,
+                  "resultString": "L",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4507_xsmall.png",
+                  "linkToMatch": "/matches/valerenga-vs-honefoss/5gi1u22b#5105400",
+                  "date": null,
+                  "teamPageUrl": "/teams/4507/overview/valerenga",
+                  "tooltipText": {
+                    "utcTime": "2026-08-19T16:00:00Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Vålerenga (W)",
+                    "homeTeamId": 4507,
+                    "homeScore": 2,
+                    "awayTeam": "Hønefoss (W)",
+                    "awayTeamId": 920414,
+                    "awayScore": 1
+                  },
+                  "score": "2 - 1",
+                  "home": {
+                    "id": "4507",
+                    "name": "Vålerenga (W)",
+                    "shortName": "Vålerenga (W)",
+                    "isOurTeam": false
+                  },
+                  "away": {
+                    "id": "920414",
+                    "name": "Hønefoss (W)",
+                    "shortName": "Hønefoss (W)",
+                    "isOurTeam": true
                   }
                 }
               ],
@@ -88174,20 +88175,20 @@
                 "2026-08-22T12:00:00Z"
               ],
               "4507": [
-                "920414",
-                "Hønefoss (W)",
-                "5105400",
+                "4485",
+                "Røa (W)",
+                "5105412",
+                {
+                  "id": "4485",
+                  "name": "Røa (W)",
+                  "shortName": "Røa (W)"
+                },
                 {
                   "id": "4507",
                   "name": "Vålerenga (W)",
                   "shortName": "Vålerenga (W)"
                 },
-                {
-                  "id": "920414",
-                  "name": "Hønefoss (W)",
-                  "shortName": "Hønefoss (W)"
-                },
-                "2026-08-19T16:00:00Z"
+                "2026-09-11T16:00:00Z"
               ],
               "92171": [
                 "1599447",
@@ -88254,20 +88255,20 @@
                 "2026-08-22T12:00:00Z"
               ],
               "920414": [
-                "4507",
-                "Vålerenga (W)",
-                "5105400",
-                {
-                  "id": "4507",
-                  "name": "Vålerenga (W)",
-                  "shortName": "Vålerenga (W)"
-                },
+                "4500",
+                "Aalesund (W)",
+                "5105403",
                 {
                   "id": "920414",
                   "name": "Hønefoss (W)",
                   "shortName": "Hønefoss (W)"
                 },
-                "2026-08-19T16:00:00Z"
+                {
+                  "id": "4500",
+                  "name": "Aalesund (W)",
+                  "shortName": "Aalesund (W)"
+                },
+                "2026-08-29T11:00:00Z"
               ],
               "1599447": [
                 "92171",
@@ -91374,32 +91375,41 @@
             "opponent": {
               "id": "4507",
               "name": "Vålerenga (W)",
-              "score": 0
+              "score": 2
             },
             "home": {
               "id": "4507",
               "name": "Vålerenga (W)",
-              "score": 0
+              "score": 2
             },
             "away": {
               "id": "920414",
               "name": "Hønefoss (W)",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-19T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "19.08.2026 18:00:00"
+                "firstHalfStarted": "19.08.2026 18:00:50",
+                "secondHalfStarted": "19.08.2026 19:01:45"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "2 - 1",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -93143,8 +93153,8 @@
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 75,
-            "firstUnplayedMatchId": "5105400"
+            "firstUnplayedMatchIndex": 76,
+            "firstUnplayedMatchId": "5105398"
           },
           "allMatches": [
             {
@@ -95490,12 +95500,21 @@
               "status": {
                 "utcTime": "2026-08-19T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "19.08.2026 18:00:00"
+                  "firstHalfStarted": "19.08.2026 18:00:50",
+                  "secondHalfStarted": "19.08.2026 19:01:45"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "2 - 1",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -97657,10 +97676,10 @@
                 "rank": 2,
                 "teamId": 4507,
                 "teamName": "Vaalerenga",
-                "value": 29,
+                "value": 31,
                 "stat": {
                   "name": "_set_piece_goals_team",
-                  "value": 29,
+                  "value": 31,
                   "format": "number",
                   "fractions": 0
                 },
@@ -98127,8 +98146,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 75,
-          "firstUnplayedMatchId": "5105400"
+          "firstUnplayedMatchIndex": 76,
+          "firstUnplayedMatchId": "5105398"
         },
         "allMatches": [
           {
@@ -100474,12 +100493,21 @@
             "status": {
               "utcTime": "2026-08-19T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "19.08.2026 18:00:00"
+                "firstHalfStarted": "19.08.2026 18:00:50",
+                "secondHalfStarted": "19.08.2026 19:01:45"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "2 - 1",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
