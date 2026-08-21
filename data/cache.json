@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:13:54.060909+00:00",
+  "generated_at": "2026-08-21T13:16:13.283413+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Markus Soomets",
+            "playerId": 1078375,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-21T09:57:03Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Kolding IF",
+            "toClubFullName": "Kolding IF",
+            "toClubId": 6308,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-20T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 324372
+          },
+          {
             "name": "Vince Osuji",
             "playerId": 1658826,
             "position": {
@@ -7819,37 +7850,6 @@
             "fromDate": "2026-06-30T22:00:00Z",
             "toDate": null,
             "marketValue": 239207
-          },
-          {
-            "name": "Johan Solstad-Noeis",
-            "playerId": 1745340,
-            "position": null,
-            "transferDate": "2026-06-16T01:08:37Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Tromsø",
-            "fromClubFullName": "Tromsø",
-            "fromClubId": 8608,
-            "toClub": "Lyn",
-            "toClubFullName": "Lyn",
-            "toClubId": 10224,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-06-03T22:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": null
           }
         ]
       },
@@ -48285,6 +48285,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Jonathan Vonheim Norbye",
+            "playerId": 1377329,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-21T09:55:35Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "RB Leipzig",
+            "fromClubFullName": "RB Leipzig",
+            "fromClubId": 178475,
+            "toClub": "FK Haugesund",
+            "toClubFullName": "FK Haugesund",
+            "toClubId": 8512,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-20T00:00:00Z",
+            "toDate": "2029-07-31T00:00:00Z",
+            "marketValue": null
+          },
+          {
             "name": "Duarte Moreira",
             "playerId": 1525381,
             "position": {
@@ -51593,40 +51624,6 @@
             "fromDate": "2025-09-01T22:00:00Z",
             "toDate": "2025-12-30T23:00:00Z",
             "marketValue": 305553
-          },
-          {
-            "name": "Victor Ekström",
-            "playerId": 1457847,
-            "position": {
-              "label": "RB",
-              "key": "rightback_short"
-            },
-            "transferDate": "2025-09-03T14:37:08Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sirius",
-            "fromClubFullName": "Sirius",
-            "fromClubId": 6694,
-            "toClub": "Mjøndalen",
-            "toClubFullName": "Mjøndalen",
-            "toClubId": 6541,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-09-02T22:00:00Z",
-            "toDate": "2025-12-30T23:00:00Z",
-            "marketValue": 209720
           }
         ]
       },
