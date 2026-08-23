@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:07:08.751409+00:00",
+  "generated_at": "2026-08-23T13:08:14.548809+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -104994,6 +104994,26 @@
           "byGoals": {
             "players": [
               {
+                "id": 1475846,
+                "name": "Erik Leandersson",
+                "teamId": 9929,
+                "teamName": "Notodden",
+                "goals": 4,
+                "value": 4,
+                "stat": {
+                  "name": "goals",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0061a7",
+                  "lightMode": "#0061a7",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 935999,
                 "name": "Magnus Sandvik Høiseth",
                 "teamId": 6561,
@@ -105029,26 +105049,6 @@
                 "teamColors": {
                   "darkMode": "#ffffff",
                   "lightMode": "#202020",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1281225,
-                "name": "Daniel Tavakoli",
-                "teamId": 1352625,
-                "teamName": "Gamle Oslo",
-                "goals": 3,
-                "value": 3,
-                "stat": {
-                  "name": "goals",
-                  "value": 3,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#DDDDDD",
-                  "lightMode": "#333333",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -107107,7 +107107,7 @@
             "away": {
               "id": "8007",
               "name": "Vålerenga",
-              "score": 0
+              "score": 2
             },
             "displayTournament": true,
             "notStarted": true,
@@ -107117,12 +107117,23 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:00:00"
+                "firstHalfStarted": "23.08.2026 15:00:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 2",
+              "liveTime": {
+                "short": "4‎’‎",
+                "shortKey": "",
+                "long": "3:54",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -107151,12 +107162,23 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:00:00"
+                "firstHalfStarted": "23.08.2026 15:01:13"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "3‎’‎",
+                "shortKey": "",
+                "long": "2:45",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -107185,12 +107207,23 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:00:00"
+                "firstHalfStarted": "23.08.2026 15:01:29"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "3‎’‎",
+                "shortKey": "",
+                "long": "2:29",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110463,6 +110496,8 @@
                   "drawOrder": 53,
                   "stage": "1",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Trysil FK",
                   "awayTeam": "Hamarkameratene",
                   "homeTeamShortName": "TSF",
@@ -110490,9 +110525,20 @@
                       "status": {
                         "utcTime": "2026-08-23T11:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -110509,6 +110555,8 @@
                   "drawOrder": 54,
                   "stage": "1",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Fløya",
                   "awayTeam": "Junkeren",
                   "homeTeamShortName": "FLØ",
@@ -110536,9 +110584,20 @@
                       "status": {
                         "utcTime": "2026-08-23T11:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -110555,6 +110614,8 @@
                   "drawOrder": 55,
                   "stage": "1",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Christiania Ballklubb",
                   "awayTeam": "Vålerenga",
                   "homeTeamShortName": "CBA",
@@ -110582,9 +110643,20 @@
                       "status": {
                         "utcTime": "2026-08-23T11:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -112553,12 +112625,23 @@
               "status": {
                 "utcTime": "2026-08-23T13:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 15:00:00"
+                  "firstHalfStarted": "23.08.2026 15:00:04"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 2",
+                "liveTime": {
+                  "short": "4‎’‎",
+                  "shortKey": "",
+                  "long": "3:54",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -112577,12 +112660,23 @@
               "status": {
                 "utcTime": "2026-08-23T13:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 15:00:00"
+                  "firstHalfStarted": "23.08.2026 15:01:13"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "3‎’‎",
+                  "shortKey": "",
+                  "long": "2:45",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -112601,12 +112695,23 @@
               "status": {
                 "utcTime": "2026-08-23T13:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 15:00:00"
+                  "firstHalfStarted": "23.08.2026 15:01:29"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "3‎’‎",
+                  "shortKey": "",
+                  "long": "2:29",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -113337,11 +113442,11 @@
           {
             "header": "Top scorer",
             "participant": {
-              "id": 935999,
-              "name": "Magnus Sandvik Høiseth",
+              "id": 1475846,
+              "name": "Erik Leandersson",
               "rank": 1,
-              "teamId": 6561,
-              "teamName": "Levanger",
+              "teamId": 9929,
+              "teamName": "Notodden",
               "value": 4,
               "stat": {
                 "name": "goals",
@@ -113352,6 +113457,26 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/goals.json",
             "topThree": [
+              {
+                "id": 1475846,
+                "name": "Erik Leandersson",
+                "rank": 1,
+                "teamId": 9929,
+                "teamName": "Notodden",
+                "value": 4,
+                "stat": {
+                  "name": "goals",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0061a7",
+                  "lightMode": "#0061a7",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 935999,
                 "name": "Magnus Sandvik Høiseth",
@@ -113388,26 +113513,6 @@
                 "teamColors": {
                   "darkMode": "#ffffff",
                   "lightMode": "#202020",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1281225,
-                "name": "Daniel Tavakoli",
-                "rank": 3,
-                "teamId": 1352625,
-                "teamName": "Gamle Oslo",
-                "value": 3,
-                "stat": {
-                  "name": "goals",
-                  "value": 3,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#DDDDDD",
-                  "lightMode": "#333333",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -113592,10 +113697,10 @@
             "header": "Goals conceded per match",
             "participant": {
               "id": 0,
-              "name": "Trygg/Lade",
+              "name": "Vålerenga",
               "rank": 1,
-              "teamId": 525114,
-              "teamName": "Trygg/Lade",
+              "teamId": 8007,
+              "teamName": "Vålerenga",
               "value": 0,
               "stat": {
                 "name": "goals_conceded_team_match",
@@ -113606,6 +113711,46 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/goals_conceded_team_match.json",
             "topThree": [
+              {
+                "id": 0,
+                "name": "Vålerenga",
+                "rank": 1,
+                "teamId": 8007,
+                "teamName": "Vålerenga",
+                "value": 0,
+                "stat": {
+                  "name": "goals_conceded_team_match",
+                  "value": 0,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#333bb3",
+                  "lightMode": "#283090",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Trysil FK",
+                "rank": 1,
+                "teamId": 161375,
+                "teamName": "Trysil FK",
+                "value": 0,
+                "stat": {
+                  "name": "goals_conceded_team_match",
+                  "value": 0,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#DDDDDD",
+                  "lightMode": "#333333",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 0,
                 "name": "Trygg/Lade",
@@ -113623,46 +113768,6 @@
                   "darkMode": "#DDDDDD",
                   "lightMode": "#333333",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Tromsø",
-                "rank": 1,
-                "teamId": 8608,
-                "teamName": "Tromsø",
-                "value": 0,
-                "stat": {
-                  "name": "goals_conceded_team_match",
-                  "value": 0,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#EB131C",
-                  "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Tromsdalen",
-                "rank": 1,
-                "teamId": 8617,
-                "teamName": "Tromsdalen",
-                "value": 0,
-                "stat": {
-                  "name": "goals_conceded_team_match",
-                  "value": 0,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#0080C6",
-                  "lightMode": "#0080C6",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -115724,12 +115829,23 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:00:00"
+                "firstHalfStarted": "23.08.2026 15:00:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 2",
+              "liveTime": {
+                "short": "4‎’‎",
+                "shortKey": "",
+                "long": "3:54",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -115748,12 +115864,23 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:00:00"
+                "firstHalfStarted": "23.08.2026 15:01:13"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "3‎’‎",
+                "shortKey": "",
+                "long": "2:45",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -115772,12 +115899,23 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:00:00"
+                "firstHalfStarted": "23.08.2026 15:01:29"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "3‎’‎",
+                "shortKey": "",
+                "long": "2:29",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -119478,6 +119616,8 @@
                 "drawOrder": 53,
                 "stage": "1",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Trysil FK",
                 "awayTeam": "Hamarkameratene",
                 "homeTeamShortName": "TSF",
@@ -119505,9 +119645,20 @@
                     "status": {
                       "utcTime": "2026-08-23T11:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -119524,6 +119675,8 @@
                 "drawOrder": 54,
                 "stage": "1",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Fløya",
                 "awayTeam": "Junkeren",
                 "homeTeamShortName": "FLØ",
@@ -119551,9 +119704,20 @@
                     "status": {
                       "utcTime": "2026-08-23T11:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -119570,6 +119734,8 @@
                 "drawOrder": 55,
                 "stage": "1",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Christiania Ballklubb",
                 "awayTeam": "Vålerenga",
                 "homeTeamShortName": "CBA",
@@ -119597,9 +119763,20 @@
                     "status": {
                       "utcTime": "2026-08-23T11:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
