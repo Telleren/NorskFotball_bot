@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:08:14.548809+00:00",
+  "generated_at": "2026-08-23T18:53:33.908320+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -107097,42 +107097,40 @@
             "opponent": {
               "id": "1004504",
               "name": "Christiania Ballklubb",
-              "score": 0
+              "score": 2
             },
             "home": {
               "id": "1004504",
               "name": "Christiania Ballklubb",
-              "score": 0
+              "score": 2
             },
             "away": {
               "id": "8007",
               "name": "Vålerenga",
-              "score": 2
+              "score": 7
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:00:04"
+                "firstHalfStarted": "23.08.2026 15:00:04",
+                "secondHalfStarted": "23.08.2026 16:02:49"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "0 - 2",
-              "liveTime": {
-                "short": "4‎’‎",
-                "shortKey": "",
-                "long": "3:54",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "2 - 7",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -107142,42 +107140,40 @@
             "opponent": {
               "id": "6543",
               "name": "Fløya",
-              "score": 0
+              "score": 5
             },
             "home": {
               "id": "6543",
               "name": "Fløya",
-              "score": 0
+              "score": 5
             },
             "away": {
               "id": "4320",
               "name": "Junkeren",
-              "score": 0
+              "score": 3
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:01:13"
+                "firstHalfStarted": "23.08.2026 15:01:13",
+                "secondHalfStarted": "23.08.2026 16:04:18"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "0 - 0",
-              "liveTime": {
-                "short": "3‎’‎",
-                "shortKey": "",
-                "long": "2:45",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "5 - 3",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -107197,32 +107193,30 @@
             "away": {
               "id": "8448",
               "name": "HamKam",
-              "score": 0
+              "score": 5
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:01:29"
+                "firstHalfStarted": "23.08.2026 15:01:29",
+                "secondHalfStarted": "23.08.2026 16:03:16"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "0 - 0",
-              "liveTime": {
-                "short": "3‎’‎",
-                "shortKey": "",
-                "long": "2:29",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "0 - 5",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -107242,22 +107236,31 @@
             "away": {
               "id": "8609",
               "name": "Sandefjord",
-              "score": 0
+              "score": 15
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-23T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 16:00:00"
+                "firstHalfStarted": "23.08.2026 15:59:35",
+                "secondHalfStarted": "23.08.2026 17:02:36"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 15",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -107276,22 +107279,31 @@
             "away": {
               "id": "8180",
               "name": "Strømsgodset",
-              "score": 0
+              "score": 6
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-23T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 16:00:00"
+                "firstHalfStarted": "23.08.2026 15:59:38",
+                "secondHalfStarted": "23.08.2026 17:01:40"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 6",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -107300,12 +107312,12 @@
             "opponent": {
               "id": "2297",
               "name": "Flint",
-              "score": 0
+              "score": 2
             },
             "home": {
               "id": "2297",
               "name": "Flint",
-              "score": 0
+              "score": 2
             },
             "away": {
               "id": "10016",
@@ -107313,19 +107325,28 @@
               "score": 0
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-23T15:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 17:00:00"
+                "firstHalfStarted": "23.08.2026 17:01:52",
+                "secondHalfStarted": "23.08.2026 18:05:19"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "2 - 0",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -107344,22 +107365,31 @@
             "away": {
               "id": "8468",
               "name": "Brann",
-              "score": 0
+              "score": 4
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-23T15:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 17:00:00"
+                "firstHalfStarted": "23.08.2026 17:01:02",
+                "secondHalfStarted": "23.08.2026 18:02:22"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 4",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -110496,8 +110526,9 @@
                   "drawOrder": 53,
                   "stage": "1",
                   "bestOf": 0,
+                  "winner": 8448,
                   "homeScore": 0,
-                  "awayScore": 0,
+                  "awayScore": 5,
                   "homeTeam": "Trysil FK",
                   "awayTeam": "Hamarkameratene",
                   "homeTeamShortName": "TSF",
@@ -110518,36 +110549,33 @@
                         "id": 8448,
                         "name": "HamKam",
                         "shortName": "H-K",
-                        "score": 0,
-                        "winner": false
+                        "score": 5,
+                        "winner": true
                       },
                       "pageUrl": "/matches/hamarkameratene-vs-trysil-fk/6mhb1w0#5835872",
                       "status": {
                         "utcTime": "2026-08-23T11:00:00.000Z",
                         "timezone": "UTC",
-                        "finished": false,
+                        "finished": true,
                         "started": true,
                         "cancelled": false,
-                        "ongoing": true,
-                        "scoreStr": "0 - 0",
-                        "liveTime": {
-                          "short": "1‎’‎",
-                          "shortKey": "",
-                          "long": "00:01",
-                          "longKey": "",
-                          "maxTime": 90,
-                          "basePeriod": 90,
-                          "addedTime": 0
+                        "awarded": false,
+                        "scoreStr": "0 - 5",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
                         }
                       }
                     }
                   ],
                   "aggregatedResult": {
                     "homeScore": 0,
-                    "awayScore": 0
+                    "awayScore": 5
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8448,
+                  "aggregatedLoser": 161375
                 },
                 {
                   "homeTeamId": 6543,
@@ -110555,8 +110583,9 @@
                   "drawOrder": 54,
                   "stage": "1",
                   "bestOf": 0,
-                  "homeScore": 0,
-                  "awayScore": 0,
+                  "winner": 6543,
+                  "homeScore": 5,
+                  "awayScore": 3,
                   "homeTeam": "Fløya",
                   "awayTeam": "Junkeren",
                   "homeTeamShortName": "FLØ",
@@ -110570,43 +110599,40 @@
                         "id": 6543,
                         "name": "Fløya",
                         "shortName": "FLØ",
-                        "score": 0,
-                        "winner": false
+                        "score": 5,
+                        "winner": true
                       },
                       "away": {
                         "id": 4320,
                         "name": "Junkeren",
                         "shortName": "JUN",
-                        "score": 0,
+                        "score": 3,
                         "winner": false
                       },
                       "pageUrl": "/matches/junkeren-vs-floya/z4vrr#5835878",
                       "status": {
                         "utcTime": "2026-08-23T11:00:00.000Z",
                         "timezone": "UTC",
-                        "finished": false,
+                        "finished": true,
                         "started": true,
                         "cancelled": false,
-                        "ongoing": true,
-                        "scoreStr": "0 - 0",
-                        "liveTime": {
-                          "short": "1‎’‎",
-                          "shortKey": "",
-                          "long": "00:01",
-                          "longKey": "",
-                          "maxTime": 90,
-                          "basePeriod": 90,
-                          "addedTime": 0
+                        "awarded": false,
+                        "scoreStr": "5 - 3",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
                         }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
+                    "homeScore": 5,
+                    "awayScore": 3
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 6543,
+                  "aggregatedLoser": 4320
                 },
                 {
                   "homeTeamId": 1004504,
@@ -110614,8 +110640,9 @@
                   "drawOrder": 55,
                   "stage": "1",
                   "bestOf": 0,
-                  "homeScore": 0,
-                  "awayScore": 0,
+                  "winner": 8007,
+                  "homeScore": 2,
+                  "awayScore": 7,
                   "homeTeam": "Christiania Ballklubb",
                   "awayTeam": "Vålerenga",
                   "homeTeamShortName": "CBA",
@@ -110629,43 +110656,40 @@
                         "id": 1004504,
                         "name": "Christiania Ballklubb",
                         "shortName": "CBA",
-                        "score": 0,
+                        "score": 2,
                         "winner": false
                       },
                       "away": {
                         "id": 8007,
                         "name": "Vålerenga",
                         "shortName": "VIF",
-                        "score": 0,
-                        "winner": false
+                        "score": 7,
+                        "winner": true
                       },
                       "pageUrl": "/matches/valerenga-vs-christiania-ballklubb/6jhapv3r#5835882",
                       "status": {
                         "utcTime": "2026-08-23T11:00:00.000Z",
                         "timezone": "UTC",
-                        "finished": false,
+                        "finished": true,
                         "started": true,
                         "cancelled": false,
-                        "ongoing": true,
-                        "scoreStr": "0 - 0",
-                        "liveTime": {
-                          "short": "1‎’‎",
-                          "shortKey": "",
-                          "long": "00:01",
-                          "longKey": "",
-                          "maxTime": 90,
-                          "basePeriod": 90,
-                          "addedTime": 0
+                        "awarded": false,
+                        "scoreStr": "2 - 7",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
                         }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
+                    "homeScore": 2,
+                    "awayScore": 7
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8007,
+                  "aggregatedLoser": 1004504
                 },
                 {
                   "homeTeamId": 10256,
@@ -110673,6 +110697,9 @@
                   "drawOrder": 56,
                   "stage": "1",
                   "bestOf": 0,
+                  "winner": 8180,
+                  "homeScore": 0,
+                  "awayScore": 6,
                   "homeTeam": "Modum FK",
                   "awayTeam": "Strømsgodset",
                   "homeTeamShortName": "MFK",
@@ -110693,25 +110720,33 @@
                         "id": 8180,
                         "name": "Strømsgodset",
                         "shortName": "SIF",
-                        "score": 0,
-                        "winner": false
+                        "score": 6,
+                        "winner": true
                       },
                       "pageUrl": "/matches/stromsgodset-vs-modum-fk/2t6ubi#5835870",
                       "status": {
                         "utcTime": "2026-08-23T12:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "0 - 6",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
                   "aggregatedResult": {
                     "homeScore": 0,
-                    "awayScore": 0
+                    "awayScore": 6
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8180,
+                  "aggregatedLoser": 10256
                 },
                 {
                   "homeTeamId": 1609448,
@@ -110719,6 +110754,9 @@
                   "drawOrder": 57,
                   "stage": "1",
                   "bestOf": 0,
+                  "winner": 8609,
+                  "homeScore": 0,
+                  "awayScore": 15,
                   "homeTeam": "Eidanger",
                   "awayTeam": "Sandefjord",
                   "homeTeamShortName": "EID",
@@ -110739,25 +110777,33 @@
                         "id": 8609,
                         "name": "Sandefjord",
                         "shortName": "SAN",
-                        "score": 0,
-                        "winner": false
+                        "score": 15,
+                        "winner": true
                       },
                       "pageUrl": "/matches/sandefjord-vs-eidanger/gpddkpe6#5835879",
                       "status": {
                         "utcTime": "2026-08-23T12:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "0 - 15",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
                   "aggregatedResult": {
                     "homeScore": 0,
-                    "awayScore": 0
+                    "awayScore": 15
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8609,
+                  "aggregatedLoser": 1609448
                 },
                 {
                   "homeTeamId": 8115,
@@ -110765,6 +110811,9 @@
                   "drawOrder": 58,
                   "stage": "1",
                   "bestOf": 0,
+                  "winner": 8468,
+                  "homeScore": 0,
+                  "awayScore": 4,
                   "homeTeam": "Fyllingen Fotball",
                   "awayTeam": "Brann",
                   "homeTeamShortName": "FYL",
@@ -110785,25 +110834,33 @@
                         "id": 8468,
                         "name": "Brann",
                         "shortName": "BRA",
-                        "score": 0,
-                        "winner": false
+                        "score": 4,
+                        "winner": true
                       },
                       "pageUrl": "/matches/fyllingen-fotball-vs-brann/29vf0w#5835880",
                       "status": {
                         "utcTime": "2026-08-23T13:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "0 - 4",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
                   "aggregatedResult": {
                     "homeScore": 0,
-                    "awayScore": 0
+                    "awayScore": 4
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8468,
+                  "aggregatedLoser": 8115
                 },
                 {
                   "homeTeamId": 2297,
@@ -110811,6 +110868,9 @@
                   "drawOrder": 59,
                   "stage": "1",
                   "bestOf": 0,
+                  "winner": 2297,
+                  "homeScore": 2,
+                  "awayScore": 0,
                   "homeTeam": "Flint",
                   "awayTeam": "Ørn Horten",
                   "homeTeamShortName": "FLI",
@@ -110824,8 +110884,8 @@
                         "id": 2297,
                         "name": "Flint",
                         "shortName": "FLI",
-                        "score": 0,
-                        "winner": false
+                        "score": 2,
+                        "winner": true
                       },
                       "away": {
                         "id": 10016,
@@ -110838,18 +110898,26 @@
                       "status": {
                         "utcTime": "2026-08-23T13:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
+                    "homeScore": 2,
                     "awayScore": 0
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 2297,
+                  "aggregatedLoser": 10016
                 },
                 {
                   "homeTeamId": 4230,
@@ -111089,7 +111157,7 @@
           "special": [],
           "liveFixtureApiLink": {
             "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-            "pollFromUtc": "2026-08-23T12:55:00Z"
+            "pollFromUtc": "2026-08-26T15:55:00Z"
           },
           "leagueId": 206,
           "bronzeFinal": null,
@@ -111097,8 +111165,8 @@
         },
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 52,
-            "firstUnplayedMatchId": "5835882"
+            "firstUnplayedMatchIndex": 59,
+            "firstUnplayedMatchId": "5835858"
           },
           "allMatches": [
             {
@@ -112625,22 +112693,20 @@
               "status": {
                 "utcTime": "2026-08-23T13:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 15:00:04"
+                  "firstHalfStarted": "23.08.2026 15:00:04",
+                  "secondHalfStarted": "23.08.2026 16:02:49"
                 },
                 "periodLength": 45,
-                "finished": false,
+                "finished": true,
                 "started": true,
                 "cancelled": false,
-                "ongoing": true,
-                "scoreStr": "0 - 2",
-                "liveTime": {
-                  "short": "4‎’‎",
-                  "shortKey": "",
-                  "long": "3:54",
-                  "longKey": "",
-                  "maxTime": 45,
-                  "basePeriod": 45,
-                  "addedTime": 0
+                "awarded": false,
+                "scoreStr": "2 - 7",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
                 }
               }
             },
@@ -112660,22 +112726,20 @@
               "status": {
                 "utcTime": "2026-08-23T13:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 15:01:13"
+                  "firstHalfStarted": "23.08.2026 15:01:13",
+                  "secondHalfStarted": "23.08.2026 16:04:18"
                 },
                 "periodLength": 45,
-                "finished": false,
+                "finished": true,
                 "started": true,
                 "cancelled": false,
-                "ongoing": true,
-                "scoreStr": "0 - 0",
-                "liveTime": {
-                  "short": "3‎’‎",
-                  "shortKey": "",
-                  "long": "2:45",
-                  "longKey": "",
-                  "maxTime": 45,
-                  "basePeriod": 45,
-                  "addedTime": 0
+                "awarded": false,
+                "scoreStr": "5 - 3",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
                 }
               }
             },
@@ -112695,22 +112759,20 @@
               "status": {
                 "utcTime": "2026-08-23T13:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 15:01:29"
+                  "firstHalfStarted": "23.08.2026 15:01:29",
+                  "secondHalfStarted": "23.08.2026 16:03:16"
                 },
                 "periodLength": 45,
-                "finished": false,
+                "finished": true,
                 "started": true,
                 "cancelled": false,
-                "ongoing": true,
-                "scoreStr": "0 - 0",
-                "liveTime": {
-                  "short": "3‎’‎",
-                  "shortKey": "",
-                  "long": "2:29",
-                  "longKey": "",
-                  "maxTime": 45,
-                  "basePeriod": 45,
-                  "addedTime": 0
+                "awarded": false,
+                "scoreStr": "0 - 5",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
                 }
               }
             },
@@ -112730,12 +112792,21 @@
               "status": {
                 "utcTime": "2026-08-23T14:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 16:00:00"
+                  "firstHalfStarted": "23.08.2026 15:59:35",
+                  "secondHalfStarted": "23.08.2026 17:02:36"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "0 - 15",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -112754,12 +112825,21 @@
               "status": {
                 "utcTime": "2026-08-23T14:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 16:00:00"
+                  "firstHalfStarted": "23.08.2026 15:59:38",
+                  "secondHalfStarted": "23.08.2026 17:01:40"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "0 - 6",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -112778,12 +112858,21 @@
               "status": {
                 "utcTime": "2026-08-23T15:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 17:00:00"
+                  "firstHalfStarted": "23.08.2026 17:01:52",
+                  "secondHalfStarted": "23.08.2026 18:05:19"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "2 - 0",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -112802,12 +112891,21 @@
               "status": {
                 "utcTime": "2026-08-23T15:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "23.08.2026 17:00:00"
+                  "firstHalfStarted": "23.08.2026 17:01:02",
+                  "secondHalfStarted": "23.08.2026 18:02:22"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "0 - 4",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -113613,14 +113711,14 @@
             "header": "Goals per match",
             "participant": {
               "id": 0,
-              "name": "Kongsvinger",
+              "name": "Sandefjord",
               "rank": 1,
-              "teamId": 8179,
-              "teamName": "Kongsvinger",
-              "value": 14,
+              "teamId": 8609,
+              "teamName": "Sandefjord",
+              "value": 15,
               "stat": {
                 "name": "goals_team_match",
-                "value": 14,
+                "value": 15,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -113629,8 +113727,28 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Kongsvinger",
+                "name": "Sandefjord",
                 "rank": 1,
+                "teamId": 8609,
+                "teamName": "Sandefjord",
+                "value": 15,
+                "stat": {
+                  "name": "goals_team_match",
+                  "value": 15,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#035db8",
+                  "lightMode": "#104070",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Kongsvinger",
+                "rank": 2,
                 "teamId": 8179,
                 "teamName": "Kongsvinger",
                 "value": 14,
@@ -113650,7 +113768,7 @@
               {
                 "id": 0,
                 "name": "Aalesund",
-                "rank": 2,
+                "rank": 3,
                 "teamId": 8404,
                 "teamName": "Aalesund",
                 "value": 13,
@@ -113666,26 +113784,6 @@
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
-              },
-              {
-                "id": 0,
-                "name": "Molde",
-                "rank": 3,
-                "teamId": 9917,
-                "teamName": "Molde",
-                "value": 11,
-                "stat": {
-                  "name": "goals_team_match",
-                  "value": 11,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#0068b0",
-                  "lightMode": "#0D47A0",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
               }
             ],
             "order": 44,
@@ -113697,10 +113795,10 @@
             "header": "Goals conceded per match",
             "participant": {
               "id": 0,
-              "name": "Vålerenga",
+              "name": "Trygg/Lade",
               "rank": 1,
-              "teamId": 8007,
-              "teamName": "Vålerenga",
+              "teamId": 525114,
+              "teamName": "Trygg/Lade",
               "value": 0,
               "stat": {
                 "name": "goals_conceded_team_match",
@@ -113711,46 +113809,6 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/goals_conceded_team_match.json",
             "topThree": [
-              {
-                "id": 0,
-                "name": "Vålerenga",
-                "rank": 1,
-                "teamId": 8007,
-                "teamName": "Vålerenga",
-                "value": 0,
-                "stat": {
-                  "name": "goals_conceded_team_match",
-                  "value": 0,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#333bb3",
-                  "lightMode": "#283090",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Trysil FK",
-                "rank": 1,
-                "teamId": 161375,
-                "teamName": "Trysil FK",
-                "value": 0,
-                "stat": {
-                  "name": "goals_conceded_team_match",
-                  "value": 0,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#DDDDDD",
-                  "lightMode": "#333333",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
               {
                 "id": 0,
                 "name": "Trygg/Lade",
@@ -113768,6 +113826,46 @@
                   "darkMode": "#DDDDDD",
                   "lightMode": "#333333",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Tromsø",
+                "rank": 1,
+                "teamId": 8608,
+                "teamName": "Tromsø",
+                "value": 0,
+                "stat": {
+                  "name": "goals_conceded_team_match",
+                  "value": 0,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#EB131C",
+                  "lightMode": "#EB131C",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Tromsdalen",
+                "rank": 1,
+                "teamId": 8617,
+                "teamName": "Tromsdalen",
+                "value": 0,
+                "stat": {
+                  "name": "goals_conceded_team_match",
+                  "value": 0,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#0080C6",
+                  "lightMode": "#0080C6",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -113865,14 +113963,14 @@
             "header": "Set piece goals",
             "participant": {
               "id": 0,
-              "name": "Kongsvinger",
+              "name": "Sandefjord",
               "rank": 1,
-              "teamId": 8179,
-              "teamName": "Kongsvinger",
-              "value": 13,
+              "teamId": 8609,
+              "teamName": "Sandefjord",
+              "value": 15,
               "stat": {
                 "name": "_set_piece_goals_team",
-                "value": 13,
+                "value": 15,
                 "format": "number",
                 "fractions": 0
               }
@@ -113881,8 +113979,28 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Kongsvinger",
+                "name": "Sandefjord",
                 "rank": 1,
+                "teamId": 8609,
+                "teamName": "Sandefjord",
+                "value": 15,
+                "stat": {
+                  "name": "_set_piece_goals_team",
+                  "value": 15,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#035db8",
+                  "lightMode": "#104070",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Kongsvinger",
+                "rank": 2,
                 "teamId": 8179,
                 "teamName": "Kongsvinger",
                 "value": 13,
@@ -113902,7 +114020,7 @@
               {
                 "id": 0,
                 "name": "Aalesund",
-                "rank": 2,
+                "rank": 3,
                 "teamId": 8404,
                 "teamName": "Aalesund",
                 "value": 12,
@@ -113915,26 +114033,6 @@
                 "teamColors": {
                   "darkMode": "#eb7805",
                   "lightMode": "#eb7805",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Molde",
-                "rank": 3,
-                "teamId": 9917,
-                "teamName": "Molde",
-                "value": 11,
-                "stat": {
-                  "name": "_set_piece_goals_team",
-                  "value": 11,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#0068b0",
-                  "lightMode": "#0D47A0",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -114301,8 +114399,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 52,
-          "firstUnplayedMatchId": "5835882"
+          "firstUnplayedMatchIndex": 59,
+          "firstUnplayedMatchId": "5835858"
         },
         "allMatches": [
           {
@@ -115829,22 +115927,20 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:00:04"
+                "firstHalfStarted": "23.08.2026 15:00:04",
+                "secondHalfStarted": "23.08.2026 16:02:49"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "0 - 2",
-              "liveTime": {
-                "short": "4‎’‎",
-                "shortKey": "",
-                "long": "3:54",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "2 - 7",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -115864,22 +115960,20 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:01:13"
+                "firstHalfStarted": "23.08.2026 15:01:13",
+                "secondHalfStarted": "23.08.2026 16:04:18"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "0 - 0",
-              "liveTime": {
-                "short": "3‎’‎",
-                "shortKey": "",
-                "long": "2:45",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "5 - 3",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -115899,22 +115993,20 @@
             "status": {
               "utcTime": "2026-08-23T13:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 15:01:29"
+                "firstHalfStarted": "23.08.2026 15:01:29",
+                "secondHalfStarted": "23.08.2026 16:03:16"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "0 - 0",
-              "liveTime": {
-                "short": "3‎’‎",
-                "shortKey": "",
-                "long": "2:29",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "0 - 5",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -115934,12 +116026,21 @@
             "status": {
               "utcTime": "2026-08-23T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 16:00:00"
+                "firstHalfStarted": "23.08.2026 15:59:35",
+                "secondHalfStarted": "23.08.2026 17:02:36"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 15",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -115958,12 +116059,21 @@
             "status": {
               "utcTime": "2026-08-23T14:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 16:00:00"
+                "firstHalfStarted": "23.08.2026 15:59:38",
+                "secondHalfStarted": "23.08.2026 17:01:40"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 6",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -115982,12 +116092,21 @@
             "status": {
               "utcTime": "2026-08-23T15:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 17:00:00"
+                "firstHalfStarted": "23.08.2026 17:01:52",
+                "secondHalfStarted": "23.08.2026 18:05:19"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "2 - 0",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -116006,12 +116125,21 @@
             "status": {
               "utcTime": "2026-08-23T15:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "23.08.2026 17:00:00"
+                "firstHalfStarted": "23.08.2026 17:01:02",
+                "secondHalfStarted": "23.08.2026 18:02:22"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 4",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -119616,8 +119744,9 @@
                 "drawOrder": 53,
                 "stage": "1",
                 "bestOf": 0,
+                "winner": 8448,
                 "homeScore": 0,
-                "awayScore": 0,
+                "awayScore": 5,
                 "homeTeam": "Trysil FK",
                 "awayTeam": "Hamarkameratene",
                 "homeTeamShortName": "TSF",
@@ -119638,36 +119767,33 @@
                       "id": 8448,
                       "name": "HamKam",
                       "shortName": "H-K",
-                      "score": 0,
-                      "winner": false
+                      "score": 5,
+                      "winner": true
                     },
                     "pageUrl": "/matches/hamarkameratene-vs-trysil-fk/6mhb1w0#5835872",
                     "status": {
                       "utcTime": "2026-08-23T11:00:00.000Z",
                       "timezone": "UTC",
-                      "finished": false,
+                      "finished": true,
                       "started": true,
                       "cancelled": false,
-                      "ongoing": true,
-                      "scoreStr": "0 - 0",
-                      "liveTime": {
-                        "short": "1‎’‎",
-                        "shortKey": "",
-                        "long": "00:01",
-                        "longKey": "",
-                        "maxTime": 90,
-                        "basePeriod": 90,
-                        "addedTime": 0
+                      "awarded": false,
+                      "scoreStr": "0 - 5",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
                       }
                     }
                   }
                 ],
                 "aggregatedResult": {
                   "homeScore": 0,
-                  "awayScore": 0
+                  "awayScore": 5
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8448,
+                "aggregatedLoser": 161375
               },
               {
                 "homeTeamId": 6543,
@@ -119675,8 +119801,9 @@
                 "drawOrder": 54,
                 "stage": "1",
                 "bestOf": 0,
-                "homeScore": 0,
-                "awayScore": 0,
+                "winner": 6543,
+                "homeScore": 5,
+                "awayScore": 3,
                 "homeTeam": "Fløya",
                 "awayTeam": "Junkeren",
                 "homeTeamShortName": "FLØ",
@@ -119690,43 +119817,40 @@
                       "id": 6543,
                       "name": "Fløya",
                       "shortName": "FLØ",
-                      "score": 0,
-                      "winner": false
+                      "score": 5,
+                      "winner": true
                     },
                     "away": {
                       "id": 4320,
                       "name": "Junkeren",
                       "shortName": "JUN",
-                      "score": 0,
+                      "score": 3,
                       "winner": false
                     },
                     "pageUrl": "/matches/junkeren-vs-floya/z4vrr#5835878",
                     "status": {
                       "utcTime": "2026-08-23T11:00:00.000Z",
                       "timezone": "UTC",
-                      "finished": false,
+                      "finished": true,
                       "started": true,
                       "cancelled": false,
-                      "ongoing": true,
-                      "scoreStr": "0 - 0",
-                      "liveTime": {
-                        "short": "1‎’‎",
-                        "shortKey": "",
-                        "long": "00:01",
-                        "longKey": "",
-                        "maxTime": 90,
-                        "basePeriod": 90,
-                        "addedTime": 0
+                      "awarded": false,
+                      "scoreStr": "5 - 3",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
                       }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
+                  "homeScore": 5,
+                  "awayScore": 3
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 6543,
+                "aggregatedLoser": 4320
               },
               {
                 "homeTeamId": 1004504,
@@ -119734,8 +119858,9 @@
                 "drawOrder": 55,
                 "stage": "1",
                 "bestOf": 0,
-                "homeScore": 0,
-                "awayScore": 0,
+                "winner": 8007,
+                "homeScore": 2,
+                "awayScore": 7,
                 "homeTeam": "Christiania Ballklubb",
                 "awayTeam": "Vålerenga",
                 "homeTeamShortName": "CBA",
@@ -119749,43 +119874,40 @@
                       "id": 1004504,
                       "name": "Christiania Ballklubb",
                       "shortName": "CBA",
-                      "score": 0,
+                      "score": 2,
                       "winner": false
                     },
                     "away": {
                       "id": 8007,
                       "name": "Vålerenga",
                       "shortName": "VIF",
-                      "score": 0,
-                      "winner": false
+                      "score": 7,
+                      "winner": true
                     },
                     "pageUrl": "/matches/valerenga-vs-christiania-ballklubb/6jhapv3r#5835882",
                     "status": {
                       "utcTime": "2026-08-23T11:00:00.000Z",
                       "timezone": "UTC",
-                      "finished": false,
+                      "finished": true,
                       "started": true,
                       "cancelled": false,
-                      "ongoing": true,
-                      "scoreStr": "0 - 0",
-                      "liveTime": {
-                        "short": "1‎’‎",
-                        "shortKey": "",
-                        "long": "00:01",
-                        "longKey": "",
-                        "maxTime": 90,
-                        "basePeriod": 90,
-                        "addedTime": 0
+                      "awarded": false,
+                      "scoreStr": "2 - 7",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
                       }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
+                  "homeScore": 2,
+                  "awayScore": 7
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8007,
+                "aggregatedLoser": 1004504
               },
               {
                 "homeTeamId": 10256,
@@ -119793,6 +119915,9 @@
                 "drawOrder": 56,
                 "stage": "1",
                 "bestOf": 0,
+                "winner": 8180,
+                "homeScore": 0,
+                "awayScore": 6,
                 "homeTeam": "Modum FK",
                 "awayTeam": "Strømsgodset",
                 "homeTeamShortName": "MFK",
@@ -119813,25 +119938,33 @@
                       "id": 8180,
                       "name": "Strømsgodset",
                       "shortName": "SIF",
-                      "score": 0,
-                      "winner": false
+                      "score": 6,
+                      "winner": true
                     },
                     "pageUrl": "/matches/stromsgodset-vs-modum-fk/2t6ubi#5835870",
                     "status": {
                       "utcTime": "2026-08-23T12:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "0 - 6",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
                 "aggregatedResult": {
                   "homeScore": 0,
-                  "awayScore": 0
+                  "awayScore": 6
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8180,
+                "aggregatedLoser": 10256
               },
               {
                 "homeTeamId": 1609448,
@@ -119839,6 +119972,9 @@
                 "drawOrder": 57,
                 "stage": "1",
                 "bestOf": 0,
+                "winner": 8609,
+                "homeScore": 0,
+                "awayScore": 15,
                 "homeTeam": "Eidanger",
                 "awayTeam": "Sandefjord",
                 "homeTeamShortName": "EID",
@@ -119859,25 +119995,33 @@
                       "id": 8609,
                       "name": "Sandefjord",
                       "shortName": "SAN",
-                      "score": 0,
-                      "winner": false
+                      "score": 15,
+                      "winner": true
                     },
                     "pageUrl": "/matches/sandefjord-vs-eidanger/gpddkpe6#5835879",
                     "status": {
                       "utcTime": "2026-08-23T12:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "0 - 15",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
                 "aggregatedResult": {
                   "homeScore": 0,
-                  "awayScore": 0
+                  "awayScore": 15
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8609,
+                "aggregatedLoser": 1609448
               },
               {
                 "homeTeamId": 8115,
@@ -119885,6 +120029,9 @@
                 "drawOrder": 58,
                 "stage": "1",
                 "bestOf": 0,
+                "winner": 8468,
+                "homeScore": 0,
+                "awayScore": 4,
                 "homeTeam": "Fyllingen Fotball",
                 "awayTeam": "Brann",
                 "homeTeamShortName": "FYL",
@@ -119905,25 +120052,33 @@
                       "id": 8468,
                       "name": "Brann",
                       "shortName": "BRA",
-                      "score": 0,
-                      "winner": false
+                      "score": 4,
+                      "winner": true
                     },
                     "pageUrl": "/matches/fyllingen-fotball-vs-brann/29vf0w#5835880",
                     "status": {
                       "utcTime": "2026-08-23T13:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "0 - 4",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
                 "aggregatedResult": {
                   "homeScore": 0,
-                  "awayScore": 0
+                  "awayScore": 4
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8468,
+                "aggregatedLoser": 8115
               },
               {
                 "homeTeamId": 2297,
@@ -119931,6 +120086,9 @@
                 "drawOrder": 59,
                 "stage": "1",
                 "bestOf": 0,
+                "winner": 2297,
+                "homeScore": 2,
+                "awayScore": 0,
                 "homeTeam": "Flint",
                 "awayTeam": "Ørn Horten",
                 "homeTeamShortName": "FLI",
@@ -119944,8 +120102,8 @@
                       "id": 2297,
                       "name": "Flint",
                       "shortName": "FLI",
-                      "score": 0,
-                      "winner": false
+                      "score": 2,
+                      "winner": true
                     },
                     "away": {
                       "id": 10016,
@@ -119958,18 +120116,26 @@
                     "status": {
                       "utcTime": "2026-08-23T13:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "2 - 0",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
+                  "homeScore": 2,
                   "awayScore": 0
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 2297,
+                "aggregatedLoser": 10016
               },
               {
                 "homeTeamId": 4230,
@@ -120209,7 +120375,7 @@
         "special": [],
         "liveFixtureApiLink": {
           "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-          "pollFromUtc": "2026-08-23T12:55:00Z"
+          "pollFromUtc": "2026-08-26T15:55:00Z"
         },
         "leagueId": 206,
         "bronzeFinal": null,
