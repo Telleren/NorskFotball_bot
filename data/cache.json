@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:03:19.013353+00:00",
+  "generated_at": "2026-08-24T07:34:02.403585+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -104997,6 +104997,26 @@
           "byGoals": {
             "players": [
               {
+                "id": 1680371,
+                "name": "Angelos Chaminta Ntiso",
+                "teamId": 8179,
+                "teamName": "Kongsvinger",
+                "goals": 4,
+                "value": 4,
+                "stat": {
+                  "name": "goals",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1475846,
                 "name": "Erik Leandersson",
                 "teamId": 9929,
@@ -105033,26 +105053,6 @@
                   "darkMode": "#E01820",
                   "lightMode": "#E01820",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1415857,
-                "name": "Onni Helen",
-                "teamId": 8616,
-                "teamName": "Sogndal",
-                "goals": 4,
-                "value": 4,
-                "stat": {
-                  "name": "goals",
-                  "value": 4,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#202020",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -113487,11 +113487,11 @@
           {
             "header": "Top scorer",
             "participant": {
-              "id": 1475846,
-              "name": "Erik Leandersson",
+              "id": 1680371,
+              "name": "Angelos Chaminta Ntiso",
               "rank": 1,
-              "teamId": 9929,
-              "teamName": "Notodden",
+              "teamId": 8179,
+              "teamName": "Kongsvinger",
               "value": 4,
               "stat": {
                 "name": "goals",
@@ -113502,6 +113502,26 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/goals.json",
             "topThree": [
+              {
+                "id": 1680371,
+                "name": "Angelos Chaminta Ntiso",
+                "rank": 1,
+                "teamId": 8179,
+                "teamName": "Kongsvinger",
+                "value": 4,
+                "stat": {
+                  "name": "goals",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 1475846,
                 "name": "Erik Leandersson",
@@ -113539,26 +113559,6 @@
                   "darkMode": "#E01820",
                   "lightMode": "#E01820",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1415857,
-                "name": "Onni Helen",
-                "rank": 1,
-                "teamId": 8616,
-                "teamName": "Sogndal",
-                "value": 4,
-                "stat": {
-                  "name": "goals",
-                  "value": 4,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#202020",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
