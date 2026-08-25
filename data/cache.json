@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:57:21.967683+00:00",
+  "generated_at": "2026-08-25T07:13:32.557290+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Nicolas Koutsakos",
+            "playerId": 1178048,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-25T07:41:11Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "APOEL Nicosia",
+            "fromClubFullName": "APOEL Nicosia",
+            "fromClubId": 8621,
+            "toClub": "Start",
+            "toClubFullName": "Start",
+            "toClubId": 9919,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 550000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-24T00:00:00Z",
+            "toDate": "2028-12-31T00:00:00Z",
+            "marketValue": 840560
+          },
+          {
             "name": "Nikola Jojic",
             "playerId": 1367932,
             "position": {
@@ -7816,40 +7851,6 @@
             "fromDate": "2026-06-30T22:00:00Z",
             "toDate": "2029-06-29T22:00:00Z",
             "marketValue": 1221945
-          },
-          {
-            "name": "Chris Kouakou",
-            "playerId": 1179024,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-06-17T08:25:38Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubFullName": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "Ironi Tiberias",
-            "toClubFullName": "Ironi Tiberias",
-            "toClubId": 543580,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-06-30T22:00:00Z",
-            "toDate": "2027-06-29T22:00:00Z",
-            "marketValue": null
           }
         ]
       },
@@ -48286,6 +48287,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Anestis Tricholidis",
+            "playerId": 1946610,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-25T07:46:30Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sandnes Ulf",
+            "fromClubFullName": "Sandnes Ulf",
+            "fromClubId": 8133,
+            "toClub": "AC Horsens",
+            "toClubFullName": "AC Horsens",
+            "toClubId": 9814,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 700000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-24T00:00:00Z",
+            "toDate": null,
+            "marketValue": null
+          },
+          {
             "name": "Jonathan Vonheim Norbye",
             "playerId": 1377329,
             "position": {
@@ -51591,40 +51627,6 @@
             "fromDate": "2025-12-31T23:00:00Z",
             "toDate": "2028-06-29T22:00:00Z",
             "marketValue": 170992
-          },
-          {
-            "name": "Ivan Djantou",
-            "playerId": 1644320,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2025-09-06T02:24:45Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sønderjyske",
-            "fromClubFullName": "Sønderjyske",
-            "fromClubId": 8487,
-            "toClub": "Odd",
-            "toClubFullName": "Odds Ballklubb",
-            "toClubId": 7988,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-09-01T22:00:00Z",
-            "toDate": "2025-12-30T23:00:00Z",
-            "marketValue": 305553
           }
         ]
       },
