@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T07:13:32.557290+00:00",
+  "generated_at": "2026-08-25T13:16:47.663683+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Bryan Solhaug Fiabema",
+            "playerId": 1069934,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-25T13:30:30Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lech Poznań",
+            "fromClubFullName": "Lech Poznań",
+            "fromClubId": 2182,
+            "toClub": "Fredrikstad",
+            "toClubFullName": "Fredrikstad",
+            "toClubId": 8417,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 150000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-25T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 257908
+          },
+          {
             "name": "Nicolas Koutsakos",
             "playerId": 1178048,
             "position": {
@@ -7820,37 +7855,6 @@
             "fromDate": "2026-07-17T22:00:00Z",
             "toDate": "2031-06-29T22:00:00Z",
             "marketValue": 7060792
-          },
-          {
-            "name": "Elias Sørensen",
-            "playerId": 961340,
-            "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
-            },
-            "transferDate": "2026-06-19T12:21:58Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Vålerenga",
-            "fromClubFullName": "Vålerenga",
-            "fromClubId": 8007,
-            "toClub": "PEC Zwolle",
-            "toClubFullName": "PEC Zwolle",
-            "toClubId": 6413,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-06-30T22:00:00Z",
-            "toDate": "2029-06-29T22:00:00Z",
-            "marketValue": 1221945
           }
         ]
       },
@@ -43089,6 +43093,7 @@
         "tabs": "Tabs",
         "table": "Table",
         "refresh": "Refresh",
+        "show_hide_matches_mnu": "Filter matches",
         "star": "Add %s",
         "staff_picks": "Staff picks",
         "exit": "Exit",
@@ -43148,6 +43153,7 @@
         "promotion": "Promotion",
         "promotionqual": "Promotion qualification",
         "ltc": "Live ticker",
+        "select_league": "Select league",
         "ongoing": "Ongoing",
         "all_matches": "All matches",
         "betting": "Odds",
@@ -43435,6 +43441,7 @@
         "team_deducted_plural": "%1$s has been deducted %2$d points",
         "seasons": "Seasons",
         "team_form_table": "Form",
+        "select_season": "Select season",
         "follow_item": "Follow",
         "kg": "%d kg",
         "cm": "%d cm",
@@ -43815,6 +43822,7 @@
         "site_description_stats_league": "%1$s %2$s stats including top scorers, assists, player ratings, and more",
         "site_title_coach": "%1$s - stats and career",
         "site_title_player": "%1$s - stats, career and market value",
+        "site_title_referee": "%1$s - referee stats and matches",
         "site_title_league_overview": "%1$s matches, tables and news %2$s",
         "site_description_league_overview": "%1$s overview for %2$s with league table, latest results, upcoming fixtures, top scorers and the latest news from around the league.",
         "site_title_league_news": "%s - latest news, transfer rumours and updates",
@@ -44217,7 +44225,10 @@
           "one": "Last year",
           "other": "Last %d years"
         },
-        "failed_to_load_more_matches": "Failed to load more matches, <a>retry?</a>"
+        "failed_to_load_more_matches": "Failed to load more matches, <a>retry?</a>",
+        "referee_stats": "Referees",
+        "select_language": "Select language",
+        "select_round": "Select round"
       }
     },
     "203": {
@@ -81100,6 +81111,7 @@
         "tabs": "Tabs",
         "table": "Table",
         "refresh": "Refresh",
+        "show_hide_matches_mnu": "Filter matches",
         "star": "Add %s",
         "staff_picks": "Staff picks",
         "exit": "Exit",
@@ -81159,6 +81171,7 @@
         "promotion": "Promotion",
         "promotionqual": "Promotion qualification",
         "ltc": "Live ticker",
+        "select_league": "Select league",
         "ongoing": "Ongoing",
         "all_matches": "All matches",
         "betting": "Odds",
@@ -81446,6 +81459,7 @@
         "team_deducted_plural": "%1$s has been deducted %2$d points",
         "seasons": "Seasons",
         "team_form_table": "Form",
+        "select_season": "Select season",
         "follow_item": "Follow",
         "kg": "%d kg",
         "cm": "%d cm",
@@ -81826,6 +81840,7 @@
         "site_description_stats_league": "%1$s %2$s stats including top scorers, assists, player ratings, and more",
         "site_title_coach": "%1$s - stats and career",
         "site_title_player": "%1$s - stats, career and market value",
+        "site_title_referee": "%1$s - referee stats and matches",
         "site_title_league_overview": "%1$s matches, tables and news %2$s",
         "site_description_league_overview": "%1$s overview for %2$s with league table, latest results, upcoming fixtures, top scorers and the latest news from around the league.",
         "site_title_league_news": "%s - latest news, transfer rumours and updates",
@@ -82228,7 +82243,10 @@
           "one": "Last year",
           "other": "Last %d years"
         },
-        "failed_to_load_more_matches": "Failed to load more matches, <a>retry?</a>"
+        "failed_to_load_more_matches": "Failed to load more matches, <a>retry?</a>",
+        "referee_stats": "Referees",
+        "select_language": "Select language",
+        "select_round": "Select round"
       }
     },
     "331": {
@@ -103789,6 +103807,7 @@
         "tabs": "Tabs",
         "table": "Table",
         "refresh": "Refresh",
+        "show_hide_matches_mnu": "Filter matches",
         "star": "Add %s",
         "staff_picks": "Staff picks",
         "exit": "Exit",
@@ -103848,6 +103867,7 @@
         "promotion": "Promotion",
         "promotionqual": "Promotion qualification",
         "ltc": "Live ticker",
+        "select_league": "Select league",
         "ongoing": "Ongoing",
         "all_matches": "All matches",
         "betting": "Odds",
@@ -104135,6 +104155,7 @@
         "team_deducted_plural": "%1$s has been deducted %2$d points",
         "seasons": "Seasons",
         "team_form_table": "Form",
+        "select_season": "Select season",
         "follow_item": "Follow",
         "kg": "%d kg",
         "cm": "%d cm",
@@ -104515,6 +104536,7 @@
         "site_description_stats_league": "%1$s %2$s stats including top scorers, assists, player ratings, and more",
         "site_title_coach": "%1$s - stats and career",
         "site_title_player": "%1$s - stats, career and market value",
+        "site_title_referee": "%1$s - referee stats and matches",
         "site_title_league_overview": "%1$s matches, tables and news %2$s",
         "site_description_league_overview": "%1$s overview for %2$s with league table, latest results, upcoming fixtures, top scorers and the latest news from around the league.",
         "site_title_league_news": "%s - latest news, transfer rumours and updates",
@@ -104917,7 +104939,10 @@
           "one": "Last year",
           "other": "Last %d years"
         },
-        "failed_to_load_more_matches": "Failed to load more matches, <a>retry?</a>"
+        "failed_to_load_more_matches": "Failed to load more matches, <a>retry?</a>",
+        "referee_stats": "Referees",
+        "select_language": "Select language",
+        "select_round": "Select round"
       }
     },
     "206": {
@@ -123534,6 +123559,7 @@
         "tabs": "Tabs",
         "table": "Table",
         "refresh": "Refresh",
+        "show_hide_matches_mnu": "Filter matches",
         "star": "Add %s",
         "staff_picks": "Staff picks",
         "exit": "Exit",
@@ -123593,6 +123619,7 @@
         "promotion": "Promotion",
         "promotionqual": "Promotion qualification",
         "ltc": "Live ticker",
+        "select_league": "Select league",
         "ongoing": "Ongoing",
         "all_matches": "All matches",
         "betting": "Odds",
@@ -123880,6 +123907,7 @@
         "team_deducted_plural": "%1$s has been deducted %2$d points",
         "seasons": "Seasons",
         "team_form_table": "Form",
+        "select_season": "Select season",
         "follow_item": "Follow",
         "kg": "%d kg",
         "cm": "%d cm",
@@ -124260,6 +124288,7 @@
         "site_description_stats_league": "%1$s %2$s stats including top scorers, assists, player ratings, and more",
         "site_title_coach": "%1$s - stats and career",
         "site_title_player": "%1$s - stats, career and market value",
+        "site_title_referee": "%1$s - referee stats and matches",
         "site_title_league_overview": "%1$s matches, tables and news %2$s",
         "site_description_league_overview": "%1$s overview for %2$s with league table, latest results, upcoming fixtures, top scorers and the latest news from around the league.",
         "site_title_league_news": "%s - latest news, transfer rumours and updates",
@@ -124662,7 +124691,10 @@
           "one": "Last year",
           "other": "Last %d years"
         },
-        "failed_to_load_more_matches": "Failed to load more matches, <a>retry?</a>"
+        "failed_to_load_more_matches": "Failed to load more matches, <a>retry?</a>",
+        "referee_stats": "Referees",
+        "select_language": "Select language",
+        "select_round": "Select round"
       }
     }
   },
