@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T13:16:47.663683+00:00",
+  "generated_at": "2026-08-25T19:03:59.658673+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,106 @@
         "type": "league",
         "data": [
           {
+            "name": "Frederik Christensen",
+            "playerId": 1138001,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-25T15:51:21Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Tromsø",
+            "fromClubFullName": "Tromsø",
+            "fromClubId": 8608,
+            "toClub": "Hobro",
+            "toClubFullName": "Hobro",
+            "toClubId": 9950,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-25T00:00:00Z",
+            "toDate": "2029-06-30T00:00:00Z",
+            "marketValue": 318271
+          },
+          {
+            "name": "Oskar Öhlenschlaeger",
+            "playerId": 1436939,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-25T15:48:56Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Fredrikstad",
+            "fromClubFullName": "Fredrikstad",
+            "fromClubId": 8417,
+            "toClub": "Samsunspor",
+            "toClubFullName": "Samsunspor",
+            "toClubId": 9750,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 2500000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-25T00:00:00Z",
+            "toDate": "2031-06-30T00:00:00Z",
+            "marketValue": 1991757
+          },
+          {
+            "name": "John Kitolano",
+            "playerId": 730743,
+            "position": {
+              "label": "LM",
+              "key": "leftmidfielder_short"
+            },
+            "transferDate": "2026-08-25T15:46:38Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lillestrøm",
+            "fromClubFullName": "Lillestrøm",
+            "fromClubId": 8476,
+            "toClub": "Kristiansund",
+            "toClubFullName": "Kristiansund",
+            "toClubId": 8605,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-24T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 223047
+          },
+          {
             "name": "Bryan Solhaug Fiabema",
             "playerId": 1069934,
             "position": {
@@ -7757,104 +7857,6 @@
             "fromDate": "2026-07-01T00:00:00Z",
             "toDate": "2029-12-31T00:00:00Z",
             "marketValue": 670705
-          },
-          {
-            "name": "Isak Dahlqvist",
-            "playerId": 1156490,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-06-23T16:45:08Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "BW Linz",
-            "fromClubFullName": "BW Linz",
-            "fromClubId": 2433,
-            "toClub": "Tromsø",
-            "toClubFullName": "Tromsø",
-            "toClubId": 8608,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-01T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 340754
-          },
-          {
-            "name": "Eirik Granaas",
-            "playerId": 1747225,
-            "position": null,
-            "transferDate": "2026-06-21T10:34:20Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Fredrikstad",
-            "fromClubFullName": "Fredrikstad",
-            "fromClubId": 8417,
-            "toClub": "FC Porto B",
-            "toClubFullName": "FC Porto B",
-            "toClubId": -1,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 1800000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-01T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 743001
-          },
-          {
-            "name": "Abubacarr Sedi Kinteh",
-            "playerId": 1734316,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-06-19T20:49:57Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Tromsø",
-            "fromClubFullName": "Tromsø",
-            "fromClubId": 8608,
-            "toClub": "Al Ahli",
-            "toClubFullName": "Al Ahli",
-            "toClubId": 2530,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 6500000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-17T22:00:00Z",
-            "toDate": "2031-06-29T22:00:00Z",
-            "marketValue": 7060792
           }
         ]
       },
