@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T02:04:32.573233+00:00",
+  "generated_at": "2026-08-26T07:14:37.085864+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,75 @@
         "type": "league",
         "data": [
           {
+            "name": "Ervin Gigovic",
+            "playerId": 1258119,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-26T08:52:37Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Helsingborg",
+            "fromClubFullName": "Helsingborg",
+            "fromClubId": 9859,
+            "toClub": "Sandefjord",
+            "toClubFullName": "Sandefjord",
+            "toClubId": 8609,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 400000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-25T00:00:00Z",
+            "toDate": "2030-12-31T00:00:00Z",
+            "marketValue": 348376
+          },
+          {
+            "name": "Terry Benjamin",
+            "playerId": 1736113,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-26T07:55:00Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Strømmen",
+            "toClubFullName": "Strømmen",
+            "toClubId": 4249,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-25T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 339956
+          },
+          {
             "name": "Frederik Christensen",
             "playerId": 1138001,
             "position": {
@@ -7795,68 +7864,6 @@
             "fromDate": "2026-07-14T00:00:00Z",
             "toDate": "2028-06-30T00:00:00Z",
             "marketValue": 427900
-          },
-          {
-            "name": "Daniel Skaarud",
-            "playerId": 1414892,
-            "position": null,
-            "transferDate": "2026-06-30T05:04:37Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Ajax",
-            "fromClubFullName": "Ajax",
-            "fromClubId": 8593,
-            "toClub": "Sandefjord",
-            "toClubFullName": "Sandefjord",
-            "toClubId": 8609,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": null
-          },
-          {
-            "name": "Devon Koswal",
-            "playerId": 1189480,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-06-30T05:02:19Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Telstar",
-            "fromClubFullName": "Telstar",
-            "fromClubId": 6414,
-            "toClub": "Sandefjord",
-            "toClubFullName": "Sandefjord",
-            "toClubId": 8609,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-01T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 670705
           }
         ]
       },
@@ -48300,6 +48307,40 @@
         "type": "league",
         "data": [
           {
+            "name": "Terry Benjamin",
+            "playerId": 1736113,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-08-26T07:55:00Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Strømmen",
+            "toClubFullName": "Strømmen",
+            "toClubId": 4249,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-25T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 339956
+          },
+          {
             "name": "Anestis Tricholidis",
             "playerId": 1946610,
             "position": {
@@ -51606,40 +51647,6 @@
             "fromDate": "2025-12-31T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 314475
-          },
-          {
-            "name": "Martin André Sjølstad",
-            "playerId": 937242,
-            "position": {
-              "label": "LB",
-              "key": "leftback_short"
-            },
-            "transferDate": "2025-09-21T05:45:14Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sogndal",
-            "fromClubFullName": "Sogndal",
-            "fromClubId": 8616,
-            "toClub": "Randers FC",
-            "toClubFullName": "Randers FC",
-            "toClubId": 8410,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-12-31T23:00:00Z",
-            "toDate": "2028-06-29T22:00:00Z",
-            "marketValue": 170992
           }
         ]
       },
