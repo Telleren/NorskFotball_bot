@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T20:08:07.661350+00:00",
+  "generated_at": "2026-08-27T09:58:19.977508+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -43507,6 +43507,19 @@
         "var_penalty_miss_retake": "Missed penalty - to be retaken",
         "var_red_card_removed": "Red card overturned",
         "offside": "offside",
+        "card_desc_foul": "Foul",
+        "card_desc_serious_foul": "Serious foul play",
+        "card_desc_professional_foul": "Professional foul",
+        "card_desc_handball": "Handball",
+        "card_desc_dissent": "Dissent",
+        "card_desc_abusive_language": "Abusive language",
+        "card_desc_time_wasting": "Time wasting",
+        "card_desc_unsporting_behavior": "Unsporting behavior",
+        "card_desc_violent_conduct": "Violent conduct",
+        "card_desc_simulation": "Simulation",
+        "card_desc_excessive_celebration": "Excessive celebration",
+        "card_desc_persistent_infringement": "Persistent infringement",
+        "card_desc_dangerous_play": "Dangerous play",
         "foul": "foul",
         "var_card_changed_to_red": "Card changed to red",
         "var_card_changed_to_yellow": "Red card changed to yellow",
@@ -44312,8 +44325,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/1-divisjon",
-            "leagueName": "1. Divisjon",
+            "pageUrl": "/leagues/203/overview/obos-ligaen",
+            "leagueName": "OBOS-ligaen",
             "legend": [
               {
                 "title": "Promotion",
@@ -51662,8 +51675,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/1-divisjon",
-              "leagueName": "1. Divisjon",
+              "pageUrl": "/leagues/203/overview/obos-ligaen",
+              "leagueName": "OBOS-ligaen",
               "legend": [
                 {
                   "title": "Promotion",
@@ -61474,12 +61487,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 18:02:51",
-                "secondHalfStarted": "26.08.2026 19:05:58"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -61517,12 +61526,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:03:27"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -61560,13 +61565,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "numberOfHomeRedCards": 1,
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:02:54"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -61604,12 +61604,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:02:54"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -61647,12 +61643,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:05:20"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -61690,12 +61682,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:03:27"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -61733,13 +61721,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "numberOfHomeRedCards": 1,
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:01:57"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -64482,7 +64465,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -69001,12 +68984,8 @@
                 "id": "9812"
               },
               "status": {
-                "utcTime": "2026-08-26T16:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 18:02:51",
-                  "secondHalfStarted": "26.08.2026 19:05:58"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T16:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -69036,12 +69015,8 @@
                 "id": "10224"
               },
               "status": {
-                "utcTime": "2026-08-26T17:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 19:01:14",
-                  "secondHalfStarted": "26.08.2026 20:03:27"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -69071,13 +69046,8 @@
                 "id": "4722"
               },
               "status": {
-                "utcTime": "2026-08-26T17:00:00.000Z",
-                "numberOfHomeRedCards": 1,
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 19:01:14",
-                  "secondHalfStarted": "26.08.2026 20:02:54"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -69107,12 +69077,8 @@
                 "id": "8616"
               },
               "status": {
-                "utcTime": "2026-08-26T17:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 19:01:14",
-                  "secondHalfStarted": "26.08.2026 20:02:54"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -69142,12 +69108,8 @@
                 "id": "8179"
               },
               "status": {
-                "utcTime": "2026-08-26T17:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 19:01:14",
-                  "secondHalfStarted": "26.08.2026 20:05:20"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -69177,12 +69139,8 @@
                 "id": "6563"
               },
               "status": {
-                "utcTime": "2026-08-26T17:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 19:01:14",
-                  "secondHalfStarted": "26.08.2026 20:03:27"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -69212,13 +69170,8 @@
                 "id": "7937"
               },
               "status": {
-                "utcTime": "2026-08-26T17:00:00.000Z",
-                "numberOfHomeRedCards": 1,
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 19:01:14",
-                  "secondHalfStarted": "26.08.2026 20:01:57"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T17:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -71257,7 +71210,7 @@
               }
             }
           ],
-          "hasOngoingMatch": true,
+          "hasOngoingMatch": false,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "20",
@@ -77160,12 +77113,8 @@
               "id": "9812"
             },
             "status": {
-              "utcTime": "2026-08-26T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 18:02:51",
-                "secondHalfStarted": "26.08.2026 19:05:58"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -77195,12 +77144,8 @@
               "id": "10224"
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:03:27"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -77230,13 +77175,8 @@
               "id": "4722"
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "numberOfHomeRedCards": 1,
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:02:54"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -77266,12 +77206,8 @@
               "id": "8616"
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:02:54"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -77301,12 +77237,8 @@
               "id": "8179"
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:05:20"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -77336,12 +77268,8 @@
               "id": "6563"
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:03:27"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -77371,13 +77299,8 @@
               "id": "7937"
             },
             "status": {
-              "utcTime": "2026-08-26T17:00:00.000Z",
-              "numberOfHomeRedCards": 1,
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 19:01:14",
-                "secondHalfStarted": "26.08.2026 20:01:57"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T17:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -79416,7 +79339,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "20",
@@ -81787,6 +81710,19 @@
         "var_penalty_miss_retake": "Missed penalty - to be retaken",
         "var_red_card_removed": "Red card overturned",
         "offside": "offside",
+        "card_desc_foul": "Foul",
+        "card_desc_serious_foul": "Serious foul play",
+        "card_desc_professional_foul": "Professional foul",
+        "card_desc_handball": "Handball",
+        "card_desc_dissent": "Dissent",
+        "card_desc_abusive_language": "Abusive language",
+        "card_desc_time_wasting": "Time wasting",
+        "card_desc_unsporting_behavior": "Unsporting behavior",
+        "card_desc_violent_conduct": "Violent conduct",
+        "card_desc_simulation": "Simulation",
+        "card_desc_excessive_celebration": "Excessive celebration",
+        "card_desc_persistent_infringement": "Persistent infringement",
+        "card_desc_dangerous_play": "Dangerous play",
         "foul": "foul",
         "var_card_changed_to_red": "Card changed to red",
         "var_card_changed_to_yellow": "Red card changed to yellow",
@@ -104487,6 +104423,19 @@
         "var_penalty_miss_retake": "Missed penalty - to be retaken",
         "var_red_card_removed": "Red card overturned",
         "offside": "offside",
+        "card_desc_foul": "Foul",
+        "card_desc_serious_foul": "Serious foul play",
+        "card_desc_professional_foul": "Professional foul",
+        "card_desc_handball": "Handball",
+        "card_desc_dissent": "Dissent",
+        "card_desc_abusive_language": "Abusive language",
+        "card_desc_time_wasting": "Time wasting",
+        "card_desc_unsporting_behavior": "Unsporting behavior",
+        "card_desc_violent_conduct": "Violent conduct",
+        "card_desc_simulation": "Simulation",
+        "card_desc_excessive_celebration": "Excessive celebration",
+        "card_desc_persistent_infringement": "Persistent infringement",
+        "card_desc_dangerous_play": "Dangerous play",
         "foul": "foul",
         "var_card_changed_to_red": "Card changed to red",
         "var_card_changed_to_yellow": "Red card changed to yellow",
@@ -107697,14 +107646,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T16:00:00.000Z",
-              "numberOfHomeRedCards": 1,
-              "numberOfAwayRedCards": 2,
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 18:01:28",
-                "secondHalfStarted": "26.08.2026 19:01:03"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -107742,12 +107685,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 18:01:58",
-                "secondHalfStarted": "26.08.2026 19:03:46"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -107785,12 +107724,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-26T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 18:01:20",
-                "secondHalfStarted": "26.08.2026 19:03:30"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -107867,7 +107802,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "shotMap": null,
         "playoff": {
           "rounds": [
@@ -113246,14 +113181,8 @@
                 "id": "8402"
               },
               "status": {
-                "utcTime": "2026-08-26T16:00:00.000Z",
-                "numberOfHomeRedCards": 1,
-                "numberOfAwayRedCards": 2,
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 18:01:28",
-                  "secondHalfStarted": "26.08.2026 19:01:03"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T16:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -113281,12 +113210,8 @@
                 "id": "8531"
               },
               "status": {
-                "utcTime": "2026-08-26T16:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 18:01:58",
-                  "secondHalfStarted": "26.08.2026 19:03:46"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T16:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -113314,12 +113239,8 @@
                 "id": "8133"
               },
               "status": {
-                "utcTime": "2026-08-26T16:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "26.08.2026 18:01:20",
-                  "secondHalfStarted": "26.08.2026 19:03:30"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-08-26T16:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -113376,7 +113297,7 @@
               }
             }
           ],
-          "hasOngoingMatch": true,
+          "hasOngoingMatch": false,
           "fixtureInfo": {
             "rounds": [],
             "teams": [
@@ -114639,15 +114560,6 @@
             "TournamentId": 16496
           },
           {
-            "Name": "2020",
-            "CountryCode": "NOR",
-            "RelativePath": "stats/206/season/14931/topstats.json",
-            "League": "Norgesmesterskapet",
-            "StageId": 0,
-            "TemplateId": 206,
-            "TournamentId": 14931
-          },
-          {
             "Name": "2019",
             "CountryCode": "NOR",
             "RelativePath": "stats/206/season/13468/topstats.json",
@@ -114684,15 +114596,6 @@
             "TournamentId": 10157
           },
           {
-            "Name": "2015",
-            "CountryCode": "NOR",
-            "RelativePath": "stats/206/season/9282/topstats.json",
-            "League": "Norgesmesterskapet",
-            "StageId": 0,
-            "TemplateId": 206,
-            "TournamentId": 9282
-          },
-          {
             "Name": "2014",
             "CountryCode": "NOR",
             "RelativePath": "stats/206/season/8397/topstats.json",
@@ -114700,33 +114603,6 @@
             "StageId": 0,
             "TemplateId": 206,
             "TournamentId": 8397
-          },
-          {
-            "Name": "2013",
-            "CountryCode": "NOR",
-            "RelativePath": "stats/206/season/7546/topstats.json",
-            "League": "Norgesmesterskapet",
-            "StageId": 0,
-            "TemplateId": 206,
-            "TournamentId": 7546
-          },
-          {
-            "Name": "2012",
-            "CountryCode": "NOR",
-            "RelativePath": "stats/206/season/6735/topstats.json",
-            "League": "Norgesmesterskapet",
-            "StageId": 0,
-            "TemplateId": 206,
-            "TournamentId": 6735
-          },
-          {
-            "Name": "2011",
-            "CountryCode": "NOR",
-            "RelativePath": "stats/206/season/5993/topstats.json",
-            "League": "Norgesmesterskapet",
-            "StageId": 0,
-            "TemplateId": 206,
-            "TournamentId": 5993
           },
           {
             "Name": "2010",
@@ -116490,14 +116366,8 @@
               "id": "8402"
             },
             "status": {
-              "utcTime": "2026-08-26T16:00:00.000Z",
-              "numberOfHomeRedCards": 1,
-              "numberOfAwayRedCards": 2,
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 18:01:28",
-                "secondHalfStarted": "26.08.2026 19:01:03"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -116525,12 +116395,8 @@
               "id": "8531"
             },
             "status": {
-              "utcTime": "2026-08-26T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 18:01:58",
-                "secondHalfStarted": "26.08.2026 19:03:46"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -116558,12 +116424,8 @@
               "id": "8133"
             },
             "status": {
-              "utcTime": "2026-08-26T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "26.08.2026 18:01:20",
-                "secondHalfStarted": "26.08.2026 19:03:30"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-08-26T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -116620,7 +116482,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "fixtureInfo": {
           "rounds": [],
           "teams": [
@@ -124423,6 +124285,19 @@
         "var_penalty_miss_retake": "Missed penalty - to be retaken",
         "var_red_card_removed": "Red card overturned",
         "offside": "offside",
+        "card_desc_foul": "Foul",
+        "card_desc_serious_foul": "Serious foul play",
+        "card_desc_professional_foul": "Professional foul",
+        "card_desc_handball": "Handball",
+        "card_desc_dissent": "Dissent",
+        "card_desc_abusive_language": "Abusive language",
+        "card_desc_time_wasting": "Time wasting",
+        "card_desc_unsporting_behavior": "Unsporting behavior",
+        "card_desc_violent_conduct": "Violent conduct",
+        "card_desc_simulation": "Simulation",
+        "card_desc_excessive_celebration": "Excessive celebration",
+        "card_desc_persistent_infringement": "Persistent infringement",
+        "card_desc_dangerous_play": "Dangerous play",
         "foul": "foul",
         "var_card_changed_to_red": "Card changed to red",
         "var_card_changed_to_yellow": "Red card changed to yellow",
