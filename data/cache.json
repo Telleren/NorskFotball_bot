@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T22:21:23.067319+00:00",
+  "generated_at": "2026-08-28T11:32:36.108168+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4253,7 +4253,7 @@
                 "name": "Molde",
                 "shortName": "Molde"
               },
-              "2026-08-29T14:00:00Z"
+              "2026-08-30T15:00:00Z"
             ],
             "8402": [
               "8422",
@@ -4285,7 +4285,7 @@
                 "name": "Aalesund",
                 "shortName": "Aalesund"
               },
-              "2026-08-29T16:00:00Z"
+              "2026-08-30T15:00:00Z"
             ],
             "8417": [
               "8476",
@@ -4381,7 +4381,7 @@
                 "name": "Aalesund",
                 "shortName": "Aalesund"
               },
-              "2026-08-29T16:00:00Z"
+              "2026-08-30T15:00:00Z"
             ],
             "8509": [
               "8608",
@@ -4461,7 +4461,7 @@
                 "name": "Molde",
                 "shortName": "Molde"
               },
-              "2026-08-29T14:00:00Z"
+              "2026-08-30T15:00:00Z"
             ],
             "9919": [
               "2305",
@@ -4502,6 +4502,74 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Lukas Hjelleset Gausdal",
+            "playerId": 1645780,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-28T10:20:38Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Sogndal",
+            "toClubFullName": "Sogndal",
+            "toClubId": 8616,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-27T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 1025092
+          },
+          {
+            "name": "Menno Koch",
+            "playerId": 352402,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-28T10:18:40Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sarpsborg 08",
+            "fromClubFullName": "Sarpsborg 08",
+            "fromClubId": 8509,
+            "toClub": "Bengaluru FC",
+            "toClubFullName": "Bengaluru FC",
+            "toClubId": 485935,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-27T00:00:00Z",
+            "toDate": null,
+            "marketValue": 170182
+          },
           {
             "name": "Ervin Gigovic",
             "playerId": 1258119,
@@ -7795,75 +7863,6 @@
             "fromDate": "2026-07-14T00:00:00Z",
             "toDate": "2028-12-31T00:00:00Z",
             "marketValue": null
-          },
-          {
-            "name": "Kristoffer Klaesson",
-            "playerId": 837268,
-            "position": {
-              "label": "GK",
-              "key": "keeper"
-            },
-            "transferDate": "2026-07-01T09:46:39Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Aalesund",
-            "fromClubFullName": "Aalesund",
-            "fromClubId": 8404,
-            "toClub": "Free agent",
-            "toClubFullName": "Free agent",
-            "toClubId": 2,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-06-30T00:00:00Z",
-            "toDate": null,
-            "marketValue": 755292
-          },
-          {
-            "name": "Casper Øyvann",
-            "playerId": 935515,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-06-30T11:05:00Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Molde",
-            "fromClubFullName": "Molde",
-            "fromClubId": 9917,
-            "toClub": "Tromsø",
-            "toClubFullName": "Tromsø",
-            "toClubId": 8608,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 25000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": "2028-06-30T00:00:00Z",
-            "marketValue": 427900
           }
         ]
       },
@@ -12058,7 +12057,7 @@
                   "name": "Molde",
                   "shortName": "Molde"
                 },
-                "2026-08-29T14:00:00Z"
+                "2026-08-30T15:00:00Z"
               ],
               "8402": [
                 "8422",
@@ -12090,7 +12089,7 @@
                   "name": "Aalesund",
                   "shortName": "Aalesund"
                 },
-                "2026-08-29T16:00:00Z"
+                "2026-08-30T15:00:00Z"
               ],
               "8417": [
                 "8476",
@@ -12186,7 +12185,7 @@
                   "name": "Aalesund",
                   "shortName": "Aalesund"
                 },
-                "2026-08-29T16:00:00Z"
+                "2026-08-30T15:00:00Z"
               ],
               "8509": [
                 "8608",
@@ -12266,7 +12265,7 @@
                   "name": "Molde",
                   "shortName": "Molde"
                 },
-                "2026-08-29T14:00:00Z"
+                "2026-08-30T15:00:00Z"
               ],
               "9919": [
                 "2305",
@@ -17809,68 +17808,6 @@
             }
           },
           {
-            "id": "5104992",
-            "pageUrl": "/matches/valerenga-vs-molde/2nnd8n#5104992",
-            "opponent": {
-              "id": "8007",
-              "name": "Vålerenga",
-              "score": 0
-            },
-            "home": {
-              "id": "8007",
-              "name": "Vålerenga",
-              "score": 0
-            },
-            "away": {
-              "id": "9917",
-              "name": "Molde",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-29T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "id": "5104991",
-            "pageUrl": "/matches/aalesund-vs-viking/2cuni1#5104991",
-            "opponent": {
-              "id": "8478",
-              "name": "Viking",
-              "score": 0
-            },
-            "home": {
-              "id": "8478",
-              "name": "Viking",
-              "score": 0
-            },
-            "away": {
-              "id": "8404",
-              "name": "Aalesund",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-29T16:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "5104986",
             "pageUrl": "/matches/bodoglimt-vs-rosenborg/2c9p7m#5104986",
             "opponent": {
@@ -18010,6 +17947,68 @@
             "away": {
               "id": "8509",
               "name": "Sarpsborg 08",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-30T15:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5104992",
+            "pageUrl": "/matches/valerenga-vs-molde/2nnd8n#5104992",
+            "opponent": {
+              "id": "8007",
+              "name": "Vålerenga",
+              "score": 0
+            },
+            "home": {
+              "id": "8007",
+              "name": "Vålerenga",
+              "score": 0
+            },
+            "away": {
+              "id": "9917",
+              "name": "Molde",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-30T15:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5104991",
+            "pageUrl": "/matches/aalesund-vs-viking/2cuni1#5104991",
+            "opponent": {
+              "id": "8478",
+              "name": "Viking",
+              "score": 0
+            },
+            "home": {
+              "id": "8478",
+              "name": "Viking",
+              "score": 0
+            },
+            "away": {
+              "id": "8404",
+              "name": "Aalesund",
               "score": 0
             },
             "displayTournament": true,
@@ -21038,7 +21037,7 @@
         "matches": {
           "firstUnplayedMatch": {
             "firstUnplayedMatchIndex": 136,
-            "firstUnplayedMatchId": "5104992"
+            "firstUnplayedMatchId": "5104986"
           },
           "allMatches": [
             {
@@ -25260,52 +25259,6 @@
             {
               "round": "19",
               "roundName": 19,
-              "pageUrl": "/matches/valerenga-vs-molde/2nnd8n#5104992",
-              "id": "5104992",
-              "home": {
-                "name": "Vålerenga",
-                "shortName": "Vålerenga",
-                "id": "8007"
-              },
-              "away": {
-                "name": "Molde",
-                "shortName": "Molde",
-                "id": "9917"
-              },
-              "status": {
-                "utcTime": "2026-08-29T14:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "19",
-              "roundName": 19,
-              "pageUrl": "/matches/aalesund-vs-viking/2cuni1#5104991",
-              "id": "5104991",
-              "home": {
-                "name": "Viking",
-                "shortName": "Viking",
-                "id": "8478"
-              },
-              "away": {
-                "name": "Aalesund",
-                "shortName": "Aalesund",
-                "id": "8404"
-              },
-              "status": {
-                "utcTime": "2026-08-29T16:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "19",
-              "roundName": 19,
               "pageUrl": "/matches/bodoglimt-vs-rosenborg/2c9p7m#5104986",
               "id": "5104986",
               "home": {
@@ -25409,6 +25362,52 @@
                 "name": "Sarpsborg 08",
                 "shortName": "Sarpsborg 08",
                 "id": "8509"
+              },
+              "status": {
+                "utcTime": "2026-08-30T15:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "round": "19",
+              "roundName": 19,
+              "pageUrl": "/matches/valerenga-vs-molde/2nnd8n#5104992",
+              "id": "5104992",
+              "home": {
+                "name": "Vålerenga",
+                "shortName": "Vålerenga",
+                "id": "8007"
+              },
+              "away": {
+                "name": "Molde",
+                "shortName": "Molde",
+                "id": "9917"
+              },
+              "status": {
+                "utcTime": "2026-08-30T15:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "round": "19",
+              "roundName": 19,
+              "pageUrl": "/matches/aalesund-vs-viking/2cuni1#5104991",
+              "id": "5104991",
+              "home": {
+                "name": "Viking",
+                "shortName": "Viking",
+                "id": "8478"
+              },
+              "away": {
+                "name": "Aalesund",
+                "shortName": "Aalesund",
+                "id": "8404"
               },
               "status": {
                 "utcTime": "2026-08-30T15:00:00Z",
@@ -33660,7 +33659,7 @@
       "fixtures": {
         "firstUnplayedMatch": {
           "firstUnplayedMatchIndex": 136,
-          "firstUnplayedMatchId": "5104992"
+          "firstUnplayedMatchId": "5104986"
         },
         "allMatches": [
           {
@@ -37882,52 +37881,6 @@
           {
             "round": "19",
             "roundName": 19,
-            "pageUrl": "/matches/valerenga-vs-molde/2nnd8n#5104992",
-            "id": "5104992",
-            "home": {
-              "name": "Vålerenga",
-              "shortName": "Vålerenga",
-              "id": "8007"
-            },
-            "away": {
-              "name": "Molde",
-              "shortName": "Molde",
-              "id": "9917"
-            },
-            "status": {
-              "utcTime": "2026-08-29T14:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "19",
-            "roundName": 19,
-            "pageUrl": "/matches/aalesund-vs-viking/2cuni1#5104991",
-            "id": "5104991",
-            "home": {
-              "name": "Viking",
-              "shortName": "Viking",
-              "id": "8478"
-            },
-            "away": {
-              "name": "Aalesund",
-              "shortName": "Aalesund",
-              "id": "8404"
-            },
-            "status": {
-              "utcTime": "2026-08-29T16:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "19",
-            "roundName": 19,
             "pageUrl": "/matches/bodoglimt-vs-rosenborg/2c9p7m#5104986",
             "id": "5104986",
             "home": {
@@ -38031,6 +37984,52 @@
               "name": "Sarpsborg 08",
               "shortName": "Sarpsborg 08",
               "id": "8509"
+            },
+            "status": {
+              "utcTime": "2026-08-30T15:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "round": "19",
+            "roundName": 19,
+            "pageUrl": "/matches/valerenga-vs-molde/2nnd8n#5104992",
+            "id": "5104992",
+            "home": {
+              "name": "Vålerenga",
+              "shortName": "Vålerenga",
+              "id": "8007"
+            },
+            "away": {
+              "name": "Molde",
+              "shortName": "Molde",
+              "id": "9917"
+            },
+            "status": {
+              "utcTime": "2026-08-30T15:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "round": "19",
+            "roundName": 19,
+            "pageUrl": "/matches/aalesund-vs-viking/2cuni1#5104991",
+            "id": "5104991",
+            "home": {
+              "name": "Viking",
+              "shortName": "Viking",
+              "id": "8478"
+            },
+            "away": {
+              "name": "Aalesund",
+              "shortName": "Aalesund",
+              "id": "8404"
             },
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
@@ -48045,148 +48044,148 @@
           },
           "nextOpponent": {
             "4249": [
-              "8405",
-              "Moss",
-              "5105238",
-              {
-                "id": "8405",
-                "name": "Moss",
-                "shortName": "Moss"
-              },
+              "8531",
+              "Bryne",
+              "5105248",
               {
                 "id": "4249",
                 "name": "Strømmen",
                 "shortName": "Strømmen"
               },
-              "2026-08-30T15:00:00Z"
+              {
+                "id": "8531",
+                "name": "Bryne",
+                "shortName": "Bryne"
+              },
+              "2026-09-05T14:00:00Z"
             ],
             "4722": [
-              "10021",
-              "Åsane",
-              "5105235",
-              {
-                "id": "4722",
-                "name": "Egersund",
-                "shortName": "Egersund"
-              },
-              {
-                "id": "10021",
-                "name": "Åsane",
-                "shortName": "Åsane"
-              },
-              "2026-08-30T15:00:00Z"
-            ],
-            "6563": [
-              "7988",
-              "Odds Ballklubb",
-              "5105239",
-              {
-                "id": "6563",
-                "name": "Ranheim",
-                "shortName": "Ranheim"
-              },
-              {
-                "id": "7988",
-                "name": "Odds Ballklubb",
-                "shortName": "Odds Ballklubb"
-              },
-              "2026-08-30T15:00:00Z"
-            ],
-            "7937": [
-              "9918",
-              "Stabæk",
-              "5105236",
-              {
-                "id": "7937",
-                "name": "Hødd",
-                "shortName": "Hødd"
-              },
-              {
-                "id": "9918",
-                "name": "Stabæk",
-                "shortName": "Stabæk"
-              },
-              "2026-08-30T15:00:00Z"
-            ],
-            "7988": [
-              "6563",
-              "Ranheim",
-              "5105239",
-              {
-                "id": "6563",
-                "name": "Ranheim",
-                "shortName": "Ranheim"
-              },
-              {
-                "id": "7988",
-                "name": "Odds Ballklubb",
-                "shortName": "Odds Ballklubb"
-              },
-              "2026-08-30T15:00:00Z"
-            ],
-            "8133": [
-              "9812",
-              "Raufoss",
-              "5105240",
-              {
-                "id": "9812",
-                "name": "Raufoss",
-                "shortName": "Raufoss"
-              },
-              {
-                "id": "8133",
-                "name": "Sandnes Ulf",
-                "shortName": "Sandnes Ulf"
-              },
-              "2026-08-30T15:00:00Z"
-            ],
-            "8179": [
               "10224",
               "Lyn",
-              "5105237",
-              {
-                "id": "8179",
-                "name": "Kongsvinger",
-                "shortName": "Kongsvinger"
-              },
+              "5105244",
               {
                 "id": "10224",
                 "name": "Lyn",
                 "shortName": "Lyn"
               },
-              "2026-08-30T15:00:00Z"
-            ],
-            "8180": [
-              "8616",
-              "Sogndal",
-              "5105241",
               {
-                "id": "8616",
-                "name": "Sogndal",
-                "shortName": "Sogndal"
+                "id": "4722",
+                "name": "Egersund",
+                "shortName": "Egersund"
+              },
+              "2026-09-06T15:00:00Z"
+            ],
+            "6563": [
+              "8133",
+              "Sandnes Ulf",
+              "5105246",
+              {
+                "id": "8133",
+                "name": "Sandnes Ulf",
+                "shortName": "Sandnes Ulf"
+              },
+              {
+                "id": "6563",
+                "name": "Ranheim",
+                "shortName": "Ranheim"
+              },
+              "2026-09-05T14:00:00Z"
+            ],
+            "7937": [
+              "10021",
+              "Åsane",
+              "5105249",
+              {
+                "id": "10021",
+                "name": "Åsane",
+                "shortName": "Åsane"
+              },
+              {
+                "id": "7937",
+                "name": "Hødd",
+                "shortName": "Hødd"
+              },
+              "2026-09-05T14:00:00Z"
+            ],
+            "7988": [
+              "8180",
+              "Strømsgodset",
+              "5105245",
+              {
+                "id": "7988",
+                "name": "Odds Ballklubb",
+                "shortName": "Odds Ballklubb"
               },
               {
                 "id": "8180",
                 "name": "Strømsgodset",
                 "shortName": "Strømsgodset"
               },
-              "2026-08-30T15:00:00Z"
+              "2026-09-05T14:00:00Z"
+            ],
+            "8133": [
+              "6563",
+              "Ranheim",
+              "5105246",
+              {
+                "id": "8133",
+                "name": "Sandnes Ulf",
+                "shortName": "Sandnes Ulf"
+              },
+              {
+                "id": "6563",
+                "name": "Ranheim",
+                "shortName": "Ranheim"
+              },
+              "2026-09-05T14:00:00Z"
+            ],
+            "8179": [
+              "9812",
+              "Raufoss",
+              "5105243",
+              {
+                "id": "8179",
+                "name": "Kongsvinger",
+                "shortName": "Kongsvinger"
+              },
+              {
+                "id": "9812",
+                "name": "Raufoss",
+                "shortName": "Raufoss"
+              },
+              "2026-09-05T14:00:00Z"
+            ],
+            "8180": [
+              "7988",
+              "Odds Ballklubb",
+              "5105245",
+              {
+                "id": "7988",
+                "name": "Odds Ballklubb",
+                "shortName": "Odds Ballklubb"
+              },
+              {
+                "id": "8180",
+                "name": "Strømsgodset",
+                "shortName": "Strømsgodset"
+              },
+              "2026-09-05T14:00:00Z"
             ],
             "8405": [
-              "4249",
-              "Strømmen",
-              "5105238",
+              "9918",
+              "Stabæk",
+              "5105247",
+              {
+                "id": "9918",
+                "name": "Stabæk",
+                "shortName": "Stabæk"
+              },
               {
                 "id": "8405",
                 "name": "Moss",
                 "shortName": "Moss"
               },
-              {
-                "id": "4249",
-                "name": "Strømmen",
-                "shortName": "Strømmen"
-              },
-              "2026-08-30T15:00:00Z"
+              "2026-09-05T18:00:00Z"
             ],
             "8512": [
               "8531",
@@ -48202,7 +48201,7 @@
                 "name": "FK Haugesund",
                 "shortName": "FK Haugesund"
               },
-              "2026-08-29T12:00:00Z"
+              "2026-08-31T12:00:00Z"
             ],
             "8531": [
               "8512",
@@ -48218,87 +48217,87 @@
                 "name": "FK Haugesund",
                 "shortName": "FK Haugesund"
               },
-              "2026-08-29T12:00:00Z"
+              "2026-08-31T12:00:00Z"
             ],
             "8616": [
-              "8180",
-              "Strømsgodset",
-              "5105241",
+              "8512",
+              "FK Haugesund",
+              "5105242",
+              {
+                "id": "8512",
+                "name": "FK Haugesund",
+                "shortName": "FK Haugesund"
+              },
               {
                 "id": "8616",
                 "name": "Sogndal",
                 "shortName": "Sogndal"
               },
-              {
-                "id": "8180",
-                "name": "Strømsgodset",
-                "shortName": "Strømsgodset"
-              },
-              "2026-08-30T15:00:00Z"
+              "2026-09-05T14:00:00Z"
             ],
             "9812": [
-              "8133",
-              "Sandnes Ulf",
-              "5105240",
-              {
-                "id": "9812",
-                "name": "Raufoss",
-                "shortName": "Raufoss"
-              },
-              {
-                "id": "8133",
-                "name": "Sandnes Ulf",
-                "shortName": "Sandnes Ulf"
-              },
-              "2026-08-30T15:00:00Z"
-            ],
-            "9918": [
-              "7937",
-              "Hødd",
-              "5105236",
-              {
-                "id": "7937",
-                "name": "Hødd",
-                "shortName": "Hødd"
-              },
-              {
-                "id": "9918",
-                "name": "Stabæk",
-                "shortName": "Stabæk"
-              },
-              "2026-08-30T15:00:00Z"
-            ],
-            "10021": [
-              "4722",
-              "Egersund",
-              "5105235",
-              {
-                "id": "4722",
-                "name": "Egersund",
-                "shortName": "Egersund"
-              },
-              {
-                "id": "10021",
-                "name": "Åsane",
-                "shortName": "Åsane"
-              },
-              "2026-08-30T15:00:00Z"
-            ],
-            "10224": [
               "8179",
               "Kongsvinger",
-              "5105237",
+              "5105243",
               {
                 "id": "8179",
                 "name": "Kongsvinger",
                 "shortName": "Kongsvinger"
               },
               {
+                "id": "9812",
+                "name": "Raufoss",
+                "shortName": "Raufoss"
+              },
+              "2026-09-05T14:00:00Z"
+            ],
+            "9918": [
+              "8405",
+              "Moss",
+              "5105247",
+              {
+                "id": "9918",
+                "name": "Stabæk",
+                "shortName": "Stabæk"
+              },
+              {
+                "id": "8405",
+                "name": "Moss",
+                "shortName": "Moss"
+              },
+              "2026-09-05T18:00:00Z"
+            ],
+            "10021": [
+              "7937",
+              "Hødd",
+              "5105249",
+              {
+                "id": "10021",
+                "name": "Åsane",
+                "shortName": "Åsane"
+              },
+              {
+                "id": "7937",
+                "name": "Hødd",
+                "shortName": "Hødd"
+              },
+              "2026-09-05T14:00:00Z"
+            ],
+            "10224": [
+              "4722",
+              "Egersund",
+              "5105244",
+              {
                 "id": "10224",
                 "name": "Lyn",
                 "shortName": "Lyn"
               },
-              "2026-08-30T15:00:00Z"
+              {
+                "id": "4722",
+                "name": "Egersund",
+                "shortName": "Egersund"
+              },
+              "2026-09-06T15:00:00Z"
             ]
           },
           "tableHeader": {
@@ -48323,6 +48322,40 @@
       "transfers": {
         "type": "league",
         "data": [
+          {
+            "name": "Lukas Hjelleset Gausdal",
+            "playerId": 1645780,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-28T10:20:38Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Sogndal",
+            "toClubFullName": "Sogndal",
+            "toClubId": 8616,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-27T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 1025092
+          },
           {
             "name": "Terry Benjamin",
             "playerId": 1736113,
@@ -51630,40 +51663,6 @@
             "fromDate": "2025-12-31T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
             "marketValue": 359578
-          },
-          {
-            "name": "Joachim Nysveen",
-            "playerId": 1639621,
-            "position": {
-              "label": "LM",
-              "key": "leftmidfielder_short"
-            },
-            "transferDate": "2025-09-21T06:06:50Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Stabæk",
-            "fromClubFullName": "Stabæk",
-            "fromClubId": 9918,
-            "toClub": "Fredrikstad",
-            "toClubFullName": "Fredrikstad",
-            "toClubId": 8417,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-12-31T23:00:00Z",
-            "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 314475
           }
         ]
       },
@@ -55395,148 +55394,148 @@
             },
             "nextOpponent": {
               "4249": [
-                "8405",
-                "Moss",
-                "5105238",
-                {
-                  "id": "8405",
-                  "name": "Moss",
-                  "shortName": "Moss"
-                },
+                "8531",
+                "Bryne",
+                "5105248",
                 {
                   "id": "4249",
                   "name": "Strømmen",
                   "shortName": "Strømmen"
                 },
-                "2026-08-30T15:00:00Z"
+                {
+                  "id": "8531",
+                  "name": "Bryne",
+                  "shortName": "Bryne"
+                },
+                "2026-09-05T14:00:00Z"
               ],
               "4722": [
-                "10021",
-                "Åsane",
-                "5105235",
-                {
-                  "id": "4722",
-                  "name": "Egersund",
-                  "shortName": "Egersund"
-                },
-                {
-                  "id": "10021",
-                  "name": "Åsane",
-                  "shortName": "Åsane"
-                },
-                "2026-08-30T15:00:00Z"
-              ],
-              "6563": [
-                "7988",
-                "Odds Ballklubb",
-                "5105239",
-                {
-                  "id": "6563",
-                  "name": "Ranheim",
-                  "shortName": "Ranheim"
-                },
-                {
-                  "id": "7988",
-                  "name": "Odds Ballklubb",
-                  "shortName": "Odds Ballklubb"
-                },
-                "2026-08-30T15:00:00Z"
-              ],
-              "7937": [
-                "9918",
-                "Stabæk",
-                "5105236",
-                {
-                  "id": "7937",
-                  "name": "Hødd",
-                  "shortName": "Hødd"
-                },
-                {
-                  "id": "9918",
-                  "name": "Stabæk",
-                  "shortName": "Stabæk"
-                },
-                "2026-08-30T15:00:00Z"
-              ],
-              "7988": [
-                "6563",
-                "Ranheim",
-                "5105239",
-                {
-                  "id": "6563",
-                  "name": "Ranheim",
-                  "shortName": "Ranheim"
-                },
-                {
-                  "id": "7988",
-                  "name": "Odds Ballklubb",
-                  "shortName": "Odds Ballklubb"
-                },
-                "2026-08-30T15:00:00Z"
-              ],
-              "8133": [
-                "9812",
-                "Raufoss",
-                "5105240",
-                {
-                  "id": "9812",
-                  "name": "Raufoss",
-                  "shortName": "Raufoss"
-                },
-                {
-                  "id": "8133",
-                  "name": "Sandnes Ulf",
-                  "shortName": "Sandnes Ulf"
-                },
-                "2026-08-30T15:00:00Z"
-              ],
-              "8179": [
                 "10224",
                 "Lyn",
-                "5105237",
-                {
-                  "id": "8179",
-                  "name": "Kongsvinger",
-                  "shortName": "Kongsvinger"
-                },
+                "5105244",
                 {
                   "id": "10224",
                   "name": "Lyn",
                   "shortName": "Lyn"
                 },
-                "2026-08-30T15:00:00Z"
-              ],
-              "8180": [
-                "8616",
-                "Sogndal",
-                "5105241",
                 {
-                  "id": "8616",
-                  "name": "Sogndal",
-                  "shortName": "Sogndal"
+                  "id": "4722",
+                  "name": "Egersund",
+                  "shortName": "Egersund"
+                },
+                "2026-09-06T15:00:00Z"
+              ],
+              "6563": [
+                "8133",
+                "Sandnes Ulf",
+                "5105246",
+                {
+                  "id": "8133",
+                  "name": "Sandnes Ulf",
+                  "shortName": "Sandnes Ulf"
+                },
+                {
+                  "id": "6563",
+                  "name": "Ranheim",
+                  "shortName": "Ranheim"
+                },
+                "2026-09-05T14:00:00Z"
+              ],
+              "7937": [
+                "10021",
+                "Åsane",
+                "5105249",
+                {
+                  "id": "10021",
+                  "name": "Åsane",
+                  "shortName": "Åsane"
+                },
+                {
+                  "id": "7937",
+                  "name": "Hødd",
+                  "shortName": "Hødd"
+                },
+                "2026-09-05T14:00:00Z"
+              ],
+              "7988": [
+                "8180",
+                "Strømsgodset",
+                "5105245",
+                {
+                  "id": "7988",
+                  "name": "Odds Ballklubb",
+                  "shortName": "Odds Ballklubb"
                 },
                 {
                   "id": "8180",
                   "name": "Strømsgodset",
                   "shortName": "Strømsgodset"
                 },
-                "2026-08-30T15:00:00Z"
+                "2026-09-05T14:00:00Z"
+              ],
+              "8133": [
+                "6563",
+                "Ranheim",
+                "5105246",
+                {
+                  "id": "8133",
+                  "name": "Sandnes Ulf",
+                  "shortName": "Sandnes Ulf"
+                },
+                {
+                  "id": "6563",
+                  "name": "Ranheim",
+                  "shortName": "Ranheim"
+                },
+                "2026-09-05T14:00:00Z"
+              ],
+              "8179": [
+                "9812",
+                "Raufoss",
+                "5105243",
+                {
+                  "id": "8179",
+                  "name": "Kongsvinger",
+                  "shortName": "Kongsvinger"
+                },
+                {
+                  "id": "9812",
+                  "name": "Raufoss",
+                  "shortName": "Raufoss"
+                },
+                "2026-09-05T14:00:00Z"
+              ],
+              "8180": [
+                "7988",
+                "Odds Ballklubb",
+                "5105245",
+                {
+                  "id": "7988",
+                  "name": "Odds Ballklubb",
+                  "shortName": "Odds Ballklubb"
+                },
+                {
+                  "id": "8180",
+                  "name": "Strømsgodset",
+                  "shortName": "Strømsgodset"
+                },
+                "2026-09-05T14:00:00Z"
               ],
               "8405": [
-                "4249",
-                "Strømmen",
-                "5105238",
+                "9918",
+                "Stabæk",
+                "5105247",
+                {
+                  "id": "9918",
+                  "name": "Stabæk",
+                  "shortName": "Stabæk"
+                },
                 {
                   "id": "8405",
                   "name": "Moss",
                   "shortName": "Moss"
                 },
-                {
-                  "id": "4249",
-                  "name": "Strømmen",
-                  "shortName": "Strømmen"
-                },
-                "2026-08-30T15:00:00Z"
+                "2026-09-05T18:00:00Z"
               ],
               "8512": [
                 "8531",
@@ -55552,7 +55551,7 @@
                   "name": "FK Haugesund",
                   "shortName": "FK Haugesund"
                 },
-                "2026-08-29T12:00:00Z"
+                "2026-08-31T12:00:00Z"
               ],
               "8531": [
                 "8512",
@@ -55568,87 +55567,87 @@
                   "name": "FK Haugesund",
                   "shortName": "FK Haugesund"
                 },
-                "2026-08-29T12:00:00Z"
+                "2026-08-31T12:00:00Z"
               ],
               "8616": [
-                "8180",
-                "Strømsgodset",
-                "5105241",
+                "8512",
+                "FK Haugesund",
+                "5105242",
+                {
+                  "id": "8512",
+                  "name": "FK Haugesund",
+                  "shortName": "FK Haugesund"
+                },
                 {
                   "id": "8616",
                   "name": "Sogndal",
                   "shortName": "Sogndal"
                 },
-                {
-                  "id": "8180",
-                  "name": "Strømsgodset",
-                  "shortName": "Strømsgodset"
-                },
-                "2026-08-30T15:00:00Z"
+                "2026-09-05T14:00:00Z"
               ],
               "9812": [
-                "8133",
-                "Sandnes Ulf",
-                "5105240",
-                {
-                  "id": "9812",
-                  "name": "Raufoss",
-                  "shortName": "Raufoss"
-                },
-                {
-                  "id": "8133",
-                  "name": "Sandnes Ulf",
-                  "shortName": "Sandnes Ulf"
-                },
-                "2026-08-30T15:00:00Z"
-              ],
-              "9918": [
-                "7937",
-                "Hødd",
-                "5105236",
-                {
-                  "id": "7937",
-                  "name": "Hødd",
-                  "shortName": "Hødd"
-                },
-                {
-                  "id": "9918",
-                  "name": "Stabæk",
-                  "shortName": "Stabæk"
-                },
-                "2026-08-30T15:00:00Z"
-              ],
-              "10021": [
-                "4722",
-                "Egersund",
-                "5105235",
-                {
-                  "id": "4722",
-                  "name": "Egersund",
-                  "shortName": "Egersund"
-                },
-                {
-                  "id": "10021",
-                  "name": "Åsane",
-                  "shortName": "Åsane"
-                },
-                "2026-08-30T15:00:00Z"
-              ],
-              "10224": [
                 "8179",
                 "Kongsvinger",
-                "5105237",
+                "5105243",
                 {
                   "id": "8179",
                   "name": "Kongsvinger",
                   "shortName": "Kongsvinger"
                 },
                 {
+                  "id": "9812",
+                  "name": "Raufoss",
+                  "shortName": "Raufoss"
+                },
+                "2026-09-05T14:00:00Z"
+              ],
+              "9918": [
+                "8405",
+                "Moss",
+                "5105247",
+                {
+                  "id": "9918",
+                  "name": "Stabæk",
+                  "shortName": "Stabæk"
+                },
+                {
+                  "id": "8405",
+                  "name": "Moss",
+                  "shortName": "Moss"
+                },
+                "2026-09-05T18:00:00Z"
+              ],
+              "10021": [
+                "7937",
+                "Hødd",
+                "5105249",
+                {
+                  "id": "10021",
+                  "name": "Åsane",
+                  "shortName": "Åsane"
+                },
+                {
+                  "id": "7937",
+                  "name": "Hødd",
+                  "shortName": "Hødd"
+                },
+                "2026-09-05T14:00:00Z"
+              ],
+              "10224": [
+                "4722",
+                "Egersund",
+                "5105244",
+                {
                   "id": "10224",
                   "name": "Lyn",
                   "shortName": "Lyn"
                 },
-                "2026-08-30T15:00:00Z"
+                {
+                  "id": "4722",
+                  "name": "Egersund",
+                  "shortName": "Egersund"
+                },
+                "2026-09-06T15:00:00Z"
               ]
             },
             "tableHeader": {
@@ -61737,37 +61736,6 @@
             }
           },
           {
-            "id": "5105234",
-            "pageUrl": "/matches/fk-haugesund-vs-bryne/2eh6tt#5105234",
-            "opponent": {
-              "id": "8531",
-              "name": "Bryne",
-              "score": 0
-            },
-            "home": {
-              "id": "8531",
-              "name": "Bryne",
-              "score": 0
-            },
-            "away": {
-              "id": "8512",
-              "name": "FK Haugesund",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-08-29T12:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "5105235",
             "pageUrl": "/matches/egersund-vs-asane/1splty#5105235",
             "opponent": {
@@ -61793,9 +61761,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -61824,9 +61798,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -61855,9 +61835,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -61886,9 +61872,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -61917,9 +61909,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -61948,9 +61946,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -61978,6 +61982,43 @@
             },
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
+              "timezone": "UTC",
+              "cancelled": true,
+              "started": false,
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
+            }
+          },
+          {
+            "id": "5105234",
+            "pageUrl": "/matches/fk-haugesund-vs-bryne/2eh6tt#5105234",
+            "opponent": {
+              "id": "8531",
+              "name": "Bryne",
+              "score": 0
+            },
+            "home": {
+              "id": "8531",
+              "name": "Bryne",
+              "score": 0
+            },
+            "away": {
+              "id": "8512",
+              "name": "FK Haugesund",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-08-31T12:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -64469,7 +64510,7 @@
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 152,
+            "firstUnplayedMatchIndex": 159,
             "firstUnplayedMatchId": "5105234"
           },
           "allMatches": [
@@ -69188,29 +69229,6 @@
             {
               "round": "20",
               "roundName": 20,
-              "pageUrl": "/matches/fk-haugesund-vs-bryne/2eh6tt#5105234",
-              "id": "5105234",
-              "home": {
-                "name": "Bryne",
-                "shortName": "Bryne",
-                "id": "8531"
-              },
-              "away": {
-                "name": "FK Haugesund",
-                "shortName": "FK Haugesund",
-                "id": "8512"
-              },
-              "status": {
-                "utcTime": "2026-08-29T12:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "20",
-              "roundName": 20,
               "pageUrl": "/matches/egersund-vs-asane/1splty#5105235",
               "id": "5105235",
               "home": {
@@ -69226,9 +69244,15 @@
               "status": {
                 "utcTime": "2026-08-30T15:00:00Z",
                 "timezone": "UTC",
+                "cancelled": true,
                 "started": false,
-                "cancelled": false,
-                "finished": false
+                "finished": false,
+                "reason": {
+                  "short": "PP",
+                  "shortKey": "postponed_short",
+                  "long": "Postponed",
+                  "longKey": "postponed"
+                }
               }
             },
             {
@@ -69249,9 +69273,15 @@
               "status": {
                 "utcTime": "2026-08-30T15:00:00Z",
                 "timezone": "UTC",
+                "cancelled": true,
                 "started": false,
-                "cancelled": false,
-                "finished": false
+                "finished": false,
+                "reason": {
+                  "short": "PP",
+                  "shortKey": "postponed_short",
+                  "long": "Postponed",
+                  "longKey": "postponed"
+                }
               }
             },
             {
@@ -69272,9 +69302,15 @@
               "status": {
                 "utcTime": "2026-08-30T15:00:00Z",
                 "timezone": "UTC",
+                "cancelled": true,
                 "started": false,
-                "cancelled": false,
-                "finished": false
+                "finished": false,
+                "reason": {
+                  "short": "PP",
+                  "shortKey": "postponed_short",
+                  "long": "Postponed",
+                  "longKey": "postponed"
+                }
               }
             },
             {
@@ -69295,9 +69331,15 @@
               "status": {
                 "utcTime": "2026-08-30T15:00:00Z",
                 "timezone": "UTC",
+                "cancelled": true,
                 "started": false,
-                "cancelled": false,
-                "finished": false
+                "finished": false,
+                "reason": {
+                  "short": "PP",
+                  "shortKey": "postponed_short",
+                  "long": "Postponed",
+                  "longKey": "postponed"
+                }
               }
             },
             {
@@ -69318,9 +69360,15 @@
               "status": {
                 "utcTime": "2026-08-30T15:00:00Z",
                 "timezone": "UTC",
+                "cancelled": true,
                 "started": false,
-                "cancelled": false,
-                "finished": false
+                "finished": false,
+                "reason": {
+                  "short": "PP",
+                  "shortKey": "postponed_short",
+                  "long": "Postponed",
+                  "longKey": "postponed"
+                }
               }
             },
             {
@@ -69341,9 +69389,15 @@
               "status": {
                 "utcTime": "2026-08-30T15:00:00Z",
                 "timezone": "UTC",
+                "cancelled": true,
                 "started": false,
-                "cancelled": false,
-                "finished": false
+                "finished": false,
+                "reason": {
+                  "short": "PP",
+                  "shortKey": "postponed_short",
+                  "long": "Postponed",
+                  "longKey": "postponed"
+                }
               }
             },
             {
@@ -69363,6 +69417,35 @@
               },
               "status": {
                 "utcTime": "2026-08-30T15:00:00Z",
+                "timezone": "UTC",
+                "cancelled": true,
+                "started": false,
+                "finished": false,
+                "reason": {
+                  "short": "PP",
+                  "shortKey": "postponed_short",
+                  "long": "Postponed",
+                  "longKey": "postponed"
+                }
+              }
+            },
+            {
+              "round": "20",
+              "roundName": 20,
+              "pageUrl": "/matches/fk-haugesund-vs-bryne/2eh6tt#5105234",
+              "id": "5105234",
+              "home": {
+                "name": "Bryne",
+                "shortName": "Bryne",
+                "id": "8531"
+              },
+              "away": {
+                "name": "FK Haugesund",
+                "shortName": "FK Haugesund",
+                "id": "8512"
+              },
+              "status": {
+                "utcTime": "2026-08-31T12:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -72598,7 +72681,7 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 152,
+          "firstUnplayedMatchIndex": 159,
           "firstUnplayedMatchId": "5105234"
         },
         "allMatches": [
@@ -77317,29 +77400,6 @@
           {
             "round": "20",
             "roundName": 20,
-            "pageUrl": "/matches/fk-haugesund-vs-bryne/2eh6tt#5105234",
-            "id": "5105234",
-            "home": {
-              "name": "Bryne",
-              "shortName": "Bryne",
-              "id": "8531"
-            },
-            "away": {
-              "name": "FK Haugesund",
-              "shortName": "FK Haugesund",
-              "id": "8512"
-            },
-            "status": {
-              "utcTime": "2026-08-29T12:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "20",
-            "roundName": 20,
             "pageUrl": "/matches/egersund-vs-asane/1splty#5105235",
             "id": "5105235",
             "home": {
@@ -77355,9 +77415,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -77378,9 +77444,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -77401,9 +77473,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -77424,9 +77502,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -77447,9 +77531,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -77470,9 +77560,15 @@
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
               "timezone": "UTC",
+              "cancelled": true,
               "started": false,
-              "cancelled": false,
-              "finished": false
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
             }
           },
           {
@@ -77492,6 +77588,35 @@
             },
             "status": {
               "utcTime": "2026-08-30T15:00:00Z",
+              "timezone": "UTC",
+              "cancelled": true,
+              "started": false,
+              "finished": false,
+              "reason": {
+                "short": "PP",
+                "shortKey": "postponed_short",
+                "long": "Postponed",
+                "longKey": "postponed"
+              }
+            }
+          },
+          {
+            "round": "20",
+            "roundName": 20,
+            "pageUrl": "/matches/fk-haugesund-vs-bryne/2eh6tt#5105234",
+            "id": "5105234",
+            "home": {
+              "name": "Bryne",
+              "shortName": "Bryne",
+              "id": "8531"
+            },
+            "away": {
+              "name": "FK Haugesund",
+              "shortName": "FK Haugesund",
+              "id": "8512"
+            },
+            "status": {
+              "utcTime": "2026-08-31T12:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -85393,7 +85518,7 @@
                 "name": "Bodø/Glimt (W)",
                 "shortName": "Bodø/Glimt (W)"
               },
-              "2026-08-29T11:00:00Z"
+              "2026-08-31T16:00:00Z"
             ],
             "4500": [
               "920414",
@@ -85409,7 +85534,7 @@
                 "name": "Aalesund (W)",
                 "shortName": "Aalesund (W)"
               },
-              "2026-08-29T11:00:00Z"
+              "2026-08-31T16:00:00Z"
             ],
             "4507": [
               "4485",
@@ -85505,7 +85630,7 @@
                 "name": "Aalesund (W)",
                 "shortName": "Aalesund (W)"
               },
-              "2026-08-29T11:00:00Z"
+              "2026-08-31T16:00:00Z"
             ],
             "1599447": [
               "4486",
@@ -85521,7 +85646,7 @@
                 "name": "Bodø/Glimt (W)",
                 "shortName": "Bodø/Glimt (W)"
               },
-              "2026-08-29T11:00:00Z"
+              "2026-08-31T16:00:00Z"
             ]
           },
           "tableHeader": {
@@ -88421,7 +88546,7 @@
                   "name": "Bodø/Glimt (W)",
                   "shortName": "Bodø/Glimt (W)"
                 },
-                "2026-08-29T11:00:00Z"
+                "2026-08-31T16:00:00Z"
               ],
               "4500": [
                 "920414",
@@ -88437,7 +88562,7 @@
                   "name": "Aalesund (W)",
                   "shortName": "Aalesund (W)"
                 },
-                "2026-08-29T11:00:00Z"
+                "2026-08-31T16:00:00Z"
               ],
               "4507": [
                 "4485",
@@ -88533,7 +88658,7 @@
                   "name": "Aalesund (W)",
                   "shortName": "Aalesund (W)"
                 },
-                "2026-08-29T11:00:00Z"
+                "2026-08-31T16:00:00Z"
               ],
               "1599447": [
                 "4486",
@@ -88549,7 +88674,7 @@
                   "name": "Bodø/Glimt (W)",
                   "shortName": "Bodø/Glimt (W)"
                 },
-                "2026-08-29T11:00:00Z"
+                "2026-08-31T16:00:00Z"
               ]
             },
             "tableHeader": {
@@ -91892,7 +92017,7 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-29T11:00:00Z",
+              "utcTime": "2026-08-31T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -91923,7 +92048,7 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-08-29T11:00:00Z",
+              "utcTime": "2026-08-31T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -95985,7 +96110,7 @@
                 "id": "4500"
               },
               "status": {
-                "utcTime": "2026-08-29T11:00:00Z",
+                "utcTime": "2026-08-31T16:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -96008,7 +96133,7 @@
                 "id": "1599447"
               },
               "status": {
-                "utcTime": "2026-08-29T11:00:00Z",
+                "utcTime": "2026-08-31T16:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -101014,7 +101139,7 @@
               "id": "4500"
             },
             "status": {
-              "utcTime": "2026-08-29T11:00:00Z",
+              "utcTime": "2026-08-31T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -101037,7 +101162,7 @@
               "id": "1599447"
             },
             "status": {
-              "utcTime": "2026-08-29T11:00:00Z",
+              "utcTime": "2026-08-31T16:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
