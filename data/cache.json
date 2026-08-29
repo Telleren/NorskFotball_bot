@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T16:49:07.429206+00:00",
+  "generated_at": "2026-08-29T21:01:18.120560+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Neraysho Kasanwirjo",
+            "playerId": 1083890,
+            "position": {
+              "label": "CB",
+              "key": "centerback_short"
+            },
+            "transferDate": "2026-08-29T18:44:14Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Feyenoord",
+            "fromClubFullName": "Feyenoord",
+            "fromClubId": 10235,
+            "toClub": "Brann",
+            "toClubFullName": "Brann",
+            "toClubId": 8468,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-29T00:00:00Z",
+            "toDate": "2030-12-31T00:00:00Z",
+            "marketValue": 1103336
+          },
+          {
             "name": "Daniel Bassi",
             "playerId": 1359647,
             "position": {
@@ -7839,41 +7870,6 @@
             "fromDate": "2026-07-06T00:00:00Z",
             "toDate": "2030-06-30T00:00:00Z",
             "marketValue": 1632694
-          },
-          {
-            "name": "Romano Postema",
-            "playerId": 1069826,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2026-07-06T11:00:20Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "FC Groningen",
-            "fromClubFullName": "FC Groningen",
-            "fromClubId": 8674,
-            "toClub": "Viking",
-            "toClubFullName": "Viking",
-            "toClubId": 8478,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 800000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": null,
-            "marketValue": 725635
           }
         ]
       },
