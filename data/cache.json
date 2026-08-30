@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T05:32:15.218649+00:00",
+  "generated_at": "2026-08-30T12:01:11.145184+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,74 @@
         "type": "league",
         "data": [
           {
+            "name": "Rabbi Matondo",
+            "playerId": 872968,
+            "position": {
+              "label": "LM",
+              "key": "leftmidfielder_short"
+            },
+            "transferDate": "2026-08-30T09:34:52Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubFullName": "Brann",
+            "fromClubId": 8468,
+            "toClub": "Free agent",
+            "toClubFullName": "Free agent",
+            "toClubId": 2,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-08-29T00:00:00Z",
+            "toDate": null,
+            "marketValue": 545952
+          },
+          {
+            "name": "Lars Bjørnerud Remmem",
+            "playerId": 1606369,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-30T09:34:05Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubFullName": "Brann",
+            "fromClubId": 8468,
+            "toClub": "FK Haugesund",
+            "toClubFullName": "FK Haugesund",
+            "toClubId": 8512,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-30T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 356892
+          },
+          {
             "name": "Neraysho Kasanwirjo",
             "playerId": 1083890,
             "position": {
@@ -7804,75 +7872,6 @@
             "fromDate": "2026-07-10T00:00:00Z",
             "toDate": "2026-12-31T00:00:00Z",
             "marketValue": 421274
-          },
-          {
-            "name": "Franco Lino",
-            "playerId": 1565855,
-            "position": {
-              "label": "LB",
-              "key": "leftback_short"
-            },
-            "transferDate": "2026-07-10T07:52:38Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Viking",
-            "fromClubFullName": "Viking",
-            "fromClubId": 8478,
-            "toClub": "Melbourne Victory",
-            "toClubFullName": "Melbourne Victory",
-            "toClubId": 6230,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-07-07T00:00:00Z",
-            "toDate": "2027-06-30T00:00:00Z",
-            "marketValue": null
-          },
-          {
-            "name": "Zinedin Smajlovic",
-            "playerId": 1457854,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-07-06T15:33:06Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sandefjord",
-            "fromClubFullName": "Sandefjord",
-            "fromClubId": 8609,
-            "toClub": "Olympiacos",
-            "toClubFullName": "Olympiacos",
-            "toClubId": 8638,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 5000000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-06T00:00:00Z",
-            "toDate": "2030-06-30T00:00:00Z",
-            "marketValue": 1632694
           }
         ]
       },
@@ -29310,7 +29309,7 @@
                 }
               }
             ],
-            "order": 21,
+            "order": 22,
             "name": "expected_assists",
             "localizedTitleId": "expected_assists",
             "category": "Attacking"
@@ -29398,7 +29397,7 @@
                 }
               }
             ],
-            "order": 22,
+            "order": 23,
             "name": "expected_assists_per_90",
             "localizedTitleId": "expected_assists_per_90",
             "category": "Attacking"
@@ -29486,7 +29485,7 @@
                 }
               }
             ],
-            "order": 23,
+            "order": 24,
             "name": "_expected_goals_and_expected_assists_per_90",
             "localizedTitleId": "xg_and_xa_per_90",
             "category": "Attacking"
@@ -29574,7 +29573,7 @@
                 }
               }
             ],
-            "order": 24,
+            "order": 25,
             "name": "won_contest",
             "localizedTitleId": "won_contest_per_90",
             "category": "Attacking"
@@ -29662,7 +29661,7 @@
                 }
               }
             ],
-            "order": 25,
+            "order": 26,
             "name": "big_chance_missed",
             "localizedTitleId": "big_chance_missed_title",
             "category": "Attacking"
@@ -29750,7 +29749,7 @@
                 }
               }
             ],
-            "order": 26,
+            "order": 27,
             "name": "penalty_won",
             "localizedTitleId": "penalty_won_title",
             "category": "Attacking"
@@ -29838,7 +29837,7 @@
                 }
               }
             ],
-            "order": 27,
+            "order": 28,
             "name": "defensive_contributions",
             "localizedTitleId": "defensive_actions_per_90",
             "category": "Defending"
@@ -29926,7 +29925,7 @@
                 }
               }
             ],
-            "order": 28,
+            "order": 29,
             "name": "total_tackle",
             "localizedTitleId": "tackle_per_90",
             "category": "Defending"
@@ -30014,7 +30013,7 @@
                 }
               }
             ],
-            "order": 29,
+            "order": 30,
             "name": "interception",
             "localizedTitleId": "interception_title",
             "category": "Defending"
@@ -30102,7 +30101,7 @@
                 }
               }
             ],
-            "order": 30,
+            "order": 31,
             "name": "effective_clearance",
             "localizedTitleId": "effective_clearance_per_90",
             "category": "Defending"
@@ -30190,7 +30189,7 @@
                 }
               }
             ],
-            "order": 31,
+            "order": 32,
             "name": "outfielder_block",
             "localizedTitleId": "outfielder_block_title",
             "category": "Defending"
@@ -30278,7 +30277,7 @@
                 }
               }
             ],
-            "order": 32,
+            "order": 33,
             "name": "ball_recovery",
             "localizedTitleId": "recoveries_per_90",
             "category": "Defending"
@@ -30366,7 +30365,7 @@
                 }
               }
             ],
-            "order": 33,
+            "order": 34,
             "name": "penalty_conceded",
             "localizedTitleId": "penalty_conceded_title",
             "category": "Defending"
@@ -30454,7 +30453,7 @@
                 }
               }
             ],
-            "order": 34,
+            "order": 35,
             "name": "poss_won_att_3rd",
             "localizedTitleId": "poss_won_att_3rd_per_90",
             "category": "Defending"
@@ -30542,7 +30541,7 @@
                 }
               }
             ],
-            "order": 35,
+            "order": 36,
             "name": "clean_sheet",
             "localizedTitleId": "clean_sheet_title",
             "category": "Goalkeeping"
@@ -30630,7 +30629,7 @@
                 }
               }
             ],
-            "order": 36,
+            "order": 37,
             "name": "_save_percentage",
             "localizedTitleId": "save_percentage",
             "category": "Goalkeeping"
@@ -30718,7 +30717,7 @@
                 }
               }
             ],
-            "order": 37,
+            "order": 38,
             "name": "saves",
             "localizedTitleId": "saves_per_90",
             "category": "Goalkeeping"
@@ -30806,7 +30805,7 @@
                 }
               }
             ],
-            "order": 38,
+            "order": 39,
             "name": "_goals_prevented",
             "localizedTitleId": "goals_prevented",
             "category": "Goalkeeping"
@@ -30894,7 +30893,7 @@
                 }
               }
             ],
-            "order": 39,
+            "order": 40,
             "name": "goals_conceded",
             "localizedTitleId": "goals_conceded_per_90",
             "category": "Goalkeeping"
@@ -30982,7 +30981,7 @@
                 }
               }
             ],
-            "order": 40,
+            "order": 41,
             "name": "fouls",
             "localizedTitleId": "fouls_committed_per_90",
             "category": "Discipline"
@@ -31070,7 +31069,7 @@
                 }
               }
             ],
-            "order": 41,
+            "order": 42,
             "name": "yellow_card",
             "localizedTitleId": "yellow_cards",
             "category": "Discipline"
@@ -31158,7 +31157,7 @@
                 }
               }
             ],
-            "order": 42,
+            "order": 43,
             "name": "red_card",
             "localizedTitleId": "red_cards",
             "category": "Discipline"
@@ -31244,7 +31243,7 @@
                 }
               }
             ],
-            "order": 43,
+            "order": 44,
             "name": "rating_team",
             "localizedTitleId": "rating_team_title",
             "category": "Top Stat"
@@ -31328,7 +31327,7 @@
                 }
               }
             ],
-            "order": 44,
+            "order": 45,
             "name": "goals_team_match",
             "localizedTitleId": "goals_team_match_title",
             "category": "Top Stat"
@@ -31412,7 +31411,7 @@
                 }
               }
             ],
-            "order": 45,
+            "order": 46,
             "name": "goals_conceded_team_match",
             "localizedTitleId": "goals_conceded_team_match_title",
             "category": "Top Stat"
@@ -31496,7 +31495,7 @@
                 }
               }
             ],
-            "order": 46,
+            "order": 47,
             "name": "possession_percentage_team",
             "localizedTitleId": "possession_percentage_title",
             "category": "Top Stat"
@@ -31580,7 +31579,7 @@
                 }
               }
             ],
-            "order": 48,
+            "order": 49,
             "name": "clean_sheet_team",
             "localizedTitleId": "clean_sheet_team_title",
             "category": "Top Stat"
@@ -31664,7 +31663,7 @@
                 }
               }
             ],
-            "order": 49,
+            "order": 50,
             "name": "home_attendance_team",
             "localizedTitleId": "Attendance",
             "category": "Top Stat"
@@ -31748,7 +31747,7 @@
                 }
               }
             ],
-            "order": 50,
+            "order": 51,
             "name": "expected_goals_team",
             "localizedTitleId": "expected_goals",
             "category": "Attacking"
@@ -31832,7 +31831,7 @@
                 }
               }
             ],
-            "order": 51,
+            "order": 52,
             "name": "_xg_diff_team",
             "localizedTitleId": "xg_diff_title",
             "category": "Attacking"
@@ -31916,7 +31915,7 @@
                 }
               }
             ],
-            "order": 52,
+            "order": 53,
             "name": "ontarget_scoring_att_team",
             "localizedTitleId": "ontarget_scoring_att_team_title",
             "category": "Attacking"
@@ -32000,7 +31999,7 @@
                 }
               }
             ],
-            "order": 53,
+            "order": 54,
             "name": "big_chance_team",
             "localizedTitleId": "big_chance",
             "category": "Attacking"
@@ -32084,7 +32083,7 @@
                 }
               }
             ],
-            "order": 54,
+            "order": 55,
             "name": "big_chance_missed_team",
             "localizedTitleId": "big_chance_missed_team_title",
             "category": "Attacking"
@@ -32168,7 +32167,7 @@
                 }
               }
             ],
-            "order": 55,
+            "order": 56,
             "name": "accurate_pass_team",
             "localizedTitleId": "accurate_pass_team_title",
             "category": "Attacking"
@@ -32252,7 +32251,7 @@
                 }
               }
             ],
-            "order": 56,
+            "order": 57,
             "name": "accurate_long_balls_team",
             "localizedTitleId": "accurate_long_balls_team_title",
             "category": "Attacking"
@@ -32336,7 +32335,7 @@
                 }
               }
             ],
-            "order": 57,
+            "order": 58,
             "name": "accurate_cross_team",
             "localizedTitleId": "accurate_cross_team_title",
             "category": "Attacking"
@@ -32420,7 +32419,7 @@
                 }
               }
             ],
-            "order": 58,
+            "order": 59,
             "name": "penalty_won_team",
             "localizedTitleId": "penalty_won_team_title",
             "category": "Attacking"
@@ -32504,7 +32503,7 @@
                 }
               }
             ],
-            "order": 59,
+            "order": 60,
             "name": "touches_in_opp_box_team",
             "localizedTitleId": "touches_opp_box",
             "category": "Attacking"
@@ -32588,7 +32587,7 @@
                 }
               }
             ],
-            "order": 60,
+            "order": 61,
             "name": "corner_taken_team",
             "localizedTitleId": "corners",
             "category": "Attacking"
@@ -32672,7 +32671,7 @@
                 }
               }
             ],
-            "order": 61,
+            "order": 62,
             "name": "_set_piece_goals_team",
             "localizedTitleId": "set_piece_goals",
             "category": "Attacking"
@@ -32756,7 +32755,7 @@
                 }
               }
             ],
-            "order": 62,
+            "order": 63,
             "name": "expected_goals_conceded_team",
             "localizedTitleId": "expected_goals_conceded",
             "category": "Defending"
@@ -32840,7 +32839,7 @@
                 }
               }
             ],
-            "order": 63,
+            "order": 64,
             "name": "interception_team",
             "localizedTitleId": "interception_team_title",
             "category": "Defending"
@@ -32924,7 +32923,7 @@
                 }
               }
             ],
-            "order": 64,
+            "order": 65,
             "name": "total_tackle_team",
             "localizedTitleId": "tackle_title",
             "category": "Defending"
@@ -33008,7 +33007,7 @@
                 }
               }
             ],
-            "order": 65,
+            "order": 66,
             "name": "effective_clearance_team",
             "localizedTitleId": "effective_clearance_team_title",
             "category": "Defending"
@@ -33092,7 +33091,7 @@
                 }
               }
             ],
-            "order": 66,
+            "order": 67,
             "name": "poss_won_att_3rd_team",
             "localizedTitleId": "poss_won_att_3rd_title",
             "category": "Defending"
@@ -33176,7 +33175,7 @@
                 }
               }
             ],
-            "order": 67,
+            "order": 68,
             "name": "_set_piece_goals_conceded_team",
             "localizedTitleId": "set_piece_goals_conceded",
             "category": "Defending"
@@ -33260,7 +33259,7 @@
                 }
               }
             ],
-            "order": 68,
+            "order": 69,
             "name": "penalty_conceded_team",
             "localizedTitleId": "penalty_conceded_team_title",
             "category": "Defending"
@@ -33344,7 +33343,7 @@
                 }
               }
             ],
-            "order": 69,
+            "order": 70,
             "name": "saves_team",
             "localizedTitleId": "saves_title",
             "category": "Defending"
@@ -33428,7 +33427,7 @@
                 }
               }
             ],
-            "order": 70,
+            "order": 71,
             "name": "fk_foul_lost_team",
             "localizedTitleId": "fouls_per_match",
             "category": "Discipline"
@@ -33512,7 +33511,7 @@
                 }
               }
             ],
-            "order": 71,
+            "order": 72,
             "name": "total_yel_card_team",
             "localizedTitleId": "yellow_cards",
             "category": "Discipline"
@@ -33596,7 +33595,7 @@
                 }
               }
             ],
-            "order": 72,
+            "order": 73,
             "name": "total_red_card_team",
             "localizedTitleId": "red_cards",
             "category": "Discipline"
@@ -48407,6 +48406,71 @@
         "type": "league",
         "data": [
           {
+            "name": "Aksel Jörgensen",
+            "playerId": 1812508,
+            "position": null,
+            "transferDate": "2026-08-30T11:14:07Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Lyngby",
+            "fromClubFullName": "Lyngby",
+            "fromClubId": 9907,
+            "toClub": "Sandnes Ulf",
+            "toClubFullName": "Sandnes Ulf",
+            "toClubId": 8133,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-29T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": null
+          },
+          {
+            "name": "Lars Bjørnerud Remmem",
+            "playerId": 1606369,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-30T09:34:05Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Brann",
+            "fromClubFullName": "Brann",
+            "fromClubId": 8468,
+            "toClub": "FK Haugesund",
+            "toClubFullName": "FK Haugesund",
+            "toClubId": 8512,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-08-30T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 356892
+          },
+          {
             "name": "Kees Sims",
             "playerId": 1351895,
             "position": {
@@ -51682,74 +51746,6 @@
             "fromDate": "2026-01-30T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
             "marketValue": 222544
-          },
-          {
-            "name": "Torjus Engebakken",
-            "playerId": 1477657,
-            "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
-            },
-            "transferDate": "2025-12-17T08:02:13Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Fredrikstad",
-            "fromClubFullName": "Fredrikstad",
-            "fromClubId": 8417,
-            "toClub": "Raufoss",
-            "toClubFullName": "Raufoss",
-            "toClubId": 9812,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2025-12-31T23:00:00Z",
-            "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 575744
-          },
-          {
-            "name": "Martin Tangen Vinjor",
-            "playerId": 737091,
-            "position": {
-              "label": "ST",
-              "key": "striker_short"
-            },
-            "transferDate": "2025-12-05T19:43:38Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Kongsvinger",
-            "fromClubFullName": "Kongsvinger",
-            "fromClubId": 8179,
-            "toClub": "KFUM",
-            "toClubFullName": "KFUM",
-            "toClubId": 2305,
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2025-12-31T23:00:00Z",
-            "toDate": null,
-            "marketValue": 236940
           }
         ]
       },
