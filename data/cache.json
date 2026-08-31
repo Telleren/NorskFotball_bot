@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:01:53.461141+00:00",
+  "generated_at": "2026-08-31T22:56:29.663381+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -30806,16 +30806,16 @@
           {
             "header": "Goals prevented",
             "participant": {
-              "id": 1049254,
-              "name": "Elias Hadaya",
+              "id": 625360,
+              "name": "Nikita Haikin",
               "rank": 1,
-              "ccode": "SYR",
-              "teamId": 8609,
-              "teamName": "Sandefjord",
-              "value": 5.6,
+              "ccode": "NOR",
+              "teamId": 8402,
+              "teamName": "Bodø/Glimt",
+              "value": 5.9,
               "stat": {
                 "name": "_goals_prevented",
-                "value": 5.6,
+                "value": 5.9,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -30823,9 +30823,30 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/_goals_prevented.json",
             "topThree": [
               {
+                "id": 625360,
+                "name": "Nikita Haikin",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8402,
+                "teamName": "Bodø/Glimt",
+                "value": 5.9,
+                "stat": {
+                  "name": "_goals_prevented",
+                  "value": 5.9,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1049254,
                 "name": "Elias Hadaya",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "SYR",
                 "teamId": 8609,
                 "teamName": "Sandefjord",
@@ -30846,7 +30867,7 @@
               {
                 "id": 1280650,
                 "name": "Adrian Sæther",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8605,
                 "teamName": "Kristiansund",
@@ -30861,27 +30882,6 @@
                   "darkMode": "#2c528c",
                   "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 625360,
-                "name": "Nikita Haikin",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8402,
-                "teamName": "Bodø/Glimt",
-                "value": 4.9,
-                "stat": {
-                  "name": "_goals_prevented",
-                  "value": 4.9,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#f8dc03",
-                  "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -42067,6 +42067,7 @@
             "8974": "J. League 2",
             "8976": "Liga de Expansión MX",
             "8980": "Brazil State Championship",
+            "8982": "Indian Football League",
             "8984": "Thai League",
             "9015": "Liga Primera",
             "9039": "LPF",
@@ -42109,6 +42110,7 @@
             "9429": "Copa do Nordeste",
             "9441": "Open Cup",
             "9464": "Serie D",
+            "9467": "CAF Super Cup",
             "9468": "CAF Confed Cup",
             "9469": "AFC Champions League Two",
             "9470": "AFC Challenge League",
@@ -42556,6 +42558,7 @@
             "189420": "Sotra SK",
             "191716": "Philadelphia",
             "195601": "Sochi",
+            "197884": "Inter SM",
             "198150": "Ufa",
             "198164": "Tambov",
             "200124": "Heltne Nilsen",
@@ -42779,6 +42782,7 @@
             "1656860": "Alysson",
             "1680173": "Amaimouni",
             "1682313": "Dro",
+            "1696742": "ABECAT",
             "1791531": "Ipswich U18",
             "1897602": "Ati Allah",
             "1911284": "Issa"
@@ -80465,6 +80469,7 @@
             "8974": "J. League 2",
             "8976": "Liga de Expansión MX",
             "8980": "Brazil State Championship",
+            "8982": "Indian Football League",
             "8984": "Thai League",
             "9015": "Liga Primera",
             "9039": "LPF",
@@ -80507,6 +80512,7 @@
             "9429": "Copa do Nordeste",
             "9441": "Open Cup",
             "9464": "Serie D",
+            "9467": "CAF Super Cup",
             "9468": "CAF Confed Cup",
             "9469": "AFC Champions League Two",
             "9470": "AFC Challenge League",
@@ -80954,6 +80960,7 @@
             "189420": "Sotra SK",
             "191716": "Philadelphia",
             "195601": "Sochi",
+            "197884": "Inter SM",
             "198150": "Ufa",
             "198164": "Tambov",
             "200124": "Heltne Nilsen",
@@ -81177,6 +81184,7 @@
             "1656860": "Alysson",
             "1680173": "Amaimouni",
             "1682313": "Dro",
+            "1696742": "ABECAT",
             "1791531": "Ipswich U18",
             "1897602": "Ati Allah",
             "1911284": "Issa"
@@ -82990,13 +82998,13 @@
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 13,
-                  "wins": 10,
+                  "played": 14,
+                  "wins": 11,
                   "draws": 1,
                   "losses": 2,
-                  "scoresStr": "34-14",
-                  "goalConDiff": 20,
-                  "pts": 31,
+                  "scoresStr": "35-14",
+                  "goalConDiff": 21,
+                  "pts": 34,
                   "idx": 2,
                   "qualColor": "#FFD908"
                 },
@@ -83052,6 +83060,23 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Lyn Fotball",
+                  "shortName": "Lyn Fotball",
+                  "id": 429438,
+                  "pageUrl": "/teams/429438/overview/lyn-fotball",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 14,
+                  "wins": 5,
+                  "draws": 4,
+                  "losses": 5,
+                  "scoresStr": "26-17",
+                  "goalConDiff": 9,
+                  "pts": 19,
+                  "idx": 6,
+                  "qualColor": null
+                },
+                {
                   "name": "Molde",
                   "shortName": "Molde",
                   "id": 726186,
@@ -83065,23 +83090,6 @@
                   "scoresStr": "22-24",
                   "goalConDiff": -2,
                   "pts": 18,
-                  "idx": 6,
-                  "qualColor": null
-                },
-                {
-                  "name": "Lyn Fotball",
-                  "shortName": "Lyn Fotball",
-                  "id": 429438,
-                  "pageUrl": "/teams/429438/overview/lyn-fotball",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 13,
-                  "wins": 4,
-                  "draws": 4,
-                  "losses": 5,
-                  "scoresStr": "23-16",
-                  "goalConDiff": 7,
-                  "pts": 16,
                   "idx": 7,
                   "qualColor": null
                 },
@@ -83126,12 +83134,12 @@
                   "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 13,
+                  "played": 14,
                   "wins": 2,
                   "draws": 4,
-                  "losses": 7,
-                  "scoresStr": "11-25",
-                  "goalConDiff": -14,
+                  "losses": 8,
+                  "scoresStr": "12-28",
+                  "goalConDiff": -16,
                   "pts": 10,
                   "idx": 10,
                   "qualColor": "#FFA72F"
@@ -83143,12 +83151,12 @@
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 13,
+                  "played": 14,
                   "wins": 2,
                   "draws": 2,
-                  "losses": 9,
-                  "scoresStr": "11-28",
-                  "goalConDiff": -17,
+                  "losses": 10,
+                  "scoresStr": "11-29",
+                  "goalConDiff": -18,
                   "pts": 8,
                   "idx": 11,
                   "qualColor": "#FF4646"
@@ -83323,12 +83331,12 @@
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 6,
+                  "played": 7,
                   "wins": 2,
                   "draws": 0,
-                  "losses": 4,
-                  "scoresStr": "7-12",
-                  "goalConDiff": -5,
+                  "losses": 5,
+                  "scoresStr": "7-13",
+                  "goalConDiff": -6,
                   "goalsScored": 7,
                   "pts": 6,
                   "idx": 9,
@@ -83359,13 +83367,13 @@
                   "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 6,
+                  "played": 7,
                   "wins": 0,
                   "draws": 3,
-                  "losses": 3,
-                  "scoresStr": "5-9",
-                  "goalConDiff": -4,
-                  "goalsScored": 5,
+                  "losses": 4,
+                  "scoresStr": "6-12",
+                  "goalConDiff": -6,
+                  "goalsScored": 6,
                   "pts": 3,
                   "idx": 11,
                   "qualColor": "#FF4646"
@@ -83415,14 +83423,14 @@
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 6,
-                  "wins": 5,
+                  "played": 7,
+                  "wins": 6,
                   "draws": 0,
                   "losses": 1,
-                  "scoresStr": "14-8",
-                  "goalConDiff": 6,
-                  "goalsScored": 14,
-                  "pts": 15,
+                  "scoresStr": "15-8",
+                  "goalConDiff": 7,
+                  "goalsScored": 15,
+                  "pts": 18,
                   "idx": 2,
                   "qualColor": "#FFD908"
                 },
@@ -83499,6 +83507,24 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Lyn Fotball",
+                  "shortName": "Lyn Fotball",
+                  "id": 429438,
+                  "pageUrl": "/teams/429438/overview/lyn-fotball",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 8,
+                  "wins": 3,
+                  "draws": 1,
+                  "losses": 4,
+                  "scoresStr": "9-10",
+                  "goalConDiff": -1,
+                  "goalsScored": 9,
+                  "pts": 10,
+                  "idx": 7,
+                  "qualColor": null
+                },
+                {
                   "name": "LSK Kvinner",
                   "shortName": "LSK Kvinner",
                   "id": 4486,
@@ -83513,24 +83539,6 @@
                   "goalConDiff": 5,
                   "goalsScored": 10,
                   "pts": 8,
-                  "idx": 7,
-                  "qualColor": null
-                },
-                {
-                  "name": "Lyn Fotball",
-                  "shortName": "Lyn Fotball",
-                  "id": 429438,
-                  "pageUrl": "/teams/429438/overview/lyn-fotball",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 7,
-                  "wins": 2,
-                  "draws": 1,
-                  "losses": 4,
-                  "scoresStr": "6-9",
-                  "goalConDiff": -3,
-                  "goalsScored": 6,
-                  "pts": 7,
                   "idx": 8,
                   "qualColor": null
                 },
@@ -83609,6 +83617,24 @@
               ],
               "form": [
                 {
+                  "name": "Aalesund (W)",
+                  "shortName": "Aalesund (W)",
+                  "featuredInMatch": false,
+                  "id": 4500,
+                  "pageUrl": "/teams/4500/overview/aalesund",
+                  "played": 5,
+                  "wins": 5,
+                  "draws": 0,
+                  "losses": 0,
+                  "scoresStr": "19-3",
+                  "goalConDiff": 16,
+                  "goalsScored": 19,
+                  "pts": 15,
+                  "ongoing": null,
+                  "idx": 1,
+                  "qualColor": "#FFD908"
+                },
+                {
                   "name": "Brann (W)",
                   "shortName": "Brann (W)",
                   "featuredInMatch": false,
@@ -83622,24 +83648,6 @@
                   "goalConDiff": 11,
                   "goalsScored": 13,
                   "pts": 13,
-                  "ongoing": null,
-                  "idx": 1,
-                  "qualColor": "#FFD908"
-                },
-                {
-                  "name": "Aalesund (W)",
-                  "shortName": "Aalesund (W)",
-                  "featuredInMatch": false,
-                  "id": 4500,
-                  "pageUrl": "/teams/4500/overview/aalesund",
-                  "played": 5,
-                  "wins": 4,
-                  "draws": 0,
-                  "losses": 1,
-                  "scoresStr": "19-5",
-                  "goalConDiff": 14,
-                  "goalsScored": 19,
-                  "pts": 12,
                   "ongoing": null,
                   "idx": 2,
                   "qualColor": "#FFD908"
@@ -83744,8 +83752,8 @@
                   "wins": 1,
                   "draws": 2,
                   "losses": 2,
-                  "scoresStr": "5-9",
-                  "goalConDiff": -4,
+                  "scoresStr": "5-10",
+                  "goalConDiff": -5,
                   "goalsScored": 5,
                   "pts": 5,
                   "ongoing": null,
@@ -83762,9 +83770,9 @@
                   "wins": 1,
                   "draws": 1,
                   "losses": 3,
-                  "scoresStr": "9-10",
+                  "scoresStr": "10-11",
                   "goalConDiff": -1,
-                  "goalsScored": 9,
+                  "goalsScored": 10,
                   "pts": 4,
                   "ongoing": null,
                   "idx": 9,
@@ -83780,9 +83788,9 @@
                   "wins": 1,
                   "draws": 1,
                   "losses": 3,
-                  "scoresStr": "4-8",
+                  "scoresStr": "3-7",
                   "goalConDiff": -4,
-                  "goalsScored": 4,
+                  "goalsScored": 3,
                   "pts": 4,
                   "ongoing": null,
                   "idx": 10,
@@ -84159,37 +84167,6 @@
             ],
             "4485": [
               {
-                "result": -1,
-                "resultString": "L",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/169297_xsmall.png",
-                "linkToMatch": "/matches/roa-vs-fk-haugesund/6xq9bvm#5105373",
-                "date": null,
-                "teamPageUrl": "/teams/169297/overview/fk-haugesund",
-                "tooltipText": {
-                  "utcTime": "2026-05-30T12:00:00Z",
-                  "timezone": "UTC",
-                  "homeTeam": "FK Haugesund (W)",
-                  "homeTeamId": 169297,
-                  "homeScore": 2,
-                  "awayTeam": "Røa (W)",
-                  "awayTeamId": 4485,
-                  "awayScore": 1
-                },
-                "score": "2 - 1",
-                "home": {
-                  "id": "169297",
-                  "name": "FK Haugesund (W)",
-                  "shortName": "FK Haugesund (W)",
-                  "isOurTeam": false
-                },
-                "away": {
-                  "id": "4485",
-                  "name": "Røa (W)",
-                  "shortName": "Røa (W)",
-                  "isOurTeam": true
-                }
-              },
-              {
                 "result": 0,
                 "resultString": "D",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/920414_xsmall.png",
@@ -84311,6 +84288,37 @@
                   "name": "Røa (W)",
                   "shortName": "Røa (W)",
                   "isOurTeam": true
+                }
+              },
+              {
+                "result": -1,
+                "resultString": "L",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429438_xsmall.png",
+                "linkToMatch": "/matches/roa-vs-lyn-fotball/178zdxjf#5105406",
+                "date": null,
+                "teamPageUrl": "/teams/429438/overview/lyn-fotball",
+                "tooltipText": {
+                  "utcTime": "2026-08-31T16:00:00Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Røa (W)",
+                  "homeTeamId": 4485,
+                  "homeScore": 1,
+                  "awayTeam": "Lyn Fotball (W)",
+                  "awayTeamId": 429438,
+                  "awayScore": 3
+                },
+                "score": "1 - 3",
+                "home": {
+                  "id": "4485",
+                  "name": "Røa (W)",
+                  "shortName": "Røa (W)",
+                  "isOurTeam": true
+                },
+                "away": {
+                  "id": "429438",
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)",
+                  "isOurTeam": false
                 }
               }
             ],
@@ -84473,37 +84481,6 @@
             ],
             "4500": [
               {
-                "result": -1,
-                "resultString": "L",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4182_xsmall.png",
-                "linkToMatch": "/matches/brann-vs-aalesund/mfzi3#5105377",
-                "date": null,
-                "teamPageUrl": "/teams/4182/overview/brann",
-                "tooltipText": {
-                  "utcTime": "2026-05-30T12:00:00Z",
-                  "timezone": "UTC",
-                  "homeTeam": "Aalesund (W)",
-                  "homeTeamId": 4500,
-                  "homeScore": 1,
-                  "awayTeam": "Brann (W)",
-                  "awayTeamId": 4182,
-                  "awayScore": 2
-                },
-                "score": "1 - 2",
-                "home": {
-                  "id": "4500",
-                  "name": "Aalesund (W)",
-                  "shortName": "Aalesund (W)",
-                  "isOurTeam": true
-                },
-                "away": {
-                  "id": "4182",
-                  "name": "Brann (W)",
-                  "shortName": "Brann (W)",
-                  "isOurTeam": false
-                }
-              },
-              {
                 "result": 1,
                 "resultString": "W",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4486_xsmall.png",
@@ -84625,6 +84602,37 @@
                   "name": "FK Haugesund (W)",
                   "shortName": "FK Haugesund (W)",
                   "isOurTeam": false
+                }
+              },
+              {
+                "result": 1,
+                "resultString": "W",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/920414_xsmall.png",
+                "linkToMatch": "/matches/aalesund-vs-honefoss/5ghxzad5#5105403",
+                "date": null,
+                "teamPageUrl": "/teams/920414/overview/honefoss",
+                "tooltipText": {
+                  "utcTime": "2026-08-31T16:00:00Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Hønefoss (W)",
+                  "homeTeamId": 920414,
+                  "homeScore": 0,
+                  "awayTeam": "Aalesund (W)",
+                  "awayTeamId": 4500,
+                  "awayScore": 1
+                },
+                "score": "0 - 1",
+                "home": {
+                  "id": "920414",
+                  "name": "Hønefoss (W)",
+                  "shortName": "Hønefoss (W)",
+                  "isOurTeam": false
+                },
+                "away": {
+                  "id": "4500",
+                  "name": "Aalesund (W)",
+                  "shortName": "Aalesund (W)",
+                  "isOurTeam": true
                 }
               }
             ],
@@ -85101,37 +85109,6 @@
             ],
             "429438": [
               {
-                "result": 1,
-                "resultString": "W",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4507_xsmall.png",
-                "linkToMatch": "/matches/valerenga-vs-lyn-fotball/17952jq8#5105375",
-                "date": null,
-                "teamPageUrl": "/teams/4507/overview/valerenga",
-                "tooltipText": {
-                  "utcTime": "2026-05-31T12:30:00Z",
-                  "timezone": "UTC",
-                  "homeTeam": "Lyn Fotball (W)",
-                  "homeTeamId": 429438,
-                  "homeScore": 2,
-                  "awayTeam": "Vålerenga (W)",
-                  "awayTeamId": 4507,
-                  "awayScore": 0
-                },
-                "score": "2 - 0",
-                "home": {
-                  "id": "429438",
-                  "name": "Lyn Fotball (W)",
-                  "shortName": "Lyn Fotball (W)",
-                  "isOurTeam": true
-                },
-                "away": {
-                  "id": "4507",
-                  "name": "Vålerenga (W)",
-                  "shortName": "Vålerenga (W)",
-                  "isOurTeam": false
-                }
-              },
-              {
                 "result": 0,
                 "resultString": "D",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4484_xsmall.png",
@@ -85246,6 +85223,37 @@
                   "id": "4484",
                   "name": "Rosenborg BK (W)",
                   "shortName": "Rosenborg BK (W)",
+                  "isOurTeam": false
+                },
+                "away": {
+                  "id": "429438",
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)",
+                  "isOurTeam": true
+                }
+              },
+              {
+                "result": 1,
+                "resultString": "W",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4485_xsmall.png",
+                "linkToMatch": "/matches/roa-vs-lyn-fotball/178zdxjf#5105406",
+                "date": null,
+                "teamPageUrl": "/teams/4485/overview/roa",
+                "tooltipText": {
+                  "utcTime": "2026-08-31T16:00:00Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Røa (W)",
+                  "homeTeamId": 4485,
+                  "homeScore": 1,
+                  "awayTeam": "Lyn Fotball (W)",
+                  "awayTeamId": 429438,
+                  "awayScore": 3
+                },
+                "score": "1 - 3",
+                "home": {
+                  "id": "4485",
+                  "name": "Røa (W)",
+                  "shortName": "Røa (W)",
                   "isOurTeam": false
                 },
                 "away": {
@@ -85415,37 +85423,6 @@
             ],
             "920414": [
               {
-                "result": -1,
-                "resultString": "L",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/92171_xsmall.png",
-                "linkToMatch": "/matches/stabaek-vs-honefoss/6jijdnbc#5105374",
-                "date": null,
-                "teamPageUrl": "/teams/92171/overview/stabaek",
-                "tooltipText": {
-                  "utcTime": "2026-05-29T16:00:00Z",
-                  "timezone": "UTC",
-                  "homeTeam": "Hønefoss (W)",
-                  "homeTeamId": 920414,
-                  "homeScore": 1,
-                  "awayTeam": "Stabæk (W)",
-                  "awayTeamId": 92171,
-                  "awayScore": 2
-                },
-                "score": "1 - 2",
-                "home": {
-                  "id": "920414",
-                  "name": "Hønefoss (W)",
-                  "shortName": "Hønefoss (W)",
-                  "isOurTeam": true
-                },
-                "away": {
-                  "id": "92171",
-                  "name": "Stabæk (W)",
-                  "shortName": "Stabæk (W)",
-                  "isOurTeam": false
-                }
-              },
-              {
                 "result": 0,
                 "resultString": "D",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4485_xsmall.png",
@@ -85567,6 +85544,37 @@
                   "name": "Hønefoss (W)",
                   "shortName": "Hønefoss (W)",
                   "isOurTeam": true
+                }
+              },
+              {
+                "result": -1,
+                "resultString": "L",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4500_xsmall.png",
+                "linkToMatch": "/matches/aalesund-vs-honefoss/5ghxzad5#5105403",
+                "date": null,
+                "teamPageUrl": "/teams/4500/overview/aalesund",
+                "tooltipText": {
+                  "utcTime": "2026-08-31T16:00:00Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Hønefoss (W)",
+                  "homeTeamId": 920414,
+                  "homeScore": 0,
+                  "awayTeam": "Aalesund (W)",
+                  "awayTeamId": 4500,
+                  "awayScore": 1
+                },
+                "score": "0 - 1",
+                "home": {
+                  "id": "920414",
+                  "name": "Hønefoss (W)",
+                  "shortName": "Hønefoss (W)",
+                  "isOurTeam": true
+                },
+                "away": {
+                  "id": "4500",
+                  "name": "Aalesund (W)",
+                  "shortName": "Aalesund (W)",
+                  "isOurTeam": false
                 }
               }
             ],
@@ -85762,20 +85770,20 @@
               "2026-09-13T11:00:00Z"
             ],
             "4485": [
-              "429438",
-              "Lyn Fotball (W)",
-              "5105406",
+              "4507",
+              "Vålerenga (W)",
+              "5105412",
               {
                 "id": "4485",
                 "name": "Røa (W)",
                 "shortName": "Røa (W)"
               },
               {
-                "id": "429438",
-                "name": "Lyn Fotball (W)",
-                "shortName": "Lyn Fotball (W)"
+                "id": "4507",
+                "name": "Vålerenga (W)",
+                "shortName": "Vålerenga (W)"
               },
-              "2026-08-31T16:00:00Z"
+              "2026-09-11T16:00:00Z"
             ],
             "4486": [
               "1599447",
@@ -85794,20 +85802,20 @@
               "2026-09-01T15:30:00Z"
             ],
             "4500": [
-              "920414",
-              "Hønefoss (W)",
-              "5105403",
+              "1599447",
+              "Bodø/Glimt (W)",
+              "5105408",
               {
-                "id": "920414",
-                "name": "Hønefoss (W)",
-                "shortName": "Hønefoss (W)"
+                "id": "1599447",
+                "name": "Bodø/Glimt (W)",
+                "shortName": "Bodø/Glimt (W)"
               },
               {
                 "id": "4500",
                 "name": "Aalesund (W)",
                 "shortName": "Aalesund (W)"
               },
-              "2026-08-31T16:00:00Z"
+              "2026-09-11T17:00:00Z"
             ],
             "4507": [
               "4485",
@@ -85858,20 +85866,20 @@
               "2026-09-13T11:00:00Z"
             ],
             "429438": [
-              "4485",
-              "Røa (W)",
-              "5105406",
-              {
-                "id": "4485",
-                "name": "Røa (W)",
-                "shortName": "Røa (W)"
-              },
+              "4182",
+              "Brann (W)",
+              "5105410",
               {
                 "id": "429438",
                 "name": "Lyn Fotball (W)",
                 "shortName": "Lyn Fotball (W)"
               },
-              "2026-08-31T16:00:00Z"
+              {
+                "id": "4182",
+                "name": "Brann (W)",
+                "shortName": "Brann (W)"
+              },
+              "2026-09-13T11:00:00Z"
             ],
             "726186": [
               "920414",
@@ -85890,20 +85898,20 @@
               "2026-09-13T11:00:00Z"
             ],
             "920414": [
-              "4500",
-              "Aalesund (W)",
-              "5105403",
+              "726186",
+              "Molde (W)",
+              "5105411",
+              {
+                "id": "726186",
+                "name": "Molde (W)",
+                "shortName": "Molde (W)"
+              },
               {
                 "id": "920414",
                 "name": "Hønefoss (W)",
                 "shortName": "Hønefoss (W)"
               },
-              {
-                "id": "4500",
-                "name": "Aalesund (W)",
-                "shortName": "Aalesund (W)"
-              },
-              "2026-08-31T16:00:00Z"
+              "2026-09-13T11:00:00Z"
             ],
             "1599447": [
               "4486",
@@ -86018,13 +86026,13 @@
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 13,
-                    "wins": 10,
+                    "played": 14,
+                    "wins": 11,
                     "draws": 1,
                     "losses": 2,
-                    "scoresStr": "34-14",
-                    "goalConDiff": 20,
-                    "pts": 31,
+                    "scoresStr": "35-14",
+                    "goalConDiff": 21,
+                    "pts": 34,
                     "idx": 2,
                     "qualColor": "#FFD908"
                   },
@@ -86080,6 +86088,23 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Lyn Fotball",
+                    "shortName": "Lyn Fotball",
+                    "id": 429438,
+                    "pageUrl": "/teams/429438/overview/lyn-fotball",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 14,
+                    "wins": 5,
+                    "draws": 4,
+                    "losses": 5,
+                    "scoresStr": "26-17",
+                    "goalConDiff": 9,
+                    "pts": 19,
+                    "idx": 6,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Molde",
                     "shortName": "Molde",
                     "id": 726186,
@@ -86093,23 +86118,6 @@
                     "scoresStr": "22-24",
                     "goalConDiff": -2,
                     "pts": 18,
-                    "idx": 6,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Lyn Fotball",
-                    "shortName": "Lyn Fotball",
-                    "id": 429438,
-                    "pageUrl": "/teams/429438/overview/lyn-fotball",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 13,
-                    "wins": 4,
-                    "draws": 4,
-                    "losses": 5,
-                    "scoresStr": "23-16",
-                    "goalConDiff": 7,
-                    "pts": 16,
                     "idx": 7,
                     "qualColor": null
                   },
@@ -86154,12 +86162,12 @@
                     "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 13,
+                    "played": 14,
                     "wins": 2,
                     "draws": 4,
-                    "losses": 7,
-                    "scoresStr": "11-25",
-                    "goalConDiff": -14,
+                    "losses": 8,
+                    "scoresStr": "12-28",
+                    "goalConDiff": -16,
                     "pts": 10,
                     "idx": 10,
                     "qualColor": "#FFA72F"
@@ -86171,12 +86179,12 @@
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 13,
+                    "played": 14,
                     "wins": 2,
                     "draws": 2,
-                    "losses": 9,
-                    "scoresStr": "11-28",
-                    "goalConDiff": -17,
+                    "losses": 10,
+                    "scoresStr": "11-29",
+                    "goalConDiff": -18,
                     "pts": 8,
                     "idx": 11,
                     "qualColor": "#FF4646"
@@ -86351,12 +86359,12 @@
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 6,
+                    "played": 7,
                     "wins": 2,
                     "draws": 0,
-                    "losses": 4,
-                    "scoresStr": "7-12",
-                    "goalConDiff": -5,
+                    "losses": 5,
+                    "scoresStr": "7-13",
+                    "goalConDiff": -6,
                     "goalsScored": 7,
                     "pts": 6,
                     "idx": 9,
@@ -86387,13 +86395,13 @@
                     "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 6,
+                    "played": 7,
                     "wins": 0,
                     "draws": 3,
-                    "losses": 3,
-                    "scoresStr": "5-9",
-                    "goalConDiff": -4,
-                    "goalsScored": 5,
+                    "losses": 4,
+                    "scoresStr": "6-12",
+                    "goalConDiff": -6,
+                    "goalsScored": 6,
                     "pts": 3,
                     "idx": 11,
                     "qualColor": "#FF4646"
@@ -86443,14 +86451,14 @@
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 6,
-                    "wins": 5,
+                    "played": 7,
+                    "wins": 6,
                     "draws": 0,
                     "losses": 1,
-                    "scoresStr": "14-8",
-                    "goalConDiff": 6,
-                    "goalsScored": 14,
-                    "pts": 15,
+                    "scoresStr": "15-8",
+                    "goalConDiff": 7,
+                    "goalsScored": 15,
+                    "pts": 18,
                     "idx": 2,
                     "qualColor": "#FFD908"
                   },
@@ -86527,6 +86535,24 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Lyn Fotball",
+                    "shortName": "Lyn Fotball",
+                    "id": 429438,
+                    "pageUrl": "/teams/429438/overview/lyn-fotball",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 8,
+                    "wins": 3,
+                    "draws": 1,
+                    "losses": 4,
+                    "scoresStr": "9-10",
+                    "goalConDiff": -1,
+                    "goalsScored": 9,
+                    "pts": 10,
+                    "idx": 7,
+                    "qualColor": null
+                  },
+                  {
                     "name": "LSK Kvinner",
                     "shortName": "LSK Kvinner",
                     "id": 4486,
@@ -86541,24 +86567,6 @@
                     "goalConDiff": 5,
                     "goalsScored": 10,
                     "pts": 8,
-                    "idx": 7,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Lyn Fotball",
-                    "shortName": "Lyn Fotball",
-                    "id": 429438,
-                    "pageUrl": "/teams/429438/overview/lyn-fotball",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 7,
-                    "wins": 2,
-                    "draws": 1,
-                    "losses": 4,
-                    "scoresStr": "6-9",
-                    "goalConDiff": -3,
-                    "goalsScored": 6,
-                    "pts": 7,
                     "idx": 8,
                     "qualColor": null
                   },
@@ -86637,6 +86645,24 @@
                 ],
                 "form": [
                   {
+                    "name": "Aalesund (W)",
+                    "shortName": "Aalesund (W)",
+                    "featuredInMatch": false,
+                    "id": 4500,
+                    "pageUrl": "/teams/4500/overview/aalesund",
+                    "played": 5,
+                    "wins": 5,
+                    "draws": 0,
+                    "losses": 0,
+                    "scoresStr": "19-3",
+                    "goalConDiff": 16,
+                    "goalsScored": 19,
+                    "pts": 15,
+                    "ongoing": null,
+                    "idx": 1,
+                    "qualColor": "#FFD908"
+                  },
+                  {
                     "name": "Brann (W)",
                     "shortName": "Brann (W)",
                     "featuredInMatch": false,
@@ -86650,24 +86676,6 @@
                     "goalConDiff": 11,
                     "goalsScored": 13,
                     "pts": 13,
-                    "ongoing": null,
-                    "idx": 1,
-                    "qualColor": "#FFD908"
-                  },
-                  {
-                    "name": "Aalesund (W)",
-                    "shortName": "Aalesund (W)",
-                    "featuredInMatch": false,
-                    "id": 4500,
-                    "pageUrl": "/teams/4500/overview/aalesund",
-                    "played": 5,
-                    "wins": 4,
-                    "draws": 0,
-                    "losses": 1,
-                    "scoresStr": "19-5",
-                    "goalConDiff": 14,
-                    "goalsScored": 19,
-                    "pts": 12,
                     "ongoing": null,
                     "idx": 2,
                     "qualColor": "#FFD908"
@@ -86772,8 +86780,8 @@
                     "wins": 1,
                     "draws": 2,
                     "losses": 2,
-                    "scoresStr": "5-9",
-                    "goalConDiff": -4,
+                    "scoresStr": "5-10",
+                    "goalConDiff": -5,
                     "goalsScored": 5,
                     "pts": 5,
                     "ongoing": null,
@@ -86790,9 +86798,9 @@
                     "wins": 1,
                     "draws": 1,
                     "losses": 3,
-                    "scoresStr": "9-10",
+                    "scoresStr": "10-11",
                     "goalConDiff": -1,
-                    "goalsScored": 9,
+                    "goalsScored": 10,
                     "pts": 4,
                     "ongoing": null,
                     "idx": 9,
@@ -86808,9 +86816,9 @@
                     "wins": 1,
                     "draws": 1,
                     "losses": 3,
-                    "scoresStr": "4-8",
+                    "scoresStr": "3-7",
                     "goalConDiff": -4,
-                    "goalsScored": 4,
+                    "goalsScored": 3,
                     "pts": 4,
                     "ongoing": null,
                     "idx": 10,
@@ -87187,37 +87195,6 @@
               ],
               "4485": [
                 {
-                  "result": -1,
-                  "resultString": "L",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/169297_xsmall.png",
-                  "linkToMatch": "/matches/roa-vs-fk-haugesund/6xq9bvm#5105373",
-                  "date": null,
-                  "teamPageUrl": "/teams/169297/overview/fk-haugesund",
-                  "tooltipText": {
-                    "utcTime": "2026-05-30T12:00:00Z",
-                    "timezone": "UTC",
-                    "homeTeam": "FK Haugesund (W)",
-                    "homeTeamId": 169297,
-                    "homeScore": 2,
-                    "awayTeam": "Røa (W)",
-                    "awayTeamId": 4485,
-                    "awayScore": 1
-                  },
-                  "score": "2 - 1",
-                  "home": {
-                    "id": "169297",
-                    "name": "FK Haugesund (W)",
-                    "shortName": "FK Haugesund (W)",
-                    "isOurTeam": false
-                  },
-                  "away": {
-                    "id": "4485",
-                    "name": "Røa (W)",
-                    "shortName": "Røa (W)",
-                    "isOurTeam": true
-                  }
-                },
-                {
                   "result": 0,
                   "resultString": "D",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/920414_xsmall.png",
@@ -87339,6 +87316,37 @@
                     "name": "Røa (W)",
                     "shortName": "Røa (W)",
                     "isOurTeam": true
+                  }
+                },
+                {
+                  "result": -1,
+                  "resultString": "L",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429438_xsmall.png",
+                  "linkToMatch": "/matches/roa-vs-lyn-fotball/178zdxjf#5105406",
+                  "date": null,
+                  "teamPageUrl": "/teams/429438/overview/lyn-fotball",
+                  "tooltipText": {
+                    "utcTime": "2026-08-31T16:00:00Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Røa (W)",
+                    "homeTeamId": 4485,
+                    "homeScore": 1,
+                    "awayTeam": "Lyn Fotball (W)",
+                    "awayTeamId": 429438,
+                    "awayScore": 3
+                  },
+                  "score": "1 - 3",
+                  "home": {
+                    "id": "4485",
+                    "name": "Røa (W)",
+                    "shortName": "Røa (W)",
+                    "isOurTeam": true
+                  },
+                  "away": {
+                    "id": "429438",
+                    "name": "Lyn Fotball (W)",
+                    "shortName": "Lyn Fotball (W)",
+                    "isOurTeam": false
                   }
                 }
               ],
@@ -87501,37 +87509,6 @@
               ],
               "4500": [
                 {
-                  "result": -1,
-                  "resultString": "L",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4182_xsmall.png",
-                  "linkToMatch": "/matches/brann-vs-aalesund/mfzi3#5105377",
-                  "date": null,
-                  "teamPageUrl": "/teams/4182/overview/brann",
-                  "tooltipText": {
-                    "utcTime": "2026-05-30T12:00:00Z",
-                    "timezone": "UTC",
-                    "homeTeam": "Aalesund (W)",
-                    "homeTeamId": 4500,
-                    "homeScore": 1,
-                    "awayTeam": "Brann (W)",
-                    "awayTeamId": 4182,
-                    "awayScore": 2
-                  },
-                  "score": "1 - 2",
-                  "home": {
-                    "id": "4500",
-                    "name": "Aalesund (W)",
-                    "shortName": "Aalesund (W)",
-                    "isOurTeam": true
-                  },
-                  "away": {
-                    "id": "4182",
-                    "name": "Brann (W)",
-                    "shortName": "Brann (W)",
-                    "isOurTeam": false
-                  }
-                },
-                {
                   "result": 1,
                   "resultString": "W",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4486_xsmall.png",
@@ -87653,6 +87630,37 @@
                     "name": "FK Haugesund (W)",
                     "shortName": "FK Haugesund (W)",
                     "isOurTeam": false
+                  }
+                },
+                {
+                  "result": 1,
+                  "resultString": "W",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/920414_xsmall.png",
+                  "linkToMatch": "/matches/aalesund-vs-honefoss/5ghxzad5#5105403",
+                  "date": null,
+                  "teamPageUrl": "/teams/920414/overview/honefoss",
+                  "tooltipText": {
+                    "utcTime": "2026-08-31T16:00:00Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Hønefoss (W)",
+                    "homeTeamId": 920414,
+                    "homeScore": 0,
+                    "awayTeam": "Aalesund (W)",
+                    "awayTeamId": 4500,
+                    "awayScore": 1
+                  },
+                  "score": "0 - 1",
+                  "home": {
+                    "id": "920414",
+                    "name": "Hønefoss (W)",
+                    "shortName": "Hønefoss (W)",
+                    "isOurTeam": false
+                  },
+                  "away": {
+                    "id": "4500",
+                    "name": "Aalesund (W)",
+                    "shortName": "Aalesund (W)",
+                    "isOurTeam": true
                   }
                 }
               ],
@@ -88129,37 +88137,6 @@
               ],
               "429438": [
                 {
-                  "result": 1,
-                  "resultString": "W",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4507_xsmall.png",
-                  "linkToMatch": "/matches/valerenga-vs-lyn-fotball/17952jq8#5105375",
-                  "date": null,
-                  "teamPageUrl": "/teams/4507/overview/valerenga",
-                  "tooltipText": {
-                    "utcTime": "2026-05-31T12:30:00Z",
-                    "timezone": "UTC",
-                    "homeTeam": "Lyn Fotball (W)",
-                    "homeTeamId": 429438,
-                    "homeScore": 2,
-                    "awayTeam": "Vålerenga (W)",
-                    "awayTeamId": 4507,
-                    "awayScore": 0
-                  },
-                  "score": "2 - 0",
-                  "home": {
-                    "id": "429438",
-                    "name": "Lyn Fotball (W)",
-                    "shortName": "Lyn Fotball (W)",
-                    "isOurTeam": true
-                  },
-                  "away": {
-                    "id": "4507",
-                    "name": "Vålerenga (W)",
-                    "shortName": "Vålerenga (W)",
-                    "isOurTeam": false
-                  }
-                },
-                {
                   "result": 0,
                   "resultString": "D",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4484_xsmall.png",
@@ -88274,6 +88251,37 @@
                     "id": "4484",
                     "name": "Rosenborg BK (W)",
                     "shortName": "Rosenborg BK (W)",
+                    "isOurTeam": false
+                  },
+                  "away": {
+                    "id": "429438",
+                    "name": "Lyn Fotball (W)",
+                    "shortName": "Lyn Fotball (W)",
+                    "isOurTeam": true
+                  }
+                },
+                {
+                  "result": 1,
+                  "resultString": "W",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4485_xsmall.png",
+                  "linkToMatch": "/matches/roa-vs-lyn-fotball/178zdxjf#5105406",
+                  "date": null,
+                  "teamPageUrl": "/teams/4485/overview/roa",
+                  "tooltipText": {
+                    "utcTime": "2026-08-31T16:00:00Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Røa (W)",
+                    "homeTeamId": 4485,
+                    "homeScore": 1,
+                    "awayTeam": "Lyn Fotball (W)",
+                    "awayTeamId": 429438,
+                    "awayScore": 3
+                  },
+                  "score": "1 - 3",
+                  "home": {
+                    "id": "4485",
+                    "name": "Røa (W)",
+                    "shortName": "Røa (W)",
                     "isOurTeam": false
                   },
                   "away": {
@@ -88443,37 +88451,6 @@
               ],
               "920414": [
                 {
-                  "result": -1,
-                  "resultString": "L",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/92171_xsmall.png",
-                  "linkToMatch": "/matches/stabaek-vs-honefoss/6jijdnbc#5105374",
-                  "date": null,
-                  "teamPageUrl": "/teams/92171/overview/stabaek",
-                  "tooltipText": {
-                    "utcTime": "2026-05-29T16:00:00Z",
-                    "timezone": "UTC",
-                    "homeTeam": "Hønefoss (W)",
-                    "homeTeamId": 920414,
-                    "homeScore": 1,
-                    "awayTeam": "Stabæk (W)",
-                    "awayTeamId": 92171,
-                    "awayScore": 2
-                  },
-                  "score": "1 - 2",
-                  "home": {
-                    "id": "920414",
-                    "name": "Hønefoss (W)",
-                    "shortName": "Hønefoss (W)",
-                    "isOurTeam": true
-                  },
-                  "away": {
-                    "id": "92171",
-                    "name": "Stabæk (W)",
-                    "shortName": "Stabæk (W)",
-                    "isOurTeam": false
-                  }
-                },
-                {
                   "result": 0,
                   "resultString": "D",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4485_xsmall.png",
@@ -88595,6 +88572,37 @@
                     "name": "Hønefoss (W)",
                     "shortName": "Hønefoss (W)",
                     "isOurTeam": true
+                  }
+                },
+                {
+                  "result": -1,
+                  "resultString": "L",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4500_xsmall.png",
+                  "linkToMatch": "/matches/aalesund-vs-honefoss/5ghxzad5#5105403",
+                  "date": null,
+                  "teamPageUrl": "/teams/4500/overview/aalesund",
+                  "tooltipText": {
+                    "utcTime": "2026-08-31T16:00:00Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Hønefoss (W)",
+                    "homeTeamId": 920414,
+                    "homeScore": 0,
+                    "awayTeam": "Aalesund (W)",
+                    "awayTeamId": 4500,
+                    "awayScore": 1
+                  },
+                  "score": "0 - 1",
+                  "home": {
+                    "id": "920414",
+                    "name": "Hønefoss (W)",
+                    "shortName": "Hønefoss (W)",
+                    "isOurTeam": true
+                  },
+                  "away": {
+                    "id": "4500",
+                    "name": "Aalesund (W)",
+                    "shortName": "Aalesund (W)",
+                    "isOurTeam": false
                   }
                 }
               ],
@@ -88790,20 +88798,20 @@
                 "2026-09-13T11:00:00Z"
               ],
               "4485": [
-                "429438",
-                "Lyn Fotball (W)",
-                "5105406",
+                "4507",
+                "Vålerenga (W)",
+                "5105412",
                 {
                   "id": "4485",
                   "name": "Røa (W)",
                   "shortName": "Røa (W)"
                 },
                 {
-                  "id": "429438",
-                  "name": "Lyn Fotball (W)",
-                  "shortName": "Lyn Fotball (W)"
+                  "id": "4507",
+                  "name": "Vålerenga (W)",
+                  "shortName": "Vålerenga (W)"
                 },
-                "2026-08-31T16:00:00Z"
+                "2026-09-11T16:00:00Z"
               ],
               "4486": [
                 "1599447",
@@ -88822,20 +88830,20 @@
                 "2026-09-01T15:30:00Z"
               ],
               "4500": [
-                "920414",
-                "Hønefoss (W)",
-                "5105403",
+                "1599447",
+                "Bodø/Glimt (W)",
+                "5105408",
                 {
-                  "id": "920414",
-                  "name": "Hønefoss (W)",
-                  "shortName": "Hønefoss (W)"
+                  "id": "1599447",
+                  "name": "Bodø/Glimt (W)",
+                  "shortName": "Bodø/Glimt (W)"
                 },
                 {
                   "id": "4500",
                   "name": "Aalesund (W)",
                   "shortName": "Aalesund (W)"
                 },
-                "2026-08-31T16:00:00Z"
+                "2026-09-11T17:00:00Z"
               ],
               "4507": [
                 "4485",
@@ -88886,20 +88894,20 @@
                 "2026-09-13T11:00:00Z"
               ],
               "429438": [
-                "4485",
-                "Røa (W)",
-                "5105406",
-                {
-                  "id": "4485",
-                  "name": "Røa (W)",
-                  "shortName": "Røa (W)"
-                },
+                "4182",
+                "Brann (W)",
+                "5105410",
                 {
                   "id": "429438",
                   "name": "Lyn Fotball (W)",
                   "shortName": "Lyn Fotball (W)"
                 },
-                "2026-08-31T16:00:00Z"
+                {
+                  "id": "4182",
+                  "name": "Brann (W)",
+                  "shortName": "Brann (W)"
+                },
+                "2026-09-13T11:00:00Z"
               ],
               "726186": [
                 "920414",
@@ -88918,20 +88926,20 @@
                 "2026-09-13T11:00:00Z"
               ],
               "920414": [
-                "4500",
-                "Aalesund (W)",
-                "5105403",
+                "726186",
+                "Molde (W)",
+                "5105411",
+                {
+                  "id": "726186",
+                  "name": "Molde (W)",
+                  "shortName": "Molde (W)"
+                },
                 {
                   "id": "920414",
                   "name": "Hønefoss (W)",
                   "shortName": "Hønefoss (W)"
                 },
-                {
-                  "id": "4500",
-                  "name": "Aalesund (W)",
-                  "shortName": "Aalesund (W)"
-                },
-                "2026-08-31T16:00:00Z"
+                "2026-09-13T11:00:00Z"
               ],
               "1599447": [
                 "4486",
@@ -88980,11 +88988,11 @@
                 "name": "Katarina Dybvik Sunde",
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "goals": 19,
-                "value": 19,
+                "goals": 20,
+                "value": 20,
                 "stat": {
                   "name": "goals",
-                  "value": 19,
+                  "value": 20,
                   "format": "number",
                   "fractions": 0
                 },
@@ -92282,22 +92290,31 @@
             "away": {
               "id": "4500",
               "name": "Aalesund (W)",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-31T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "31.08.2026 18:00:00"
+                "firstHalfStarted": "31.08.2026 18:02:29",
+                "secondHalfStarted": "31.08.2026 19:02:25"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 1",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -92306,32 +92323,41 @@
             "opponent": {
               "id": "4485",
               "name": "Røa (W)",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "4485",
               "name": "Røa (W)",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "429438",
               "name": "Lyn Fotball (W)",
-              "score": 0
+              "score": 3
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-08-31T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "31.08.2026 18:00:00"
+                "firstHalfStarted": "31.08.2026 18:01:12",
+                "secondHalfStarted": "31.08.2026 19:03:16"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 3",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -93858,8 +93884,8 @@
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 81,
-            "firstUnplayedMatchId": "5105403"
+            "firstUnplayedMatchIndex": 83,
+            "firstUnplayedMatchId": "5105404"
           },
           "allMatches": [
             {
@@ -96391,12 +96417,21 @@
               "status": {
                 "utcTime": "2026-08-31T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "31.08.2026 18:00:00"
+                  "firstHalfStarted": "31.08.2026 18:02:29",
+                  "secondHalfStarted": "31.08.2026 19:02:25"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "0 - 1",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -96417,12 +96452,21 @@
               "status": {
                 "utcTime": "2026-08-31T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "31.08.2026 18:00:00"
+                  "firstHalfStarted": "31.08.2026 18:01:12",
+                  "secondHalfStarted": "31.08.2026 19:03:16"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "1 - 3",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -97713,10 +97757,10 @@
               "rank": 1,
               "teamId": 4500,
               "teamName": "Aalesund",
-              "value": 19,
+              "value": 20,
               "stat": {
                 "name": "goals",
-                "value": 19,
+                "value": 20,
                 "format": "number",
                 "fractions": 0
               }
@@ -97729,10 +97773,10 @@
                 "rank": 1,
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "value": 19,
+                "value": 20,
                 "stat": {
                   "name": "goals",
-                  "value": 19,
+                  "value": 20,
                   "format": "number",
                   "fractions": 0
                 },
@@ -97881,10 +97925,10 @@
               "rank": 1,
               "teamId": 4500,
               "teamName": "Aalesund",
-              "value": 23,
+              "value": 24,
               "stat": {
                 "name": "_goals_and_goal_assist",
-                "value": 23,
+                "value": 24,
                 "format": "number",
                 "fractions": 0
               }
@@ -97897,10 +97941,10 @@
                 "rank": 1,
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "value": 23,
+                "value": 24,
                 "stat": {
                   "name": "_goals_and_goal_assist",
-                  "value": 23,
+                  "value": 24,
                   "format": "number",
                   "fractions": 0
                 },
@@ -98036,7 +98080,7 @@
                 }
               }
             ],
-            "order": 41,
+            "order": 42,
             "name": "yellow_card",
             "localizedTitleId": "yellow_cards",
             "category": "Discipline"
@@ -98100,11 +98144,11 @@
                 }
               },
               {
-                "id": 1130062,
-                "name": "Agnes Nyberg",
-                "rank": 3,
-                "teamId": 4484,
-                "teamName": "Rosenborg BK",
+                "id": 627503,
+                "name": "Sarah Alexandra Suphellen",
+                "rank": 2,
+                "teamId": 4485,
+                "teamName": "Roea",
                 "value": 1,
                 "stat": {
                   "name": "red_card",
@@ -98113,14 +98157,14 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#000000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#FD1320",
+                  "lightMode": "#FD1320",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
             ],
-            "order": 42,
+            "order": 43,
             "name": "red_card",
             "localizedTitleId": "red_cards",
             "category": "Discipline"
@@ -98171,10 +98215,10 @@
                 "rank": 2,
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "value": 2.6,
+                "value": 2.5,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 2.6,
+                  "value": 2.5,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -98206,7 +98250,7 @@
                 }
               }
             ],
-            "order": 44,
+            "order": 45,
             "name": "goals_team_match",
             "localizedTitleId": "goals_team_match_title",
             "category": "Top Stat"
@@ -98272,13 +98316,13 @@
               {
                 "id": 0,
                 "name": "Aalesund",
-                "rank": 3,
+                "rank": 2,
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "value": 1.1,
+                "value": 1,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 1.1,
+                  "value": 1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -98290,7 +98334,7 @@
                 }
               }
             ],
-            "order": 45,
+            "order": 46,
             "name": "goals_conceded_team_match",
             "localizedTitleId": "goals_conceded_team_match_title",
             "category": "Top Stat"
@@ -98335,6 +98379,26 @@
               },
               {
                 "id": 0,
+                "name": "Aalesund",
+                "rank": 2,
+                "teamId": 4500,
+                "teamName": "Aalesund",
+                "value": 6,
+                "stat": {
+                  "name": "clean_sheet_team",
+                  "value": 6,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#eb7805",
+                  "lightMode": "#eb7805",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
                 "name": "Lyn Fotball",
                 "rank": 2,
                 "teamId": 429438,
@@ -98352,29 +98416,9 @@
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
-              },
-              {
-                "id": 0,
-                "name": "Aalesund",
-                "rank": 3,
-                "teamId": 4500,
-                "teamName": "Aalesund",
-                "value": 5,
-                "stat": {
-                  "name": "clean_sheet_team",
-                  "value": 5,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#eb7805",
-                  "lightMode": "#eb7805",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
               }
             ],
-            "order": 48,
+            "order": 49,
             "name": "clean_sheet_team",
             "localizedTitleId": "clean_sheet_team_title",
             "category": "Top Stat"
@@ -98443,10 +98487,10 @@
                 "rank": 3,
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "value": 29,
+                "value": 30,
                 "stat": {
                   "name": "_set_piece_goals_team",
-                  "value": 29,
+                  "value": 30,
                   "format": "number",
                   "fractions": 0
                 },
@@ -98458,7 +98502,7 @@
                 }
               }
             ],
-            "order": 61,
+            "order": 62,
             "name": "_set_piece_goals_team",
             "localizedTitleId": "set_piece_goals",
             "category": "Attacking"
@@ -98542,7 +98586,7 @@
                 }
               }
             ],
-            "order": 67,
+            "order": 68,
             "name": "_set_piece_goals_conceded_team",
             "localizedTitleId": "set_piece_goals_conceded",
             "category": "Defending"
@@ -98591,10 +98635,10 @@
                 "rank": 2,
                 "teamId": 429438,
                 "teamName": "Lyn Fotball",
-                "value": 16,
+                "value": 17,
                 "stat": {
                   "name": "total_yel_card_team",
-                  "value": 16,
+                  "value": 17,
                   "format": "number",
                   "fractions": 0
                 },
@@ -98611,10 +98655,10 @@
                 "rank": 3,
                 "teamId": 4500,
                 "teamName": "Aalesund",
-                "value": 16,
+                "value": 17,
                 "stat": {
                   "name": "total_yel_card_team",
-                  "value": 16,
+                  "value": 17,
                   "format": "number",
                   "fractions": 0
                 },
@@ -98626,7 +98670,7 @@
                 }
               }
             ],
-            "order": 71,
+            "order": 72,
             "name": "total_yel_card_team",
             "localizedTitleId": "yellow_cards",
             "category": "Discipline"
@@ -98710,7 +98754,7 @@
                 }
               }
             ],
-            "order": 72,
+            "order": 73,
             "name": "total_red_card_team",
             "localizedTitleId": "red_cards",
             "category": "Discipline"
@@ -98893,8 +98937,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 81,
-          "firstUnplayedMatchId": "5105403"
+          "firstUnplayedMatchIndex": 83,
+          "firstUnplayedMatchId": "5105404"
         },
         "allMatches": [
           {
@@ -101426,12 +101470,21 @@
             "status": {
               "utcTime": "2026-08-31T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "31.08.2026 18:00:00"
+                "firstHalfStarted": "31.08.2026 18:02:29",
+                "secondHalfStarted": "31.08.2026 19:02:25"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 1",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -101452,12 +101505,21 @@
             "status": {
               "utcTime": "2026-08-31T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "31.08.2026 18:00:00"
+                "firstHalfStarted": "31.08.2026 18:01:12",
+                "secondHalfStarted": "31.08.2026 19:03:16"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 3",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -103198,6 +103260,7 @@
             "8974": "J. League 2",
             "8976": "Liga de Expansión MX",
             "8980": "Brazil State Championship",
+            "8982": "Indian Football League",
             "8984": "Thai League",
             "9015": "Liga Primera",
             "9039": "LPF",
@@ -103240,6 +103303,7 @@
             "9429": "Copa do Nordeste",
             "9441": "Open Cup",
             "9464": "Serie D",
+            "9467": "CAF Super Cup",
             "9468": "CAF Confed Cup",
             "9469": "AFC Champions League Two",
             "9470": "AFC Challenge League",
@@ -103687,6 +103751,7 @@
             "189420": "Sotra SK",
             "191716": "Philadelphia",
             "195601": "Sochi",
+            "197884": "Inter SM",
             "198150": "Ufa",
             "198164": "Tambov",
             "200124": "Heltne Nilsen",
@@ -103910,6 +103975,7 @@
             "1656860": "Alysson",
             "1680173": "Amaimouni",
             "1682313": "Dro",
+            "1696742": "ABECAT",
             "1791531": "Ipswich U18",
             "1897602": "Ati Allah",
             "1911284": "Issa"
@@ -123062,6 +123128,7 @@
             "8974": "J. League 2",
             "8976": "Liga de Expansión MX",
             "8980": "Brazil State Championship",
+            "8982": "Indian Football League",
             "8984": "Thai League",
             "9015": "Liga Primera",
             "9039": "LPF",
@@ -123104,6 +123171,7 @@
             "9429": "Copa do Nordeste",
             "9441": "Open Cup",
             "9464": "Serie D",
+            "9467": "CAF Super Cup",
             "9468": "CAF Confed Cup",
             "9469": "AFC Champions League Two",
             "9470": "AFC Challenge League",
@@ -123551,6 +123619,7 @@
             "189420": "Sotra SK",
             "191716": "Philadelphia",
             "195601": "Sochi",
+            "197884": "Inter SM",
             "198150": "Ufa",
             "198164": "Tambov",
             "200124": "Heltne Nilsen",
@@ -123774,6 +123843,7 @@
             "1656860": "Alysson",
             "1680173": "Amaimouni",
             "1682313": "Dro",
+            "1696742": "ABECAT",
             "1791531": "Ipswich U18",
             "1897602": "Ati Allah",
             "1911284": "Issa"
