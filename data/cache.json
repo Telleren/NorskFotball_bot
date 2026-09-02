@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:27:17.366098+00:00",
+  "generated_at": "2026-09-02T16:41:15.389222+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4503,6 +4503,37 @@
         "type": "league",
         "data": [
           {
+            "name": "Jasper Silva Torkildsen",
+            "playerId": 1252726,
+            "position": {
+              "label": "GK",
+              "key": "keeper"
+            },
+            "transferDate": "2026-09-02T14:48:12Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Start",
+            "fromClubFullName": "Start",
+            "fromClubId": 9919,
+            "toClub": "Fredrikstad",
+            "toClubFullName": "Fredrikstad",
+            "toClubId": 8417,
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-09-02T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": 440255
+          },
+          {
             "name": "Morten Bjørlo",
             "playerId": 635465,
             "position": {
@@ -4566,6 +4597,74 @@
             "fromDate": "2026-09-01T00:00:00Z",
             "toDate": "2030-12-31T00:00:00Z",
             "marketValue": 846709
+          },
+          {
+            "name": "Sander Erik Kartum",
+            "playerId": 740976,
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-09-01T18:51:47Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Hearts",
+            "fromClubFullName": "Heart of Midlothian",
+            "fromClubId": 9860,
+            "toClub": "Aalesund",
+            "toClubFullName": "Aalesund",
+            "toClubId": 8404,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-09-02T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 181131
+          },
+          {
+            "name": "Vegard Østraat Erlien",
+            "playerId": 841973,
+            "position": {
+              "label": "ST",
+              "key": "striker_short"
+            },
+            "transferDate": "2026-09-01T18:01:25Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Real Valladolid",
+            "fromClubFullName": "Real Valladolid",
+            "fromClubId": 10281,
+            "toClub": "Tromsø",
+            "toClubFullName": "Tromsø",
+            "toClubId": 8608,
+            "fee": {
+              "feeText": "free transfer",
+              "localizedFeeText": "transfer_type_free_transfer"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-09-02T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": 707786
           },
           {
             "name": "Liam West",
@@ -7781,99 +7880,6 @@
             "fromDate": "2026-07-15T00:00:00Z",
             "toDate": "2029-06-30T00:00:00Z",
             "marketValue": 1248863
-          },
-          {
-            "name": "Nikolai Skuseth",
-            "playerId": 1526793,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-07-15T15:31:48Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Sarpsborg 08",
-            "fromClubFullName": "Sarpsborg 08",
-            "fromClubId": 8509,
-            "toClub": "Degerfors",
-            "toClubFullName": "Degerfors",
-            "toClubId": 6544,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-07-15T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 544087
-          },
-          {
-            "name": "Ahmed Adebayo",
-            "playerId": 1524647,
-            "position": null,
-            "transferDate": "2026-07-14T14:01:06Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Start",
-            "fromClubFullName": "Start",
-            "fromClubId": 9919,
-            "toClub": "Academia F. Amadou Diallo",
-            "toClubFullName": "Academia F. Amadou Diallo",
-            "toClubId": 194004,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": null,
-            "marketValue": 300254
-          },
-          {
-            "name": "Luca Podlech",
-            "playerId": 1659418,
-            "position": null,
-            "transferDate": "2026-07-14T11:16:59Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Schalke 04",
-            "fromClubFullName": "Schalke 04",
-            "fromClubId": 10189,
-            "toClub": "Aalesund",
-            "toClubFullName": "Aalesund",
-            "toClubId": 8404,
-            "fee": {
-              "feeText": "on loan",
-              "localizedFeeText": "on_loan"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "on loan",
-              "localizationKey": "on_loan"
-            },
-            "contractExtension": false,
-            "onLoan": true,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 209266
           }
         ]
       },
@@ -108282,7 +108288,7 @@
             "away": {
               "id": "8476",
               "name": "Lillestrøm",
-              "score": 0
+              "score": 2
             },
             "displayTournament": true,
             "notStarted": true,
@@ -108292,12 +108298,23 @@
             "status": {
               "utcTime": "2026-09-02T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "02.09.2026 18:00:00"
+                "firstHalfStarted": "02.09.2026 18:03:44"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 2",
+              "liveTime": {
+                "short": "35‎’‎",
+                "shortKey": "",
+                "long": "34:11",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -108306,12 +108323,12 @@
             "opponent": {
               "id": "119139",
               "name": "Brodd",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "119139",
               "name": "Brodd",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8478",
@@ -108326,12 +108343,23 @@
             "status": {
               "utcTime": "2026-09-02T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "02.09.2026 18:00:00"
+                "firstHalfStarted": "02.09.2026 18:01:42"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 0",
+              "liveTime": {
+                "short": "37‎’‎",
+                "shortKey": "",
+                "long": "36:13",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -112813,6 +112841,8 @@
                   "drawOrder": -1,
                   "stage": "1",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Aurskog Finstadbru",
                   "awayTeam": "Lillestrøm",
                   "homeTeamShortName": "AUR",
@@ -112840,9 +112870,20 @@
                       "status": {
                         "utcTime": "2026-09-02T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -112859,6 +112900,8 @@
                   "drawOrder": -1,
                   "stage": "1",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Brodd",
                   "awayTeam": "Viking",
                   "homeTeamShortName": "BRO",
@@ -112886,9 +112929,20 @@
                       "status": {
                         "utcTime": "2026-09-02T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -116246,12 +116300,23 @@
               "status": {
                 "utcTime": "2026-09-02T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "02.09.2026 18:00:00"
+                  "firstHalfStarted": "02.09.2026 18:03:44"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 2",
+                "liveTime": {
+                  "short": "35‎’‎",
+                  "shortKey": "",
+                  "long": "34:11",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -116272,12 +116337,23 @@
               "status": {
                 "utcTime": "2026-09-02T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "02.09.2026 18:00:00"
+                  "firstHalfStarted": "02.09.2026 18:01:42"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 0",
+                "liveTime": {
+                  "short": "37‎’‎",
+                  "shortKey": "",
+                  "long": "36:13",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -117765,10 +117841,10 @@
             "header": "Goals conceded per match",
             "participant": {
               "id": 0,
-              "name": "Trygg/Lade",
+              "name": "Viking",
               "rank": 1,
-              "teamId": 525114,
-              "teamName": "Trygg/Lade",
+              "teamId": 8478,
+              "teamName": "Viking",
               "value": 0,
               "stat": {
                 "name": "goals_conceded_team_match",
@@ -117779,6 +117855,26 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/goals_conceded_team_match.json",
             "topThree": [
+              {
+                "id": 0,
+                "name": "Viking",
+                "rank": 1,
+                "teamId": 8478,
+                "teamName": "Viking",
+                "value": 0,
+                "stat": {
+                  "name": "goals_conceded_team_match",
+                  "value": 0,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 0,
                 "name": "Trygg/Lade",
@@ -117815,26 +117911,6 @@
                 "teamColors": {
                   "darkMode": "#EB131C",
                   "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Tromsdalen",
-                "rank": 1,
-                "teamId": 8617,
-                "teamName": "Tromsdalen",
-                "value": 0,
-                "stat": {
-                  "name": "goals_conceded_team_match",
-                  "value": 0,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#0080C6",
-                  "lightMode": "#0080C6",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -120268,12 +120344,23 @@
             "status": {
               "utcTime": "2026-09-02T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "02.09.2026 18:00:00"
+                "firstHalfStarted": "02.09.2026 18:03:44"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 2",
+              "liveTime": {
+                "short": "35‎’‎",
+                "shortKey": "",
+                "long": "34:11",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -120294,12 +120381,23 @@
             "status": {
               "utcTime": "2026-09-02T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "02.09.2026 18:00:00"
+                "firstHalfStarted": "02.09.2026 18:01:42"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 0",
+              "liveTime": {
+                "short": "37‎’‎",
+                "shortKey": "",
+                "long": "36:13",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -125072,6 +125170,8 @@
                 "drawOrder": -1,
                 "stage": "1",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Aurskog Finstadbru",
                 "awayTeam": "Lillestrøm",
                 "homeTeamShortName": "AUR",
@@ -125099,9 +125199,20 @@
                     "status": {
                       "utcTime": "2026-09-02T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -125118,6 +125229,8 @@
                 "drawOrder": -1,
                 "stage": "1",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Brodd",
                 "awayTeam": "Viking",
                 "homeTeamShortName": "BRO",
@@ -125145,9 +125258,20 @@
                     "status": {
                       "utcTime": "2026-09-02T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
