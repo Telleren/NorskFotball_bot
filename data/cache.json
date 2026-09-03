@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:24:33.907724+00:00",
+  "generated_at": "2026-09-03T16:33:11.820130+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1298,13 +1298,13 @@
                   "pts": 43,
                   "teamId": 8478,
                   "teamName": "Viking",
-                  "xg": 39.140099823474884,
-                  "xgConceded": 22.52039997279644,
-                  "xPoints": 35.38267915663918,
+                  "xg": 39.78979974985123,
+                  "xgConceded": 22.696799978613853,
+                  "xPoints": 35.5628521005574,
                   "position": 2,
-                  "xgDiff": 2.859900176525116,
-                  "xgConcededDiff": -4.52039997279644,
-                  "xPointsDiff": 7.617320843360822,
+                  "xgDiff": 2.210200250148773,
+                  "xgConcededDiff": -4.6967999786138535,
+                  "xPointsDiff": 7.4371478994426,
                   "xPosition": 2,
                   "idx": 2,
                   "xPositionDiff": 0,
@@ -1676,13 +1676,13 @@
                   "pts": 15,
                   "teamId": 8404,
                   "teamName": "Aalesund",
-                  "xg": 27.17380005121231,
-                  "xgConceded": 41.48810029029846,
-                  "xPoints": 16.199817508771464,
+                  "xg": 27.350200057029724,
+                  "xgConceded": 42.137800216674805,
+                  "xPoints": 16.066630486673713,
                   "position": 16,
-                  "xgDiff": 0.8261999487876892,
-                  "xgConcededDiff": 1.511899709701538,
-                  "xPointsDiff": -1.1998175087714635,
+                  "xgDiff": 0.6497999429702759,
+                  "xgConcededDiff": 0.8621997833251953,
+                  "xPointsDiff": -1.0666304866737129,
                   "xPosition": 16,
                   "idx": 16,
                   "xPositionDiff": -1,
@@ -4626,7 +4626,11 @@
             "toClub": "Viking",
             "toClubFullName": "Viking",
             "toClubId": 8478,
-            "fee": null,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 2000000
+            },
             "amountEuroEstimated": null,
             "transferType": {
               "text": "contract",
@@ -9140,13 +9144,13 @@
                     "pts": 43,
                     "teamId": 8478,
                     "teamName": "Viking",
-                    "xg": 39.140099823474884,
-                    "xgConceded": 22.52039997279644,
-                    "xPoints": 35.38267915663918,
+                    "xg": 39.78979974985123,
+                    "xgConceded": 22.696799978613853,
+                    "xPoints": 35.5628521005574,
                     "position": 2,
-                    "xgDiff": 2.859900176525116,
-                    "xgConcededDiff": -4.52039997279644,
-                    "xPointsDiff": 7.617320843360822,
+                    "xgDiff": 2.210200250148773,
+                    "xgConcededDiff": -4.6967999786138535,
+                    "xPointsDiff": 7.4371478994426,
                     "xPosition": 2,
                     "idx": 2,
                     "xPositionDiff": 0,
@@ -9518,13 +9522,13 @@
                     "pts": 15,
                     "teamId": 8404,
                     "teamName": "Aalesund",
-                    "xg": 27.17380005121231,
-                    "xgConceded": 41.48810029029846,
-                    "xPoints": 16.199817508771464,
+                    "xg": 27.350200057029724,
+                    "xgConceded": 42.137800216674805,
+                    "xPoints": 16.066630486673713,
                     "position": 16,
-                    "xgDiff": 0.8261999487876892,
-                    "xgConcededDiff": 1.511899709701538,
-                    "xPointsDiff": -1.1998175087714635,
+                    "xgDiff": 0.6497999429702759,
+                    "xgConcededDiff": 0.8621997833251953,
+                    "xPointsDiff": -1.0666304866737129,
                     "xPosition": 16,
                     "idx": 16,
                     "xPositionDiff": -1,
@@ -12349,11 +12353,11 @@
                 "name": "Zlatko Tripic",
                 "teamId": 8478,
                 "teamName": "Viking FK",
-                "rating": 8.23,
-                "value": 8.23,
+                "rating": 8.24,
+                "value": 8.24,
                 "stat": {
                   "name": "rating",
-                  "value": 8.23,
+                  "value": 8.24,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -28288,10 +28292,10 @@
               "ccode": "NOR",
               "teamId": 8478,
               "teamName": "Viking FK",
-              "value": 8.23,
+              "value": 8.24,
               "stat": {
                 "name": "rating",
-                "value": 8.23,
+                "value": 8.24,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -28305,10 +28309,10 @@
                 "ccode": "NOR",
                 "teamId": 8478,
                 "teamName": "Viking FK",
-                "value": 8.23,
+                "value": 8.24,
                 "stat": {
                   "name": "rating",
-                  "value": 8.23,
+                  "value": 8.24,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -28546,16 +28550,16 @@
           {
             "header": "Expected goals (xG)",
             "participant": {
-              "id": 1295653,
-              "name": "Heine Åsen Larsen",
+              "id": 955759,
+              "name": "Peter Christiansen",
               "rank": 1,
-              "ccode": "NOR",
-              "teamId": 8608,
-              "teamName": "Tromsø",
-              "value": 8.8,
+              "ccode": "DEN",
+              "teamId": 8478,
+              "teamName": "Viking FK",
+              "value": 9.2,
               "stat": {
                 "name": "expected_goals",
-                "value": 8.8,
+                "value": 9.2,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28563,9 +28567,30 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/expected_goals.json",
             "topThree": [
               {
+                "id": 955759,
+                "name": "Peter Christiansen",
+                "rank": 1,
+                "ccode": "DEN",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 9.2,
+                "stat": {
+                  "name": "expected_goals",
+                  "value": 9.2,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1295653,
                 "name": "Heine Åsen Larsen",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8608,
                 "teamName": "Tromsø",
@@ -28579,27 +28604,6 @@
                 "teamColors": {
                   "darkMode": "#EB131C",
                   "lightMode": "#EB131C",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 955759,
-                "name": "Peter Christiansen",
-                "rank": 2,
-                "ccode": "DEN",
-                "teamId": 8478,
-                "teamName": "Viking FK",
-                "value": 8.5,
-                "stat": {
-                  "name": "expected_goals",
-                  "value": 8.5,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -28728,10 +28732,10 @@
               "ccode": "DEN",
               "teamId": 8478,
               "teamName": "Viking FK",
-              "value": 10.2,
+              "value": 9.8,
               "stat": {
                 "name": "expected_goalsontarget",
-                "value": 10.2,
+                "value": 9.8,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -28745,10 +28749,10 @@
                 "ccode": "DEN",
                 "teamId": 8478,
                 "teamName": "Viking FK",
-                "value": 10.2,
+                "value": 9.8,
                 "stat": {
                   "name": "expected_goalsontarget",
-                  "value": 10.2,
+                  "value": 9.8,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -29080,10 +29084,10 @@
               "ccode": "NOR",
               "teamId": 8478,
               "teamName": "Viking FK",
-              "value": 23,
+              "value": 25,
               "stat": {
                 "name": "big_chance_created",
-                "value": 23,
+                "value": 25,
                 "format": "number",
                 "fractions": 0
               }
@@ -29097,10 +29101,10 @@
                 "ccode": "NOR",
                 "teamId": 8478,
                 "teamName": "Viking FK",
-                "value": 23,
+                "value": 25,
                 "stat": {
                   "name": "big_chance_created",
-                  "value": 23,
+                  "value": 25,
                   "format": "number",
                   "fractions": 0
                 },
@@ -29344,10 +29348,10 @@
               "ccode": "NOR",
               "teamId": 8478,
               "teamName": "Viking FK",
-              "value": 10.4,
+              "value": 10.2,
               "stat": {
                 "name": "expected_assists",
-                "value": 10.4,
+                "value": 10.2,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -29361,10 +29365,10 @@
                 "ccode": "NOR",
                 "teamId": 8478,
                 "teamName": "Viking FK",
-                "value": 10.4,
+                "value": 10.2,
                 "stat": {
                   "name": "expected_assists",
-                  "value": 10.4,
+                  "value": 10.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -29432,10 +29436,10 @@
               "ccode": "NOR",
               "teamId": 8478,
               "teamName": "Viking FK",
-              "value": 0.66,
+              "value": 0.65,
               "stat": {
                 "name": "expected_assists_per_90",
-                "value": 0.66,
+                "value": 0.65,
                 "format": "fraction",
                 "fractions": 2
               }
@@ -29449,10 +29453,10 @@
                 "ccode": "NOR",
                 "teamId": 8478,
                 "teamName": "Viking FK",
-                "value": 0.66,
+                "value": 0.65,
                 "stat": {
                   "name": "expected_assists_per_90",
-                  "value": 0.66,
+                  "value": 0.65,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -31317,10 +31321,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
-                "value": 7.15,
+                "value": 7.16,
                 "stat": {
                   "name": "rating_team",
-                  "value": 7.15,
+                  "value": 7.16,
                   "format": "fraction",
                   "fractions": 2
                 },
@@ -31821,10 +31825,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
-                "value": 39.1,
+                "value": 39.8,
                 "stat": {
                   "name": "expected_goals_team",
-                  "value": 39.1,
+                  "value": 39.8,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31905,10 +31909,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
-                "value": 16.6,
+                "value": 17.1,
                 "stat": {
                   "name": "_xg_diff_team",
-                  "value": 16.6,
+                  "value": 17.1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32073,10 +32077,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
-                "value": 68,
+                "value": 70,
                 "stat": {
                   "name": "big_chance_team",
-                  "value": 68,
+                  "value": 70,
                   "format": "number",
                   "fractions": 0
                 },
@@ -32157,10 +32161,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
-                "value": 37,
+                "value": 39,
                 "stat": {
                   "name": "big_chance_missed_team",
-                  "value": 37,
+                  "value": 39,
                   "format": "number",
                   "fractions": 0
                 },
@@ -32597,10 +32601,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8478,
-                "value": 610,
+                "value": 614,
                 "stat": {
                   "name": "touches_in_opp_box_team",
-                  "value": 610,
+                  "value": 614,
                   "format": "number",
                   "fractions": 0
                 },
@@ -32829,10 +32833,10 @@
                 "rank": 2,
                 "ccode": "NOR",
                 "teamId": 8478,
-                "value": 22.5,
+                "value": 22.7,
                 "stat": {
                   "name": "expected_goals_conceded_team",
-                  "value": 22.5,
+                  "value": 22.7,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -33045,10 +33049,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8404,
-              "value": 32.3,
+              "value": 32.4,
               "stat": {
                 "name": "effective_clearance_team",
-                "value": 32.3,
+                "value": 32.4,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -33061,10 +33065,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8404,
-                "value": 32.3,
+                "value": 32.4,
                 "stat": {
                   "name": "effective_clearance_team",
-                  "value": 32.3,
+                  "value": 32.4,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -48573,6 +48577,41 @@
         "type": "league",
         "data": [
           {
+            "name": "Daniel Job",
+            "playerId": 1617099,
+            "position": {
+              "label": "LW",
+              "key": "leftwinger_short"
+            },
+            "transferDate": "2026-09-03T13:52:13Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Kongsvinger",
+            "fromClubFullName": "Kongsvinger",
+            "fromClubId": 8179,
+            "toClub": "Dallas",
+            "toClubFullName": "FC Dallas",
+            "toClubId": 6399,
+            "fee": {
+              "feeText": "fee",
+              "localizedFeeText": "transfer_fee",
+              "value": 4500000
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2026-09-02T00:00:00Z",
+            "toDate": "2030-06-30T00:00:00Z",
+            "marketValue": 715057
+          },
+          {
             "name": "Nikolai Jakobsen Hristov",
             "playerId": 1049006,
             "position": {
@@ -51881,41 +51920,6 @@
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 275545
-          },
-          {
-            "name": "Massiré Sylla",
-            "playerId": 1670317,
-            "position": {
-              "label": "CB",
-              "key": "centerback_short"
-            },
-            "transferDate": "2026-01-13T15:18:58Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Lyn",
-            "fromClubFullName": "Lyn",
-            "fromClubId": 10224,
-            "toClub": "Union St.Gilloise",
-            "toClubFullName": "Union St.Gilloise",
-            "toClubId": 7978,
-            "fee": {
-              "feeText": "fee",
-              "localizedFeeText": "transfer_fee",
-              "value": 1500000
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-12T23:00:00Z",
-            "toDate": "2030-06-29T22:00:00Z",
-            "marketValue": 533563
           }
         ]
       },
