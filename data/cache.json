@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:44:46.833672+00:00",
+  "generated_at": "2026-09-08T21:15:54.040959+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -108783,32 +108783,30 @@
             "away": {
               "id": "8512",
               "name": "FK Haugesund",
-              "score": 2
+              "score": 4
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-09-08T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 18:01:35"
+                "firstHalfStarted": "08.09.2026 18:01:35",
+                "secondHalfStarted": "08.09.2026 19:05:36"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "0 - 2",
-              "liveTime": {
-                "short": "40‎’‎",
-                "shortKey": "",
-                "long": "39:41",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "0 - 4",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -108818,42 +108816,40 @@
             "opponent": {
               "id": "8617",
               "name": "Tromsdalen",
-              "score": 4
+              "score": 9
             },
             "home": {
               "id": "8617",
               "name": "Tromsdalen",
-              "score": 4
+              "score": 9
             },
             "away": {
               "id": "4249",
               "name": "Strømmen",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-09-08T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 18:00:38"
+                "firstHalfStarted": "08.09.2026 18:00:38",
+                "secondHalfStarted": "08.09.2026 19:01:38"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "4 - 0",
-              "liveTime": {
-                "short": "41‎’‎",
-                "shortKey": "",
-                "long": "40:38",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "9 - 1",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -108863,32 +108859,41 @@
             "opponent": {
               "id": "6540",
               "name": "Asker",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "6540",
               "name": "Asker",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8180",
               "name": "Strømsgodset",
-              "score": 0
+              "score": 4
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-09-08T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 19:00:00"
+                "firstHalfStarted": "08.09.2026 18:58:44",
+                "secondHalfStarted": "08.09.2026 19:58:00"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 4",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -113460,8 +113465,9 @@
                   "drawOrder": 1,
                   "stage": "2",
                   "bestOf": 0,
-                  "homeScore": 0,
-                  "awayScore": 0,
+                  "winner": 8617,
+                  "homeScore": 9,
+                  "awayScore": 1,
                   "homeTeam": "Tromsdalen",
                   "awayTeam": "Strømmen",
                   "homeTeamShortName": "TRO",
@@ -113475,43 +113481,40 @@
                         "id": 8617,
                         "name": "Tromsdalen",
                         "shortName": "TRO",
-                        "score": 0,
-                        "winner": false
+                        "score": 9,
+                        "winner": true
                       },
                       "away": {
                         "id": 4249,
                         "name": "Strømmen",
                         "shortName": "STR",
-                        "score": 0,
+                        "score": 1,
                         "winner": false
                       },
                       "pageUrl": "/matches/strommen-vs-tromsdalen/1dab0s#6144849",
                       "status": {
                         "utcTime": "2026-09-08T14:00:00.000Z",
                         "timezone": "UTC",
-                        "finished": false,
+                        "finished": true,
                         "started": true,
                         "cancelled": false,
-                        "ongoing": true,
-                        "scoreStr": "0 - 0",
-                        "liveTime": {
-                          "short": "1‎’‎",
-                          "shortKey": "",
-                          "long": "00:01",
-                          "longKey": "",
-                          "maxTime": 90,
-                          "basePeriod": 90,
-                          "addedTime": 0
+                        "awarded": false,
+                        "scoreStr": "9 - 1",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
                         }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
+                    "homeScore": 9,
+                    "awayScore": 1
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8617,
+                  "aggregatedLoser": 4249
                 },
                 {
                   "homeTeamId": 46917,
@@ -113519,8 +113522,9 @@
                   "drawOrder": 2,
                   "stage": "2",
                   "bestOf": 0,
+                  "winner": 8512,
                   "homeScore": 0,
-                  "awayScore": 0,
+                  "awayScore": 4,
                   "homeTeam": "Djerv 1919",
                   "awayTeam": "FK Haugesund",
                   "homeTeamShortName": "DJE",
@@ -113541,36 +113545,33 @@
                         "id": 8512,
                         "name": "FK Haugesund",
                         "shortName": "FKH",
-                        "score": 0,
-                        "winner": false
+                        "score": 4,
+                        "winner": true
                       },
                       "pageUrl": "/matches/fk-haugesund-vs-djerv-1919/pemlfz#6144880",
                       "status": {
                         "utcTime": "2026-09-08T14:00:00.000Z",
                         "timezone": "UTC",
-                        "finished": false,
+                        "finished": true,
                         "started": true,
                         "cancelled": false,
-                        "ongoing": true,
-                        "scoreStr": "0 - 0",
-                        "liveTime": {
-                          "short": "1‎’‎",
-                          "shortKey": "",
-                          "long": "00:01",
-                          "longKey": "",
-                          "maxTime": 90,
-                          "basePeriod": 90,
-                          "addedTime": 0
+                        "awarded": false,
+                        "scoreStr": "0 - 4",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
                         }
                       }
                     }
                   ],
                   "aggregatedResult": {
                     "homeScore": 0,
-                    "awayScore": 0
+                    "awayScore": 4
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8512,
+                  "aggregatedLoser": 46917
                 },
                 {
                   "homeTeamId": 6540,
@@ -113578,6 +113579,9 @@
                   "drawOrder": 3,
                   "stage": "2",
                   "bestOf": 0,
+                  "winner": 8180,
+                  "homeScore": 1,
+                  "awayScore": 4,
                   "homeTeam": "Asker",
                   "awayTeam": "Strømsgodset",
                   "homeTeamShortName": "ASK",
@@ -113591,32 +113595,40 @@
                         "id": 6540,
                         "name": "Asker",
                         "shortName": "ASK",
-                        "score": 0,
+                        "score": 1,
                         "winner": false
                       },
                       "away": {
                         "id": 8180,
                         "name": "Strømsgodset",
                         "shortName": "SIF",
-                        "score": 0,
-                        "winner": false
+                        "score": 4,
+                        "winner": true
                       },
                       "pageUrl": "/matches/asker-vs-stromsgodset/1sif1w#6144850",
                       "status": {
                         "utcTime": "2026-09-08T15:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
+                    "homeScore": 1,
+                    "awayScore": 4
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8180,
+                  "aggregatedLoser": 6540
                 },
                 {
                   "homeTeamId": 6539,
@@ -114960,7 +114972,7 @@
           "special": [],
           "liveFixtureApiLink": {
             "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-            "pollFromUtc": "2026-09-08T15:55:00Z"
+            "pollFromUtc": "2026-09-16T14:55:00Z"
           },
           "leagueId": 206,
           "bronzeFinal": null,
@@ -114968,8 +114980,8 @@
         },
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 64,
-            "firstUnplayedMatchId": "6144880"
+            "firstUnplayedMatchIndex": 67,
+            "firstUnplayedMatchId": "6144851"
           },
           "allMatches": [
             {
@@ -116974,22 +116986,20 @@
               "status": {
                 "utcTime": "2026-09-08T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "08.09.2026 18:01:35"
+                  "firstHalfStarted": "08.09.2026 18:01:35",
+                  "secondHalfStarted": "08.09.2026 19:05:36"
                 },
                 "periodLength": 45,
-                "finished": false,
+                "finished": true,
                 "started": true,
                 "cancelled": false,
-                "ongoing": true,
-                "scoreStr": "0 - 2",
-                "liveTime": {
-                  "short": "40‎’‎",
-                  "shortKey": "",
-                  "long": "39:41",
-                  "longKey": "",
-                  "maxTime": 45,
-                  "basePeriod": 45,
-                  "addedTime": 0
+                "awarded": false,
+                "scoreStr": "0 - 4",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
                 }
               }
             },
@@ -117011,22 +117021,20 @@
               "status": {
                 "utcTime": "2026-09-08T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "08.09.2026 18:00:38"
+                  "firstHalfStarted": "08.09.2026 18:00:38",
+                  "secondHalfStarted": "08.09.2026 19:01:38"
                 },
                 "periodLength": 45,
-                "finished": false,
+                "finished": true,
                 "started": true,
                 "cancelled": false,
-                "ongoing": true,
-                "scoreStr": "4 - 0",
-                "liveTime": {
-                  "short": "41‎’‎",
-                  "shortKey": "",
-                  "long": "40:38",
-                  "longKey": "",
-                  "maxTime": 45,
-                  "basePeriod": 45,
-                  "addedTime": 0
+                "awarded": false,
+                "scoreStr": "9 - 1",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
                 }
               }
             },
@@ -117048,12 +117056,21 @@
               "status": {
                 "utcTime": "2026-09-08T17:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "08.09.2026 19:00:00"
+                  "firstHalfStarted": "08.09.2026 18:58:44",
+                  "secondHalfStarted": "08.09.2026 19:58:00"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "1 - 4",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -118347,11 +118364,11 @@
           {
             "header": "Yellow cards",
             "participant": {
-              "id": 1606000,
-              "name": "Pål Engseth Lie",
+              "id": 1737708,
+              "name": "Adrian Fjeldstad",
               "rank": 1,
-              "teamId": 8512,
-              "teamName": "FK Haugesund",
+              "teamId": 46917,
+              "teamName": "Djerv 1919",
               "value": 1,
               "stat": {
                 "name": "yellow_card",
@@ -118363,11 +118380,11 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/yellow_card.json",
             "topThree": [
               {
-                "id": 1606000,
-                "name": "Pål Engseth Lie",
+                "id": 1737708,
+                "name": "Adrian Fjeldstad",
                 "rank": 1,
-                "teamId": 8512,
-                "teamName": "FK Haugesund",
+                "teamId": 46917,
+                "teamName": "Djerv 1919",
                 "value": 1,
                 "stat": {
                   "name": "yellow_card",
@@ -118376,8 +118393,48 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#0360ab",
-                  "lightMode": "#002968",
+                  "darkMode": "#FBDE22",
+                  "lightMode": "#056AB1",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 2196586,
+                "name": "Claus Nissen Riiber",
+                "rank": 1,
+                "teamId": 4249,
+                "teamName": "Stroemmen",
+                "value": 1,
+                "stat": {
+                  "name": "yellow_card",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#7A7879",
+                  "lightMode": "#7A7879",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1053639,
+                "name": "Erik Hejer",
+                "rank": 1,
+                "teamId": 8180,
+                "teamName": "Stroemsgodset",
+                "value": 1,
+                "stat": {
+                  "name": "yellow_card",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#24558e",
+                  "lightMode": "#084878",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -118618,10 +118675,10 @@
               },
               {
                 "id": 0,
-                "name": "Tromsdalen",
+                "name": "Træff",
                 "rank": 1,
-                "teamId": 8617,
-                "teamName": "Tromsdalen",
+                "teamId": 6115,
+                "teamName": "Træff",
                 "value": 0,
                 "stat": {
                   "name": "goals_conceded_team_match",
@@ -118630,9 +118687,9 @@
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#0080C6",
-                  "lightMode": "#0080C6",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#DDDDDD",
+                  "lightMode": "#333333",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -118646,14 +118703,14 @@
             "header": "Clean sheets",
             "participant": {
               "id": 0,
-              "name": "Djerv 1919",
+              "name": "Aalesund",
               "rank": 1,
-              "teamId": 46917,
-              "teamName": "Djerv 1919",
-              "value": 2,
+              "teamId": 8404,
+              "teamName": "Aalesund",
+              "value": 1,
               "stat": {
                 "name": "clean_sheet_team",
-                "value": 2,
+                "value": 1,
                 "format": "number",
                 "fractions": 0
               }
@@ -118662,48 +118719,8 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Djerv 1919",
-                "rank": 1,
-                "teamId": 46917,
-                "teamName": "Djerv 1919",
-                "value": 2,
-                "stat": {
-                  "name": "clean_sheet_team",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#FBDE22",
-                  "lightMode": "#056AB1",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Tromsdalen",
-                "rank": 1,
-                "teamId": 8617,
-                "teamName": "Tromsdalen",
-                "value": 2,
-                "stat": {
-                  "name": "clean_sheet_team",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#0080C6",
-                  "lightMode": "#0080C6",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Aalesund",
-                "rank": 3,
+                "rank": 1,
                 "teamId": 8404,
                 "teamName": "Aalesund",
                 "value": 1,
@@ -118716,6 +118733,46 @@
                 "teamColors": {
                   "darkMode": "#eb7805",
                   "lightMode": "#eb7805",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Åsane",
+                "rank": 1,
+                "teamId": 10021,
+                "teamName": "Åsane",
+                "value": 1,
+                "stat": {
+                  "name": "clean_sheet_team",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#ff8e44",
+                  "lightMode": "#F4742A",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Bærum",
+                "rank": 1,
+                "teamId": 8137,
+                "teamName": "Bærum",
+                "value": 1,
+                "stat": {
+                  "name": "clean_sheet_team",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#585000",
+                  "lightMode": "#585000",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -118814,10 +118871,10 @@
             "header": "Set piece goals conceded",
             "participant": {
               "id": 0,
-              "name": "Djerv 1919",
+              "name": "Aalesund",
               "rank": 1,
-              "teamId": 46917,
-              "teamName": "Djerv 1919",
+              "teamId": 8404,
+              "teamName": "Aalesund",
               "value": 0,
               "stat": {
                 "name": "_set_piece_goals_conceded_team",
@@ -118828,46 +118885,6 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/_set_piece_goals_conceded_team.json",
             "topThree": [
-              {
-                "id": 0,
-                "name": "Djerv 1919",
-                "rank": 1,
-                "teamId": 46917,
-                "teamName": "Djerv 1919",
-                "value": 0,
-                "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 0,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#FBDE22",
-                  "lightMode": "#056AB1",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Tromsdalen",
-                "rank": 1,
-                "teamId": 8617,
-                "teamName": "Tromsdalen",
-                "value": 0,
-                "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 0,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#0080C6",
-                  "lightMode": "#0080C6",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
               {
                 "id": 0,
                 "name": "Aalesund",
@@ -118887,6 +118904,46 @@
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
+              },
+              {
+                "id": 0,
+                "name": "Aasane",
+                "rank": 1,
+                "teamId": 10021,
+                "teamName": "Aasane",
+                "value": 0,
+                "stat": {
+                  "name": "_set_piece_goals_conceded_team",
+                  "value": 0,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#ff8e44",
+                  "lightMode": "#F4742A",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Baerum",
+                "rank": 1,
+                "teamId": 8137,
+                "teamName": "Baerum",
+                "value": 0,
+                "stat": {
+                  "name": "_set_piece_goals_conceded_team",
+                  "value": 0,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#585000",
+                  "lightMode": "#585000",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
               }
             ],
             "order": 68,
@@ -118898,14 +118955,14 @@
             "header": "Yellow cards",
             "participant": {
               "id": 0,
-              "name": "FK Haugesund",
+              "name": "Asker",
               "rank": 1,
-              "teamId": 8512,
-              "teamName": "FK Haugesund",
-              "value": 1,
+              "teamId": 6540,
+              "teamName": "Asker",
+              "value": 3,
               "stat": {
                 "name": "total_yel_card_team",
-                "value": 1,
+                "value": 3,
                 "format": "number",
                 "fractions": 0
               }
@@ -118914,14 +118971,54 @@
             "topThree": [
               {
                 "id": 0,
+                "name": "Asker",
+                "rank": 1,
+                "teamId": 6540,
+                "teamName": "Asker",
+                "value": 3,
+                "stat": {
+                  "name": "total_yel_card_team",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#083070",
+                  "lightMode": "#083070",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Djerv 1919",
+                "rank": 1,
+                "teamId": 46917,
+                "teamName": "Djerv 1919",
+                "value": 3,
+                "stat": {
+                  "name": "total_yel_card_team",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#FBDE22",
+                  "lightMode": "#056AB1",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
                 "name": "FK Haugesund",
                 "rank": 1,
                 "teamId": 8512,
                 "teamName": "FK Haugesund",
-                "value": 1,
+                "value": 3,
                 "stat": {
                   "name": "total_yel_card_team",
-                  "value": 1,
+                  "value": 3,
                   "format": "number",
                   "fractions": 0
                 },
@@ -119165,8 +119262,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 64,
-          "firstUnplayedMatchId": "6144880"
+          "firstUnplayedMatchIndex": 67,
+          "firstUnplayedMatchId": "6144851"
         },
         "allMatches": [
           {
@@ -121171,22 +121268,20 @@
             "status": {
               "utcTime": "2026-09-08T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 18:01:35"
+                "firstHalfStarted": "08.09.2026 18:01:35",
+                "secondHalfStarted": "08.09.2026 19:05:36"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "0 - 2",
-              "liveTime": {
-                "short": "40‎’‎",
-                "shortKey": "",
-                "long": "39:41",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "0 - 4",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -121208,22 +121303,20 @@
             "status": {
               "utcTime": "2026-09-08T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 18:00:38"
+                "firstHalfStarted": "08.09.2026 18:00:38",
+                "secondHalfStarted": "08.09.2026 19:01:38"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "4 - 0",
-              "liveTime": {
-                "short": "41‎’‎",
-                "shortKey": "",
-                "long": "40:38",
-                "longKey": "",
-                "maxTime": 45,
-                "basePeriod": 45,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "9 - 1",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
               }
             }
           },
@@ -121245,12 +121338,21 @@
             "status": {
               "utcTime": "2026-09-08T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 19:00:00"
+                "firstHalfStarted": "08.09.2026 18:58:44",
+                "secondHalfStarted": "08.09.2026 19:58:00"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 4",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -126121,8 +126223,9 @@
                 "drawOrder": 1,
                 "stage": "2",
                 "bestOf": 0,
-                "homeScore": 0,
-                "awayScore": 0,
+                "winner": 8617,
+                "homeScore": 9,
+                "awayScore": 1,
                 "homeTeam": "Tromsdalen",
                 "awayTeam": "Strømmen",
                 "homeTeamShortName": "TRO",
@@ -126136,43 +126239,40 @@
                       "id": 8617,
                       "name": "Tromsdalen",
                       "shortName": "TRO",
-                      "score": 0,
-                      "winner": false
+                      "score": 9,
+                      "winner": true
                     },
                     "away": {
                       "id": 4249,
                       "name": "Strømmen",
                       "shortName": "STR",
-                      "score": 0,
+                      "score": 1,
                       "winner": false
                     },
                     "pageUrl": "/matches/strommen-vs-tromsdalen/1dab0s#6144849",
                     "status": {
                       "utcTime": "2026-09-08T14:00:00.000Z",
                       "timezone": "UTC",
-                      "finished": false,
+                      "finished": true,
                       "started": true,
                       "cancelled": false,
-                      "ongoing": true,
-                      "scoreStr": "0 - 0",
-                      "liveTime": {
-                        "short": "1‎’‎",
-                        "shortKey": "",
-                        "long": "00:01",
-                        "longKey": "",
-                        "maxTime": 90,
-                        "basePeriod": 90,
-                        "addedTime": 0
+                      "awarded": false,
+                      "scoreStr": "9 - 1",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
                       }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
+                  "homeScore": 9,
+                  "awayScore": 1
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8617,
+                "aggregatedLoser": 4249
               },
               {
                 "homeTeamId": 46917,
@@ -126180,8 +126280,9 @@
                 "drawOrder": 2,
                 "stage": "2",
                 "bestOf": 0,
+                "winner": 8512,
                 "homeScore": 0,
-                "awayScore": 0,
+                "awayScore": 4,
                 "homeTeam": "Djerv 1919",
                 "awayTeam": "FK Haugesund",
                 "homeTeamShortName": "DJE",
@@ -126202,36 +126303,33 @@
                       "id": 8512,
                       "name": "FK Haugesund",
                       "shortName": "FKH",
-                      "score": 0,
-                      "winner": false
+                      "score": 4,
+                      "winner": true
                     },
                     "pageUrl": "/matches/fk-haugesund-vs-djerv-1919/pemlfz#6144880",
                     "status": {
                       "utcTime": "2026-09-08T14:00:00.000Z",
                       "timezone": "UTC",
-                      "finished": false,
+                      "finished": true,
                       "started": true,
                       "cancelled": false,
-                      "ongoing": true,
-                      "scoreStr": "0 - 0",
-                      "liveTime": {
-                        "short": "1‎’‎",
-                        "shortKey": "",
-                        "long": "00:01",
-                        "longKey": "",
-                        "maxTime": 90,
-                        "basePeriod": 90,
-                        "addedTime": 0
+                      "awarded": false,
+                      "scoreStr": "0 - 4",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
                       }
                     }
                   }
                 ],
                 "aggregatedResult": {
                   "homeScore": 0,
-                  "awayScore": 0
+                  "awayScore": 4
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8512,
+                "aggregatedLoser": 46917
               },
               {
                 "homeTeamId": 6540,
@@ -126239,6 +126337,9 @@
                 "drawOrder": 3,
                 "stage": "2",
                 "bestOf": 0,
+                "winner": 8180,
+                "homeScore": 1,
+                "awayScore": 4,
                 "homeTeam": "Asker",
                 "awayTeam": "Strømsgodset",
                 "homeTeamShortName": "ASK",
@@ -126252,32 +126353,40 @@
                       "id": 6540,
                       "name": "Asker",
                       "shortName": "ASK",
-                      "score": 0,
+                      "score": 1,
                       "winner": false
                     },
                     "away": {
                       "id": 8180,
                       "name": "Strømsgodset",
                       "shortName": "SIF",
-                      "score": 0,
-                      "winner": false
+                      "score": 4,
+                      "winner": true
                     },
                     "pageUrl": "/matches/asker-vs-stromsgodset/1sif1w#6144850",
                     "status": {
                       "utcTime": "2026-09-08T15:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "1 - 4",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
+                  "homeScore": 1,
+                  "awayScore": 4
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8180,
+                "aggregatedLoser": 6540
               },
               {
                 "homeTeamId": 6539,
@@ -127621,7 +127730,7 @@
         "special": [],
         "liveFixtureApiLink": {
           "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-          "pollFromUtc": "2026-09-08T15:55:00Z"
+          "pollFromUtc": "2026-09-16T14:55:00Z"
         },
         "leagueId": 206,
         "bronzeFinal": null,
