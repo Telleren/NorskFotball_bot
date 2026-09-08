@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:27:44.325022+00:00",
+  "generated_at": "2026-09-08T16:44:46.833672+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -43992,6 +43992,7 @@
         "own_half_passes": "Own half",
         "roundof32": "Round of 32",
         "transfer_value": "Transfer value",
+        "squad_value": "Squad value",
         "highest": "Highest",
         "estimated_transfer_value_description": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\n\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\n\n• player performance and development\n• age and future potential\n• how often and at what level they play\n• position\n• team and league strength\n• remaining contract length\n\nETV focuses on the player themselves, not rumours or which club might buy them.\n\nThe value is updated regularly to reflect changes over time.",
         "estimated_transfer_value": "Estimated transfer value",
@@ -82602,6 +82603,7 @@
         "own_half_passes": "Own half",
         "roundof32": "Round of 32",
         "transfer_value": "Transfer value",
+        "squad_value": "Squad value",
         "highest": "Highest",
         "estimated_transfer_value_description": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\n\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\n\n• player performance and development\n• age and future potential\n• how often and at what level they play\n• position\n• team and league strength\n• remaining contract length\n\nETV focuses on the player themselves, not rumours or which club might buy them.\n\nThe value is updated regularly to reflect changes over time.",
         "estimated_transfer_value": "Estimated transfer value",
@@ -105407,6 +105409,7 @@
         "own_half_passes": "Own half",
         "roundof32": "Round of 32",
         "transfer_value": "Transfer value",
+        "squad_value": "Squad value",
         "highest": "Highest",
         "estimated_transfer_value_description": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\n\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\n\n• player performance and development\n• age and future potential\n• how often and at what level they play\n• position\n• team and league strength\n• remaining contract length\n\nETV focuses on the player themselves, not rumours or which club might buy them.\n\nThe value is updated regularly to reflect changes over time.",
         "estimated_transfer_value": "Estimated transfer value",
@@ -108780,7 +108783,7 @@
             "away": {
               "id": "8512",
               "name": "FK Haugesund",
-              "score": 0
+              "score": 2
             },
             "displayTournament": true,
             "notStarted": true,
@@ -108790,12 +108793,23 @@
             "status": {
               "utcTime": "2026-09-08T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 18:00:00"
+                "firstHalfStarted": "08.09.2026 18:01:35"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 2",
+              "liveTime": {
+                "short": "40‎’‎",
+                "shortKey": "",
+                "long": "39:41",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -108804,12 +108818,12 @@
             "opponent": {
               "id": "8617",
               "name": "Tromsdalen",
-              "score": 0
+              "score": 4
             },
             "home": {
               "id": "8617",
               "name": "Tromsdalen",
-              "score": 0
+              "score": 4
             },
             "away": {
               "id": "4249",
@@ -108824,12 +108838,23 @@
             "status": {
               "utcTime": "2026-09-08T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 18:00:00"
+                "firstHalfStarted": "08.09.2026 18:00:38"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "4 - 0",
+              "liveTime": {
+                "short": "41‎’‎",
+                "shortKey": "",
+                "long": "40:38",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -111941,237 +111966,9 @@
                   "aggregatedLoser": 1609447
                 },
                 {
-                  "homeTeamId": 8183,
-                  "awayTeamId": 8292,
-                  "drawOrder": 39,
-                  "stage": "1",
-                  "bestOf": 0,
-                  "winner": 8292,
-                  "homeScore": 2,
-                  "awayScore": 7,
-                  "homeTeam": "Gjøvik-Lyn",
-                  "awayTeam": "Eidsvold TF",
-                  "homeTeamShortName": "G-L",
-                  "awayTeamShortName": "EID",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 5835877,
-                      "home": {
-                        "id": 8183,
-                        "name": "Gjøvik-Lyn",
-                        "shortName": "G-L",
-                        "score": 2,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8292,
-                        "name": "Eidsvold TF",
-                        "shortName": "EID",
-                        "score": 7,
-                        "winner": true
-                      },
-                      "pageUrl": "/matches/gjovik-lyn-vs-eidsvold-tf/28t5fi#5835877",
-                      "status": {
-                        "utcTime": "2026-08-22T14:00:00.000Z",
-                        "timezone": "UTC",
-                        "finished": true,
-                        "started": true,
-                        "cancelled": false,
-                        "awarded": false,
-                        "scoreStr": "2 - 7",
-                        "reason": {
-                          "short": "AET",
-                          "shortKey": "afterextratime_short",
-                          "long": "After extra time",
-                          "longKey": "afterextra"
-                        }
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 2,
-                    "awayScore": 7
-                  },
-                  "aggregatedWinner": 8292,
-                  "aggregatedLoser": 8183
-                },
-                {
-                  "homeTeamId": 1609446,
-                  "awayTeamId": 8179,
-                  "drawOrder": 40,
-                  "stage": "1",
-                  "bestOf": 0,
-                  "winner": 8179,
-                  "homeScore": 2,
-                  "awayScore": 14,
-                  "homeTeam": "Skreia",
-                  "awayTeam": "Kongsvinger",
-                  "homeTeamShortName": "SKR",
-                  "awayTeamShortName": "KIL",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 5835773,
-                      "home": {
-                        "id": 1609446,
-                        "name": "Skreia",
-                        "shortName": "SKR",
-                        "score": 2,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8179,
-                        "name": "Kongsvinger",
-                        "shortName": "KIL",
-                        "score": 14,
-                        "winner": true
-                      },
-                      "pageUrl": "/matches/kongsvinger-vs-skreia/gp1tgok8#5835773",
-                      "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
-                        "timezone": "UTC",
-                        "finished": true,
-                        "started": true,
-                        "cancelled": false,
-                        "awarded": false,
-                        "scoreStr": "2 - 14",
-                        "reason": {
-                          "short": "FT",
-                          "shortKey": "fulltime_short",
-                          "long": "Full-Time",
-                          "longKey": "finished"
-                        }
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 2,
-                    "awayScore": 14
-                  },
-                  "aggregatedWinner": 8179,
-                  "aggregatedLoser": 1609446
-                },
-                {
-                  "homeTeamId": 8125,
-                  "awayTeamId": 8421,
-                  "drawOrder": 41,
-                  "stage": "1",
-                  "bestOf": 0,
-                  "winner": 8421,
-                  "homeScore": 1,
-                  "awayScore": 4,
-                  "homeTeam": "Nordstrand",
-                  "awayTeam": "Skeid",
-                  "homeTeamShortName": "NOR",
-                  "awayTeamShortName": "SKE",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 5835778,
-                      "home": {
-                        "id": 8125,
-                        "name": "Nordstrand",
-                        "shortName": "NOR",
-                        "score": 1,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8421,
-                        "name": "Skeid",
-                        "shortName": "SKE",
-                        "score": 4,
-                        "winner": true
-                      },
-                      "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
-                      "status": {
-                        "utcTime": "2026-08-22T10:00:00.000Z",
-                        "timezone": "UTC",
-                        "finished": true,
-                        "started": true,
-                        "cancelled": false,
-                        "awarded": false,
-                        "scoreStr": "1 - 4",
-                        "reason": {
-                          "short": "FT",
-                          "shortKey": "fulltime_short",
-                          "long": "Full-Time",
-                          "longKey": "finished"
-                        }
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 1,
-                    "awayScore": 4
-                  },
-                  "aggregatedWinner": 8421,
-                  "aggregatedLoser": 8125
-                },
-                {
-                  "homeTeamId": 1004504,
-                  "awayTeamId": 8007,
-                  "drawOrder": 42,
-                  "stage": "1",
-                  "bestOf": 0,
-                  "winner": 8007,
-                  "homeScore": 2,
-                  "awayScore": 7,
-                  "homeTeam": "Christiania Ballklubb",
-                  "awayTeam": "Vålerenga",
-                  "homeTeamShortName": "CBA",
-                  "awayTeamShortName": "VIF",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 5835882,
-                      "home": {
-                        "id": 1004504,
-                        "name": "Christiania Ballklubb",
-                        "shortName": "CBA",
-                        "score": 2,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8007,
-                        "name": "Vålerenga",
-                        "shortName": "VIF",
-                        "score": 7,
-                        "winner": true
-                      },
-                      "pageUrl": "/matches/valerenga-vs-christiania-ballklubb/6jhapv3r#5835882",
-                      "status": {
-                        "utcTime": "2026-08-23T11:00:00.000Z",
-                        "timezone": "UTC",
-                        "finished": true,
-                        "started": true,
-                        "cancelled": false,
-                        "awarded": false,
-                        "scoreStr": "2 - 7",
-                        "reason": {
-                          "short": "FT",
-                          "shortKey": "fulltime_short",
-                          "long": "Full-Time",
-                          "longKey": "finished"
-                        }
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 2,
-                    "awayScore": 7
-                  },
-                  "aggregatedWinner": 8007,
-                  "aggregatedLoser": 1004504
-                },
-                {
                   "homeTeamId": 4621,
                   "awayTeamId": 6560,
-                  "drawOrder": 43,
+                  "drawOrder": 39,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 6560,
@@ -112228,7 +112025,7 @@
                 {
                   "homeTeamId": 161375,
                   "awayTeamId": 8448,
-                  "drawOrder": 44,
+                  "drawOrder": 40,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 8448,
@@ -112283,123 +112080,9 @@
                   "aggregatedLoser": 161375
                 },
                 {
-                  "homeTeamId": 2297,
-                  "awayTeamId": 10016,
-                  "drawOrder": 45,
-                  "stage": "1",
-                  "bestOf": 0,
-                  "winner": 2297,
-                  "homeScore": 2,
-                  "awayScore": 0,
-                  "homeTeam": "Flint",
-                  "awayTeam": "Ørn Horten",
-                  "homeTeamShortName": "FLI",
-                  "awayTeamShortName": "ORN",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 5835881,
-                      "home": {
-                        "id": 2297,
-                        "name": "Flint",
-                        "shortName": "FLI",
-                        "score": 2,
-                        "winner": true
-                      },
-                      "away": {
-                        "id": 10016,
-                        "name": "Ørn Horten",
-                        "shortName": "ORN",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "pageUrl": "/matches/flint-vs-orn-horten/194y0u#5835881",
-                      "status": {
-                        "utcTime": "2026-08-23T13:00:00.000Z",
-                        "timezone": "UTC",
-                        "finished": true,
-                        "started": true,
-                        "cancelled": false,
-                        "awarded": false,
-                        "scoreStr": "2 - 0",
-                        "reason": {
-                          "short": "FT",
-                          "shortKey": "fulltime_short",
-                          "long": "Full-Time",
-                          "longKey": "finished"
-                        }
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 2,
-                    "awayScore": 0
-                  },
-                  "aggregatedWinner": 2297,
-                  "aggregatedLoser": 10016
-                },
-                {
-                  "homeTeamId": 1609448,
-                  "awayTeamId": 8609,
-                  "drawOrder": 46,
-                  "stage": "1",
-                  "bestOf": 0,
-                  "winner": 8609,
-                  "homeScore": 0,
-                  "awayScore": 15,
-                  "homeTeam": "Eidanger",
-                  "awayTeam": "Sandefjord",
-                  "homeTeamShortName": "EID",
-                  "awayTeamShortName": "SAN",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 5835879,
-                      "home": {
-                        "id": 1609448,
-                        "name": "Eidanger",
-                        "shortName": "EID",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8609,
-                        "name": "Sandefjord",
-                        "shortName": "SAN",
-                        "score": 15,
-                        "winner": true
-                      },
-                      "pageUrl": "/matches/sandefjord-vs-eidanger/gpddkpe6#5835879",
-                      "status": {
-                        "utcTime": "2026-08-23T12:00:00.000Z",
-                        "timezone": "UTC",
-                        "finished": true,
-                        "started": true,
-                        "cancelled": false,
-                        "awarded": false,
-                        "scoreStr": "0 - 15",
-                        "reason": {
-                          "short": "FT",
-                          "shortKey": "fulltime_short",
-                          "long": "Full-Time",
-                          "longKey": "finished"
-                        }
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 15
-                  },
-                  "aggregatedWinner": 8609,
-                  "aggregatedLoser": 1609448
-                },
-                {
                   "homeTeamId": 1352625,
                   "awayTeamId": 9815,
-                  "drawOrder": 47,
+                  "drawOrder": 41,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 1352625,
@@ -112456,7 +112139,7 @@
                 {
                   "homeTeamId": 4206,
                   "awayTeamId": 10224,
-                  "drawOrder": 48,
+                  "drawOrder": 42,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 10224,
@@ -112513,7 +112196,7 @@
                 {
                   "homeTeamId": 2313,
                   "awayTeamId": 413468,
-                  "drawOrder": 49,
+                  "drawOrder": 43,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 2313,
@@ -112570,7 +112253,7 @@
                 {
                   "homeTeamId": 8115,
                   "awayTeamId": 8468,
-                  "drawOrder": 50,
+                  "drawOrder": 44,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 8468,
@@ -112627,7 +112310,7 @@
                 {
                   "homeTeamId": 4289,
                   "awayTeamId": 6579,
-                  "drawOrder": 51,
+                  "drawOrder": 45,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 4289,
@@ -112684,7 +112367,7 @@
                 {
                   "homeTeamId": 6236,
                   "awayTeamId": 9919,
-                  "drawOrder": 52,
+                  "drawOrder": 46,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 9919,
@@ -112739,46 +112422,46 @@
                   "aggregatedLoser": 6236
                 },
                 {
-                  "homeTeamId": 91781,
-                  "awayTeamId": 6123,
-                  "drawOrder": 53,
+                  "homeTeamId": 8183,
+                  "awayTeamId": 8292,
+                  "drawOrder": 47,
                   "stage": "1",
                   "bestOf": 0,
-                  "winner": 91781,
-                  "homeScore": 3,
-                  "awayScore": 2,
-                  "homeTeam": "Madla",
-                  "awayTeam": "Vidar",
-                  "homeTeamShortName": "MAD",
-                  "awayTeamShortName": "VID",
+                  "winner": 8292,
+                  "homeScore": 2,
+                  "awayScore": 7,
+                  "homeTeam": "Gjøvik-Lyn",
+                  "awayTeam": "Eidsvold TF",
+                  "homeTeamShortName": "G-L",
+                  "awayTeamShortName": "EID",
                   "tbdTeam1": false,
                   "tbdTeam2": false,
                   "matches": [
                     {
-                      "matchId": 5835907,
+                      "matchId": 5835877,
                       "home": {
-                        "id": 91781,
-                        "name": "Madla",
-                        "shortName": "MAD",
-                        "score": 3,
-                        "winner": true
-                      },
-                      "away": {
-                        "id": 6123,
-                        "name": "Vidar",
-                        "shortName": "VID",
+                        "id": 8183,
+                        "name": "Gjøvik-Lyn",
+                        "shortName": "G-L",
                         "score": 2,
                         "winner": false
                       },
-                      "pageUrl": "/matches/vidar-vs-madla/279gzst#5835907",
+                      "away": {
+                        "id": 8292,
+                        "name": "Eidsvold TF",
+                        "shortName": "EID",
+                        "score": 7,
+                        "winner": true
+                      },
+                      "pageUrl": "/matches/gjovik-lyn-vs-eidsvold-tf/28t5fi#5835877",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-22T14:00:00.000Z",
                         "timezone": "UTC",
                         "finished": true,
                         "started": true,
                         "cancelled": false,
                         "awarded": false,
-                        "scoreStr": "3 - 2",
+                        "scoreStr": "2 - 7",
                         "reason": {
                           "short": "AET",
                           "shortKey": "afterextratime_short",
@@ -112789,53 +112472,110 @@
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 3,
-                    "awayScore": 2
+                    "homeScore": 2,
+                    "awayScore": 7
                   },
-                  "aggregatedWinner": 91781,
-                  "aggregatedLoser": 6123
+                  "aggregatedWinner": 8292,
+                  "aggregatedLoser": 8183
                 },
                 {
-                  "homeTeamId": 119139,
-                  "awayTeamId": 8478,
-                  "drawOrder": 54,
+                  "homeTeamId": 1609446,
+                  "awayTeamId": 8179,
+                  "drawOrder": 48,
                   "stage": "1",
                   "bestOf": 0,
-                  "winner": 8478,
-                  "homeScore": 1,
-                  "awayScore": 3,
-                  "homeTeam": "Brodd",
-                  "awayTeam": "Viking",
-                  "homeTeamShortName": "BRO",
-                  "awayTeamShortName": "VIK",
+                  "winner": 8179,
+                  "homeScore": 2,
+                  "awayScore": 14,
+                  "homeTeam": "Skreia",
+                  "awayTeam": "Kongsvinger",
+                  "homeTeamShortName": "SKR",
+                  "awayTeamShortName": "KIL",
                   "tbdTeam1": false,
                   "tbdTeam2": false,
                   "matches": [
                     {
-                      "matchId": 5835906,
+                      "matchId": 5835773,
                       "home": {
-                        "id": 119139,
-                        "name": "Brodd",
-                        "shortName": "BRO",
-                        "score": 1,
+                        "id": 1609446,
+                        "name": "Skreia",
+                        "shortName": "SKR",
+                        "score": 2,
                         "winner": false
                       },
                       "away": {
-                        "id": 8478,
-                        "name": "Viking",
-                        "shortName": "VIK",
-                        "score": 3,
+                        "id": 8179,
+                        "name": "Kongsvinger",
+                        "shortName": "KIL",
+                        "score": 14,
                         "winner": true
                       },
-                      "pageUrl": "/matches/viking-vs-brodd/3qo7cv3#5835906",
+                      "pageUrl": "/matches/kongsvinger-vs-skreia/gp1tgok8#5835773",
                       "status": {
-                        "utcTime": "2026-09-02T14:00:00.000Z",
+                        "utcTime": "2026-08-22T12:00:00.000Z",
                         "timezone": "UTC",
                         "finished": true,
                         "started": true,
                         "cancelled": false,
                         "awarded": false,
-                        "scoreStr": "1 - 3",
+                        "scoreStr": "2 - 14",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 2,
+                    "awayScore": 14
+                  },
+                  "aggregatedWinner": 8179,
+                  "aggregatedLoser": 1609446
+                },
+                {
+                  "homeTeamId": 8125,
+                  "awayTeamId": 8421,
+                  "drawOrder": 49,
+                  "stage": "1",
+                  "bestOf": 0,
+                  "winner": 8421,
+                  "homeScore": 1,
+                  "awayScore": 4,
+                  "homeTeam": "Nordstrand",
+                  "awayTeam": "Skeid",
+                  "homeTeamShortName": "NOR",
+                  "awayTeamShortName": "SKE",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 5835778,
+                      "home": {
+                        "id": 8125,
+                        "name": "Nordstrand",
+                        "shortName": "NOR",
+                        "score": 1,
+                        "winner": false
+                      },
+                      "away": {
+                        "id": 8421,
+                        "name": "Skeid",
+                        "shortName": "SKE",
+                        "score": 4,
+                        "winner": true
+                      },
+                      "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
+                      "status": {
+                        "utcTime": "2026-08-22T10:00:00.000Z",
+                        "timezone": "UTC",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
                         "reason": {
                           "short": "FT",
                           "shortKey": "fulltime_short",
@@ -112847,52 +112587,52 @@
                   ],
                   "aggregatedResult": {
                     "homeScore": 1,
-                    "awayScore": 3
+                    "awayScore": 4
                   },
-                  "aggregatedWinner": 8478,
-                  "aggregatedLoser": 119139
+                  "aggregatedWinner": 8421,
+                  "aggregatedLoser": 8125
                 },
                 {
-                  "homeTeamId": 8137,
-                  "awayTeamId": 6541,
-                  "drawOrder": 55,
+                  "homeTeamId": 1004504,
+                  "awayTeamId": 8007,
+                  "drawOrder": 50,
                   "stage": "1",
                   "bestOf": 0,
-                  "winner": 8137,
-                  "homeScore": 4,
-                  "awayScore": 0,
-                  "homeTeam": "Bærum",
-                  "awayTeam": "Mjøndalen",
-                  "homeTeamShortName": "BAE",
-                  "awayTeamShortName": "MJØ",
+                  "winner": 8007,
+                  "homeScore": 2,
+                  "awayScore": 7,
+                  "homeTeam": "Christiania Ballklubb",
+                  "awayTeam": "Vålerenga",
+                  "homeTeamShortName": "CBA",
+                  "awayTeamShortName": "VIF",
                   "tbdTeam1": false,
                   "tbdTeam2": false,
                   "matches": [
                     {
-                      "matchId": 5835777,
+                      "matchId": 5835882,
                       "home": {
-                        "id": 8137,
-                        "name": "Bærum",
-                        "shortName": "BAE",
-                        "score": 4,
-                        "winner": true
-                      },
-                      "away": {
-                        "id": 6541,
-                        "name": "Mjøndalen",
-                        "shortName": "MJØ",
-                        "score": 0,
+                        "id": 1004504,
+                        "name": "Christiania Ballklubb",
+                        "shortName": "CBA",
+                        "score": 2,
                         "winner": false
                       },
-                      "pageUrl": "/matches/mjondalen-vs-baerum/1s56na#5835777",
+                      "away": {
+                        "id": 8007,
+                        "name": "Vålerenga",
+                        "shortName": "VIF",
+                        "score": 7,
+                        "winner": true
+                      },
+                      "pageUrl": "/matches/valerenga-vs-christiania-ballklubb/6jhapv3r#5835882",
                       "status": {
-                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "utcTime": "2026-08-23T11:00:00.000Z",
                         "timezone": "UTC",
                         "finished": true,
                         "started": true,
                         "cancelled": false,
                         "awarded": false,
-                        "scoreStr": "4 - 0",
+                        "scoreStr": "2 - 7",
                         "reason": {
                           "short": "FT",
                           "shortKey": "fulltime_short",
@@ -112903,73 +112643,16 @@
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 4,
-                    "awayScore": 0
+                    "homeScore": 2,
+                    "awayScore": 7
                   },
-                  "aggregatedWinner": 8137,
-                  "aggregatedLoser": 6541
-                },
-                {
-                  "homeTeamId": 2290,
-                  "awayTeamId": 8476,
-                  "drawOrder": 56,
-                  "stage": "1",
-                  "bestOf": 0,
-                  "winner": 8476,
-                  "homeScore": 0,
-                  "awayScore": 3,
-                  "homeTeam": "Aurskog Finstadbru",
-                  "awayTeam": "Lillestrøm",
-                  "homeTeamShortName": "AUR",
-                  "awayTeamShortName": "LIL",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 5835873,
-                      "home": {
-                        "id": 2290,
-                        "name": "Aurskog Finstadbru",
-                        "shortName": "AUR",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8476,
-                        "name": "Lillestrøm",
-                        "shortName": "LIL",
-                        "score": 3,
-                        "winner": true
-                      },
-                      "pageUrl": "/matches/aurskog-finstadbru-vs-lillestrom/yift1#5835873",
-                      "status": {
-                        "utcTime": "2026-09-02T14:00:00.000Z",
-                        "timezone": "UTC",
-                        "finished": true,
-                        "started": true,
-                        "cancelled": false,
-                        "awarded": false,
-                        "scoreStr": "0 - 3",
-                        "reason": {
-                          "short": "FT",
-                          "shortKey": "fulltime_short",
-                          "long": "Full-Time",
-                          "longKey": "finished"
-                        }
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 3
-                  },
-                  "aggregatedWinner": 8476,
-                  "aggregatedLoser": 2290
+                  "aggregatedWinner": 8007,
+                  "aggregatedLoser": 1004504
                 },
                 {
                   "homeTeamId": 428157,
                   "awayTeamId": 4201,
-                  "drawOrder": 57,
+                  "drawOrder": 51,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 4201,
@@ -113026,7 +112709,7 @@
                 {
                   "homeTeamId": 8077,
                   "awayTeamId": 8405,
-                  "drawOrder": 58,
+                  "drawOrder": 52,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 8405,
@@ -113083,7 +112766,7 @@
                 {
                   "homeTeamId": 1899,
                   "awayTeamId": 8067,
-                  "drawOrder": 59,
+                  "drawOrder": 53,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 8067,
@@ -113140,7 +112823,7 @@
                 {
                   "homeTeamId": 608816,
                   "awayTeamId": 2305,
-                  "drawOrder": 60,
+                  "drawOrder": 54,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 2305,
@@ -113197,7 +112880,7 @@
                 {
                   "homeTeamId": 6110,
                   "awayTeamId": 7963,
-                  "drawOrder": 61,
+                  "drawOrder": 55,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 7963,
@@ -113254,7 +112937,7 @@
                 {
                   "homeTeamId": 423819,
                   "awayTeamId": 8509,
-                  "drawOrder": 62,
+                  "drawOrder": 56,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 8509,
@@ -113309,9 +112992,123 @@
                   "aggregatedLoser": 423819
                 },
                 {
+                  "homeTeamId": 2297,
+                  "awayTeamId": 10016,
+                  "drawOrder": 57,
+                  "stage": "1",
+                  "bestOf": 0,
+                  "winner": 2297,
+                  "homeScore": 2,
+                  "awayScore": 0,
+                  "homeTeam": "Flint",
+                  "awayTeam": "Ørn Horten",
+                  "homeTeamShortName": "FLI",
+                  "awayTeamShortName": "ORN",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 5835881,
+                      "home": {
+                        "id": 2297,
+                        "name": "Flint",
+                        "shortName": "FLI",
+                        "score": 2,
+                        "winner": true
+                      },
+                      "away": {
+                        "id": 10016,
+                        "name": "Ørn Horten",
+                        "shortName": "ORN",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "pageUrl": "/matches/flint-vs-orn-horten/194y0u#5835881",
+                      "status": {
+                        "utcTime": "2026-08-23T13:00:00.000Z",
+                        "timezone": "UTC",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 2,
+                    "awayScore": 0
+                  },
+                  "aggregatedWinner": 2297,
+                  "aggregatedLoser": 10016
+                },
+                {
+                  "homeTeamId": 1609448,
+                  "awayTeamId": 8609,
+                  "drawOrder": 58,
+                  "stage": "1",
+                  "bestOf": 0,
+                  "winner": 8609,
+                  "homeScore": 0,
+                  "awayScore": 15,
+                  "homeTeam": "Eidanger",
+                  "awayTeam": "Sandefjord",
+                  "homeTeamShortName": "EID",
+                  "awayTeamShortName": "SAN",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 5835879,
+                      "home": {
+                        "id": 1609448,
+                        "name": "Eidanger",
+                        "shortName": "EID",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "away": {
+                        "id": 8609,
+                        "name": "Sandefjord",
+                        "shortName": "SAN",
+                        "score": 15,
+                        "winner": true
+                      },
+                      "pageUrl": "/matches/sandefjord-vs-eidanger/gpddkpe6#5835879",
+                      "status": {
+                        "utcTime": "2026-08-23T12:00:00.000Z",
+                        "timezone": "UTC",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 15",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 0,
+                    "awayScore": 15
+                  },
+                  "aggregatedWinner": 8609,
+                  "aggregatedLoser": 1609448
+                },
+                {
                   "homeTeamId": 2319,
                   "awayTeamId": 1004501,
-                  "drawOrder": 63,
+                  "drawOrder": 59,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 1004501,
@@ -113368,7 +113165,7 @@
                 {
                   "homeTeamId": 4325,
                   "awayTeamId": 8402,
-                  "drawOrder": 64,
+                  "drawOrder": 60,
                   "stage": "1",
                   "bestOf": 0,
                   "winner": 8402,
@@ -113421,6 +113218,234 @@
                   },
                   "aggregatedWinner": 8402,
                   "aggregatedLoser": 4325
+                },
+                {
+                  "homeTeamId": 91781,
+                  "awayTeamId": 6123,
+                  "drawOrder": 61,
+                  "stage": "1",
+                  "bestOf": 0,
+                  "winner": 91781,
+                  "homeScore": 3,
+                  "awayScore": 2,
+                  "homeTeam": "Madla",
+                  "awayTeam": "Vidar",
+                  "homeTeamShortName": "MAD",
+                  "awayTeamShortName": "VID",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 5835907,
+                      "home": {
+                        "id": 91781,
+                        "name": "Madla",
+                        "shortName": "MAD",
+                        "score": 3,
+                        "winner": true
+                      },
+                      "away": {
+                        "id": 6123,
+                        "name": "Vidar",
+                        "shortName": "VID",
+                        "score": 2,
+                        "winner": false
+                      },
+                      "pageUrl": "/matches/vidar-vs-madla/279gzst#5835907",
+                      "status": {
+                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "timezone": "UTC",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                          "short": "AET",
+                          "shortKey": "afterextratime_short",
+                          "long": "After extra time",
+                          "longKey": "afterextra"
+                        }
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 3,
+                    "awayScore": 2
+                  },
+                  "aggregatedWinner": 91781,
+                  "aggregatedLoser": 6123
+                },
+                {
+                  "homeTeamId": 119139,
+                  "awayTeamId": 8478,
+                  "drawOrder": 62,
+                  "stage": "1",
+                  "bestOf": 0,
+                  "winner": 8478,
+                  "homeScore": 1,
+                  "awayScore": 3,
+                  "homeTeam": "Brodd",
+                  "awayTeam": "Viking",
+                  "homeTeamShortName": "BRO",
+                  "awayTeamShortName": "VIK",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 5835906,
+                      "home": {
+                        "id": 119139,
+                        "name": "Brodd",
+                        "shortName": "BRO",
+                        "score": 1,
+                        "winner": false
+                      },
+                      "away": {
+                        "id": 8478,
+                        "name": "Viking",
+                        "shortName": "VIK",
+                        "score": 3,
+                        "winner": true
+                      },
+                      "pageUrl": "/matches/viking-vs-brodd/3qo7cv3#5835906",
+                      "status": {
+                        "utcTime": "2026-09-02T14:00:00.000Z",
+                        "timezone": "UTC",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 1,
+                    "awayScore": 3
+                  },
+                  "aggregatedWinner": 8478,
+                  "aggregatedLoser": 119139
+                },
+                {
+                  "homeTeamId": 8137,
+                  "awayTeamId": 6541,
+                  "drawOrder": 63,
+                  "stage": "1",
+                  "bestOf": 0,
+                  "winner": 8137,
+                  "homeScore": 4,
+                  "awayScore": 0,
+                  "homeTeam": "Bærum",
+                  "awayTeam": "Mjøndalen",
+                  "homeTeamShortName": "BAE",
+                  "awayTeamShortName": "MJØ",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 5835777,
+                      "home": {
+                        "id": 8137,
+                        "name": "Bærum",
+                        "shortName": "BAE",
+                        "score": 4,
+                        "winner": true
+                      },
+                      "away": {
+                        "id": 6541,
+                        "name": "Mjøndalen",
+                        "shortName": "MJØ",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "pageUrl": "/matches/mjondalen-vs-baerum/1s56na#5835777",
+                      "status": {
+                        "utcTime": "2026-08-22T12:00:00.000Z",
+                        "timezone": "UTC",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 4,
+                    "awayScore": 0
+                  },
+                  "aggregatedWinner": 8137,
+                  "aggregatedLoser": 6541
+                },
+                {
+                  "homeTeamId": 2290,
+                  "awayTeamId": 8476,
+                  "drawOrder": 64,
+                  "stage": "1",
+                  "bestOf": 0,
+                  "winner": 8476,
+                  "homeScore": 0,
+                  "awayScore": 3,
+                  "homeTeam": "Aurskog Finstadbru",
+                  "awayTeam": "Lillestrøm",
+                  "homeTeamShortName": "AUR",
+                  "awayTeamShortName": "LIL",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 5835873,
+                      "home": {
+                        "id": 2290,
+                        "name": "Aurskog Finstadbru",
+                        "shortName": "AUR",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "away": {
+                        "id": 8476,
+                        "name": "Lillestrøm",
+                        "shortName": "LIL",
+                        "score": 3,
+                        "winner": true
+                      },
+                      "pageUrl": "/matches/aurskog-finstadbru-vs-lillestrom/yift1#5835873",
+                      "status": {
+                        "utcTime": "2026-09-02T14:00:00.000Z",
+                        "timezone": "UTC",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 0,
+                    "awayScore": 3
+                  },
+                  "aggregatedWinner": 8476,
+                  "aggregatedLoser": 2290
                 }
               ],
               "started": true
@@ -113435,6 +113460,8 @@
                   "drawOrder": 1,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Tromsdalen",
                   "awayTeam": "Strømmen",
                   "homeTeamShortName": "TRO",
@@ -113462,9 +113489,20 @@
                       "status": {
                         "utcTime": "2026-09-08T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -113481,6 +113519,8 @@
                   "drawOrder": 2,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Djerv 1919",
                   "awayTeam": "FK Haugesund",
                   "homeTeamShortName": "DJE",
@@ -113508,9 +113548,20 @@
                       "status": {
                         "utcTime": "2026-09-08T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114304,101 +114355,9 @@
                   "aggregatedLoser": null
                 },
                 {
-                  "homeTeamId": 8292,
-                  "awayTeamId": 8179,
-                  "drawOrder": 20,
-                  "stage": "2",
-                  "bestOf": 0,
-                  "homeTeam": "Eidsvold TF",
-                  "awayTeam": "Kongsvinger",
-                  "homeTeamShortName": "EID",
-                  "awayTeamShortName": "KIL",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 6144867,
-                      "home": {
-                        "id": 8292,
-                        "name": "Eidsvold TF",
-                        "shortName": "EID",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8179,
-                        "name": "Kongsvinger",
-                        "shortName": "KIL",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "pageUrl": "/matches/kongsvinger-vs-eidsvold-tf/28rql4#6144867",
-                      "status": {
-                        "utcTime": "2026-09-16T15:00:00.000Z",
-                        "timezone": "UTC",
-                        "started": false,
-                        "cancelled": false,
-                        "finished": false
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
-                  },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
-                },
-                {
-                  "homeTeamId": 8421,
-                  "awayTeamId": 8007,
-                  "drawOrder": 21,
-                  "stage": "2",
-                  "bestOf": 0,
-                  "homeTeam": "Skeid",
-                  "awayTeam": "Vålerenga",
-                  "homeTeamShortName": "SKE",
-                  "awayTeamShortName": "VIF",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 6144868,
-                      "home": {
-                        "id": 8421,
-                        "name": "Skeid",
-                        "shortName": "SKE",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8007,
-                        "name": "Vålerenga",
-                        "shortName": "VIF",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "pageUrl": "/matches/valerenga-vs-skeid/28ckw3#6144868",
-                      "status": {
-                        "utcTime": "2026-09-17T14:00:00.000Z",
-                        "timezone": "UTC",
-                        "started": false,
-                        "cancelled": false,
-                        "finished": false
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
-                  },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
-                },
-                {
                   "homeTeamId": 6560,
                   "awayTeamId": 8448,
-                  "drawOrder": 22,
+                  "drawOrder": 20,
                   "stage": "2",
                   "bestOf": 0,
                   "homeTeam": "Kjelsås",
@@ -114442,55 +114401,9 @@
                   "aggregatedLoser": null
                 },
                 {
-                  "homeTeamId": 2297,
-                  "awayTeamId": 8609,
-                  "drawOrder": 23,
-                  "stage": "2",
-                  "bestOf": 0,
-                  "homeTeam": "Flint",
-                  "awayTeam": "Sandefjord",
-                  "homeTeamShortName": "FLI",
-                  "awayTeamShortName": "SAN",
-                  "tbdTeam1": false,
-                  "tbdTeam2": false,
-                  "matches": [
-                    {
-                      "matchId": 6144881,
-                      "home": {
-                        "id": 2297,
-                        "name": "Flint",
-                        "shortName": "FLI",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "away": {
-                        "id": 8609,
-                        "name": "Sandefjord",
-                        "shortName": "SAN",
-                        "score": 0,
-                        "winner": false
-                      },
-                      "pageUrl": "/matches/flint-vs-sandefjord/zeyio#6144881",
-                      "status": {
-                        "utcTime": "2026-09-30T14:00:00.000Z",
-                        "timezone": "UTC",
-                        "started": false,
-                        "cancelled": false,
-                        "finished": false
-                      }
-                    }
-                  ],
-                  "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
-                  },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
-                },
-                {
                   "homeTeamId": 1352625,
                   "awayTeamId": 10224,
-                  "drawOrder": 24,
+                  "drawOrder": 21,
                   "stage": "2",
                   "bestOf": 0,
                   "homeTeam": "Gamle Oslo",
@@ -114536,7 +114449,7 @@
                 {
                   "homeTeamId": 2313,
                   "awayTeamId": 8468,
-                  "drawOrder": 25,
+                  "drawOrder": 22,
                   "stage": "2",
                   "bestOf": 0,
                   "homeTeam": "Os",
@@ -114582,7 +114495,7 @@
                 {
                   "homeTeamId": 4289,
                   "awayTeamId": 9919,
-                  "drawOrder": 26,
+                  "drawOrder": 23,
                   "stage": "2",
                   "bestOf": 0,
                   "homeTeam": "Vindbjart",
@@ -114626,37 +114539,37 @@
                   "aggregatedLoser": null
                 },
                 {
-                  "homeTeamId": 91781,
-                  "awayTeamId": 8478,
-                  "drawOrder": 27,
+                  "homeTeamId": 8292,
+                  "awayTeamId": 8179,
+                  "drawOrder": 24,
                   "stage": "2",
                   "bestOf": 0,
-                  "homeTeam": "Madla",
-                  "awayTeam": "Viking",
-                  "homeTeamShortName": "MAD",
-                  "awayTeamShortName": "VIK",
+                  "homeTeam": "Eidsvold TF",
+                  "awayTeam": "Kongsvinger",
+                  "homeTeamShortName": "EID",
+                  "awayTeamShortName": "KIL",
                   "tbdTeam1": false,
                   "tbdTeam2": false,
                   "matches": [
                     {
-                      "matchId": 6146352,
+                      "matchId": 6144867,
                       "home": {
-                        "id": 91781,
-                        "name": "Madla",
-                        "shortName": "MAD",
+                        "id": 8292,
+                        "name": "Eidsvold TF",
+                        "shortName": "EID",
                         "score": 0,
                         "winner": false
                       },
                       "away": {
-                        "id": 8478,
-                        "name": "Viking",
-                        "shortName": "VIK",
+                        "id": 8179,
+                        "name": "Kongsvinger",
+                        "shortName": "KIL",
                         "score": 0,
                         "winner": false
                       },
-                      "pageUrl": "/matches/viking-vs-madla/2b4e8mz#6146352",
+                      "pageUrl": "/matches/kongsvinger-vs-eidsvold-tf/28rql4#6144867",
                       "status": {
-                        "utcTime": "2026-10-01T14:00:00.000Z",
+                        "utcTime": "2026-09-16T15:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -114672,37 +114585,37 @@
                   "aggregatedLoser": null
                 },
                 {
-                  "homeTeamId": 8137,
-                  "awayTeamId": 8476,
-                  "drawOrder": 28,
+                  "homeTeamId": 8421,
+                  "awayTeamId": 8007,
+                  "drawOrder": 25,
                   "stage": "2",
                   "bestOf": 0,
-                  "homeTeam": "Bærum",
-                  "awayTeam": "Lillestrøm",
-                  "homeTeamShortName": "BAE",
-                  "awayTeamShortName": "LIL",
+                  "homeTeam": "Skeid",
+                  "awayTeam": "Vålerenga",
+                  "homeTeamShortName": "SKE",
+                  "awayTeamShortName": "VIF",
                   "tbdTeam1": false,
                   "tbdTeam2": false,
                   "matches": [
                     {
-                      "matchId": 6146353,
+                      "matchId": 6144868,
                       "home": {
-                        "id": 8137,
-                        "name": "Bærum",
-                        "shortName": "BAE",
+                        "id": 8421,
+                        "name": "Skeid",
+                        "shortName": "SKE",
                         "score": 0,
                         "winner": false
                       },
                       "away": {
-                        "id": 8476,
-                        "name": "Lillestrøm",
-                        "shortName": "LIL",
+                        "id": 8007,
+                        "name": "Vålerenga",
+                        "shortName": "VIF",
                         "score": 0,
                         "winner": false
                       },
-                      "pageUrl": "/matches/baerum-vs-lillestrom/2a6397#6146353",
+                      "pageUrl": "/matches/valerenga-vs-skeid/28ckw3#6144868",
                       "status": {
-                        "utcTime": "2026-10-01T14:00:00.000Z",
+                        "utcTime": "2026-09-17T14:00:00.000Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -114720,7 +114633,7 @@
                 {
                   "homeTeamId": 4201,
                   "awayTeamId": 8405,
-                  "drawOrder": 29,
+                  "drawOrder": 26,
                   "stage": "2",
                   "bestOf": 0,
                   "homeTeam": "Grorud",
@@ -114766,7 +114679,7 @@
                 {
                   "homeTeamId": 8067,
                   "awayTeamId": 2305,
-                  "drawOrder": 30,
+                  "drawOrder": 27,
                   "stage": "2",
                   "bestOf": 0,
                   "homeTeam": "Hønefoss",
@@ -114812,7 +114725,7 @@
                 {
                   "homeTeamId": 7963,
                   "awayTeamId": 8509,
-                  "drawOrder": 31,
+                  "drawOrder": 28,
                   "stage": "2",
                   "bestOf": 0,
                   "homeTeam": "Follo",
@@ -114856,9 +114769,55 @@
                   "aggregatedLoser": null
                 },
                 {
+                  "homeTeamId": 2297,
+                  "awayTeamId": 8609,
+                  "drawOrder": 29,
+                  "stage": "2",
+                  "bestOf": 0,
+                  "homeTeam": "Flint",
+                  "awayTeam": "Sandefjord",
+                  "homeTeamShortName": "FLI",
+                  "awayTeamShortName": "SAN",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 6144881,
+                      "home": {
+                        "id": 2297,
+                        "name": "Flint",
+                        "shortName": "FLI",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "away": {
+                        "id": 8609,
+                        "name": "Sandefjord",
+                        "shortName": "SAN",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "pageUrl": "/matches/flint-vs-sandefjord/zeyio#6144881",
+                      "status": {
+                        "utcTime": "2026-09-30T14:00:00.000Z",
+                        "timezone": "UTC",
+                        "started": false,
+                        "cancelled": false,
+                        "finished": false
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 0,
+                    "awayScore": 0
+                  },
+                  "aggregatedWinner": null,
+                  "aggregatedLoser": null
+                },
+                {
                   "homeTeamId": 1004501,
                   "awayTeamId": 8402,
-                  "drawOrder": 32,
+                  "drawOrder": 30,
                   "stage": "2",
                   "bestOf": 0,
                   "homeTeam": "Rana FK",
@@ -114900,9 +114859,101 @@
                   },
                   "aggregatedWinner": null,
                   "aggregatedLoser": null
+                },
+                {
+                  "homeTeamId": 91781,
+                  "awayTeamId": 8478,
+                  "drawOrder": 31,
+                  "stage": "2",
+                  "bestOf": 0,
+                  "homeTeam": "Madla",
+                  "awayTeam": "Viking",
+                  "homeTeamShortName": "MAD",
+                  "awayTeamShortName": "VIK",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 6146352,
+                      "home": {
+                        "id": 91781,
+                        "name": "Madla",
+                        "shortName": "MAD",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "away": {
+                        "id": 8478,
+                        "name": "Viking",
+                        "shortName": "VIK",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "pageUrl": "/matches/viking-vs-madla/2b4e8mz#6146352",
+                      "status": {
+                        "utcTime": "2026-10-01T14:00:00.000Z",
+                        "timezone": "UTC",
+                        "started": false,
+                        "cancelled": false,
+                        "finished": false
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 0,
+                    "awayScore": 0
+                  },
+                  "aggregatedWinner": null,
+                  "aggregatedLoser": null
+                },
+                {
+                  "homeTeamId": 8137,
+                  "awayTeamId": 8476,
+                  "drawOrder": 32,
+                  "stage": "2",
+                  "bestOf": 0,
+                  "homeTeam": "Bærum",
+                  "awayTeam": "Lillestrøm",
+                  "homeTeamShortName": "BAE",
+                  "awayTeamShortName": "LIL",
+                  "tbdTeam1": false,
+                  "tbdTeam2": false,
+                  "matches": [
+                    {
+                      "matchId": 6146353,
+                      "home": {
+                        "id": 8137,
+                        "name": "Bærum",
+                        "shortName": "BAE",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "away": {
+                        "id": 8476,
+                        "name": "Lillestrøm",
+                        "shortName": "LIL",
+                        "score": 0,
+                        "winner": false
+                      },
+                      "pageUrl": "/matches/baerum-vs-lillestrom/2a6397#6146353",
+                      "status": {
+                        "utcTime": "2026-10-01T14:00:00.000Z",
+                        "timezone": "UTC",
+                        "started": false,
+                        "cancelled": false,
+                        "finished": false
+                      }
+                    }
+                  ],
+                  "aggregatedResult": {
+                    "homeScore": 0,
+                    "awayScore": 0
+                  },
+                  "aggregatedWinner": null,
+                  "aggregatedLoser": null
                 }
               ],
-              "started": false
+              "started": true
             }
           ],
           "hasDrawOrder": true,
@@ -116923,12 +116974,23 @@
               "status": {
                 "utcTime": "2026-09-08T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "08.09.2026 18:00:00"
+                  "firstHalfStarted": "08.09.2026 18:01:35"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 2",
+                "liveTime": {
+                  "short": "40‎’‎",
+                  "shortKey": "",
+                  "long": "39:41",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -116949,12 +117011,23 @@
               "status": {
                 "utcTime": "2026-09-08T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "08.09.2026 18:00:00"
+                  "firstHalfStarted": "08.09.2026 18:00:38"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "4 - 0",
+                "liveTime": {
+                  "short": "41‎’‎",
+                  "shortKey": "",
+                  "long": "40:38",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118272,6 +118345,50 @@
             "category": "Top Stat"
           },
           {
+            "header": "Yellow cards",
+            "participant": {
+              "id": 1606000,
+              "name": "Pål Engseth Lie",
+              "rank": 1,
+              "teamId": 8512,
+              "teamName": "FK Haugesund",
+              "value": 1,
+              "stat": {
+                "name": "yellow_card",
+                "value": 1,
+                "format": "number",
+                "fractions": 0
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/yellow_card.json",
+            "topThree": [
+              {
+                "id": 1606000,
+                "name": "Pål Engseth Lie",
+                "rank": 1,
+                "teamId": 8512,
+                "teamName": "FK Haugesund",
+                "value": 1,
+                "stat": {
+                  "name": "yellow_card",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0360ab",
+                  "lightMode": "#002968",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 42,
+            "name": "yellow_card",
+            "localizedTitleId": "yellow_cards",
+            "category": "Discipline"
+          },
+          {
             "header": "Red cards",
             "participant": {
               "id": 1746270,
@@ -118529,14 +118646,14 @@
             "header": "Clean sheets",
             "participant": {
               "id": 0,
-              "name": "Aalesund",
+              "name": "Djerv 1919",
               "rank": 1,
-              "teamId": 8404,
-              "teamName": "Aalesund",
-              "value": 1,
+              "teamId": 46917,
+              "teamName": "Djerv 1919",
+              "value": 2,
               "stat": {
                 "name": "clean_sheet_team",
-                "value": 1,
+                "value": 2,
                 "format": "number",
                 "fractions": 0
               }
@@ -118545,8 +118662,48 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Aalesund",
+                "name": "Djerv 1919",
                 "rank": 1,
+                "teamId": 46917,
+                "teamName": "Djerv 1919",
+                "value": 2,
+                "stat": {
+                  "name": "clean_sheet_team",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#FBDE22",
+                  "lightMode": "#056AB1",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Tromsdalen",
+                "rank": 1,
+                "teamId": 8617,
+                "teamName": "Tromsdalen",
+                "value": 2,
+                "stat": {
+                  "name": "clean_sheet_team",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0080C6",
+                  "lightMode": "#0080C6",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Aalesund",
+                "rank": 3,
                 "teamId": 8404,
                 "teamName": "Aalesund",
                 "value": 1,
@@ -118559,46 +118716,6 @@
                 "teamColors": {
                   "darkMode": "#eb7805",
                   "lightMode": "#eb7805",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Åsane",
-                "rank": 1,
-                "teamId": 10021,
-                "teamName": "Åsane",
-                "value": 1,
-                "stat": {
-                  "name": "clean_sheet_team",
-                  "value": 1,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#ff8e44",
-                  "lightMode": "#F4742A",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Asker",
-                "rank": 1,
-                "teamId": 6540,
-                "teamName": "Asker",
-                "value": 1,
-                "stat": {
-                  "name": "clean_sheet_team",
-                  "value": 1,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#083070",
-                  "lightMode": "#083070",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -118697,10 +118814,10 @@
             "header": "Set piece goals conceded",
             "participant": {
               "id": 0,
-              "name": "Aalesund",
+              "name": "Djerv 1919",
               "rank": 1,
-              "teamId": 8404,
-              "teamName": "Aalesund",
+              "teamId": 46917,
+              "teamName": "Djerv 1919",
               "value": 0,
               "stat": {
                 "name": "_set_piece_goals_conceded_team",
@@ -118711,6 +118828,46 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/_set_piece_goals_conceded_team.json",
             "topThree": [
+              {
+                "id": 0,
+                "name": "Djerv 1919",
+                "rank": 1,
+                "teamId": 46917,
+                "teamName": "Djerv 1919",
+                "value": 0,
+                "stat": {
+                  "name": "_set_piece_goals_conceded_team",
+                  "value": 0,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#FBDE22",
+                  "lightMode": "#056AB1",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Tromsdalen",
+                "rank": 1,
+                "teamId": 8617,
+                "teamName": "Tromsdalen",
+                "value": 0,
+                "stat": {
+                  "name": "_set_piece_goals_conceded_team",
+                  "value": 0,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0080C6",
+                  "lightMode": "#0080C6",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 0,
                 "name": "Aalesund",
@@ -118730,52 +118887,56 @@
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
-              },
-              {
-                "id": 0,
-                "name": "Aasane",
-                "rank": 1,
-                "teamId": 10021,
-                "teamName": "Aasane",
-                "value": 0,
-                "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 0,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#ff8e44",
-                  "lightMode": "#F4742A",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Asker",
-                "rank": 1,
-                "teamId": 6540,
-                "teamName": "Asker",
-                "value": 0,
-                "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 0,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#083070",
-                  "lightMode": "#083070",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
               }
             ],
             "order": 68,
             "name": "_set_piece_goals_conceded_team",
             "localizedTitleId": "set_piece_goals_conceded",
             "category": "Defending"
+          },
+          {
+            "header": "Yellow cards",
+            "participant": {
+              "id": 0,
+              "name": "FK Haugesund",
+              "rank": 1,
+              "teamId": 8512,
+              "teamName": "FK Haugesund",
+              "value": 1,
+              "stat": {
+                "name": "total_yel_card_team",
+                "value": 1,
+                "format": "number",
+                "fractions": 0
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/total_yel_card_team.json",
+            "topThree": [
+              {
+                "id": 0,
+                "name": "FK Haugesund",
+                "rank": 1,
+                "teamId": 8512,
+                "teamName": "FK Haugesund",
+                "value": 1,
+                "stat": {
+                  "name": "total_yel_card_team",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0360ab",
+                  "lightMode": "#002968",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 72,
+            "name": "total_yel_card_team",
+            "localizedTitleId": "yellow_cards",
+            "category": "Discipline"
           },
           {
             "header": "Red cards",
@@ -121010,12 +121171,23 @@
             "status": {
               "utcTime": "2026-09-08T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 18:00:00"
+                "firstHalfStarted": "08.09.2026 18:01:35"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 2",
+              "liveTime": {
+                "short": "40‎’‎",
+                "shortKey": "",
+                "long": "39:41",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -121036,12 +121208,23 @@
             "status": {
               "utcTime": "2026-09-08T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "08.09.2026 18:00:00"
+                "firstHalfStarted": "08.09.2026 18:00:38"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "4 - 0",
+              "liveTime": {
+                "short": "41‎’‎",
+                "shortKey": "",
+                "long": "40:38",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -124444,237 +124627,9 @@
                 "aggregatedLoser": 1609447
               },
               {
-                "homeTeamId": 8183,
-                "awayTeamId": 8292,
-                "drawOrder": 39,
-                "stage": "1",
-                "bestOf": 0,
-                "winner": 8292,
-                "homeScore": 2,
-                "awayScore": 7,
-                "homeTeam": "Gjøvik-Lyn",
-                "awayTeam": "Eidsvold TF",
-                "homeTeamShortName": "G-L",
-                "awayTeamShortName": "EID",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 5835877,
-                    "home": {
-                      "id": 8183,
-                      "name": "Gjøvik-Lyn",
-                      "shortName": "G-L",
-                      "score": 2,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8292,
-                      "name": "Eidsvold TF",
-                      "shortName": "EID",
-                      "score": 7,
-                      "winner": true
-                    },
-                    "pageUrl": "/matches/gjovik-lyn-vs-eidsvold-tf/28t5fi#5835877",
-                    "status": {
-                      "utcTime": "2026-08-22T14:00:00.000Z",
-                      "timezone": "UTC",
-                      "finished": true,
-                      "started": true,
-                      "cancelled": false,
-                      "awarded": false,
-                      "scoreStr": "2 - 7",
-                      "reason": {
-                        "short": "AET",
-                        "shortKey": "afterextratime_short",
-                        "long": "After extra time",
-                        "longKey": "afterextra"
-                      }
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 2,
-                  "awayScore": 7
-                },
-                "aggregatedWinner": 8292,
-                "aggregatedLoser": 8183
-              },
-              {
-                "homeTeamId": 1609446,
-                "awayTeamId": 8179,
-                "drawOrder": 40,
-                "stage": "1",
-                "bestOf": 0,
-                "winner": 8179,
-                "homeScore": 2,
-                "awayScore": 14,
-                "homeTeam": "Skreia",
-                "awayTeam": "Kongsvinger",
-                "homeTeamShortName": "SKR",
-                "awayTeamShortName": "KIL",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 5835773,
-                    "home": {
-                      "id": 1609446,
-                      "name": "Skreia",
-                      "shortName": "SKR",
-                      "score": 2,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8179,
-                      "name": "Kongsvinger",
-                      "shortName": "KIL",
-                      "score": 14,
-                      "winner": true
-                    },
-                    "pageUrl": "/matches/kongsvinger-vs-skreia/gp1tgok8#5835773",
-                    "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
-                      "timezone": "UTC",
-                      "finished": true,
-                      "started": true,
-                      "cancelled": false,
-                      "awarded": false,
-                      "scoreStr": "2 - 14",
-                      "reason": {
-                        "short": "FT",
-                        "shortKey": "fulltime_short",
-                        "long": "Full-Time",
-                        "longKey": "finished"
-                      }
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 2,
-                  "awayScore": 14
-                },
-                "aggregatedWinner": 8179,
-                "aggregatedLoser": 1609446
-              },
-              {
-                "homeTeamId": 8125,
-                "awayTeamId": 8421,
-                "drawOrder": 41,
-                "stage": "1",
-                "bestOf": 0,
-                "winner": 8421,
-                "homeScore": 1,
-                "awayScore": 4,
-                "homeTeam": "Nordstrand",
-                "awayTeam": "Skeid",
-                "homeTeamShortName": "NOR",
-                "awayTeamShortName": "SKE",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 5835778,
-                    "home": {
-                      "id": 8125,
-                      "name": "Nordstrand",
-                      "shortName": "NOR",
-                      "score": 1,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8421,
-                      "name": "Skeid",
-                      "shortName": "SKE",
-                      "score": 4,
-                      "winner": true
-                    },
-                    "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
-                    "status": {
-                      "utcTime": "2026-08-22T10:00:00.000Z",
-                      "timezone": "UTC",
-                      "finished": true,
-                      "started": true,
-                      "cancelled": false,
-                      "awarded": false,
-                      "scoreStr": "1 - 4",
-                      "reason": {
-                        "short": "FT",
-                        "shortKey": "fulltime_short",
-                        "long": "Full-Time",
-                        "longKey": "finished"
-                      }
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 1,
-                  "awayScore": 4
-                },
-                "aggregatedWinner": 8421,
-                "aggregatedLoser": 8125
-              },
-              {
-                "homeTeamId": 1004504,
-                "awayTeamId": 8007,
-                "drawOrder": 42,
-                "stage": "1",
-                "bestOf": 0,
-                "winner": 8007,
-                "homeScore": 2,
-                "awayScore": 7,
-                "homeTeam": "Christiania Ballklubb",
-                "awayTeam": "Vålerenga",
-                "homeTeamShortName": "CBA",
-                "awayTeamShortName": "VIF",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 5835882,
-                    "home": {
-                      "id": 1004504,
-                      "name": "Christiania Ballklubb",
-                      "shortName": "CBA",
-                      "score": 2,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8007,
-                      "name": "Vålerenga",
-                      "shortName": "VIF",
-                      "score": 7,
-                      "winner": true
-                    },
-                    "pageUrl": "/matches/valerenga-vs-christiania-ballklubb/6jhapv3r#5835882",
-                    "status": {
-                      "utcTime": "2026-08-23T11:00:00.000Z",
-                      "timezone": "UTC",
-                      "finished": true,
-                      "started": true,
-                      "cancelled": false,
-                      "awarded": false,
-                      "scoreStr": "2 - 7",
-                      "reason": {
-                        "short": "FT",
-                        "shortKey": "fulltime_short",
-                        "long": "Full-Time",
-                        "longKey": "finished"
-                      }
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 2,
-                  "awayScore": 7
-                },
-                "aggregatedWinner": 8007,
-                "aggregatedLoser": 1004504
-              },
-              {
                 "homeTeamId": 4621,
                 "awayTeamId": 6560,
-                "drawOrder": 43,
+                "drawOrder": 39,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 6560,
@@ -124731,7 +124686,7 @@
               {
                 "homeTeamId": 161375,
                 "awayTeamId": 8448,
-                "drawOrder": 44,
+                "drawOrder": 40,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 8448,
@@ -124786,123 +124741,9 @@
                 "aggregatedLoser": 161375
               },
               {
-                "homeTeamId": 2297,
-                "awayTeamId": 10016,
-                "drawOrder": 45,
-                "stage": "1",
-                "bestOf": 0,
-                "winner": 2297,
-                "homeScore": 2,
-                "awayScore": 0,
-                "homeTeam": "Flint",
-                "awayTeam": "Ørn Horten",
-                "homeTeamShortName": "FLI",
-                "awayTeamShortName": "ORN",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 5835881,
-                    "home": {
-                      "id": 2297,
-                      "name": "Flint",
-                      "shortName": "FLI",
-                      "score": 2,
-                      "winner": true
-                    },
-                    "away": {
-                      "id": 10016,
-                      "name": "Ørn Horten",
-                      "shortName": "ORN",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "pageUrl": "/matches/flint-vs-orn-horten/194y0u#5835881",
-                    "status": {
-                      "utcTime": "2026-08-23T13:00:00.000Z",
-                      "timezone": "UTC",
-                      "finished": true,
-                      "started": true,
-                      "cancelled": false,
-                      "awarded": false,
-                      "scoreStr": "2 - 0",
-                      "reason": {
-                        "short": "FT",
-                        "shortKey": "fulltime_short",
-                        "long": "Full-Time",
-                        "longKey": "finished"
-                      }
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 2,
-                  "awayScore": 0
-                },
-                "aggregatedWinner": 2297,
-                "aggregatedLoser": 10016
-              },
-              {
-                "homeTeamId": 1609448,
-                "awayTeamId": 8609,
-                "drawOrder": 46,
-                "stage": "1",
-                "bestOf": 0,
-                "winner": 8609,
-                "homeScore": 0,
-                "awayScore": 15,
-                "homeTeam": "Eidanger",
-                "awayTeam": "Sandefjord",
-                "homeTeamShortName": "EID",
-                "awayTeamShortName": "SAN",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 5835879,
-                    "home": {
-                      "id": 1609448,
-                      "name": "Eidanger",
-                      "shortName": "EID",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8609,
-                      "name": "Sandefjord",
-                      "shortName": "SAN",
-                      "score": 15,
-                      "winner": true
-                    },
-                    "pageUrl": "/matches/sandefjord-vs-eidanger/gpddkpe6#5835879",
-                    "status": {
-                      "utcTime": "2026-08-23T12:00:00.000Z",
-                      "timezone": "UTC",
-                      "finished": true,
-                      "started": true,
-                      "cancelled": false,
-                      "awarded": false,
-                      "scoreStr": "0 - 15",
-                      "reason": {
-                        "short": "FT",
-                        "shortKey": "fulltime_short",
-                        "long": "Full-Time",
-                        "longKey": "finished"
-                      }
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 15
-                },
-                "aggregatedWinner": 8609,
-                "aggregatedLoser": 1609448
-              },
-              {
                 "homeTeamId": 1352625,
                 "awayTeamId": 9815,
-                "drawOrder": 47,
+                "drawOrder": 41,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 1352625,
@@ -124959,7 +124800,7 @@
               {
                 "homeTeamId": 4206,
                 "awayTeamId": 10224,
-                "drawOrder": 48,
+                "drawOrder": 42,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 10224,
@@ -125016,7 +124857,7 @@
               {
                 "homeTeamId": 2313,
                 "awayTeamId": 413468,
-                "drawOrder": 49,
+                "drawOrder": 43,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 2313,
@@ -125073,7 +124914,7 @@
               {
                 "homeTeamId": 8115,
                 "awayTeamId": 8468,
-                "drawOrder": 50,
+                "drawOrder": 44,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 8468,
@@ -125130,7 +124971,7 @@
               {
                 "homeTeamId": 4289,
                 "awayTeamId": 6579,
-                "drawOrder": 51,
+                "drawOrder": 45,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 4289,
@@ -125187,7 +125028,7 @@
               {
                 "homeTeamId": 6236,
                 "awayTeamId": 9919,
-                "drawOrder": 52,
+                "drawOrder": 46,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 9919,
@@ -125242,46 +125083,46 @@
                 "aggregatedLoser": 6236
               },
               {
-                "homeTeamId": 91781,
-                "awayTeamId": 6123,
-                "drawOrder": 53,
+                "homeTeamId": 8183,
+                "awayTeamId": 8292,
+                "drawOrder": 47,
                 "stage": "1",
                 "bestOf": 0,
-                "winner": 91781,
-                "homeScore": 3,
-                "awayScore": 2,
-                "homeTeam": "Madla",
-                "awayTeam": "Vidar",
-                "homeTeamShortName": "MAD",
-                "awayTeamShortName": "VID",
+                "winner": 8292,
+                "homeScore": 2,
+                "awayScore": 7,
+                "homeTeam": "Gjøvik-Lyn",
+                "awayTeam": "Eidsvold TF",
+                "homeTeamShortName": "G-L",
+                "awayTeamShortName": "EID",
                 "tbdTeam1": false,
                 "tbdTeam2": false,
                 "matches": [
                   {
-                    "matchId": 5835907,
+                    "matchId": 5835877,
                     "home": {
-                      "id": 91781,
-                      "name": "Madla",
-                      "shortName": "MAD",
-                      "score": 3,
-                      "winner": true
-                    },
-                    "away": {
-                      "id": 6123,
-                      "name": "Vidar",
-                      "shortName": "VID",
+                      "id": 8183,
+                      "name": "Gjøvik-Lyn",
+                      "shortName": "G-L",
                       "score": 2,
                       "winner": false
                     },
-                    "pageUrl": "/matches/vidar-vs-madla/279gzst#5835907",
+                    "away": {
+                      "id": 8292,
+                      "name": "Eidsvold TF",
+                      "shortName": "EID",
+                      "score": 7,
+                      "winner": true
+                    },
+                    "pageUrl": "/matches/gjovik-lyn-vs-eidsvold-tf/28t5fi#5835877",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-22T14:00:00.000Z",
                       "timezone": "UTC",
                       "finished": true,
                       "started": true,
                       "cancelled": false,
                       "awarded": false,
-                      "scoreStr": "3 - 2",
+                      "scoreStr": "2 - 7",
                       "reason": {
                         "short": "AET",
                         "shortKey": "afterextratime_short",
@@ -125292,53 +125133,110 @@
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 3,
-                  "awayScore": 2
+                  "homeScore": 2,
+                  "awayScore": 7
                 },
-                "aggregatedWinner": 91781,
-                "aggregatedLoser": 6123
+                "aggregatedWinner": 8292,
+                "aggregatedLoser": 8183
               },
               {
-                "homeTeamId": 119139,
-                "awayTeamId": 8478,
-                "drawOrder": 54,
+                "homeTeamId": 1609446,
+                "awayTeamId": 8179,
+                "drawOrder": 48,
                 "stage": "1",
                 "bestOf": 0,
-                "winner": 8478,
-                "homeScore": 1,
-                "awayScore": 3,
-                "homeTeam": "Brodd",
-                "awayTeam": "Viking",
-                "homeTeamShortName": "BRO",
-                "awayTeamShortName": "VIK",
+                "winner": 8179,
+                "homeScore": 2,
+                "awayScore": 14,
+                "homeTeam": "Skreia",
+                "awayTeam": "Kongsvinger",
+                "homeTeamShortName": "SKR",
+                "awayTeamShortName": "KIL",
                 "tbdTeam1": false,
                 "tbdTeam2": false,
                 "matches": [
                   {
-                    "matchId": 5835906,
+                    "matchId": 5835773,
                     "home": {
-                      "id": 119139,
-                      "name": "Brodd",
-                      "shortName": "BRO",
-                      "score": 1,
+                      "id": 1609446,
+                      "name": "Skreia",
+                      "shortName": "SKR",
+                      "score": 2,
                       "winner": false
                     },
                     "away": {
-                      "id": 8478,
-                      "name": "Viking",
-                      "shortName": "VIK",
-                      "score": 3,
+                      "id": 8179,
+                      "name": "Kongsvinger",
+                      "shortName": "KIL",
+                      "score": 14,
                       "winner": true
                     },
-                    "pageUrl": "/matches/viking-vs-brodd/3qo7cv3#5835906",
+                    "pageUrl": "/matches/kongsvinger-vs-skreia/gp1tgok8#5835773",
                     "status": {
-                      "utcTime": "2026-09-02T14:00:00.000Z",
+                      "utcTime": "2026-08-22T12:00:00.000Z",
                       "timezone": "UTC",
                       "finished": true,
                       "started": true,
                       "cancelled": false,
                       "awarded": false,
-                      "scoreStr": "1 - 3",
+                      "scoreStr": "2 - 14",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 2,
+                  "awayScore": 14
+                },
+                "aggregatedWinner": 8179,
+                "aggregatedLoser": 1609446
+              },
+              {
+                "homeTeamId": 8125,
+                "awayTeamId": 8421,
+                "drawOrder": 49,
+                "stage": "1",
+                "bestOf": 0,
+                "winner": 8421,
+                "homeScore": 1,
+                "awayScore": 4,
+                "homeTeam": "Nordstrand",
+                "awayTeam": "Skeid",
+                "homeTeamShortName": "NOR",
+                "awayTeamShortName": "SKE",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 5835778,
+                    "home": {
+                      "id": 8125,
+                      "name": "Nordstrand",
+                      "shortName": "NOR",
+                      "score": 1,
+                      "winner": false
+                    },
+                    "away": {
+                      "id": 8421,
+                      "name": "Skeid",
+                      "shortName": "SKE",
+                      "score": 4,
+                      "winner": true
+                    },
+                    "pageUrl": "/matches/nordstrand-vs-skeid/29ia2g#5835778",
+                    "status": {
+                      "utcTime": "2026-08-22T10:00:00.000Z",
+                      "timezone": "UTC",
+                      "finished": true,
+                      "started": true,
+                      "cancelled": false,
+                      "awarded": false,
+                      "scoreStr": "1 - 4",
                       "reason": {
                         "short": "FT",
                         "shortKey": "fulltime_short",
@@ -125350,52 +125248,52 @@
                 ],
                 "aggregatedResult": {
                   "homeScore": 1,
-                  "awayScore": 3
+                  "awayScore": 4
                 },
-                "aggregatedWinner": 8478,
-                "aggregatedLoser": 119139
+                "aggregatedWinner": 8421,
+                "aggregatedLoser": 8125
               },
               {
-                "homeTeamId": 8137,
-                "awayTeamId": 6541,
-                "drawOrder": 55,
+                "homeTeamId": 1004504,
+                "awayTeamId": 8007,
+                "drawOrder": 50,
                 "stage": "1",
                 "bestOf": 0,
-                "winner": 8137,
-                "homeScore": 4,
-                "awayScore": 0,
-                "homeTeam": "Bærum",
-                "awayTeam": "Mjøndalen",
-                "homeTeamShortName": "BAE",
-                "awayTeamShortName": "MJØ",
+                "winner": 8007,
+                "homeScore": 2,
+                "awayScore": 7,
+                "homeTeam": "Christiania Ballklubb",
+                "awayTeam": "Vålerenga",
+                "homeTeamShortName": "CBA",
+                "awayTeamShortName": "VIF",
                 "tbdTeam1": false,
                 "tbdTeam2": false,
                 "matches": [
                   {
-                    "matchId": 5835777,
+                    "matchId": 5835882,
                     "home": {
-                      "id": 8137,
-                      "name": "Bærum",
-                      "shortName": "BAE",
-                      "score": 4,
-                      "winner": true
-                    },
-                    "away": {
-                      "id": 6541,
-                      "name": "Mjøndalen",
-                      "shortName": "MJØ",
-                      "score": 0,
+                      "id": 1004504,
+                      "name": "Christiania Ballklubb",
+                      "shortName": "CBA",
+                      "score": 2,
                       "winner": false
                     },
-                    "pageUrl": "/matches/mjondalen-vs-baerum/1s56na#5835777",
+                    "away": {
+                      "id": 8007,
+                      "name": "Vålerenga",
+                      "shortName": "VIF",
+                      "score": 7,
+                      "winner": true
+                    },
+                    "pageUrl": "/matches/valerenga-vs-christiania-ballklubb/6jhapv3r#5835882",
                     "status": {
-                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "utcTime": "2026-08-23T11:00:00.000Z",
                       "timezone": "UTC",
                       "finished": true,
                       "started": true,
                       "cancelled": false,
                       "awarded": false,
-                      "scoreStr": "4 - 0",
+                      "scoreStr": "2 - 7",
                       "reason": {
                         "short": "FT",
                         "shortKey": "fulltime_short",
@@ -125406,73 +125304,16 @@
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 4,
-                  "awayScore": 0
+                  "homeScore": 2,
+                  "awayScore": 7
                 },
-                "aggregatedWinner": 8137,
-                "aggregatedLoser": 6541
-              },
-              {
-                "homeTeamId": 2290,
-                "awayTeamId": 8476,
-                "drawOrder": 56,
-                "stage": "1",
-                "bestOf": 0,
-                "winner": 8476,
-                "homeScore": 0,
-                "awayScore": 3,
-                "homeTeam": "Aurskog Finstadbru",
-                "awayTeam": "Lillestrøm",
-                "homeTeamShortName": "AUR",
-                "awayTeamShortName": "LIL",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 5835873,
-                    "home": {
-                      "id": 2290,
-                      "name": "Aurskog Finstadbru",
-                      "shortName": "AUR",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8476,
-                      "name": "Lillestrøm",
-                      "shortName": "LIL",
-                      "score": 3,
-                      "winner": true
-                    },
-                    "pageUrl": "/matches/aurskog-finstadbru-vs-lillestrom/yift1#5835873",
-                    "status": {
-                      "utcTime": "2026-09-02T14:00:00.000Z",
-                      "timezone": "UTC",
-                      "finished": true,
-                      "started": true,
-                      "cancelled": false,
-                      "awarded": false,
-                      "scoreStr": "0 - 3",
-                      "reason": {
-                        "short": "FT",
-                        "shortKey": "fulltime_short",
-                        "long": "Full-Time",
-                        "longKey": "finished"
-                      }
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 3
-                },
-                "aggregatedWinner": 8476,
-                "aggregatedLoser": 2290
+                "aggregatedWinner": 8007,
+                "aggregatedLoser": 1004504
               },
               {
                 "homeTeamId": 428157,
                 "awayTeamId": 4201,
-                "drawOrder": 57,
+                "drawOrder": 51,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 4201,
@@ -125529,7 +125370,7 @@
               {
                 "homeTeamId": 8077,
                 "awayTeamId": 8405,
-                "drawOrder": 58,
+                "drawOrder": 52,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 8405,
@@ -125586,7 +125427,7 @@
               {
                 "homeTeamId": 1899,
                 "awayTeamId": 8067,
-                "drawOrder": 59,
+                "drawOrder": 53,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 8067,
@@ -125643,7 +125484,7 @@
               {
                 "homeTeamId": 608816,
                 "awayTeamId": 2305,
-                "drawOrder": 60,
+                "drawOrder": 54,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 2305,
@@ -125700,7 +125541,7 @@
               {
                 "homeTeamId": 6110,
                 "awayTeamId": 7963,
-                "drawOrder": 61,
+                "drawOrder": 55,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 7963,
@@ -125757,7 +125598,7 @@
               {
                 "homeTeamId": 423819,
                 "awayTeamId": 8509,
-                "drawOrder": 62,
+                "drawOrder": 56,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 8509,
@@ -125812,9 +125653,123 @@
                 "aggregatedLoser": 423819
               },
               {
+                "homeTeamId": 2297,
+                "awayTeamId": 10016,
+                "drawOrder": 57,
+                "stage": "1",
+                "bestOf": 0,
+                "winner": 2297,
+                "homeScore": 2,
+                "awayScore": 0,
+                "homeTeam": "Flint",
+                "awayTeam": "Ørn Horten",
+                "homeTeamShortName": "FLI",
+                "awayTeamShortName": "ORN",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 5835881,
+                    "home": {
+                      "id": 2297,
+                      "name": "Flint",
+                      "shortName": "FLI",
+                      "score": 2,
+                      "winner": true
+                    },
+                    "away": {
+                      "id": 10016,
+                      "name": "Ørn Horten",
+                      "shortName": "ORN",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "pageUrl": "/matches/flint-vs-orn-horten/194y0u#5835881",
+                    "status": {
+                      "utcTime": "2026-08-23T13:00:00.000Z",
+                      "timezone": "UTC",
+                      "finished": true,
+                      "started": true,
+                      "cancelled": false,
+                      "awarded": false,
+                      "scoreStr": "2 - 0",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 2,
+                  "awayScore": 0
+                },
+                "aggregatedWinner": 2297,
+                "aggregatedLoser": 10016
+              },
+              {
+                "homeTeamId": 1609448,
+                "awayTeamId": 8609,
+                "drawOrder": 58,
+                "stage": "1",
+                "bestOf": 0,
+                "winner": 8609,
+                "homeScore": 0,
+                "awayScore": 15,
+                "homeTeam": "Eidanger",
+                "awayTeam": "Sandefjord",
+                "homeTeamShortName": "EID",
+                "awayTeamShortName": "SAN",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 5835879,
+                    "home": {
+                      "id": 1609448,
+                      "name": "Eidanger",
+                      "shortName": "EID",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "away": {
+                      "id": 8609,
+                      "name": "Sandefjord",
+                      "shortName": "SAN",
+                      "score": 15,
+                      "winner": true
+                    },
+                    "pageUrl": "/matches/sandefjord-vs-eidanger/gpddkpe6#5835879",
+                    "status": {
+                      "utcTime": "2026-08-23T12:00:00.000Z",
+                      "timezone": "UTC",
+                      "finished": true,
+                      "started": true,
+                      "cancelled": false,
+                      "awarded": false,
+                      "scoreStr": "0 - 15",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 0,
+                  "awayScore": 15
+                },
+                "aggregatedWinner": 8609,
+                "aggregatedLoser": 1609448
+              },
+              {
                 "homeTeamId": 2319,
                 "awayTeamId": 1004501,
-                "drawOrder": 63,
+                "drawOrder": 59,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 1004501,
@@ -125871,7 +125826,7 @@
               {
                 "homeTeamId": 4325,
                 "awayTeamId": 8402,
-                "drawOrder": 64,
+                "drawOrder": 60,
                 "stage": "1",
                 "bestOf": 0,
                 "winner": 8402,
@@ -125924,6 +125879,234 @@
                 },
                 "aggregatedWinner": 8402,
                 "aggregatedLoser": 4325
+              },
+              {
+                "homeTeamId": 91781,
+                "awayTeamId": 6123,
+                "drawOrder": 61,
+                "stage": "1",
+                "bestOf": 0,
+                "winner": 91781,
+                "homeScore": 3,
+                "awayScore": 2,
+                "homeTeam": "Madla",
+                "awayTeam": "Vidar",
+                "homeTeamShortName": "MAD",
+                "awayTeamShortName": "VID",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 5835907,
+                    "home": {
+                      "id": 91781,
+                      "name": "Madla",
+                      "shortName": "MAD",
+                      "score": 3,
+                      "winner": true
+                    },
+                    "away": {
+                      "id": 6123,
+                      "name": "Vidar",
+                      "shortName": "VID",
+                      "score": 2,
+                      "winner": false
+                    },
+                    "pageUrl": "/matches/vidar-vs-madla/279gzst#5835907",
+                    "status": {
+                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "timezone": "UTC",
+                      "finished": true,
+                      "started": true,
+                      "cancelled": false,
+                      "awarded": false,
+                      "scoreStr": "3 - 2",
+                      "reason": {
+                        "short": "AET",
+                        "shortKey": "afterextratime_short",
+                        "long": "After extra time",
+                        "longKey": "afterextra"
+                      }
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 3,
+                  "awayScore": 2
+                },
+                "aggregatedWinner": 91781,
+                "aggregatedLoser": 6123
+              },
+              {
+                "homeTeamId": 119139,
+                "awayTeamId": 8478,
+                "drawOrder": 62,
+                "stage": "1",
+                "bestOf": 0,
+                "winner": 8478,
+                "homeScore": 1,
+                "awayScore": 3,
+                "homeTeam": "Brodd",
+                "awayTeam": "Viking",
+                "homeTeamShortName": "BRO",
+                "awayTeamShortName": "VIK",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 5835906,
+                    "home": {
+                      "id": 119139,
+                      "name": "Brodd",
+                      "shortName": "BRO",
+                      "score": 1,
+                      "winner": false
+                    },
+                    "away": {
+                      "id": 8478,
+                      "name": "Viking",
+                      "shortName": "VIK",
+                      "score": 3,
+                      "winner": true
+                    },
+                    "pageUrl": "/matches/viking-vs-brodd/3qo7cv3#5835906",
+                    "status": {
+                      "utcTime": "2026-09-02T14:00:00.000Z",
+                      "timezone": "UTC",
+                      "finished": true,
+                      "started": true,
+                      "cancelled": false,
+                      "awarded": false,
+                      "scoreStr": "1 - 3",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 1,
+                  "awayScore": 3
+                },
+                "aggregatedWinner": 8478,
+                "aggregatedLoser": 119139
+              },
+              {
+                "homeTeamId": 8137,
+                "awayTeamId": 6541,
+                "drawOrder": 63,
+                "stage": "1",
+                "bestOf": 0,
+                "winner": 8137,
+                "homeScore": 4,
+                "awayScore": 0,
+                "homeTeam": "Bærum",
+                "awayTeam": "Mjøndalen",
+                "homeTeamShortName": "BAE",
+                "awayTeamShortName": "MJØ",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 5835777,
+                    "home": {
+                      "id": 8137,
+                      "name": "Bærum",
+                      "shortName": "BAE",
+                      "score": 4,
+                      "winner": true
+                    },
+                    "away": {
+                      "id": 6541,
+                      "name": "Mjøndalen",
+                      "shortName": "MJØ",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "pageUrl": "/matches/mjondalen-vs-baerum/1s56na#5835777",
+                    "status": {
+                      "utcTime": "2026-08-22T12:00:00.000Z",
+                      "timezone": "UTC",
+                      "finished": true,
+                      "started": true,
+                      "cancelled": false,
+                      "awarded": false,
+                      "scoreStr": "4 - 0",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 4,
+                  "awayScore": 0
+                },
+                "aggregatedWinner": 8137,
+                "aggregatedLoser": 6541
+              },
+              {
+                "homeTeamId": 2290,
+                "awayTeamId": 8476,
+                "drawOrder": 64,
+                "stage": "1",
+                "bestOf": 0,
+                "winner": 8476,
+                "homeScore": 0,
+                "awayScore": 3,
+                "homeTeam": "Aurskog Finstadbru",
+                "awayTeam": "Lillestrøm",
+                "homeTeamShortName": "AUR",
+                "awayTeamShortName": "LIL",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 5835873,
+                    "home": {
+                      "id": 2290,
+                      "name": "Aurskog Finstadbru",
+                      "shortName": "AUR",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "away": {
+                      "id": 8476,
+                      "name": "Lillestrøm",
+                      "shortName": "LIL",
+                      "score": 3,
+                      "winner": true
+                    },
+                    "pageUrl": "/matches/aurskog-finstadbru-vs-lillestrom/yift1#5835873",
+                    "status": {
+                      "utcTime": "2026-09-02T14:00:00.000Z",
+                      "timezone": "UTC",
+                      "finished": true,
+                      "started": true,
+                      "cancelled": false,
+                      "awarded": false,
+                      "scoreStr": "0 - 3",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 0,
+                  "awayScore": 3
+                },
+                "aggregatedWinner": 8476,
+                "aggregatedLoser": 2290
               }
             ],
             "started": true
@@ -125938,6 +126121,8 @@
                 "drawOrder": 1,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Tromsdalen",
                 "awayTeam": "Strømmen",
                 "homeTeamShortName": "TRO",
@@ -125965,9 +126150,20 @@
                     "status": {
                       "utcTime": "2026-09-08T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -125984,6 +126180,8 @@
                 "drawOrder": 2,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Djerv 1919",
                 "awayTeam": "FK Haugesund",
                 "homeTeamShortName": "DJE",
@@ -126011,9 +126209,20 @@
                     "status": {
                       "utcTime": "2026-09-08T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -126807,101 +127016,9 @@
                 "aggregatedLoser": null
               },
               {
-                "homeTeamId": 8292,
-                "awayTeamId": 8179,
-                "drawOrder": 20,
-                "stage": "2",
-                "bestOf": 0,
-                "homeTeam": "Eidsvold TF",
-                "awayTeam": "Kongsvinger",
-                "homeTeamShortName": "EID",
-                "awayTeamShortName": "KIL",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 6144867,
-                    "home": {
-                      "id": 8292,
-                      "name": "Eidsvold TF",
-                      "shortName": "EID",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8179,
-                      "name": "Kongsvinger",
-                      "shortName": "KIL",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "pageUrl": "/matches/kongsvinger-vs-eidsvold-tf/28rql4#6144867",
-                    "status": {
-                      "utcTime": "2026-09-16T15:00:00.000Z",
-                      "timezone": "UTC",
-                      "started": false,
-                      "cancelled": false,
-                      "finished": false
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
-                },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
-              },
-              {
-                "homeTeamId": 8421,
-                "awayTeamId": 8007,
-                "drawOrder": 21,
-                "stage": "2",
-                "bestOf": 0,
-                "homeTeam": "Skeid",
-                "awayTeam": "Vålerenga",
-                "homeTeamShortName": "SKE",
-                "awayTeamShortName": "VIF",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 6144868,
-                    "home": {
-                      "id": 8421,
-                      "name": "Skeid",
-                      "shortName": "SKE",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8007,
-                      "name": "Vålerenga",
-                      "shortName": "VIF",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "pageUrl": "/matches/valerenga-vs-skeid/28ckw3#6144868",
-                    "status": {
-                      "utcTime": "2026-09-17T14:00:00.000Z",
-                      "timezone": "UTC",
-                      "started": false,
-                      "cancelled": false,
-                      "finished": false
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
-                },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
-              },
-              {
                 "homeTeamId": 6560,
                 "awayTeamId": 8448,
-                "drawOrder": 22,
+                "drawOrder": 20,
                 "stage": "2",
                 "bestOf": 0,
                 "homeTeam": "Kjelsås",
@@ -126945,55 +127062,9 @@
                 "aggregatedLoser": null
               },
               {
-                "homeTeamId": 2297,
-                "awayTeamId": 8609,
-                "drawOrder": 23,
-                "stage": "2",
-                "bestOf": 0,
-                "homeTeam": "Flint",
-                "awayTeam": "Sandefjord",
-                "homeTeamShortName": "FLI",
-                "awayTeamShortName": "SAN",
-                "tbdTeam1": false,
-                "tbdTeam2": false,
-                "matches": [
-                  {
-                    "matchId": 6144881,
-                    "home": {
-                      "id": 2297,
-                      "name": "Flint",
-                      "shortName": "FLI",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "away": {
-                      "id": 8609,
-                      "name": "Sandefjord",
-                      "shortName": "SAN",
-                      "score": 0,
-                      "winner": false
-                    },
-                    "pageUrl": "/matches/flint-vs-sandefjord/zeyio#6144881",
-                    "status": {
-                      "utcTime": "2026-09-30T14:00:00.000Z",
-                      "timezone": "UTC",
-                      "started": false,
-                      "cancelled": false,
-                      "finished": false
-                    }
-                  }
-                ],
-                "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
-                },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
-              },
-              {
                 "homeTeamId": 1352625,
                 "awayTeamId": 10224,
-                "drawOrder": 24,
+                "drawOrder": 21,
                 "stage": "2",
                 "bestOf": 0,
                 "homeTeam": "Gamle Oslo",
@@ -127039,7 +127110,7 @@
               {
                 "homeTeamId": 2313,
                 "awayTeamId": 8468,
-                "drawOrder": 25,
+                "drawOrder": 22,
                 "stage": "2",
                 "bestOf": 0,
                 "homeTeam": "Os",
@@ -127085,7 +127156,7 @@
               {
                 "homeTeamId": 4289,
                 "awayTeamId": 9919,
-                "drawOrder": 26,
+                "drawOrder": 23,
                 "stage": "2",
                 "bestOf": 0,
                 "homeTeam": "Vindbjart",
@@ -127129,37 +127200,37 @@
                 "aggregatedLoser": null
               },
               {
-                "homeTeamId": 91781,
-                "awayTeamId": 8478,
-                "drawOrder": 27,
+                "homeTeamId": 8292,
+                "awayTeamId": 8179,
+                "drawOrder": 24,
                 "stage": "2",
                 "bestOf": 0,
-                "homeTeam": "Madla",
-                "awayTeam": "Viking",
-                "homeTeamShortName": "MAD",
-                "awayTeamShortName": "VIK",
+                "homeTeam": "Eidsvold TF",
+                "awayTeam": "Kongsvinger",
+                "homeTeamShortName": "EID",
+                "awayTeamShortName": "KIL",
                 "tbdTeam1": false,
                 "tbdTeam2": false,
                 "matches": [
                   {
-                    "matchId": 6146352,
+                    "matchId": 6144867,
                     "home": {
-                      "id": 91781,
-                      "name": "Madla",
-                      "shortName": "MAD",
+                      "id": 8292,
+                      "name": "Eidsvold TF",
+                      "shortName": "EID",
                       "score": 0,
                       "winner": false
                     },
                     "away": {
-                      "id": 8478,
-                      "name": "Viking",
-                      "shortName": "VIK",
+                      "id": 8179,
+                      "name": "Kongsvinger",
+                      "shortName": "KIL",
                       "score": 0,
                       "winner": false
                     },
-                    "pageUrl": "/matches/viking-vs-madla/2b4e8mz#6146352",
+                    "pageUrl": "/matches/kongsvinger-vs-eidsvold-tf/28rql4#6144867",
                     "status": {
-                      "utcTime": "2026-10-01T14:00:00.000Z",
+                      "utcTime": "2026-09-16T15:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -127175,37 +127246,37 @@
                 "aggregatedLoser": null
               },
               {
-                "homeTeamId": 8137,
-                "awayTeamId": 8476,
-                "drawOrder": 28,
+                "homeTeamId": 8421,
+                "awayTeamId": 8007,
+                "drawOrder": 25,
                 "stage": "2",
                 "bestOf": 0,
-                "homeTeam": "Bærum",
-                "awayTeam": "Lillestrøm",
-                "homeTeamShortName": "BAE",
-                "awayTeamShortName": "LIL",
+                "homeTeam": "Skeid",
+                "awayTeam": "Vålerenga",
+                "homeTeamShortName": "SKE",
+                "awayTeamShortName": "VIF",
                 "tbdTeam1": false,
                 "tbdTeam2": false,
                 "matches": [
                   {
-                    "matchId": 6146353,
+                    "matchId": 6144868,
                     "home": {
-                      "id": 8137,
-                      "name": "Bærum",
-                      "shortName": "BAE",
+                      "id": 8421,
+                      "name": "Skeid",
+                      "shortName": "SKE",
                       "score": 0,
                       "winner": false
                     },
                     "away": {
-                      "id": 8476,
-                      "name": "Lillestrøm",
-                      "shortName": "LIL",
+                      "id": 8007,
+                      "name": "Vålerenga",
+                      "shortName": "VIF",
                       "score": 0,
                       "winner": false
                     },
-                    "pageUrl": "/matches/baerum-vs-lillestrom/2a6397#6146353",
+                    "pageUrl": "/matches/valerenga-vs-skeid/28ckw3#6144868",
                     "status": {
-                      "utcTime": "2026-10-01T14:00:00.000Z",
+                      "utcTime": "2026-09-17T14:00:00.000Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -127223,7 +127294,7 @@
               {
                 "homeTeamId": 4201,
                 "awayTeamId": 8405,
-                "drawOrder": 29,
+                "drawOrder": 26,
                 "stage": "2",
                 "bestOf": 0,
                 "homeTeam": "Grorud",
@@ -127269,7 +127340,7 @@
               {
                 "homeTeamId": 8067,
                 "awayTeamId": 2305,
-                "drawOrder": 30,
+                "drawOrder": 27,
                 "stage": "2",
                 "bestOf": 0,
                 "homeTeam": "Hønefoss",
@@ -127315,7 +127386,7 @@
               {
                 "homeTeamId": 7963,
                 "awayTeamId": 8509,
-                "drawOrder": 31,
+                "drawOrder": 28,
                 "stage": "2",
                 "bestOf": 0,
                 "homeTeam": "Follo",
@@ -127359,9 +127430,55 @@
                 "aggregatedLoser": null
               },
               {
+                "homeTeamId": 2297,
+                "awayTeamId": 8609,
+                "drawOrder": 29,
+                "stage": "2",
+                "bestOf": 0,
+                "homeTeam": "Flint",
+                "awayTeam": "Sandefjord",
+                "homeTeamShortName": "FLI",
+                "awayTeamShortName": "SAN",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 6144881,
+                    "home": {
+                      "id": 2297,
+                      "name": "Flint",
+                      "shortName": "FLI",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "away": {
+                      "id": 8609,
+                      "name": "Sandefjord",
+                      "shortName": "SAN",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "pageUrl": "/matches/flint-vs-sandefjord/zeyio#6144881",
+                    "status": {
+                      "utcTime": "2026-09-30T14:00:00.000Z",
+                      "timezone": "UTC",
+                      "started": false,
+                      "cancelled": false,
+                      "finished": false
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 0,
+                  "awayScore": 0
+                },
+                "aggregatedWinner": null,
+                "aggregatedLoser": null
+              },
+              {
                 "homeTeamId": 1004501,
                 "awayTeamId": 8402,
-                "drawOrder": 32,
+                "drawOrder": 30,
                 "stage": "2",
                 "bestOf": 0,
                 "homeTeam": "Rana FK",
@@ -127403,9 +127520,101 @@
                 },
                 "aggregatedWinner": null,
                 "aggregatedLoser": null
+              },
+              {
+                "homeTeamId": 91781,
+                "awayTeamId": 8478,
+                "drawOrder": 31,
+                "stage": "2",
+                "bestOf": 0,
+                "homeTeam": "Madla",
+                "awayTeam": "Viking",
+                "homeTeamShortName": "MAD",
+                "awayTeamShortName": "VIK",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 6146352,
+                    "home": {
+                      "id": 91781,
+                      "name": "Madla",
+                      "shortName": "MAD",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "away": {
+                      "id": 8478,
+                      "name": "Viking",
+                      "shortName": "VIK",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "pageUrl": "/matches/viking-vs-madla/2b4e8mz#6146352",
+                    "status": {
+                      "utcTime": "2026-10-01T14:00:00.000Z",
+                      "timezone": "UTC",
+                      "started": false,
+                      "cancelled": false,
+                      "finished": false
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 0,
+                  "awayScore": 0
+                },
+                "aggregatedWinner": null,
+                "aggregatedLoser": null
+              },
+              {
+                "homeTeamId": 8137,
+                "awayTeamId": 8476,
+                "drawOrder": 32,
+                "stage": "2",
+                "bestOf": 0,
+                "homeTeam": "Bærum",
+                "awayTeam": "Lillestrøm",
+                "homeTeamShortName": "BAE",
+                "awayTeamShortName": "LIL",
+                "tbdTeam1": false,
+                "tbdTeam2": false,
+                "matches": [
+                  {
+                    "matchId": 6146353,
+                    "home": {
+                      "id": 8137,
+                      "name": "Bærum",
+                      "shortName": "BAE",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "away": {
+                      "id": 8476,
+                      "name": "Lillestrøm",
+                      "shortName": "LIL",
+                      "score": 0,
+                      "winner": false
+                    },
+                    "pageUrl": "/matches/baerum-vs-lillestrom/2a6397#6146353",
+                    "status": {
+                      "utcTime": "2026-10-01T14:00:00.000Z",
+                      "timezone": "UTC",
+                      "started": false,
+                      "cancelled": false,
+                      "finished": false
+                    }
+                  }
+                ],
+                "aggregatedResult": {
+                  "homeScore": 0,
+                  "awayScore": 0
+                },
+                "aggregatedWinner": null,
+                "aggregatedLoser": null
               }
             ],
-            "started": false
+            "started": true
           }
         ],
         "hasDrawOrder": true,
@@ -131112,6 +131321,7 @@
         "own_half_passes": "Own half",
         "roundof32": "Round of 32",
         "transfer_value": "Transfer value",
+        "squad_value": "Squad value",
         "highest": "Highest",
         "estimated_transfer_value_description": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\n\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\n\n• player performance and development\n• age and future potential\n• how often and at what level they play\n• position\n• team and league strength\n• remaining contract length\n\nETV focuses on the player themselves, not rumours or which club might buy them.\n\nThe value is updated regularly to reflect changes over time.",
         "estimated_transfer_value": "Estimated transfer value",
