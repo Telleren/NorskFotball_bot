@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:30:44.919108+00:00",
+  "generated_at": "2026-09-11T16:35:37.236764+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -83424,7 +83424,23 @@
                 ]
               }
             ],
-            "ongoing": [],
+            "ongoing": [
+              {
+                "id": 5105412,
+                "hTeam": "Røa",
+                "aTeam": "Vålerenga",
+                "hScore": 2,
+                "aScore": 1,
+                "hId": 4485,
+                "aId": 4507,
+                "stage": "15",
+                "time": "11.09.2026 18:00",
+                "status": "S",
+                "sId": 2,
+                "gs": "11.09.2026 18:00:51",
+                "extId": "ls_0"
+              }
+            ],
             "table": {
               "all": [
                 {
@@ -83433,7 +83449,6 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 12,
                   "draws": 2,
@@ -83450,7 +83465,6 @@
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 11,
                   "draws": 1,
@@ -83467,7 +83481,6 @@
                   "id": 4484,
                   "pageUrl": "/teams/4484/overview/rosenborg-bk",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 9,
                   "draws": 3,
@@ -83484,13 +83497,27 @@
                   "id": 4507,
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 14,
+                  "ongoing": {
+                    "id": 5105412,
+                    "hTeam": "Røa",
+                    "aTeam": "Vålerenga",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4507,
+                    "stage": "15",
+                    "time": "11.09.2026 18:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "11.09.2026 18:00:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 15,
                   "wins": 8,
                   "draws": 1,
-                  "losses": 5,
-                  "scoresStr": "33-20",
-                  "goalConDiff": 13,
+                  "losses": 6,
+                  "scoresStr": "34-22",
+                  "goalConDiff": 12,
                   "pts": 25,
                   "idx": 4,
                   "qualColor": null
@@ -83501,7 +83528,6 @@
                   "id": 92171,
                   "pageUrl": "/teams/92171/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 6,
                   "draws": 3,
@@ -83518,7 +83544,6 @@
                   "id": 429438,
                   "pageUrl": "/teams/429438/overview/lyn-fotball",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 5,
                   "draws": 4,
@@ -83535,7 +83560,6 @@
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 5,
                   "draws": 3,
@@ -83552,7 +83576,6 @@
                   "id": 4486,
                   "pageUrl": "/teams/4486/overview/lsk-kvinner",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 4,
                   "draws": 3,
@@ -83569,7 +83592,6 @@
                   "id": 169297,
                   "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 4,
                   "draws": 3,
@@ -83586,14 +83608,28 @@
                   "id": 4485,
                   "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 14,
-                  "wins": 2,
+                  "ongoing": {
+                    "id": 5105412,
+                    "hTeam": "Røa",
+                    "aTeam": "Vålerenga",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4507,
+                    "stage": "15",
+                    "time": "11.09.2026 18:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "11.09.2026 18:00:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 15,
+                  "wins": 3,
                   "draws": 4,
                   "losses": 8,
-                  "scoresStr": "12-28",
-                  "goalConDiff": -16,
-                  "pts": 10,
+                  "scoresStr": "14-29",
+                  "goalConDiff": -15,
+                  "pts": 13,
                   "idx": 10,
                   "qualColor": "#FFA72F"
                 },
@@ -83603,7 +83639,6 @@
                   "id": 920414,
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 2,
                   "draws": 2,
@@ -83620,7 +83655,6 @@
                   "id": 1599447,
                   "pageUrl": "/teams/1599447/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 0,
                   "draws": 3,
@@ -83639,7 +83673,6 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 5,
                   "draws": 2,
@@ -83657,7 +83690,6 @@
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 5,
                   "draws": 1,
@@ -83675,7 +83707,6 @@
                   "id": 4484,
                   "pageUrl": "/teams/4484/overview/rosenborg-bk",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 5,
                   "draws": 1,
@@ -83693,7 +83724,21 @@
                   "id": 4507,
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105412,
+                    "hTeam": "Røa",
+                    "aTeam": "Vålerenga",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4507,
+                    "stage": "15",
+                    "time": "11.09.2026 18:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "11.09.2026 18:00:51",
+                    "extId": "ls_0"
+                  },
                   "played": 8,
                   "wins": 5,
                   "draws": 0,
@@ -83711,7 +83756,6 @@
                   "id": 92171,
                   "pageUrl": "/teams/92171/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 3,
                   "draws": 1,
@@ -83729,7 +83773,6 @@
                   "id": 169297,
                   "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 3,
                   "draws": 1,
@@ -83747,7 +83790,6 @@
                   "id": 429438,
                   "pageUrl": "/teams/429438/overview/lyn-fotball",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 2,
                   "draws": 3,
@@ -83765,7 +83807,6 @@
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 2,
                   "draws": 2,
@@ -83783,7 +83824,6 @@
                   "id": 4486,
                   "pageUrl": "/teams/4486/overview/lsk-kvinner",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 2,
                   "draws": 1,
@@ -83796,12 +83836,43 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Røa",
+                  "shortName": "Røa",
+                  "id": 4485,
+                  "pageUrl": "/teams/4485/overview/roa",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105412,
+                    "hTeam": "Røa",
+                    "aTeam": "Vålerenga",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4507,
+                    "stage": "15",
+                    "time": "11.09.2026 18:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "11.09.2026 18:00:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 8,
+                  "wins": 1,
+                  "draws": 3,
+                  "losses": 4,
+                  "scoresStr": "8-13",
+                  "goalConDiff": -5,
+                  "goalsScored": 8,
+                  "pts": 6,
+                  "idx": 10,
+                  "qualColor": "#FFA72F"
+                },
+                {
                   "name": "Hønefoss",
                   "shortName": "Hønefoss",
                   "id": 920414,
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 2,
                   "draws": 0,
@@ -83810,24 +83881,6 @@
                   "goalConDiff": -6,
                   "goalsScored": 7,
                   "pts": 6,
-                  "idx": 10,
-                  "qualColor": "#FFA72F"
-                },
-                {
-                  "name": "Røa",
-                  "shortName": "Røa",
-                  "id": 4485,
-                  "pageUrl": "/teams/4485/overview/roa",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 7,
-                  "wins": 0,
-                  "draws": 3,
-                  "losses": 4,
-                  "scoresStr": "6-12",
-                  "goalConDiff": -6,
-                  "goalsScored": 6,
-                  "pts": 3,
                   "idx": 11,
                   "qualColor": "#FF4646"
                 },
@@ -83837,7 +83890,6 @@
                   "id": 1599447,
                   "pageUrl": "/teams/1599447/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 0,
                   "draws": 1,
@@ -83857,7 +83909,6 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 7,
                   "draws": 0,
@@ -83875,7 +83926,6 @@
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 6,
                   "draws": 0,
@@ -83893,7 +83943,6 @@
                   "id": 4484,
                   "pageUrl": "/teams/4484/overview/rosenborg-bk",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 4,
                   "draws": 2,
@@ -83911,7 +83960,6 @@
                   "id": 92171,
                   "pageUrl": "/teams/92171/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 3,
                   "draws": 2,
@@ -83929,14 +83977,28 @@
                   "id": 4507,
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 6,
+                  "ongoing": {
+                    "id": 5105412,
+                    "hTeam": "Røa",
+                    "aTeam": "Vålerenga",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4507,
+                    "stage": "15",
+                    "time": "11.09.2026 18:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "11.09.2026 18:00:51",
+                    "extId": "ls_0"
+                  },
+                  "played": 7,
                   "wins": 3,
                   "draws": 1,
-                  "losses": 2,
-                  "scoresStr": "13-8",
-                  "goalConDiff": 5,
-                  "goalsScored": 13,
+                  "losses": 3,
+                  "scoresStr": "14-10",
+                  "goalConDiff": 4,
+                  "goalsScored": 14,
                   "pts": 10,
                   "idx": 5,
                   "qualColor": null
@@ -83947,7 +84009,6 @@
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 3,
                   "draws": 1,
@@ -83965,7 +84026,6 @@
                   "id": 429438,
                   "pageUrl": "/teams/429438/overview/lyn-fotball",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 3,
                   "draws": 1,
@@ -83983,7 +84043,6 @@
                   "id": 4486,
                   "pageUrl": "/teams/4486/overview/lsk-kvinner",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 6,
                   "wins": 2,
                   "draws": 2,
@@ -84001,7 +84060,21 @@
                   "id": 4485,
                   "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105412,
+                    "hTeam": "Røa",
+                    "aTeam": "Vålerenga",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4507,
+                    "stage": "15",
+                    "time": "11.09.2026 18:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "11.09.2026 18:00:51",
+                    "extId": "ls_0"
+                  },
                   "played": 7,
                   "wins": 2,
                   "draws": 1,
@@ -84019,7 +84092,6 @@
                   "id": 169297,
                   "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 1,
                   "draws": 2,
@@ -84037,7 +84109,6 @@
                   "id": 920414,
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 7,
                   "wins": 0,
                   "draws": 2,
@@ -84055,7 +84126,6 @@
                   "id": 1599447,
                   "pageUrl": "/teams/1599447/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 0,
                   "draws": 2,
@@ -84083,7 +84153,6 @@
                   "goalConDiff": 16,
                   "goalsScored": 19,
                   "pts": 15,
-                  "ongoing": null,
                   "idx": 1,
                   "qualColor": "#FFD908"
                 },
@@ -84101,7 +84170,6 @@
                   "goalConDiff": 11,
                   "goalsScored": 13,
                   "pts": 13,
-                  "ongoing": null,
                   "idx": 2,
                   "qualColor": "#FFD908"
                 },
@@ -84119,7 +84187,6 @@
                   "goalConDiff": 7,
                   "goalsScored": 12,
                   "pts": 10,
-                  "ongoing": null,
                   "idx": 3,
                   "qualColor": "#0046A7"
                 },
@@ -84137,7 +84204,6 @@
                   "goalConDiff": 2,
                   "goalsScored": 12,
                   "pts": 10,
-                  "ongoing": null,
                   "idx": 4,
                   "qualColor": null
                 },
@@ -84155,7 +84221,6 @@
                   "goalConDiff": 1,
                   "goalsScored": 8,
                   "pts": 8,
-                  "ongoing": null,
                   "idx": 5,
                   "qualColor": null
                 },
@@ -84173,7 +84238,6 @@
                   "goalConDiff": -2,
                   "goalsScored": 9,
                   "pts": 8,
-                  "ongoing": null,
                   "idx": 6,
                   "qualColor": null
                 },
@@ -84191,7 +84255,21 @@
                   "goalConDiff": -2,
                   "goalsScored": 8,
                   "pts": 6,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105412,
+                    "hTeam": "Røa",
+                    "aTeam": "Vålerenga",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4507,
+                    "stage": "15",
+                    "time": "11.09.2026 18:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "11.09.2026 18:00:51",
+                    "extId": "ls_0"
+                  },
                   "idx": 7,
                   "qualColor": null
                 },
@@ -84209,7 +84287,21 @@
                   "goalConDiff": -5,
                   "goalsScored": 5,
                   "pts": 5,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105412,
+                    "hTeam": "Røa",
+                    "aTeam": "Vålerenga",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4507,
+                    "stage": "15",
+                    "time": "11.09.2026 18:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "11.09.2026 18:00:51",
+                    "extId": "ls_0"
+                  },
                   "idx": 8,
                   "qualColor": null
                 },
@@ -84227,7 +84319,6 @@
                   "goalConDiff": -1,
                   "goalsScored": 10,
                   "pts": 4,
-                  "ongoing": null,
                   "idx": 9,
                   "qualColor": null
                 },
@@ -84245,7 +84336,6 @@
                   "goalConDiff": -4,
                   "goalsScored": 3,
                   "pts": 4,
-                  "ongoing": null,
                   "idx": 10,
                   "qualColor": "#FFA72F"
                 },
@@ -84263,7 +84353,6 @@
                   "goalConDiff": -5,
                   "goalsScored": 2,
                   "pts": 2,
-                  "ongoing": null,
                   "idx": 11,
                   "qualColor": "#FF4646"
                 },
@@ -84281,7 +84370,6 @@
                   "goalConDiff": -17,
                   "goalsScored": 5,
                   "pts": 1,
-                  "ongoing": null,
                   "idx": 12,
                   "qualColor": "#FF4646"
                 }
@@ -86223,20 +86311,20 @@
               "2026-09-13T11:00:00Z"
             ],
             "4485": [
-              "4507",
-              "Vålerenga (W)",
-              "5105412",
+              "920414",
+              "Hønefoss (W)",
+              "5105415",
+              {
+                "id": "920414",
+                "name": "Hønefoss (W)",
+                "shortName": "Hønefoss (W)"
+              },
               {
                 "id": "4485",
                 "name": "Røa (W)",
                 "shortName": "Røa (W)"
               },
-              {
-                "id": "4507",
-                "name": "Vålerenga (W)",
-                "shortName": "Vålerenga (W)"
-              },
-              "2026-09-11T16:00:00Z"
+              "2026-09-19T11:00:00Z"
             ],
             "4486": [
               "92171",
@@ -86271,20 +86359,20 @@
               "2026-09-11T17:00:00Z"
             ],
             "4507": [
-              "4485",
-              "Røa (W)",
-              "5105412",
-              {
-                "id": "4485",
-                "name": "Røa (W)",
-                "shortName": "Røa (W)"
-              },
+              "169297",
+              "FK Haugesund (W)",
+              "5105417",
               {
                 "id": "4507",
                 "name": "Vålerenga (W)",
                 "shortName": "Vålerenga (W)"
               },
-              "2026-09-11T16:00:00Z"
+              {
+                "id": "169297",
+                "name": "FK Haugesund (W)",
+                "shortName": "FK Haugesund (W)"
+              },
+              "2026-09-17T16:00:00Z"
             ],
             "92171": [
               "4486",
@@ -86452,7 +86540,23 @@
                   ]
                 }
               ],
-              "ongoing": [],
+              "ongoing": [
+                {
+                  "id": 5105412,
+                  "hTeam": "Røa",
+                  "aTeam": "Vålerenga",
+                  "hScore": 2,
+                  "aScore": 1,
+                  "hId": 4485,
+                  "aId": 4507,
+                  "stage": "15",
+                  "time": "11.09.2026 18:00",
+                  "status": "S",
+                  "sId": 2,
+                  "gs": "11.09.2026 18:00:51",
+                  "extId": "ls_0"
+                }
+              ],
               "table": {
                 "all": [
                   {
@@ -86461,7 +86565,6 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 12,
                     "draws": 2,
@@ -86478,7 +86581,6 @@
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 11,
                     "draws": 1,
@@ -86495,7 +86597,6 @@
                     "id": 4484,
                     "pageUrl": "/teams/4484/overview/rosenborg-bk",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 9,
                     "draws": 3,
@@ -86512,13 +86613,27 @@
                     "id": 4507,
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 14,
+                    "ongoing": {
+                      "id": 5105412,
+                      "hTeam": "Røa",
+                      "aTeam": "Vålerenga",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4507,
+                      "stage": "15",
+                      "time": "11.09.2026 18:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "11.09.2026 18:00:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 15,
                     "wins": 8,
                     "draws": 1,
-                    "losses": 5,
-                    "scoresStr": "33-20",
-                    "goalConDiff": 13,
+                    "losses": 6,
+                    "scoresStr": "34-22",
+                    "goalConDiff": 12,
                     "pts": 25,
                     "idx": 4,
                     "qualColor": null
@@ -86529,7 +86644,6 @@
                     "id": 92171,
                     "pageUrl": "/teams/92171/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 6,
                     "draws": 3,
@@ -86546,7 +86660,6 @@
                     "id": 429438,
                     "pageUrl": "/teams/429438/overview/lyn-fotball",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 5,
                     "draws": 4,
@@ -86563,7 +86676,6 @@
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 5,
                     "draws": 3,
@@ -86580,7 +86692,6 @@
                     "id": 4486,
                     "pageUrl": "/teams/4486/overview/lsk-kvinner",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 4,
                     "draws": 3,
@@ -86597,7 +86708,6 @@
                     "id": 169297,
                     "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 4,
                     "draws": 3,
@@ -86614,14 +86724,28 @@
                     "id": 4485,
                     "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 14,
-                    "wins": 2,
+                    "ongoing": {
+                      "id": 5105412,
+                      "hTeam": "Røa",
+                      "aTeam": "Vålerenga",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4507,
+                      "stage": "15",
+                      "time": "11.09.2026 18:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "11.09.2026 18:00:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 15,
+                    "wins": 3,
                     "draws": 4,
                     "losses": 8,
-                    "scoresStr": "12-28",
-                    "goalConDiff": -16,
-                    "pts": 10,
+                    "scoresStr": "14-29",
+                    "goalConDiff": -15,
+                    "pts": 13,
                     "idx": 10,
                     "qualColor": "#FFA72F"
                   },
@@ -86631,7 +86755,6 @@
                     "id": 920414,
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 2,
                     "draws": 2,
@@ -86648,7 +86771,6 @@
                     "id": 1599447,
                     "pageUrl": "/teams/1599447/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 0,
                     "draws": 3,
@@ -86667,7 +86789,6 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 5,
                     "draws": 2,
@@ -86685,7 +86806,6 @@
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 5,
                     "draws": 1,
@@ -86703,7 +86823,6 @@
                     "id": 4484,
                     "pageUrl": "/teams/4484/overview/rosenborg-bk",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 5,
                     "draws": 1,
@@ -86721,7 +86840,21 @@
                     "id": 4507,
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105412,
+                      "hTeam": "Røa",
+                      "aTeam": "Vålerenga",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4507,
+                      "stage": "15",
+                      "time": "11.09.2026 18:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "11.09.2026 18:00:51",
+                      "extId": "ls_0"
+                    },
                     "played": 8,
                     "wins": 5,
                     "draws": 0,
@@ -86739,7 +86872,6 @@
                     "id": 92171,
                     "pageUrl": "/teams/92171/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 3,
                     "draws": 1,
@@ -86757,7 +86889,6 @@
                     "id": 169297,
                     "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 3,
                     "draws": 1,
@@ -86775,7 +86906,6 @@
                     "id": 429438,
                     "pageUrl": "/teams/429438/overview/lyn-fotball",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 2,
                     "draws": 3,
@@ -86793,7 +86923,6 @@
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 2,
                     "draws": 2,
@@ -86811,7 +86940,6 @@
                     "id": 4486,
                     "pageUrl": "/teams/4486/overview/lsk-kvinner",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 2,
                     "draws": 1,
@@ -86824,12 +86952,43 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Røa",
+                    "shortName": "Røa",
+                    "id": 4485,
+                    "pageUrl": "/teams/4485/overview/roa",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105412,
+                      "hTeam": "Røa",
+                      "aTeam": "Vålerenga",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4507,
+                      "stage": "15",
+                      "time": "11.09.2026 18:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "11.09.2026 18:00:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 8,
+                    "wins": 1,
+                    "draws": 3,
+                    "losses": 4,
+                    "scoresStr": "8-13",
+                    "goalConDiff": -5,
+                    "goalsScored": 8,
+                    "pts": 6,
+                    "idx": 10,
+                    "qualColor": "#FFA72F"
+                  },
+                  {
                     "name": "Hønefoss",
                     "shortName": "Hønefoss",
                     "id": 920414,
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 2,
                     "draws": 0,
@@ -86838,24 +86997,6 @@
                     "goalConDiff": -6,
                     "goalsScored": 7,
                     "pts": 6,
-                    "idx": 10,
-                    "qualColor": "#FFA72F"
-                  },
-                  {
-                    "name": "Røa",
-                    "shortName": "Røa",
-                    "id": 4485,
-                    "pageUrl": "/teams/4485/overview/roa",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 7,
-                    "wins": 0,
-                    "draws": 3,
-                    "losses": 4,
-                    "scoresStr": "6-12",
-                    "goalConDiff": -6,
-                    "goalsScored": 6,
-                    "pts": 3,
                     "idx": 11,
                     "qualColor": "#FF4646"
                   },
@@ -86865,7 +87006,6 @@
                     "id": 1599447,
                     "pageUrl": "/teams/1599447/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 0,
                     "draws": 1,
@@ -86885,7 +87025,6 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 7,
                     "draws": 0,
@@ -86903,7 +87042,6 @@
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 6,
                     "draws": 0,
@@ -86921,7 +87059,6 @@
                     "id": 4484,
                     "pageUrl": "/teams/4484/overview/rosenborg-bk",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 4,
                     "draws": 2,
@@ -86939,7 +87076,6 @@
                     "id": 92171,
                     "pageUrl": "/teams/92171/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 3,
                     "draws": 2,
@@ -86957,14 +87093,28 @@
                     "id": 4507,
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 6,
+                    "ongoing": {
+                      "id": 5105412,
+                      "hTeam": "Røa",
+                      "aTeam": "Vålerenga",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4507,
+                      "stage": "15",
+                      "time": "11.09.2026 18:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "11.09.2026 18:00:51",
+                      "extId": "ls_0"
+                    },
+                    "played": 7,
                     "wins": 3,
                     "draws": 1,
-                    "losses": 2,
-                    "scoresStr": "13-8",
-                    "goalConDiff": 5,
-                    "goalsScored": 13,
+                    "losses": 3,
+                    "scoresStr": "14-10",
+                    "goalConDiff": 4,
+                    "goalsScored": 14,
                     "pts": 10,
                     "idx": 5,
                     "qualColor": null
@@ -86975,7 +87125,6 @@
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 3,
                     "draws": 1,
@@ -86993,7 +87142,6 @@
                     "id": 429438,
                     "pageUrl": "/teams/429438/overview/lyn-fotball",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 3,
                     "draws": 1,
@@ -87011,7 +87159,6 @@
                     "id": 4486,
                     "pageUrl": "/teams/4486/overview/lsk-kvinner",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 6,
                     "wins": 2,
                     "draws": 2,
@@ -87029,7 +87176,21 @@
                     "id": 4485,
                     "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105412,
+                      "hTeam": "Røa",
+                      "aTeam": "Vålerenga",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4507,
+                      "stage": "15",
+                      "time": "11.09.2026 18:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "11.09.2026 18:00:51",
+                      "extId": "ls_0"
+                    },
                     "played": 7,
                     "wins": 2,
                     "draws": 1,
@@ -87047,7 +87208,6 @@
                     "id": 169297,
                     "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 1,
                     "draws": 2,
@@ -87065,7 +87225,6 @@
                     "id": 920414,
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 7,
                     "wins": 0,
                     "draws": 2,
@@ -87083,7 +87242,6 @@
                     "id": 1599447,
                     "pageUrl": "/teams/1599447/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 0,
                     "draws": 2,
@@ -87111,7 +87269,6 @@
                     "goalConDiff": 16,
                     "goalsScored": 19,
                     "pts": 15,
-                    "ongoing": null,
                     "idx": 1,
                     "qualColor": "#FFD908"
                   },
@@ -87129,7 +87286,6 @@
                     "goalConDiff": 11,
                     "goalsScored": 13,
                     "pts": 13,
-                    "ongoing": null,
                     "idx": 2,
                     "qualColor": "#FFD908"
                   },
@@ -87147,7 +87303,6 @@
                     "goalConDiff": 7,
                     "goalsScored": 12,
                     "pts": 10,
-                    "ongoing": null,
                     "idx": 3,
                     "qualColor": "#0046A7"
                   },
@@ -87165,7 +87320,6 @@
                     "goalConDiff": 2,
                     "goalsScored": 12,
                     "pts": 10,
-                    "ongoing": null,
                     "idx": 4,
                     "qualColor": null
                   },
@@ -87183,7 +87337,6 @@
                     "goalConDiff": 1,
                     "goalsScored": 8,
                     "pts": 8,
-                    "ongoing": null,
                     "idx": 5,
                     "qualColor": null
                   },
@@ -87201,7 +87354,6 @@
                     "goalConDiff": -2,
                     "goalsScored": 9,
                     "pts": 8,
-                    "ongoing": null,
                     "idx": 6,
                     "qualColor": null
                   },
@@ -87219,7 +87371,21 @@
                     "goalConDiff": -2,
                     "goalsScored": 8,
                     "pts": 6,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105412,
+                      "hTeam": "Røa",
+                      "aTeam": "Vålerenga",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4507,
+                      "stage": "15",
+                      "time": "11.09.2026 18:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "11.09.2026 18:00:51",
+                      "extId": "ls_0"
+                    },
                     "idx": 7,
                     "qualColor": null
                   },
@@ -87237,7 +87403,21 @@
                     "goalConDiff": -5,
                     "goalsScored": 5,
                     "pts": 5,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105412,
+                      "hTeam": "Røa",
+                      "aTeam": "Vålerenga",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4507,
+                      "stage": "15",
+                      "time": "11.09.2026 18:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "11.09.2026 18:00:51",
+                      "extId": "ls_0"
+                    },
                     "idx": 8,
                     "qualColor": null
                   },
@@ -87255,7 +87435,6 @@
                     "goalConDiff": -1,
                     "goalsScored": 10,
                     "pts": 4,
-                    "ongoing": null,
                     "idx": 9,
                     "qualColor": null
                   },
@@ -87273,7 +87452,6 @@
                     "goalConDiff": -4,
                     "goalsScored": 3,
                     "pts": 4,
-                    "ongoing": null,
                     "idx": 10,
                     "qualColor": "#FFA72F"
                   },
@@ -87291,7 +87469,6 @@
                     "goalConDiff": -5,
                     "goalsScored": 2,
                     "pts": 2,
-                    "ongoing": null,
                     "idx": 11,
                     "qualColor": "#FF4646"
                   },
@@ -87309,7 +87486,6 @@
                     "goalConDiff": -17,
                     "goalsScored": 5,
                     "pts": 1,
-                    "ongoing": null,
                     "idx": 12,
                     "qualColor": "#FF4646"
                   }
@@ -89251,20 +89427,20 @@
                 "2026-09-13T11:00:00Z"
               ],
               "4485": [
-                "4507",
-                "Vålerenga (W)",
-                "5105412",
+                "920414",
+                "Hønefoss (W)",
+                "5105415",
+                {
+                  "id": "920414",
+                  "name": "Hønefoss (W)",
+                  "shortName": "Hønefoss (W)"
+                },
                 {
                   "id": "4485",
                   "name": "Røa (W)",
                   "shortName": "Røa (W)"
                 },
-                {
-                  "id": "4507",
-                  "name": "Vålerenga (W)",
-                  "shortName": "Vålerenga (W)"
-                },
-                "2026-09-11T16:00:00Z"
+                "2026-09-19T11:00:00Z"
               ],
               "4486": [
                 "92171",
@@ -89299,20 +89475,20 @@
                 "2026-09-11T17:00:00Z"
               ],
               "4507": [
-                "4485",
-                "Røa (W)",
-                "5105412",
-                {
-                  "id": "4485",
-                  "name": "Røa (W)",
-                  "shortName": "Røa (W)"
-                },
+                "169297",
+                "FK Haugesund (W)",
+                "5105417",
                 {
                   "id": "4507",
                   "name": "Vålerenga (W)",
                   "shortName": "Vålerenga (W)"
                 },
-                "2026-09-11T16:00:00Z"
+                {
+                  "id": "169297",
+                  "name": "FK Haugesund (W)",
+                  "shortName": "FK Haugesund (W)"
+                },
+                "2026-09-17T16:00:00Z"
               ],
               "92171": [
                 "4486",
@@ -89477,10 +89653,10 @@
                 }
               },
               {
-                "id": 1247154,
-                "name": "Cille Nilsen",
-                "teamId": 4484,
-                "teamName": "Rosenborg BK",
+                "id": 1531803,
+                "name": "Ronja Arnesen",
+                "teamId": 4507,
+                "teamName": "Vaalerenga",
                 "goals": 8,
                 "value": 8,
                 "stat": {
@@ -89490,9 +89666,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#000000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#333bb3",
+                  "lightMode": "#283090",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -89543,7 +89719,7 @@
               },
               {
                 "id": 1685335,
-                "name": "Aada Maekelae",
+                "name": "Aada Mäkelä",
                 "teamId": 4486,
                 "teamName": "LSK Kvinner",
                 "assists": 4,
@@ -92850,17 +93026,17 @@
             "opponent": {
               "id": "4485",
               "name": "Røa (W)",
-              "score": 0
+              "score": 2
             },
             "home": {
               "id": "4485",
               "name": "Røa (W)",
-              "score": 0
+              "score": 2
             },
             "away": {
               "id": "4507",
               "name": "Vålerenga (W)",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -92870,12 +93046,23 @@
             "status": {
               "utcTime": "2026-09-11T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "11.09.2026 18:00:00"
+                "firstHalfStarted": "11.09.2026 18:00:51"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "2 - 1",
+              "liveTime": {
+                "short": "32‎’‎",
+                "shortKey": "",
+                "long": "31:47",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -96969,12 +97156,23 @@
               "status": {
                 "utcTime": "2026-09-11T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "11.09.2026 18:00:00"
+                  "firstHalfStarted": "11.09.2026 18:00:51"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "2 - 1",
+                "liveTime": {
+                  "short": "32‎’‎",
+                  "shortKey": "",
+                  "long": "31:47",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -98273,11 +98471,11 @@
                 }
               },
               {
-                "id": 1247154,
-                "name": "Cille Nilsen",
+                "id": 1531803,
+                "name": "Ronja Arnesen",
                 "rank": 3,
-                "teamId": 4484,
-                "teamName": "Rosenborg BK",
+                "teamId": 4507,
+                "teamName": "Vaalerenga",
                 "value": 8,
                 "stat": {
                   "name": "goals",
@@ -98286,9 +98484,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#000000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#333bb3",
+                  "lightMode": "#283090",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -98358,7 +98556,7 @@
               },
               {
                 "id": 1685335,
-                "name": "Aada Maekelae",
+                "name": "Aada Mäkelä",
                 "rank": 3,
                 "teamId": 4486,
                 "teamName": "LSK Kvinner",
@@ -98446,10 +98644,10 @@
                 "rank": 3,
                 "teamId": 4507,
                 "teamName": "Vaalerenga",
-                "value": 10,
+                "value": 11,
                 "stat": {
                   "name": "_goals_and_goal_assist",
-                  "value": 10,
+                  "value": 11,
                   "format": "number",
                   "fractions": 0
                 },
@@ -98700,10 +98898,10 @@
                 "rank": 3,
                 "teamId": 4507,
                 "teamName": "Vålerenga",
-                "value": 2.4,
+                "value": 2.2,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 2.4,
+                  "value": 2.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -102028,12 +102226,23 @@
             "status": {
               "utcTime": "2026-09-11T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "11.09.2026 18:00:00"
+                "firstHalfStarted": "11.09.2026 18:00:51"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "2 - 1",
+              "liveTime": {
+                "short": "32‎’‎",
+                "shortKey": "",
+                "long": "31:47",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
