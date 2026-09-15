@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:03:17.870698+00:00",
+  "generated_at": "2026-09-15T11:54:05.922846+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -48959,6 +48959,40 @@
         "type": "league",
         "data": [
           {
+            "name": "Maill Lundgren",
+            "playerId": 1352690,
+            "position": {
+              "label": "LW",
+              "key": "leftwinger_short"
+            },
+            "transferDate": "2026-09-15T07:37:40Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Shelbourne",
+            "fromClubFullName": "Shelbourne",
+            "fromClubId": 5751,
+            "toClub": "Ranheim",
+            "toClubFullName": "Ranheim",
+            "toClubId": 6563,
+            "fee": {
+              "feeText": "on loan",
+              "localizedFeeText": "on_loan"
+            },
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "on loan",
+              "localizationKey": "on_loan"
+            },
+            "contractExtension": false,
+            "onLoan": true,
+            "fromDate": "2026-07-21T00:00:00Z",
+            "toDate": "2026-12-31T00:00:00Z",
+            "marketValue": 160970
+          },
+          {
             "name": "Mathias Svenningsen-Grønn",
             "playerId": 1656393,
             "position": null,
@@ -52268,37 +52302,6 @@
             "fromDate": "2026-01-23T23:00:00Z",
             "toDate": "2027-05-30T22:00:00Z",
             "marketValue": 302308
-          },
-          {
-            "name": "Mathias Sauer",
-            "playerId": 1258452,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-01-20T22:44:08Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Egersund",
-            "fromClubFullName": "Egersund",
-            "fromClubId": 4722,
-            "toClub": "Górnik Zabrze",
-            "toClubFullName": "Górnik Zabrze",
-            "toClubId": 8020,
-            "fee": null,
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-01-20T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 478302
           }
         ]
       },
@@ -56316,11 +56319,11 @@
                 "name": "Sory Diarra",
                 "teamId": 8512,
                 "teamName": "FK Haugesund",
-                "goals": 28,
-                "value": 28,
+                "goals": 9,
+                "value": 9,
                 "stat": {
                   "name": "goals",
-                  "value": 28,
+                  "value": 9,
                   "format": "number",
                   "fractions": 0
                 },
@@ -56332,21 +56335,21 @@
                 }
               },
               {
-                "id": 842836,
-                "name": "Magnus Lankhof-Dahlby",
-                "teamId": 9918,
-                "teamName": "Stabaek",
-                "goals": 16,
-                "value": 16,
+                "id": 1617099,
+                "name": "Daniel Job",
+                "teamId": 8179,
+                "teamName": "Kongsvinger IL",
+                "goals": 5,
+                "value": 5,
                 "stat": {
                   "name": "goals",
-                  "value": 16,
+                  "value": 5,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#2e5483",
-                  "lightMode": "#003763",
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -56356,11 +56359,11 @@
                 "name": "Andreas Hellum",
                 "teamId": 10224,
                 "teamName": "Lyn",
-                "goals": 15,
-                "value": 15,
+                "goals": 4,
+                "value": 4,
                 "stat": {
                   "name": "goals",
-                  "value": 15,
+                  "value": 4,
                   "format": "number",
                   "fractions": 0
                 },
@@ -56377,35 +56380,35 @@
           "byAssists": {
             "players": [
               {
-                "id": 526809,
-                "name": "Niklas Sandberg",
-                "teamId": 8512,
-                "teamName": "FK Haugesund",
-                "assists": 15,
-                "value": 15,
+                "id": 1145728,
+                "name": "Franklin Nyenetue",
+                "teamId": 6563,
+                "teamName": "Ranheim",
+                "assists": 5,
+                "value": 5,
                 "stat": {
                   "name": "assists",
-                  "value": 15,
+                  "value": 5,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#0360ab",
-                  "lightMode": "#002968",
+                  "darkMode": "#006DB5",
+                  "lightMode": "#006DB5",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 1483115,
-                "name": "William Wendt",
+                "id": 1489442,
+                "name": "Sebastian Olderheim",
                 "teamId": 9918,
-                "teamName": "Stabaek",
-                "assists": 13,
-                "value": 13,
+                "teamName": "Stabæk",
+                "assists": 4,
+                "value": 4,
                 "stat": {
                   "name": "assists",
-                  "value": 13,
+                  "value": 4,
                   "format": "number",
                   "fractions": 0
                 },
@@ -56417,22 +56420,22 @@
                 }
               },
               {
-                "id": 313824,
-                "name": "Kasper Skaanes",
-                "teamId": 8616,
-                "teamName": "Sogndal",
-                "assists": 9,
-                "value": 9,
+                "id": 1377072,
+                "name": "Deni Dashaev",
+                "teamId": 4249,
+                "teamName": "Strømmen",
+                "assists": 3,
+                "value": 3,
                 "stat": {
                   "name": "assists",
-                  "value": 9,
+                  "value": 3,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#202020",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#7A7879",
+                  "lightMode": "#7A7879",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -72435,12 +72438,13 @@
               "id": 1181409,
               "name": "Sory Diarra",
               "rank": 1,
+              "ccode": "MLI",
               "teamId": 8512,
               "teamName": "FK Haugesund",
-              "value": 28,
+              "value": 9,
               "stat": {
                 "name": "goals",
-                "value": 28,
+                "value": 9,
                 "format": "number",
                 "fractions": 0
               }
@@ -72451,12 +72455,13 @@
                 "id": 1181409,
                 "name": "Sory Diarra",
                 "rank": 1,
+                "ccode": "MLI",
                 "teamId": 8512,
                 "teamName": "FK Haugesund",
-                "value": 28,
+                "value": 9,
                 "stat": {
                   "name": "goals",
-                  "value": 28,
+                  "value": 9,
                   "format": "number",
                   "fractions": 0
                 },
@@ -72468,21 +72473,22 @@
                 }
               },
               {
-                "id": 842836,
-                "name": "Magnus Lankhof-Dahlby",
+                "id": 1617099,
+                "name": "Daniel Job",
                 "rank": 2,
-                "teamId": 9918,
-                "teamName": "Stabaek",
-                "value": 16,
+                "ccode": "NGA",
+                "teamId": 8179,
+                "teamName": "Kongsvinger IL",
+                "value": 5,
                 "stat": {
                   "name": "goals",
-                  "value": 16,
+                  "value": 5,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#2e5483",
-                  "lightMode": "#003763",
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -72491,12 +72497,13 @@
                 "id": 630253,
                 "name": "Andreas Hellum",
                 "rank": 3,
+                "ccode": "NOR",
                 "teamId": 10224,
                 "teamName": "Lyn",
-                "value": 15,
+                "value": 4,
                 "stat": {
                   "name": "goals",
-                  "value": 15,
+                  "value": 4,
                   "format": "number",
                   "fractions": 0
                 },
@@ -72516,15 +72523,16 @@
           {
             "header": "Assists",
             "participant": {
-              "id": 526809,
-              "name": "Niklas Sandberg",
+              "id": 1145728,
+              "name": "Franklin Nyenetue",
               "rank": 1,
-              "teamId": 8512,
-              "teamName": "FK Haugesund",
-              "value": 15,
+              "ccode": "NOR",
+              "teamId": 6563,
+              "teamName": "Ranheim",
+              "value": 5,
               "stat": {
                 "name": "goal_assist",
-                "value": 15,
+                "value": 5,
                 "format": "number",
                 "fractions": 0
               }
@@ -72532,35 +72540,37 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/goal_assist.json",
             "topThree": [
               {
-                "id": 526809,
-                "name": "Niklas Sandberg",
+                "id": 1145728,
+                "name": "Franklin Nyenetue",
                 "rank": 1,
-                "teamId": 8512,
-                "teamName": "FK Haugesund",
-                "value": 15,
+                "ccode": "NOR",
+                "teamId": 6563,
+                "teamName": "Ranheim",
+                "value": 5,
                 "stat": {
                   "name": "goal_assist",
-                  "value": 15,
+                  "value": 5,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#0360ab",
-                  "lightMode": "#002968",
+                  "darkMode": "#006DB5",
+                  "lightMode": "#006DB5",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 1483115,
-                "name": "William Wendt",
+                "id": 1489442,
+                "name": "Sebastian Olderheim",
                 "rank": 2,
+                "ccode": "NOR",
                 "teamId": 9918,
-                "teamName": "Stabaek",
-                "value": 13,
+                "teamName": "Stabæk",
+                "value": 4,
                 "stat": {
                   "name": "goal_assist",
-                  "value": 13,
+                  "value": 4,
                   "format": "number",
                   "fractions": 0
                 },
@@ -72572,22 +72582,23 @@
                 }
               },
               {
-                "id": 313824,
-                "name": "Kasper Skaanes",
+                "id": 1377072,
+                "name": "Deni Dashaev",
                 "rank": 3,
-                "teamId": 8616,
-                "teamName": "Sogndal",
-                "value": 9,
+                "ccode": "NOR",
+                "teamId": 4249,
+                "teamName": "Strømmen",
+                "value": 3,
                 "stat": {
                   "name": "goal_assist",
-                  "value": 9,
+                  "value": 3,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#202020",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#7A7879",
+                  "lightMode": "#7A7879",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -72603,12 +72614,13 @@
               "id": 1181409,
               "name": "Sory Diarra",
               "rank": 1,
+              "ccode": "MLI",
               "teamId": 8512,
               "teamName": "FK Haugesund",
-              "value": 30,
+              "value": 10,
               "stat": {
                 "name": "_goals_and_goal_assist",
-                "value": 30,
+                "value": 10,
                 "format": "number",
                 "fractions": 0
               }
@@ -72619,12 +72631,13 @@
                 "id": 1181409,
                 "name": "Sory Diarra",
                 "rank": 1,
+                "ccode": "MLI",
                 "teamId": 8512,
                 "teamName": "FK Haugesund",
-                "value": 30,
+                "value": 10,
                 "stat": {
                   "name": "_goals_and_goal_assist",
-                  "value": 30,
+                  "value": 10,
                   "format": "number",
                   "fractions": 0
                 },
@@ -72636,15 +72649,16 @@
                 }
               },
               {
-                "id": 842836,
-                "name": "Magnus Lankhof-Dahlby",
+                "id": 1489442,
+                "name": "Sebastian Olderheim",
                 "rank": 2,
+                "ccode": "NOR",
                 "teamId": 9918,
-                "teamName": "Stabaek",
-                "value": 21,
+                "teamName": "Stabæk",
+                "value": 7,
                 "stat": {
                   "name": "_goals_and_goal_assist",
-                  "value": 21,
+                  "value": 7,
                   "format": "number",
                   "fractions": 0
                 },
@@ -72656,22 +72670,23 @@
                 }
               },
               {
-                "id": 526809,
-                "name": "Niklas Sandberg",
-                "rank": 2,
-                "teamId": 8512,
-                "teamName": "FK Haugesund",
-                "value": 21,
+                "id": 1343446,
+                "name": "Faniel Temesgen Tewelde",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 7988,
+                "teamName": "Odd",
+                "value": 6,
                 "stat": {
                   "name": "_goals_and_goal_assist",
-                  "value": 21,
+                  "value": 6,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#0360ab",
-                  "lightMode": "#002968",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#ffffff",
+                  "lightMode": "#181818",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -72682,33 +72697,211 @@
             "category": "Top Stat"
           },
           {
-            "header": "Yellow cards",
+            "header": "Minutes played",
             "participant": {
-              "id": 1047293,
-              "name": "Scott Vatne",
+              "id": 766323,
+              "name": "Aleksey Gorodovoy",
               "rank": 1,
-              "teamId": 4722,
-              "teamName": "Egersund",
-              "value": 9,
+              "ccode": "RUS",
+              "teamId": 8179,
+              "teamName": "Kongsvinger IL",
+              "value": 540,
               "stat": {
-                "name": "yellow_card",
-                "value": 9,
+                "name": "mins_played",
+                "value": 540,
                 "format": "number",
                 "fractions": 0
               }
             },
-            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/yellow_card.json",
+            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/mins_played.json",
             "topThree": [
               {
-                "id": 1047293,
-                "name": "Scott Vatne",
+                "id": 766323,
+                "name": "Aleksey Gorodovoy",
                 "rank": 1,
-                "teamId": 4722,
-                "teamName": "Egersund",
-                "value": 9,
+                "ccode": "RUS",
+                "teamId": 8179,
+                "teamName": "Kongsvinger IL",
+                "value": 540,
                 "stat": {
-                  "name": "yellow_card",
-                  "value": 9,
+                  "name": "mins_played",
+                  "value": 540,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 631760,
+                "name": "Andreas Dybevik",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8179,
+                "teamName": "Kongsvinger IL",
+                "value": 540,
+                "stat": {
+                  "name": "mins_played",
+                  "value": 540,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1075635,
+                "name": "Frederik Juul Christensen",
+                "rank": 1,
+                "ccode": "DEN",
+                "teamId": 8179,
+                "teamName": "Kongsvinger IL",
+                "value": 540,
+                "stat": {
+                  "name": "mins_played",
+                  "value": 540,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 5,
+            "name": "mins_played",
+            "localizedTitleId": "minutes_played",
+            "category": "Top Stat"
+          },
+          {
+            "header": "Goals per 90",
+            "participant": {
+              "id": 1181409,
+              "name": "Sory Diarra",
+              "rank": 1,
+              "ccode": "MLI",
+              "teamId": 8512,
+              "teamName": "FK Haugesund",
+              "value": 1.84,
+              "stat": {
+                "name": "goals_per_90",
+                "value": 1.84,
+                "format": "fraction",
+                "fractions": 2
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/goals_per_90.json",
+            "topThree": [
+              {
+                "id": 1181409,
+                "name": "Sory Diarra",
+                "rank": 1,
+                "ccode": "MLI",
+                "teamId": 8512,
+                "teamName": "FK Haugesund",
+                "value": 1.84,
+                "stat": {
+                  "name": "goals_per_90",
+                  "value": 1.84,
+                  "format": "fraction",
+                  "fractions": 2
+                },
+                "teamColors": {
+                  "darkMode": "#0360ab",
+                  "lightMode": "#002968",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1343446,
+                "name": "Faniel Temesgen Tewelde",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 7988,
+                "teamName": "Odd",
+                "value": 1.55,
+                "stat": {
+                  "name": "goals_per_90",
+                  "value": 1.55,
+                  "format": "fraction",
+                  "fractions": 2
+                },
+                "teamColors": {
+                  "darkMode": "#ffffff",
+                  "lightMode": "#181818",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1405565,
+                "name": "Leonardo Rossi",
+                "rank": 3,
+                "ccode": "ITA",
+                "teamId": 10021,
+                "teamName": "Åsane",
+                "value": 1.26,
+                "stat": {
+                  "name": "goals_per_90",
+                  "value": 1.26,
+                  "format": "fraction",
+                  "fractions": 2
+                },
+                "teamColors": {
+                  "darkMode": "#ff8e44",
+                  "lightMode": "#F4742A",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 11,
+            "name": "goals_per_90",
+            "localizedTitleId": "goals_per_90_title",
+            "category": "Attacking"
+          },
+          {
+            "header": "Clean sheets",
+            "participant": {
+              "id": 1084586,
+              "name": "Sander Lønning",
+              "rank": 1,
+              "ccode": "NOR",
+              "teamId": 4722,
+              "teamName": "Egersunds",
+              "value": 3,
+              "stat": {
+                "name": "clean_sheet",
+                "value": 3,
+                "format": "number",
+                "fractions": 0
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/clean_sheet.json",
+            "topThree": [
+              {
+                "id": 1084586,
+                "name": "Sander Lønning",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 4722,
+                "teamName": "Egersunds",
+                "value": 3,
+                "stat": {
+                  "name": "clean_sheet",
+                  "value": 3,
                   "format": "number",
                   "fractions": 0
                 },
@@ -72720,15 +72913,192 @@
                 }
               },
               {
+                "id": 1639242,
+                "name": "Sebastian Hansen",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 7988,
+                "teamName": "Odd",
+                "value": 2,
+                "stat": {
+                  "name": "clean_sheet",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#ffffff",
+                  "lightMode": "#181818",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1093000,
+                "name": "Marius Ulla",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 9918,
+                "teamName": "Stabæk",
+                "value": 2,
+                "stat": {
+                  "name": "clean_sheet",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#2e5483",
+                  "lightMode": "#003763",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 36,
+            "name": "clean_sheet",
+            "localizedTitleId": "clean_sheet_title",
+            "category": "Goalkeeping"
+          },
+          {
+            "header": "Goals conceded per 90",
+            "participant": {
+              "id": 1263460,
+              "name": "Peder Hoel Lervik",
+              "rank": 1,
+              "ccode": "NOR",
+              "teamId": 10021,
+              "teamName": "Åsane",
+              "value": 3.7,
+              "stat": {
+                "name": "goals_conceded",
+                "value": 3.7,
+                "format": "fraction",
+                "fractions": 1
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/goals_conceded.json",
+            "topThree": [
+              {
+                "id": 1263460,
+                "name": "Peder Hoel Lervik",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 10021,
+                "teamName": "Åsane",
+                "value": 3.7,
+                "stat": {
+                  "name": "goals_conceded",
+                  "value": 3.7,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#ff8e44",
+                  "lightMode": "#F4742A",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 629727,
+                "name": "Knut-André Skjærstein",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 4249,
+                "teamName": "Strømmen",
+                "value": 3,
+                "stat": {
+                  "name": "goals_conceded",
+                  "value": 3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#7A7879",
+                  "lightMode": "#7A7879",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 633710,
+                "name": "Lars Jendal",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8616,
+                "teamName": "Sogndal IL",
+                "value": 2.6,
+                "stat": {
+                  "name": "goals_conceded",
+                  "value": 2.6,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#ffffff",
+                  "lightMode": "#202020",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 40,
+            "name": "goals_conceded",
+            "localizedTitleId": "goals_conceded_per_90",
+            "category": "Goalkeeping"
+          },
+          {
+            "header": "Yellow cards",
+            "participant": {
+              "id": 538725,
+              "name": "Bruno Leite",
+              "rank": 1,
+              "ccode": "CPV",
+              "teamId": 8512,
+              "teamName": "FK Haugesund",
+              "value": 3,
+              "stat": {
+                "name": "yellow_card",
+                "value": 3,
+                "format": "number",
+                "fractions": 0
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/yellow_card.json",
+            "topThree": [
+              {
+                "id": 538725,
+                "name": "Bruno Leite",
+                "rank": 1,
+                "ccode": "CPV",
+                "teamId": 8512,
+                "teamName": "FK Haugesund",
+                "value": 3,
+                "stat": {
+                  "name": "yellow_card",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0360ab",
+                  "lightMode": "#002968",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1430234,
                 "name": "Jamiu Musbaudeen",
                 "rank": 2,
+                "ccode": "NGA",
                 "teamId": 8405,
-                "teamName": "Moss",
-                "value": 8,
+                "teamName": "Moss FK",
+                "value": 2,
                 "stat": {
                   "name": "yellow_card",
-                  "value": 8,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
@@ -72740,15 +73110,16 @@
                 }
               },
               {
-                "id": 1258766,
-                "name": "Gullbrandur Øregaard",
+                "id": 737044,
+                "name": "Ådne Gikling Bruseth",
                 "rank": 3,
+                "ccode": "NOR",
                 "teamId": 8133,
                 "teamName": "Sandnes Ulf",
-                "value": 8,
+                "value": 2,
                 "stat": {
                   "name": "yellow_card",
-                  "value": 8,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
@@ -72768,15 +73139,16 @@
           {
             "header": "Red cards",
             "participant": {
-              "id": 1280197,
-              "name": "Maximilian Balatoni",
+              "id": 1430234,
+              "name": "Jamiu Musbaudeen",
               "rank": 1,
-              "teamId": 4249,
-              "teamName": "Stroemmen",
-              "value": 2,
+              "ccode": "NGA",
+              "teamId": 8405,
+              "teamName": "Moss FK",
+              "value": 1,
               "stat": {
                 "name": "red_card",
-                "value": 2,
+                "value": 1,
                 "format": "number",
                 "fractions": 0
               }
@@ -72784,31 +73156,12 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/red_card.json",
             "topThree": [
               {
-                "id": 1280197,
-                "name": "Maximilian Balatoni",
-                "rank": 1,
-                "teamId": 4249,
-                "teamName": "Stroemmen",
-                "value": 2,
-                "stat": {
-                  "name": "red_card",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#7A7879",
-                  "lightMode": "#7A7879",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
                 "id": 1430234,
                 "name": "Jamiu Musbaudeen",
-                "rank": 2,
+                "rank": 1,
+                "ccode": "NGA",
                 "teamId": 8405,
-                "teamName": "Moss",
+                "teamName": "Moss FK",
                 "value": 1,
                 "stat": {
                   "name": "red_card",
@@ -72824,11 +73177,12 @@
                 }
               },
               {
-                "id": 1460836,
-                "name": "Mirza Mulac",
-                "rank": 3,
-                "teamId": 7937,
-                "teamName": "Hoedd",
+                "id": 1280197,
+                "name": "Maximilian Balatoni",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 4249,
+                "teamName": "Strømmen",
                 "value": 1,
                 "stat": {
                   "name": "red_card",
@@ -72837,9 +73191,30 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#32528a",
-                  "lightMode": "#1D4278",
+                  "darkMode": "#7A7879",
+                  "lightMode": "#7A7879",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1405565,
+                "name": "Leonardo Rossi",
+                "rank": 3,
+                "ccode": "ITA",
+                "teamId": 10021,
+                "teamName": "Åsane",
+                "value": 1,
+                "stat": {
+                  "name": "red_card",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#ff8e44",
+                  "lightMode": "#F4742A",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -72855,14 +73230,14 @@
             "header": "Goals per match",
             "participant": {
               "id": 0,
-              "name": "FK Haugesund",
+              "name": "Ranheim",
               "rank": 1,
-              "teamId": 8512,
-              "teamName": "FK Haugesund",
-              "value": 3.1,
+              "ccode": "NOR",
+              "teamId": 6563,
+              "value": 3.3,
               "stat": {
                 "name": "goals_team_match",
-                "value": 3.1,
+                "value": 3.3,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -72871,14 +73246,34 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "FK Haugesund",
+                "name": "Ranheim",
                 "rank": 1,
-                "teamId": 8512,
-                "teamName": "FK Haugesund",
-                "value": 3.1,
+                "ccode": "NOR",
+                "teamId": 6563,
+                "value": 3.3,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 3.1,
+                  "value": 3.3,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#006DB5",
+                  "lightMode": "#006DB5",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "FK Haugesund",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8512,
+                "value": 2.8,
+                "stat": {
+                  "name": "goals_team_match",
+                  "value": 2.8,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -72891,40 +73286,20 @@
               },
               {
                 "id": 0,
-                "name": "Kongsvinger",
+                "name": "Stabæk",
                 "rank": 2,
-                "teamId": 8179,
-                "teamName": "Kongsvinger",
-                "value": 2.9,
+                "ccode": "NOR",
+                "teamId": 9918,
+                "value": 2.8,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 2.9,
+                  "value": 2.8,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#D42027",
-                  "lightMode": "#D42027",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Strømsgodset",
-                "rank": 3,
-                "teamId": 8180,
-                "teamName": "Strømsgodset",
-                "value": 2.6,
-                "stat": {
-                  "name": "goals_team_match",
-                  "value": 2.6,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#24558e",
-                  "lightMode": "#084878",
+                  "darkMode": "#2e5483",
+                  "lightMode": "#003763",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -72939,14 +73314,14 @@
             "header": "Goals conceded per match",
             "participant": {
               "id": 0,
-              "name": "Stabæk",
+              "name": "Egersund",
               "rank": 1,
-              "teamId": 9918,
-              "teamName": "Stabæk",
-              "value": 1.3,
+              "ccode": "NOR",
+              "teamId": 4722,
+              "value": 0.6,
               "stat": {
                 "name": "goals_conceded_team_match",
-                "value": 1.3,
+                "value": 0.6,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -72955,60 +73330,60 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Stabæk",
+                "name": "Egersund",
                 "rank": 1,
-                "teamId": 9918,
-                "teamName": "Stabæk",
-                "value": 1.3,
+                "ccode": "NOR",
+                "teamId": 4722,
+                "value": 0.6,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 1.3,
+                  "value": 0.6,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#2e5483",
-                  "lightMode": "#003763",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#FEE500",
+                  "lightMode": "#d7a100",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
                 "id": 0,
-                "name": "Strømsgodset",
+                "name": "Odds Ballklubb",
                 "rank": 2,
-                "teamId": 8180,
-                "teamName": "Strømsgodset",
-                "value": 1.4,
+                "ccode": "NOR",
+                "teamId": 7988,
+                "value": 0.8,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 1.4,
+                  "value": 0.8,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#24558e",
-                  "lightMode": "#084878",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#ffffff",
+                  "lightMode": "#181818",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
                 "id": 0,
-                "name": "Bryne",
-                "rank": 2,
-                "teamId": 8531,
-                "teamName": "Bryne",
-                "value": 1.4,
+                "name": "Kongsvinger",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8179,
+                "value": 1,
                 "stat": {
                   "name": "goals_conceded_team_match",
-                  "value": 1.4,
+                  "value": 1,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#EF4941",
-                  "lightMode": "#EF4941",
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -73023,14 +73398,14 @@
             "header": "Clean sheets",
             "participant": {
               "id": 0,
-              "name": "Stabæk",
+              "name": "Egersund",
               "rank": 1,
-              "teamId": 9918,
-              "teamName": "Stabæk",
-              "value": 8,
+              "ccode": "NOR",
+              "teamId": 4722,
+              "value": 3,
               "stat": {
                 "name": "clean_sheet_team",
-                "value": 8,
+                "value": 3,
                 "format": "number",
                 "fractions": 0
               }
@@ -73039,34 +73414,14 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Stabæk",
-                "rank": 1,
-                "teamId": 9918,
-                "teamName": "Stabæk",
-                "value": 8,
-                "stat": {
-                  "name": "clean_sheet_team",
-                  "value": 8,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#2e5483",
-                  "lightMode": "#003763",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
                 "name": "Egersund",
-                "rank": 2,
+                "rank": 1,
+                "ccode": "NOR",
                 "teamId": 4722,
-                "teamName": "Egersund",
-                "value": 7,
+                "value": 3,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 7,
+                  "value": 3,
                   "format": "number",
                   "fractions": 0
                 },
@@ -73079,58 +73434,14 @@
               },
               {
                 "id": 0,
-                "name": "Bryne",
-                "rank": 3,
-                "teamId": 8531,
-                "teamName": "Bryne",
-                "value": 6,
+                "name": "FK Haugesund",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8512,
+                "value": 2,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 6,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EF4941",
-                  "lightMode": "#EF4941",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              }
-            ],
-            "order": 49,
-            "name": "clean_sheet_team",
-            "localizedTitleId": "clean_sheet_team_title",
-            "category": "Top Stat"
-          },
-          {
-            "header": "Set piece goals",
-            "participant": {
-              "id": 0,
-              "name": "FK Haugesund",
-              "rank": 1,
-              "teamId": 8512,
-              "teamName": "FK Haugesund",
-              "value": 63,
-              "stat": {
-                "name": "_set_piece_goals_team",
-                "value": 63,
-                "format": "number",
-                "fractions": 0
-              }
-            },
-            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/_set_piece_goals_team.json",
-            "topThree": [
-              {
-                "id": 0,
-                "name": "FK Haugesund",
-                "rank": 1,
-                "teamId": 8512,
-                "teamName": "FK Haugesund",
-                "value": 63,
-                "stat": {
-                  "name": "_set_piece_goals_team",
-                  "value": 63,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
@@ -73143,78 +73454,58 @@
               },
               {
                 "id": 0,
-                "name": "Kongsvinger",
+                "name": "Odds Ballklubb",
                 "rank": 2,
-                "teamId": 8179,
-                "teamName": "Kongsvinger",
-                "value": 58,
+                "ccode": "NOR",
+                "teamId": 7988,
+                "value": 2,
                 "stat": {
-                  "name": "_set_piece_goals_team",
-                  "value": 58,
+                  "name": "clean_sheet_team",
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#D42027",
-                  "lightMode": "#D42027",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Stroemsgodset",
-                "rank": 3,
-                "teamId": 8180,
-                "teamName": "Stroemsgodset",
-                "value": 56,
-                "stat": {
-                  "name": "_set_piece_goals_team",
-                  "value": 56,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#24558e",
-                  "lightMode": "#084878",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#ffffff",
+                  "lightMode": "#181818",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
             ],
-            "order": 62,
-            "name": "_set_piece_goals_team",
-            "localizedTitleId": "set_piece_goals",
-            "category": "Attacking"
+            "order": 49,
+            "name": "clean_sheet_team",
+            "localizedTitleId": "clean_sheet_team_title",
+            "category": "Top Stat"
           },
           {
-            "header": "Set piece goals conceded",
+            "header": "Attendance",
             "participant": {
               "id": 0,
-              "name": "Stroemsgodset",
+              "name": "Strømsgodset",
               "rank": 1,
+              "ccode": "NOR",
               "teamId": 8180,
-              "teamName": "Stroemsgodset",
-              "value": 26,
+              "value": 4811,
               "stat": {
-                "name": "_set_piece_goals_conceded_team",
-                "value": 26,
+                "name": "home_attendance_team",
+                "value": 4811,
                 "format": "number",
                 "fractions": 0
               }
             },
-            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/_set_piece_goals_conceded_team.json",
+            "fetchAllUrl": "https://data.fotmob.com/stats/203/season/30205/home_attendance_team.json",
             "topThree": [
               {
                 "id": 0,
-                "name": "Stroemsgodset",
+                "name": "Strømsgodset",
                 "rank": 1,
+                "ccode": "NOR",
                 "teamId": 8180,
-                "teamName": "Stroemsgodset",
-                "value": 26,
+                "value": 4811,
                 "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 26,
+                  "name": "home_attendance_team",
+                  "value": 4811,
                   "format": "number",
                   "fractions": 0
                 },
@@ -73227,62 +73518,62 @@
               },
               {
                 "id": 0,
-                "name": "Stabæk",
+                "name": "FK Haugesund",
                 "rank": 2,
-                "teamId": 9918,
-                "teamName": "Stabæk",
-                "value": 27,
+                "ccode": "NOR",
+                "teamId": 8512,
+                "value": 4127,
                 "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 27,
+                  "name": "home_attendance_team",
+                  "value": 4127,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#2e5483",
-                  "lightMode": "#003763",
+                  "darkMode": "#0360ab",
+                  "lightMode": "#002968",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
                 "id": 0,
-                "name": "Bryne",
+                "name": "Odds Ballklubb",
                 "rank": 3,
-                "teamId": 8531,
-                "teamName": "Bryne",
-                "value": 29,
+                "ccode": "NOR",
+                "teamId": 7988,
+                "value": 3876,
                 "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 29,
+                  "name": "home_attendance_team",
+                  "value": 3876,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#EF4941",
-                  "lightMode": "#EF4941",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#ffffff",
+                  "lightMode": "#181818",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
             ],
-            "order": 68,
-            "name": "_set_piece_goals_conceded_team",
-            "localizedTitleId": "set_piece_goals_conceded",
-            "category": "Defending"
+            "order": 50,
+            "name": "home_attendance_team",
+            "localizedTitleId": "Attendance",
+            "category": "Top Stat"
           },
           {
             "header": "Yellow cards",
             "participant": {
               "id": 0,
-              "name": "Aasane",
+              "name": "FK Haugesund",
               "rank": 1,
-              "teamId": 10021,
-              "teamName": "Aasane",
-              "value": 50,
+              "ccode": "NOR",
+              "teamId": 8512,
+              "value": 13,
               "stat": {
                 "name": "total_yel_card_team",
-                "value": 50,
+                "value": 13,
                 "format": "number",
                 "fractions": 0
               }
@@ -73291,40 +73582,20 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Aasane",
+                "name": "FK Haugesund",
                 "rank": 1,
-                "teamId": 10021,
-                "teamName": "Aasane",
-                "value": 50,
+                "ccode": "NOR",
+                "teamId": 8512,
+                "value": 13,
                 "stat": {
                   "name": "total_yel_card_team",
-                  "value": 50,
+                  "value": 13,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ff8e44",
-                  "lightMode": "#F4742A",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Bryne",
-                "rank": 2,
-                "teamId": 8531,
-                "teamName": "Bryne",
-                "value": 47,
-                "stat": {
-                  "name": "total_yel_card_team",
-                  "value": 47,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#EF4941",
-                  "lightMode": "#EF4941",
+                  "darkMode": "#0360ab",
+                  "lightMode": "#002968",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -73332,19 +73603,39 @@
               {
                 "id": 0,
                 "name": "Sandnes Ulf",
-                "rank": 3,
+                "rank": 1,
+                "ccode": "NOR",
                 "teamId": 8133,
-                "teamName": "Sandnes Ulf",
-                "value": 42,
+                "value": 13,
                 "stat": {
                   "name": "total_yel_card_team",
-                  "value": 42,
+                  "value": 13,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
                   "darkMode": "#70b5e9",
                   "lightMode": "#6BB0E4",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Åsane",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 10021,
+                "value": 12,
+                "stat": {
+                  "name": "total_yel_card_team",
+                  "value": 12,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#ff8e44",
+                  "lightMode": "#F4742A",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -73359,14 +73650,14 @@
             "header": "Red cards",
             "participant": {
               "id": 0,
-              "name": "Sogndal",
+              "name": "Åsane",
               "rank": 1,
-              "teamId": 8616,
-              "teamName": "Sogndal",
-              "value": 2,
+              "ccode": "NOR",
+              "teamId": 10021,
+              "value": 1,
               "stat": {
                 "name": "total_red_card_team",
-                "value": 2,
+                "value": 1,
                 "format": "number",
                 "fractions": 0
               }
@@ -73375,20 +73666,20 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Sogndal",
+                "name": "Åsane",
                 "rank": 1,
-                "teamId": 8616,
-                "teamName": "Sogndal",
-                "value": 2,
+                "ccode": "NOR",
+                "teamId": 10021,
+                "value": 1,
                 "stat": {
                   "name": "total_red_card_team",
-                  "value": 2,
+                  "value": 1,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#202020",
+                  "darkMode": "#ff8e44",
+                  "lightMode": "#F4742A",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -73397,12 +73688,12 @@
                 "id": 0,
                 "name": "Moss",
                 "rank": 2,
+                "ccode": "NOR",
                 "teamId": 8405,
-                "teamName": "Moss",
-                "value": 2,
+                "value": 1,
                 "stat": {
                   "name": "total_red_card_team",
-                  "value": 2,
+                  "value": 1,
                   "format": "number",
                   "fractions": 0
                 },
@@ -73415,14 +73706,14 @@
               },
               {
                 "id": 0,
-                "name": "Stroemmen",
+                "name": "Strømmen",
                 "rank": 3,
+                "ccode": "NOR",
                 "teamId": 4249,
-                "teamName": "Stroemmen",
-                "value": 2,
+                "value": 1,
                 "stat": {
                   "name": "total_red_card_team",
-                  "value": 2,
+                  "value": 1,
                   "format": "number",
                   "fractions": 0
                 },
