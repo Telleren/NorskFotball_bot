@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:46:12.059090+00:00",
+  "generated_at": "2026-09-16T17:06:32.079109+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -107077,6 +107077,68 @@
             "seeAllLink": "/leagues/206/stats/season/38067/players/goals/cup"
           },
           "byAssists": {
+            "players": [
+              {
+                "id": 1046177,
+                "name": "Halvard Urnes",
+                "teamId": 7937,
+                "teamName": "Hoedd",
+                "assists": 2,
+                "value": 2,
+                "stat": {
+                  "name": "assists",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#32528a",
+                  "lightMode": "#1D4278",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1631794,
+                "name": "Isaac Barnett",
+                "teamId": 10224,
+                "teamName": "Lyn",
+                "assists": 2,
+                "value": 2,
+                "stat": {
+                  "name": "assists",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#A30013",
+                  "lightMode": "#A30013",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1562734,
+                "name": "Almar Gjerd Grindhaug",
+                "teamId": 8512,
+                "teamName": "FK Haugesund",
+                "assists": 1,
+                "value": 1,
+                "stat": {
+                  "name": "assists",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0360ab",
+                  "lightMode": "#002968",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
             "seeAllLink": "/leagues/206/stats/season/38067/players/goal_assist/cup"
           },
           "seeAllUrl": "stats"
@@ -109702,17 +109764,17 @@
             "opponent": {
               "id": "6539",
               "name": "Førde",
-              "score": 0
+              "score": 2
             },
             "home": {
               "id": "6539",
               "name": "Førde",
-              "score": 0
+              "score": 2
             },
             "away": {
               "id": "8404",
               "name": "Aalesund",
-              "score": 0
+              "score": 2
             },
             "displayTournament": true,
             "notStarted": true,
@@ -109721,13 +109783,27 @@
             },
             "status": {
               "utcTime": "2026-09-16T15:00:00.000Z",
+              "numberOfAwayRedCards": 1,
               "halfs": {
-                "firstHalfStarted": "16.09.2026 17:00:00"
+                "firstHalfStarted": "16.09.2026 17:02:18",
+                "secondHalfStarted": "16.09.2026 18:07:35",
+                "firstExtraHalfStarted": "16.09.2026 19:01:29"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "2 - 2",
+              "liveTime": {
+                "short": "93‎’‎",
+                "shortKey": "",
+                "long": "92:00",
+                "longKey": "",
+                "maxTime": 105,
+                "basePeriod": 105,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -109736,17 +109812,17 @@
             "opponent": {
               "id": "8353",
               "name": "Alta",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "8353",
               "name": "Alta",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8608",
               "name": "Tromsø",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -109756,12 +109832,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:46"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -109790,12 +109877,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:41",
+                "secondHalfStarted": "16.09.2026 19:02:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:25",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -109824,12 +109923,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:34"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -109838,17 +109948,17 @@
             "opponent": {
               "id": "47403",
               "name": "Brattvåg",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "47403",
               "name": "Brattvåg",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8605",
               "name": "Kristiansund",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -109858,12 +109968,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:25",
+                "secondHalfStarted": "16.09.2026 19:02:08"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:21",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -109882,7 +110004,7 @@
             "away": {
               "id": "9812",
               "name": "Raufoss",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -109892,12 +110014,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:06"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -109906,12 +110039,12 @@
             "opponent": {
               "id": "6543",
               "name": "Fløya",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "6543",
               "name": "Fløya",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8422",
@@ -109926,12 +110059,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:05",
+                "secondHalfStarted": "16.09.2026 19:02:54"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 0",
+              "liveTime": {
+                "short": "46‎’‎",
+                "shortKey": "",
+                "long": "45:35",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -109940,17 +110085,17 @@
             "opponent": {
               "id": "1352625",
               "name": "Gamle Oslo",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "1352625",
               "name": "Gamle Oslo",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "10224",
               "name": "Lyn",
-              "score": 0
+              "score": 3
             },
             "displayTournament": true,
             "notStarted": true,
@@ -109960,12 +110105,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:22",
+                "secondHalfStarted": "16.09.2026 19:03:01"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 3",
+              "liveTime": {
+                "short": "46‎’‎",
+                "shortKey": "",
+                "long": "45:28",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -109974,17 +110131,17 @@
             "opponent": {
               "id": "2303",
               "name": "Jerv",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "2303",
               "name": "Jerv",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "4722",
               "name": "Egersund",
-              "score": 0
+              "score": 2
             },
             "displayTournament": true,
             "notStarted": true,
@@ -109994,12 +110151,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:20",
+                "secondHalfStarted": "16.09.2026 19:00:40"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 2",
+              "liveTime": {
+                "short": "48‎’‎",
+                "shortKey": "",
+                "long": "47:49",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110018,7 +110187,7 @@
             "away": {
               "id": "8448",
               "name": "HamKam",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -110028,12 +110197,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:47"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110052,7 +110232,7 @@
             "away": {
               "id": "6563",
               "name": "Ranheim",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -110062,12 +110242,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:59"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110076,17 +110267,17 @@
             "opponent": {
               "id": "9929",
               "name": "Notodden",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "9929",
               "name": "Notodden",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "7988",
               "name": "Odd",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -110096,12 +110287,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:43"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110110,12 +110312,12 @@
             "opponent": {
               "id": "2313",
               "name": "Os",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "2313",
               "name": "Os",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8468",
@@ -110130,12 +110332,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:45"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 0",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110164,12 +110377,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:13",
+                "secondHalfStarted": "16.09.2026 19:01:35"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:54",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110178,17 +110403,17 @@
             "opponent": {
               "id": "6242",
               "name": "Sandviken",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "6242",
               "name": "Sandviken",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "10021",
               "name": "Åsane",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -110198,12 +110423,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 17:58:16",
+                "secondHalfStarted": "16.09.2026 18:58:52"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "50‎’‎",
+                "shortKey": "",
+                "long": "49:37",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110222,7 +110459,7 @@
             "away": {
               "id": "8616",
               "name": "Sogndal",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -110232,12 +110469,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:09",
+                "secondHalfStarted": "16.09.2026 19:03:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "46‎’‎",
+                "shortKey": "",
+                "long": "45:25",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110266,12 +110515,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:10",
+                "secondHalfStarted": "16.09.2026 19:01:36"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:53",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110290,7 +110551,7 @@
             "away": {
               "id": "7937",
               "name": "Hødd",
-              "score": 0
+              "score": 2
             },
             "displayTournament": true,
             "notStarted": true,
@@ -110300,12 +110561,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:10"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 2",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110324,7 +110596,7 @@
             "away": {
               "id": "9917",
               "name": "Molde",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -110334,12 +110606,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:00",
+                "secondHalfStarted": "16.09.2026 19:01:39"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:50",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -110348,17 +110632,17 @@
             "opponent": {
               "id": "4289",
               "name": "Vindbjart",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "4289",
               "name": "Vindbjart",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "9919",
               "name": "Start",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -110368,12 +110652,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:28"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -114499,6 +114794,8 @@
                   "drawOrder": 4,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Førde",
                   "awayTeam": "Aalesund",
                   "homeTeamShortName": "FØR",
@@ -114526,9 +114823,20 @@
                       "status": {
                         "utcTime": "2026-09-16T13:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114545,6 +114853,8 @@
                   "drawOrder": 5,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Alta",
                   "awayTeam": "Tromsø",
                   "homeTeamShortName": "ALT",
@@ -114572,9 +114882,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114591,6 +114912,8 @@
                   "drawOrder": 6,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Fløya",
                   "awayTeam": "Rosenborg",
                   "homeTeamShortName": "FLØ",
@@ -114618,9 +114941,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114637,6 +114971,8 @@
                   "drawOrder": 7,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Levanger",
                   "awayTeam": "Ranheim",
                   "homeTeamShortName": "LEV",
@@ -114664,9 +115000,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114683,6 +115030,8 @@
                   "drawOrder": 8,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Stjørdals Blink",
                   "awayTeam": "Fredrikstad",
                   "homeTeamShortName": "STB",
@@ -114710,9 +115059,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114729,6 +115089,8 @@
                   "drawOrder": 9,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Trygg/Lade",
                   "awayTeam": "Molde",
                   "homeTeamShortName": "TGL",
@@ -114756,9 +115118,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114775,6 +115148,8 @@
                   "drawOrder": 10,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Brattvåg",
                   "awayTeam": "Kristiansund",
                   "homeTeamShortName": "BRA",
@@ -114802,9 +115177,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114821,6 +115207,8 @@
                   "drawOrder": 11,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Træff",
                   "awayTeam": "Hødd",
                   "homeTeamShortName": "TRA",
@@ -114848,9 +115236,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114867,6 +115266,8 @@
                   "drawOrder": 12,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Sotra Sportsklubb",
                   "awayTeam": "Sogndal",
                   "homeTeamShortName": "SOS",
@@ -114894,9 +115295,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114913,6 +115325,8 @@
                   "drawOrder": 13,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Sandviken",
                   "awayTeam": "Åsane",
                   "homeTeamShortName": "SAN",
@@ -114940,9 +115354,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -114959,6 +115384,8 @@
                   "drawOrder": 14,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Bjarg",
                   "awayTeam": "Bryne",
                   "homeTeamShortName": "BJA",
@@ -114986,9 +115413,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115005,6 +115443,8 @@
                   "drawOrder": 15,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Jerv",
                   "awayTeam": "Egersund",
                   "homeTeamShortName": "JER",
@@ -115032,9 +115472,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115051,6 +115502,8 @@
                   "drawOrder": 16,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Arendal Fotball",
                   "awayTeam": "Sandnes Ulf",
                   "homeTeamShortName": "ARF",
@@ -115078,9 +115531,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115097,6 +115561,8 @@
                   "drawOrder": 17,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Pors",
                   "awayTeam": "Stabæk",
                   "homeTeamShortName": "POR",
@@ -115124,9 +115590,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115143,6 +115620,8 @@
                   "drawOrder": 18,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Notodden",
                   "awayTeam": "Odds Ballklubb",
                   "homeTeamShortName": "NOT",
@@ -115170,9 +115649,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115189,6 +115679,8 @@
                   "drawOrder": 19,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Elverum",
                   "awayTeam": "Raufoss",
                   "homeTeamShortName": "ELV",
@@ -115216,9 +115708,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115235,6 +115738,8 @@
                   "drawOrder": 20,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Kjelsås",
                   "awayTeam": "Hamarkameratene",
                   "homeTeamShortName": "KJE",
@@ -115262,9 +115767,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115281,6 +115797,8 @@
                   "drawOrder": 21,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Gamle Oslo",
                   "awayTeam": "Lyn",
                   "homeTeamShortName": "GAM",
@@ -115308,9 +115826,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "1‎’‎",
+                          "shortKey": "",
+                          "long": "00:01",
+                          "longKey": "",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115327,6 +115856,8 @@
                   "drawOrder": 22,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Os",
                   "awayTeam": "Brann",
                   "homeTeamShortName": "OS",
@@ -115354,9 +115885,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -115373,6 +115915,8 @@
                   "drawOrder": 23,
                   "stage": "2",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Vindbjart",
                   "awayTeam": "Start",
                   "homeTeamShortName": "VIN",
@@ -115400,9 +115944,20 @@
                       "status": {
                         "utcTime": "2026-09-16T14:00:00.000Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": false,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "ongoing": true,
+                        "scoreStr": "0 - 0",
+                        "liveTime": {
+                          "short": "HT",
+                          "shortKey": "halftime_short",
+                          "long": "Half-Time",
+                          "longKey": "pause_match",
+                          "maxTime": 90,
+                          "basePeriod": 90,
+                          "addedTime": 0
+                        }
                       }
                     }
                   ],
@@ -117941,13 +118496,27 @@
               },
               "status": {
                 "utcTime": "2026-09-16T15:00:00.000Z",
+                "numberOfAwayRedCards": 1,
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 17:00:00"
+                  "firstHalfStarted": "16.09.2026 17:02:18",
+                  "secondHalfStarted": "16.09.2026 18:07:35",
+                  "firstExtraHalfStarted": "16.09.2026 19:01:29"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "2 - 2",
+                "liveTime": {
+                  "short": "93‎’‎",
+                  "shortKey": "",
+                  "long": "92:00",
+                  "longKey": "",
+                  "maxTime": 105,
+                  "basePeriod": 105,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -117968,12 +118537,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:00:46"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 1",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -117994,12 +118574,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:00:41",
+                  "secondHalfStarted": "16.09.2026 19:02:04"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "47‎’‎",
+                  "shortKey": "",
+                  "long": "46:25",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118020,12 +118612,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:02:34"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118046,12 +118649,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:00:25",
+                  "secondHalfStarted": "16.09.2026 19:02:08"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 1",
+                "liveTime": {
+                  "short": "47‎’‎",
+                  "shortKey": "",
+                  "long": "46:21",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118072,12 +118687,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:02:06"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 1",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118098,12 +118724,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:01:05",
+                  "secondHalfStarted": "16.09.2026 19:02:54"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 0",
+                "liveTime": {
+                  "short": "46‎’‎",
+                  "shortKey": "",
+                  "long": "45:35",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118124,12 +118762,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:01:22",
+                  "secondHalfStarted": "16.09.2026 19:03:01"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 3",
+                "liveTime": {
+                  "short": "46‎’‎",
+                  "shortKey": "",
+                  "long": "45:28",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118150,12 +118800,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:00:20",
+                  "secondHalfStarted": "16.09.2026 19:00:40"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 2",
+                "liveTime": {
+                  "short": "48‎’‎",
+                  "shortKey": "",
+                  "long": "47:49",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118176,12 +118838,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:01:47"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 1",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118202,12 +118875,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:01:59"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 1",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118228,12 +118912,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:00:43"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 1",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118254,12 +118949,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:01:45"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 0",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118280,12 +118986,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:02:13",
+                  "secondHalfStarted": "16.09.2026 19:01:35"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "47‎’‎",
+                  "shortKey": "",
+                  "long": "46:54",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118306,12 +119024,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 17:58:16",
+                  "secondHalfStarted": "16.09.2026 18:58:52"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 1",
+                "liveTime": {
+                  "short": "50‎’‎",
+                  "shortKey": "",
+                  "long": "49:37",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118332,12 +119062,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:02:09",
+                  "secondHalfStarted": "16.09.2026 19:03:04"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 1",
+                "liveTime": {
+                  "short": "46‎’‎",
+                  "shortKey": "",
+                  "long": "45:25",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118358,12 +119100,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:02:10",
+                  "secondHalfStarted": "16.09.2026 19:01:36"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "47‎’‎",
+                  "shortKey": "",
+                  "long": "46:53",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118384,12 +119138,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:01:10"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 2",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118410,12 +119175,24 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:00:00",
+                  "secondHalfStarted": "16.09.2026 19:01:39"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 1",
+                "liveTime": {
+                  "short": "47‎’‎",
+                  "shortKey": "",
+                  "long": "46:50",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -118436,12 +119213,23 @@
               "status": {
                 "utcTime": "2026-09-16T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "16.09.2026 18:00:00"
+                  "firstHalfStarted": "16.09.2026 18:01:28"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 1",
+                "liveTime": {
+                  "short": "HT",
+                  "shortKey": "halftime_short",
+                  "long": "Half-Time",
+                  "longKey": "pause_match",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -119276,6 +120064,174 @@
             "category": "Top Stat"
           },
           {
+            "header": "Assists",
+            "participant": {
+              "id": 1046177,
+              "name": "Halvard Urnes",
+              "rank": 1,
+              "teamId": 7937,
+              "teamName": "Hoedd",
+              "value": 2,
+              "stat": {
+                "name": "goal_assist",
+                "value": 2,
+                "format": "number",
+                "fractions": 0
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/goal_assist.json",
+            "topThree": [
+              {
+                "id": 1046177,
+                "name": "Halvard Urnes",
+                "rank": 1,
+                "teamId": 7937,
+                "teamName": "Hoedd",
+                "value": 2,
+                "stat": {
+                  "name": "goal_assist",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#32528a",
+                  "lightMode": "#1D4278",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1631794,
+                "name": "Isaac Barnett",
+                "rank": 1,
+                "teamId": 10224,
+                "teamName": "Lyn",
+                "value": 2,
+                "stat": {
+                  "name": "goal_assist",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#A30013",
+                  "lightMode": "#A30013",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1562734,
+                "name": "Almar Gjerd Grindhaug",
+                "rank": 3,
+                "teamId": 8512,
+                "teamName": "FK Haugesund",
+                "value": 1,
+                "stat": {
+                  "name": "goal_assist",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0360ab",
+                  "lightMode": "#002968",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 2,
+            "name": "goal_assist",
+            "localizedTitleId": "goal_assist_title",
+            "category": "Top Stat"
+          },
+          {
+            "header": "Goals + Assists",
+            "participant": {
+              "id": 1680371,
+              "name": "Angelos Chaminta Ntiso",
+              "rank": 1,
+              "teamId": 8179,
+              "teamName": "Kongsvinger",
+              "value": 4,
+              "stat": {
+                "name": "_goals_and_goal_assist",
+                "value": 4,
+                "format": "number",
+                "fractions": 0
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/_goals_and_goal_assist.json",
+            "topThree": [
+              {
+                "id": 1680371,
+                "name": "Angelos Chaminta Ntiso",
+                "rank": 1,
+                "teamId": 8179,
+                "teamName": "Kongsvinger",
+                "value": 4,
+                "stat": {
+                  "name": "_goals_and_goal_assist",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#D42027",
+                  "lightMode": "#D42027",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1359648,
+                "name": "Didrik Hafstad",
+                "rank": 1,
+                "teamId": 8617,
+                "teamName": "Tromsdalen",
+                "value": 4,
+                "stat": {
+                  "name": "_goals_and_goal_assist",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0080C6",
+                  "lightMode": "#0080C6",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1321578,
+                "name": "Elias Heggland Myrlid",
+                "rank": 1,
+                "teamId": 8404,
+                "teamName": "Aalesund",
+                "value": 4,
+                "stat": {
+                  "name": "_goals_and_goal_assist",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#eb7805",
+                  "lightMode": "#eb7805",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 3,
+            "name": "_goals_and_goal_assist",
+            "localizedTitleId": "goals_and_assists",
+            "category": "Top Stat"
+          },
+          {
             "header": "Yellow cards",
             "participant": {
               "id": 1737708,
@@ -119334,11 +120290,11 @@
                 }
               },
               {
-                "id": 1053639,
-                "name": "Erik Hejer",
+                "id": 1321578,
+                "name": "Elias Heggland Myrlid",
                 "rank": 1,
-                "teamId": 8180,
-                "teamName": "Stroemsgodset",
+                "teamId": 8404,
+                "teamName": "Aalesund",
                 "value": 1,
                 "stat": {
                   "name": "yellow_card",
@@ -119347,8 +120303,8 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#24558e",
-                  "lightMode": "#084878",
+                  "darkMode": "#eb7805",
+                  "lightMode": "#eb7805",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -119505,20 +120461,20 @@
               },
               {
                 "id": 0,
-                "name": "Aalesund",
+                "name": "Eidsvold TF",
                 "rank": 3,
-                "teamId": 8404,
-                "teamName": "Aalesund",
-                "value": 13,
+                "teamId": 8292,
+                "teamName": "Eidsvold TF",
+                "value": 7,
                 "stat": {
                   "name": "goals_team_match",
-                  "value": 13,
+                  "value": 7,
                   "format": "fraction",
                   "fractions": 1
                 },
                 "teamColors": {
-                  "darkMode": "#eb7805",
-                  "lightMode": "#eb7805",
+                  "darkMode": "#01589E",
+                  "lightMode": "#01589E",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -119621,10 +120577,10 @@
               "rank": 1,
               "teamId": 8404,
               "teamName": "Aalesund",
-              "value": 1,
+              "value": 2,
               "stat": {
                 "name": "clean_sheet_team",
-                "value": 1,
+                "value": 2,
                 "format": "number",
                 "fractions": 0
               }
@@ -119637,10 +120593,10 @@
                 "rank": 1,
                 "teamId": 8404,
                 "teamName": "Aalesund",
-                "value": 1,
+                "value": 2,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 1,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
@@ -119657,10 +120613,10 @@
                 "rank": 1,
                 "teamId": 10021,
                 "teamName": "Åsane",
-                "value": 1,
+                "value": 2,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 1,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
@@ -119673,20 +120629,20 @@
               },
               {
                 "id": 0,
-                "name": "Bærum",
+                "name": "Brann",
                 "rank": 1,
-                "teamId": 8137,
-                "teamName": "Bærum",
-                "value": 1,
+                "teamId": 8468,
+                "teamName": "Brann",
+                "value": 2,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 1,
+                  "value": 2,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#585000",
-                  "lightMode": "#585000",
+                  "darkMode": "#DE1215",
+                  "lightMode": "#DE1215",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -119841,10 +120797,10 @@
               },
               {
                 "id": 0,
-                "name": "Baerum",
+                "name": "Brann",
                 "rank": 1,
-                "teamId": 8137,
-                "teamName": "Baerum",
+                "teamId": 8468,
+                "teamName": "Brann",
                 "value": 0,
                 "stat": {
                   "name": "_set_piece_goals_conceded_team",
@@ -119853,8 +120809,8 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#585000",
-                  "lightMode": "#585000",
+                  "darkMode": "#DE1215",
+                  "lightMode": "#DE1215",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -119989,8 +120945,28 @@
               },
               {
                 "id": 0,
-                "name": "Fauske/Sprint",
+                "name": "Aalesund",
                 "rank": 2,
+                "teamId": 8404,
+                "teamName": "Aalesund",
+                "value": 1,
+                "stat": {
+                  "name": "total_red_card_team",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#eb7805",
+                  "lightMode": "#eb7805",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Fauske/Sprint",
+                "rank": 3,
                 "teamId": 4325,
                 "teamName": "Fauske/Sprint",
                 "value": 1,
@@ -120003,26 +120979,6 @@
                 "teamColors": {
                   "darkMode": "#09187A",
                   "lightMode": "#09187A",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Skeid",
-                "rank": 2,
-                "teamId": 8421,
-                "teamName": "Skeid",
-                "value": 1,
-                "stat": {
-                  "name": "total_red_card_team",
-                  "value": 1,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#DB1D11",
-                  "lightMode": "#DB1D11",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -122274,13 +123230,27 @@
             },
             "status": {
               "utcTime": "2026-09-16T15:00:00.000Z",
+              "numberOfAwayRedCards": 1,
               "halfs": {
-                "firstHalfStarted": "16.09.2026 17:00:00"
+                "firstHalfStarted": "16.09.2026 17:02:18",
+                "secondHalfStarted": "16.09.2026 18:07:35",
+                "firstExtraHalfStarted": "16.09.2026 19:01:29"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "2 - 2",
+              "liveTime": {
+                "short": "93‎’‎",
+                "shortKey": "",
+                "long": "92:00",
+                "longKey": "",
+                "maxTime": 105,
+                "basePeriod": 105,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122301,12 +123271,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:46"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122327,12 +123308,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:41",
+                "secondHalfStarted": "16.09.2026 19:02:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:25",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122353,12 +123346,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:34"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122379,12 +123383,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:25",
+                "secondHalfStarted": "16.09.2026 19:02:08"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:21",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122405,12 +123421,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:06"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122431,12 +123458,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:05",
+                "secondHalfStarted": "16.09.2026 19:02:54"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 0",
+              "liveTime": {
+                "short": "46‎’‎",
+                "shortKey": "",
+                "long": "45:35",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122457,12 +123496,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:22",
+                "secondHalfStarted": "16.09.2026 19:03:01"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 3",
+              "liveTime": {
+                "short": "46‎’‎",
+                "shortKey": "",
+                "long": "45:28",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122483,12 +123534,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:20",
+                "secondHalfStarted": "16.09.2026 19:00:40"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 2",
+              "liveTime": {
+                "short": "48‎’‎",
+                "shortKey": "",
+                "long": "47:49",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122509,12 +123572,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:47"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122535,12 +123609,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:59"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122561,12 +123646,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:43"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122587,12 +123683,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:45"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 0",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122613,12 +123720,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:13",
+                "secondHalfStarted": "16.09.2026 19:01:35"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:54",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122639,12 +123758,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 17:58:16",
+                "secondHalfStarted": "16.09.2026 18:58:52"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "50‎’‎",
+                "shortKey": "",
+                "long": "49:37",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122665,12 +123796,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:09",
+                "secondHalfStarted": "16.09.2026 19:03:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "46‎’‎",
+                "shortKey": "",
+                "long": "45:25",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122691,12 +123834,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:02:10",
+                "secondHalfStarted": "16.09.2026 19:01:36"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:53",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122717,12 +123872,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:10"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 2",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122743,12 +123909,24 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:00:00",
+                "secondHalfStarted": "16.09.2026 19:01:39"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 1",
+              "liveTime": {
+                "short": "47‎’‎",
+                "shortKey": "",
+                "long": "46:50",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -122769,12 +123947,23 @@
             "status": {
               "utcTime": "2026-09-16T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "16.09.2026 18:00:00"
+                "firstHalfStarted": "16.09.2026 18:01:28"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 1",
+              "liveTime": {
+                "short": "HT",
+                "shortKey": "halftime_short",
+                "long": "Half-Time",
+                "longKey": "pause_match",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -127359,6 +128548,8 @@
                 "drawOrder": 4,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Førde",
                 "awayTeam": "Aalesund",
                 "homeTeamShortName": "FØR",
@@ -127386,9 +128577,20 @@
                     "status": {
                       "utcTime": "2026-09-16T13:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127405,6 +128607,8 @@
                 "drawOrder": 5,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Alta",
                 "awayTeam": "Tromsø",
                 "homeTeamShortName": "ALT",
@@ -127432,9 +128636,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127451,6 +128666,8 @@
                 "drawOrder": 6,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Fløya",
                 "awayTeam": "Rosenborg",
                 "homeTeamShortName": "FLØ",
@@ -127478,9 +128695,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127497,6 +128725,8 @@
                 "drawOrder": 7,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Levanger",
                 "awayTeam": "Ranheim",
                 "homeTeamShortName": "LEV",
@@ -127524,9 +128754,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127543,6 +128784,8 @@
                 "drawOrder": 8,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Stjørdals Blink",
                 "awayTeam": "Fredrikstad",
                 "homeTeamShortName": "STB",
@@ -127570,9 +128813,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127589,6 +128843,8 @@
                 "drawOrder": 9,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Trygg/Lade",
                 "awayTeam": "Molde",
                 "homeTeamShortName": "TGL",
@@ -127616,9 +128872,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127635,6 +128902,8 @@
                 "drawOrder": 10,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Brattvåg",
                 "awayTeam": "Kristiansund",
                 "homeTeamShortName": "BRA",
@@ -127662,9 +128931,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127681,6 +128961,8 @@
                 "drawOrder": 11,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Træff",
                 "awayTeam": "Hødd",
                 "homeTeamShortName": "TRA",
@@ -127708,9 +128990,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127727,6 +129020,8 @@
                 "drawOrder": 12,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Sotra Sportsklubb",
                 "awayTeam": "Sogndal",
                 "homeTeamShortName": "SOS",
@@ -127754,9 +129049,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127773,6 +129079,8 @@
                 "drawOrder": 13,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Sandviken",
                 "awayTeam": "Åsane",
                 "homeTeamShortName": "SAN",
@@ -127800,9 +129108,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127819,6 +129138,8 @@
                 "drawOrder": 14,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Bjarg",
                 "awayTeam": "Bryne",
                 "homeTeamShortName": "BJA",
@@ -127846,9 +129167,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127865,6 +129197,8 @@
                 "drawOrder": 15,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Jerv",
                 "awayTeam": "Egersund",
                 "homeTeamShortName": "JER",
@@ -127892,9 +129226,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127911,6 +129256,8 @@
                 "drawOrder": 16,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Arendal Fotball",
                 "awayTeam": "Sandnes Ulf",
                 "homeTeamShortName": "ARF",
@@ -127938,9 +129285,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -127957,6 +129315,8 @@
                 "drawOrder": 17,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Pors",
                 "awayTeam": "Stabæk",
                 "homeTeamShortName": "POR",
@@ -127984,9 +129344,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -128003,6 +129374,8 @@
                 "drawOrder": 18,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Notodden",
                 "awayTeam": "Odds Ballklubb",
                 "homeTeamShortName": "NOT",
@@ -128030,9 +129403,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -128049,6 +129433,8 @@
                 "drawOrder": 19,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Elverum",
                 "awayTeam": "Raufoss",
                 "homeTeamShortName": "ELV",
@@ -128076,9 +129462,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -128095,6 +129492,8 @@
                 "drawOrder": 20,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Kjelsås",
                 "awayTeam": "Hamarkameratene",
                 "homeTeamShortName": "KJE",
@@ -128122,9 +129521,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -128141,6 +129551,8 @@
                 "drawOrder": 21,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Gamle Oslo",
                 "awayTeam": "Lyn",
                 "homeTeamShortName": "GAM",
@@ -128168,9 +129580,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "1‎’‎",
+                        "shortKey": "",
+                        "long": "00:01",
+                        "longKey": "",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -128187,6 +129610,8 @@
                 "drawOrder": 22,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Os",
                 "awayTeam": "Brann",
                 "homeTeamShortName": "OS",
@@ -128214,9 +129639,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
@@ -128233,6 +129669,8 @@
                 "drawOrder": 23,
                 "stage": "2",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Vindbjart",
                 "awayTeam": "Start",
                 "homeTeamShortName": "VIN",
@@ -128260,9 +129698,20 @@
                     "status": {
                       "utcTime": "2026-09-16T14:00:00.000Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": false,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "ongoing": true,
+                      "scoreStr": "0 - 0",
+                      "liveTime": {
+                        "short": "HT",
+                        "shortKey": "halftime_short",
+                        "long": "Half-Time",
+                        "longKey": "pause_match",
+                        "maxTime": 90,
+                        "basePeriod": 90,
+                        "addedTime": 0
+                      }
                     }
                   }
                 ],
