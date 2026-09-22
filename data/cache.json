@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:47:57.014445+00:00",
+  "generated_at": "2026-09-22T17:03:49.227077+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1406,13 +1406,13 @@
                   "pts": 25,
                   "teamId": 8509,
                   "teamName": "Sarpsborg 08",
-                  "xg": 34.05190001428127,
-                  "xgConceded": 31.303699672222137,
-                  "xPoints": 30.83035981508218,
+                  "xg": 33.73809991776943,
+                  "xgConceded": 31.669899702072144,
+                  "xPoints": 30.41736681624392,
                   "position": 6,
-                  "xgDiff": -10.051900014281273,
-                  "xgConcededDiff": -2.3036996722221375,
-                  "xPointsDiff": -5.830359815082179,
+                  "xgDiff": -9.738099917769432,
+                  "xgConcededDiff": -2.6698997020721436,
+                  "xPointsDiff": -5.41736681624392,
                   "xPosition": 6,
                   "idx": 6,
                   "xPositionDiff": 3,
@@ -1635,6 +1635,33 @@
                   "qualColor": "#FFA72F"
                 },
                 {
+                  "name": "KFUM",
+                  "shortName": "KFUM",
+                  "id": 2305,
+                  "pageUrl": "/teams/2305/overview/kfum",
+                  "ongoing": null,
+                  "played": 21,
+                  "wins": 7,
+                  "draws": 4,
+                  "losses": 10,
+                  "scoresStr": "25-35",
+                  "goalConDiff": -10,
+                  "pts": 25,
+                  "teamId": 2305,
+                  "teamName": "KFUM",
+                  "xg": 25.25080020725727,
+                  "xgConceded": 39.49649974703789,
+                  "xPoints": 20.603396590911395,
+                  "position": 15,
+                  "xgDiff": -0.2508002072572708,
+                  "xgConcededDiff": -4.496499747037888,
+                  "xPointsDiff": 4.3966034090886055,
+                  "xPosition": 15,
+                  "idx": 15,
+                  "xPositionDiff": -5,
+                  "qualColor": "#FF4646"
+                },
+                {
                   "name": "Fredrikstad",
                   "shortName": "Fredrikstad",
                   "id": 8417,
@@ -1652,40 +1679,13 @@
                   "xg": 24.363000005483627,
                   "xgConceded": 39.50810043513775,
                   "xPoints": 20.467865972190044,
-                  "position": 15,
+                  "position": 16,
                   "xgDiff": 0.6369999945163727,
                   "xgConcededDiff": -7.508100435137749,
                   "xPointsDiff": 7.532134027809956,
-                  "xPosition": 15,
-                  "idx": 15,
-                  "xPositionDiff": -7,
-                  "qualColor": "#FF4646"
-                },
-                {
-                  "name": "KFUM",
-                  "shortName": "KFUM",
-                  "id": 2305,
-                  "pageUrl": "/teams/2305/overview/kfum",
-                  "ongoing": null,
-                  "played": 21,
-                  "wins": 7,
-                  "draws": 4,
-                  "losses": 10,
-                  "scoresStr": "25-35",
-                  "goalConDiff": -10,
-                  "pts": 25,
-                  "teamId": 2305,
-                  "teamName": "KFUM",
-                  "xg": 24.884600177407265,
-                  "xgConceded": 39.81029984354973,
-                  "xPoints": 20.254165272592143,
-                  "position": 16,
-                  "xgDiff": 0.11539982259273529,
-                  "xgConcededDiff": -4.810299843549728,
-                  "xPointsDiff": 4.745834727407857,
                   "xPosition": 16,
                   "idx": 16,
-                  "xPositionDiff": -6,
+                  "xPositionDiff": -8,
                   "qualColor": "#FF4646"
                 }
               ]
@@ -4509,7 +4509,7 @@
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-09-18T15:38:51Z",
+            "transferDate": "2026-09-18T13:38:51Z",
             "transferText": [
               null,
               null,
@@ -4532,8 +4532,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-18T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-17T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 646290
           },
           {
@@ -4543,7 +4543,7 @@
               "label": "AM",
               "key": "centerattackingmidfielder_short"
             },
-            "transferDate": "2026-09-13T11:08:17Z",
+            "transferDate": "2026-09-13T09:08:17Z",
             "transferText": [
               null,
               null,
@@ -4566,15 +4566,15 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-12T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-11T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 831602
           },
           {
             "name": "Mathias Svenningsen-Grønn",
             "playerId": 1656393,
             "position": null,
-            "transferDate": "2026-09-12T10:19:36Z",
+            "transferDate": "2026-09-12T08:19:36Z",
             "transferText": [
               null,
               null,
@@ -4597,8 +4597,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-11T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-10T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 657288
           },
           {
@@ -4608,7 +4608,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-12T10:18:33Z",
+            "transferDate": "2026-09-12T08:18:33Z",
             "transferText": [
               null,
               null,
@@ -4631,8 +4631,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-11T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-10T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 2037218
           },
           {
@@ -4642,7 +4642,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-09-12T10:17:18Z",
+            "transferDate": "2026-09-12T08:17:18Z",
             "transferText": [
               null,
               null,
@@ -4665,18 +4665,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-11T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-10T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 178844
           },
           {
             "name": "Håvard Nielsen",
             "playerId": 171548,
             "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
+              "label": "ST",
+              "key": "striker_short"
             },
-            "transferDate": "2026-09-12T10:16:34Z",
+            "transferDate": "2026-09-12T08:16:34Z",
             "transferText": [
               null,
               null,
@@ -4699,18 +4699,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-11T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-10T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 179578
           },
           {
             "name": "Stefano Holmquist Vecchia",
             "playerId": 493159,
             "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
+              "label": "ST",
+              "key": "striker_short"
             },
-            "transferDate": "2026-09-10T10:48:10Z",
+            "transferDate": "2026-09-10T08:48:10Z",
             "transferText": [
               null,
               null,
@@ -4733,8 +4733,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-10T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-09T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 422867
           },
           {
@@ -4744,7 +4744,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-09-04T19:18:27Z",
+            "transferDate": "2026-09-04T17:18:27Z",
             "transferText": [
               null,
               null,
@@ -4767,18 +4767,18 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-04T00:00:00Z",
-            "toDate": "2027-06-30T00:00:00Z",
+            "fromDate": "2026-09-03T22:00:00Z",
+            "toDate": "2027-06-29T22:00:00Z",
             "marketValue": 717034
           },
           {
             "name": "Marius Elvius",
             "playerId": 1081684,
             "position": {
-              "label": "LWB",
-              "key": "left_wing_back_short"
+              "label": "LM",
+              "key": "leftmidfielder_short"
             },
-            "transferDate": "2026-09-03T10:48:34Z",
+            "transferDate": "2026-09-03T08:48:34Z",
             "transferText": [
               null,
               null,
@@ -4802,7 +4802,7 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
             "toDate": null,
             "marketValue": 641883
           },
@@ -4813,7 +4813,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-09-03T10:48:16Z",
+            "transferDate": "2026-09-03T08:48:16Z",
             "transferText": [
               null,
               null,
@@ -4837,8 +4837,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
             "marketValue": null
           },
           {
@@ -4848,7 +4848,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-09-03T10:46:42Z",
+            "transferDate": "2026-09-03T08:46:42Z",
             "transferText": [
               null,
               null,
@@ -4872,8 +4872,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 160566
           },
           {
@@ -4883,7 +4883,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-03T10:42:48Z",
+            "transferDate": "2026-09-03T08:42:48Z",
             "transferText": [
               null,
               null,
@@ -4907,8 +4907,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 641678
           },
           {
@@ -4918,7 +4918,7 @@
               "label": "RB",
               "key": "rightback_short"
             },
-            "transferDate": "2026-09-03T10:38:00Z",
+            "transferDate": "2026-09-03T08:38:00Z",
             "transferText": [
               null,
               null,
@@ -4942,8 +4942,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 529667
           },
           {
@@ -4953,7 +4953,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-09-03T10:36:01Z",
+            "transferDate": "2026-09-03T08:36:01Z",
             "transferText": [
               null,
               null,
@@ -4977,8 +4977,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 172896
           },
           {
@@ -4988,7 +4988,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-09-03T10:33:17Z",
+            "transferDate": "2026-09-03T08:33:17Z",
             "transferText": [
               null,
               null,
@@ -5012,8 +5012,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 222826
           },
           {
@@ -5023,7 +5023,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-09-03T10:30:36Z",
+            "transferDate": "2026-09-03T08:30:36Z",
             "transferText": [
               null,
               null,
@@ -5047,8 +5047,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2028-12-30T23:00:00Z",
             "marketValue": 254916
           },
           {
@@ -5058,7 +5058,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-09-03T10:02:28Z",
+            "transferDate": "2026-09-03T08:02:28Z",
             "transferText": [
               null,
               null,
@@ -5081,18 +5081,18 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 280982
           },
           {
             "name": "David Snær Johannsson",
             "playerId": 937004,
             "position": {
-              "label": "ST",
-              "key": "striker_short"
+              "label": "CM",
+              "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-03T09:23:40Z",
+            "transferDate": "2026-09-03T07:23:40Z",
             "transferText": [
               null,
               null,
@@ -5115,18 +5115,18 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 422337
           },
           {
             "name": "Moussa Njie",
             "playerId": 441624,
             "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
+              "label": "CM",
+              "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-03T08:53:30Z",
+            "transferDate": "2026-09-03T06:53:30Z",
             "transferText": [
               null,
               null,
@@ -5149,8 +5149,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 276046
           },
           {
@@ -5160,7 +5160,7 @@
               "label": "RW",
               "key": "rightwinger_short"
             },
-            "transferDate": "2026-09-02T22:28:23Z",
+            "transferDate": "2026-09-02T20:28:23Z",
             "transferText": [
               null,
               null,
@@ -5184,8 +5184,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 1207605
           },
           {
@@ -5195,7 +5195,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-09-02T22:26:10Z",
+            "transferDate": "2026-09-02T20:26:10Z",
             "transferText": [
               null,
               null,
@@ -5219,8 +5219,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 2482546
           },
           {
@@ -5230,7 +5230,7 @@
               "label": "AM",
               "key": "centerattackingmidfielder_short"
             },
-            "transferDate": "2026-09-02T19:03:44Z",
+            "transferDate": "2026-09-02T17:03:44Z",
             "transferText": [
               null,
               null,
@@ -5253,7 +5253,7 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
             "toDate": null,
             "marketValue": 188265
           },
@@ -5264,7 +5264,7 @@
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-09-02T14:48:12Z",
+            "transferDate": "2026-09-02T12:48:12Z",
             "transferText": [
               null,
               null,
@@ -5284,8 +5284,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 440255
           },
           {
@@ -5295,7 +5295,7 @@
               "label": "DM",
               "key": "centerdefensivemidfielder_short"
             },
-            "transferDate": "2026-09-02T09:29:28Z",
+            "transferDate": "2026-09-02T07:29:28Z",
             "transferText": [
               null,
               null,
@@ -5318,7 +5318,7 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-01T00:00:00Z",
+            "fromDate": "2026-08-31T22:00:00Z",
             "toDate": null,
             "marketValue": 443969
           },
@@ -5329,7 +5329,7 @@
               "label": "RW",
               "key": "rightwinger_short"
             },
-            "transferDate": "2026-09-02T07:10:13Z",
+            "transferDate": "2026-09-02T05:10:13Z",
             "transferText": [
               null,
               null,
@@ -5349,8 +5349,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-01T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-31T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 846709
           },
           {
@@ -5360,7 +5360,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-01T18:51:47Z",
+            "transferDate": "2026-09-01T16:51:47Z",
             "transferText": [
               null,
               null,
@@ -5383,8 +5383,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 181131
           },
           {
@@ -5394,7 +5394,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-09-01T18:01:25Z",
+            "transferDate": "2026-09-01T16:01:25Z",
             "transferText": [
               null,
               null,
@@ -5417,8 +5417,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 707786
           },
           {
@@ -5428,7 +5428,7 @@
               "label": "RW",
               "key": "rightwinger_short"
             },
-            "transferDate": "2026-09-01T15:32:03Z",
+            "transferDate": "2026-09-01T13:32:03Z",
             "transferText": [
               null,
               null,
@@ -5452,8 +5452,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-01T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-31T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": null
           },
           {
@@ -5463,7 +5463,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-01T15:27:55Z",
+            "transferDate": "2026-09-01T13:27:55Z",
             "transferText": [
               null,
               null,
@@ -5486,8 +5486,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-01T00:00:00Z",
-            "toDate": "2027-01-31T00:00:00Z",
+            "fromDate": "2026-08-31T22:00:00Z",
+            "toDate": "2027-01-30T23:00:00Z",
             "marketValue": 409777
           },
           {
@@ -5497,7 +5497,7 @@
               "label": "DM",
               "key": "centerdefensivemidfielder_short"
             },
-            "transferDate": "2026-09-01T10:37:48Z",
+            "transferDate": "2026-09-01T08:37:48Z",
             "transferText": [
               null,
               null,
@@ -5521,8 +5521,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-31T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-30T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 779755
           },
           {
@@ -5532,7 +5532,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-09-01T09:52:06Z",
+            "transferDate": "2026-09-01T07:52:06Z",
             "transferText": [
               null,
               null,
@@ -5555,8 +5555,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-01T00:00:00Z",
-            "toDate": "2027-06-30T00:00:00Z",
+            "fromDate": "2026-08-31T22:00:00Z",
+            "toDate": "2027-06-29T22:00:00Z",
             "marketValue": 729820
           },
           {
@@ -5566,7 +5566,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-09-01T09:03:47Z",
+            "transferDate": "2026-09-01T07:03:47Z",
             "transferText": [
               null,
               null,
@@ -5589,8 +5589,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-31T00:00:00Z",
-            "toDate": "2026-11-30T00:00:00Z",
+            "fromDate": "2026-08-30T22:00:00Z",
+            "toDate": "2026-11-29T23:00:00Z",
             "marketValue": 214094
           },
           {
@@ -5600,7 +5600,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-01T07:33:42Z",
+            "transferDate": "2026-09-01T05:33:42Z",
             "transferText": [
               null,
               null,
@@ -5620,7 +5620,7 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
             "toDate": null,
             "marketValue": 352348
           },
@@ -5631,7 +5631,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-08-31T13:28:49Z",
+            "transferDate": "2026-08-31T11:28:49Z",
             "transferText": [
               null,
               null,
@@ -5655,8 +5655,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-31T00:00:00Z",
-            "toDate": "2030-06-30T00:00:00Z",
+            "fromDate": "2026-08-30T22:00:00Z",
+            "toDate": "2030-06-29T22:00:00Z",
             "marketValue": 6301947
           },
           {
@@ -5666,7 +5666,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-31T11:07:50Z",
+            "transferDate": "2026-08-31T09:07:50Z",
             "transferText": [
               null,
               null,
@@ -5690,8 +5690,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-31T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-30T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 1544631
           },
           {
@@ -5701,7 +5701,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-31T11:05:45Z",
+            "transferDate": "2026-08-31T09:05:45Z",
             "transferText": [
               null,
               null,
@@ -5724,8 +5724,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 365864
           },
           {
@@ -5735,7 +5735,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-30T15:50:02Z",
+            "transferDate": "2026-08-30T13:50:02Z",
             "transferText": [
               null,
               null,
@@ -5758,8 +5758,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 1697655
           },
           {
@@ -5769,7 +5769,7 @@
               "label": "LM",
               "key": "leftmidfielder_short"
             },
-            "transferDate": "2026-08-30T09:34:52Z",
+            "transferDate": "2026-08-30T07:34:52Z",
             "transferText": [
               null,
               null,
@@ -5792,7 +5792,7 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
             "toDate": null,
             "marketValue": 545952
           },
@@ -5803,7 +5803,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-30T09:34:05Z",
+            "transferDate": "2026-08-30T07:34:05Z",
             "transferText": [
               null,
               null,
@@ -5826,8 +5826,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-30T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-29T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 428270
           },
           {
@@ -5837,7 +5837,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-29T18:44:14Z",
+            "transferDate": "2026-08-29T16:44:14Z",
             "transferText": [
               null,
               null,
@@ -5857,18 +5857,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 1103336
           },
           {
             "name": "Daniel Bassi",
             "playerId": 1359647,
             "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
+              "label": "RW",
+              "key": "rightwinger_short"
             },
-            "transferDate": "2026-08-29T14:24:10Z",
+            "transferDate": "2026-08-29T12:24:10Z",
             "transferText": [
               null,
               null,
@@ -5892,9 +5892,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 1342425
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 1369254
           },
           {
             "name": "Leo Cornic",
@@ -5903,7 +5903,7 @@
               "label": "RM",
               "key": "rightmidfielder_short"
             },
-            "transferDate": "2026-08-29T11:08:30Z",
+            "transferDate": "2026-08-29T09:08:30Z",
             "transferText": [
               null,
               null,
@@ -5927,9 +5927,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 925524
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 923254
           },
           {
             "name": "Denzel De Roeve",
@@ -5938,7 +5938,7 @@
               "label": "RB",
               "key": "rightback_short"
             },
-            "transferDate": "2026-08-29T10:12:15Z",
+            "transferDate": "2026-08-29T08:12:15Z",
             "transferText": [
               null,
               null,
@@ -5958,9 +5958,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2031-06-30T00:00:00Z",
-            "marketValue": 1280614
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2031-06-29T22:00:00Z",
+            "marketValue": 1536736
           },
           {
             "name": "Kristian Hemmingsen Lonebu",
@@ -5969,7 +5969,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-29T10:08:21Z",
+            "transferDate": "2026-08-29T08:08:21Z",
             "transferText": [
               null,
               null,
@@ -5993,8 +5993,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": null
           },
           {
@@ -6004,7 +6004,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-08-29T10:07:33Z",
+            "transferDate": "2026-08-29T08:07:33Z",
             "transferText": [
               null,
               null,
@@ -6028,9 +6028,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 1859667
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 1732039
           },
           {
             "name": "Gustav Christensen",
@@ -6039,7 +6039,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-08-28T16:52:29Z",
+            "transferDate": "2026-08-28T14:52:29Z",
             "transferText": [
               null,
               null,
@@ -6062,8 +6062,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-28T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-27T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 341786
           },
           {
@@ -6073,7 +6073,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-28T10:20:38Z",
+            "transferDate": "2026-08-28T08:20:38Z",
             "transferText": [
               null,
               null,
@@ -6096,9 +6096,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-27T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 1025092
+            "fromDate": "2026-08-26T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 971577
           },
           {
             "name": "Menno Koch",
@@ -6107,7 +6107,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-28T10:18:40Z",
+            "transferDate": "2026-08-28T08:18:40Z",
             "transferText": [
               null,
               null,
@@ -6130,18 +6130,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-27T00:00:00Z",
+            "fromDate": "2026-08-26T22:00:00Z",
             "toDate": null,
-            "marketValue": 170182
+            "marketValue": 149549
           },
           {
-            "name": "Ervin Gigovic",
+            "name": "Ervin Gigović",
             "playerId": 1258119,
             "position": {
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-26T08:52:37Z",
+            "transferDate": "2026-08-26T06:52:37Z",
             "transferText": [
               null,
               null,
@@ -6165,9 +6165,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-25T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 348376
+            "fromDate": "2026-08-24T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 418051
           },
           {
             "name": "Terry Benjamin",
@@ -6176,7 +6176,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-26T07:55:00Z",
+            "transferDate": "2026-08-26T05:55:00Z",
             "transferText": [
               null,
               null,
@@ -6199,9 +6199,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-25T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 339956
+            "fromDate": "2026-08-24T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 328853
           },
           {
             "name": "Frederik Christensen",
@@ -6210,7 +6210,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-25T15:51:21Z",
+            "transferDate": "2026-08-25T13:51:21Z",
             "transferText": [
               null,
               null,
@@ -6233,9 +6233,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-25T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 318271
+            "fromDate": "2026-08-24T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
+            "marketValue": 373044
           },
           {
             "name": "Oskar Öhlenschlaeger",
@@ -6244,7 +6244,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-25T15:48:56Z",
+            "transferDate": "2026-08-25T13:48:56Z",
             "transferText": [
               null,
               null,
@@ -6268,18 +6268,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-25T00:00:00Z",
-            "toDate": "2031-06-30T00:00:00Z",
-            "marketValue": 1991757
+            "fromDate": "2026-08-24T22:00:00Z",
+            "toDate": "2031-06-29T22:00:00Z",
+            "marketValue": 1593406
           },
           {
             "name": "John Kitolano",
             "playerId": 730743,
             "position": {
-              "label": "LM",
-              "key": "leftmidfielder_short"
+              "label": "LB",
+              "key": "leftback_short"
             },
-            "transferDate": "2026-08-25T15:46:38Z",
+            "transferDate": "2026-08-25T13:46:38Z",
             "transferText": [
               null,
               null,
@@ -6299,8 +6299,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-24T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-23T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 223047
           },
           {
@@ -6310,7 +6310,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-25T13:30:30Z",
+            "transferDate": "2026-08-25T11:30:30Z",
             "transferText": [
               null,
               null,
@@ -6334,9 +6334,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-25T00:00:00Z",
-            "toDate": "2030-06-30T00:00:00Z",
-            "marketValue": 257908
+            "fromDate": "2026-08-24T22:00:00Z",
+            "toDate": "2030-06-29T22:00:00Z",
+            "marketValue": 309327
           },
           {
             "name": "Nicolas Koutsakos",
@@ -6345,7 +6345,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-25T07:41:11Z",
+            "transferDate": "2026-08-25T05:41:11Z",
             "transferText": [
               null,
               null,
@@ -6369,18 +6369,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-24T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 840560
+            "fromDate": "2026-08-23T22:00:00Z",
+            "toDate": "2028-12-30T23:00:00Z",
+            "marketValue": 1008672
           },
           {
-            "name": "Nikola Jojic",
+            "name": "Nikola Jojić",
             "playerId": 1367932,
             "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
+              "label": "CM",
+              "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-23T22:04:30Z",
+            "transferDate": "2026-08-23T20:04:30Z",
             "transferText": [
               null,
               null,
@@ -6403,8 +6403,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-23T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
+            "fromDate": "2026-08-22T22:00:00Z",
+            "toDate": "2028-12-30T23:00:00Z",
             "marketValue": 350143
           },
           {
@@ -6414,7 +6414,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-21T09:57:03Z",
+            "transferDate": "2026-08-21T07:57:03Z",
             "transferText": [
               null,
               null,
@@ -6434,9 +6434,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-20T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 324372
+            "fromDate": "2026-08-19T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
+            "marketValue": 389246
           },
           {
             "name": "Vince Osuji",
@@ -6445,7 +6445,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-20T09:27:29Z",
+            "transferDate": "2026-08-20T07:27:29Z",
             "transferText": [
               null,
               null,
@@ -6468,9 +6468,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-19T00:00:00Z",
+            "fromDate": "2026-08-18T22:00:00Z",
             "toDate": null,
-            "marketValue": 1375487
+            "marketValue": 1299065
           },
           {
             "name": "Amin Chiakha",
@@ -6479,7 +6479,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-19T16:43:46Z",
+            "transferDate": "2026-08-19T14:43:46Z",
             "transferText": [
               null,
               null,
@@ -6503,9 +6503,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-19T00:00:00Z",
-            "toDate": "2031-06-30T00:00:00Z",
-            "marketValue": 4406794
+            "fromDate": "2026-08-18T22:00:00Z",
+            "toDate": "2031-06-29T22:00:00Z",
+            "marketValue": 3525435
           },
           {
             "name": "Mads Enggård",
@@ -6514,7 +6514,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-18T18:17:26Z",
+            "transferDate": "2026-08-18T16:17:26Z",
             "transferText": [
               null,
               null,
@@ -6538,9 +6538,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-18T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 2132046
+            "fromDate": "2026-08-17T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 1740213
           },
           {
             "name": "Harald Tangen",
@@ -6549,7 +6549,7 @@
               "label": "AM",
               "key": "centerattackingmidfielder_short"
             },
-            "transferDate": "2026-08-18T16:51:31Z",
+            "transferDate": "2026-08-18T14:51:31Z",
             "transferText": [
               null,
               null,
@@ -6572,9 +6572,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-16T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 462288
+            "fromDate": "2026-08-15T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 497789
           },
           {
             "name": "Joel Mvuka",
@@ -6583,7 +6583,7 @@
               "label": "RWB",
               "key": "right_wing_back_short"
             },
-            "transferDate": "2026-08-18T15:06:32Z",
+            "transferDate": "2026-08-18T13:06:32Z",
             "transferText": [
               null,
               null,
@@ -6607,9 +6607,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-18T00:00:00Z",
-            "toDate": "2030-06-30T00:00:00Z",
-            "marketValue": 1362658
+            "fromDate": "2026-08-17T22:00:00Z",
+            "toDate": "2030-06-29T22:00:00Z",
+            "marketValue": 1138824
           },
           {
             "name": "Tom Strannegård",
@@ -6618,7 +6618,7 @@
               "label": "LM",
               "key": "leftmidfielder_short"
             },
-            "transferDate": "2026-08-18T07:41:59Z",
+            "transferDate": "2026-08-18T05:41:59Z",
             "transferText": [
               null,
               null,
@@ -6642,9 +6642,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-17T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 340641
+            "fromDate": "2026-08-16T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
+            "marketValue": 377834
           },
           {
             "name": "Alexander Munksgaard",
@@ -6653,7 +6653,7 @@
               "label": "RB",
               "key": "rightback_short"
             },
-            "transferDate": "2026-08-14T19:24:47Z",
+            "transferDate": "2026-08-14T17:24:47Z",
             "transferText": [
               null,
               null,
@@ -6673,8 +6673,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-14T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
+            "fromDate": "2026-08-13T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
             "marketValue": 333478
           },
           {
@@ -6684,7 +6684,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-08-14T19:21:58Z",
+            "transferDate": "2026-08-14T17:21:58Z",
             "transferText": [
               null,
               null,
@@ -6707,9 +6707,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-14T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 1005632
+            "fromDate": "2026-08-13T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 1123966
           },
           {
             "name": "Jacob Pryts",
@@ -6718,7 +6718,7 @@
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-08-14T19:11:57Z",
+            "transferDate": "2026-08-14T17:11:57Z",
             "transferText": [
               null,
               null,
@@ -6741,8 +6741,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-14T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-13T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 231343
           },
           {
@@ -6752,7 +6752,7 @@
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-08-14T13:04:04Z",
+            "transferDate": "2026-08-14T11:04:04Z",
             "transferText": [
               null,
               null,
@@ -6772,18 +6772,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-14T00:00:00Z",
-            "toDate": "2027-06-30T00:00:00Z",
-            "marketValue": 211466
+            "fromDate": "2026-08-13T22:00:00Z",
+            "toDate": "2027-06-29T22:00:00Z",
+            "marketValue": 198243
           },
           {
             "name": "Kjartan Kjartansson",
             "playerId": 1381344,
             "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
+              "label": "DM",
+              "key": "centerdefensivemidfielder_short"
             },
-            "transferDate": "2026-08-14T09:44:03Z",
+            "transferDate": "2026-08-14T07:44:03Z",
             "transferText": [
               null,
               null,
@@ -6807,9 +6807,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-13T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 750904
+            "fromDate": "2026-08-12T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 695104
           },
           {
             "name": "Duarte Moreira",
@@ -6818,7 +6818,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-14T09:43:02Z",
+            "transferDate": "2026-08-14T07:43:02Z",
             "transferText": [
               null,
               null,
@@ -6838,18 +6838,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-13T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 478022
+            "fromDate": "2026-08-12T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
+            "marketValue": 382417
           },
           {
             "name": "Tobias Borchgrevink Børkeeiet",
             "playerId": 743080,
             "position": {
-              "label": "DM",
-              "key": "centerdefensivemidfielder_short"
+              "label": "CB",
+              "key": "centerback_short"
             },
-            "transferDate": "2026-08-14T09:41:51Z",
+            "transferDate": "2026-08-14T07:41:51Z",
             "transferText": [
               null,
               null,
@@ -6872,9 +6872,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-13T00:00:00Z",
-            "toDate": "2027-12-31T00:00:00Z",
-            "marketValue": 153635
+            "fromDate": "2026-08-12T22:00:00Z",
+            "toDate": "2027-12-30T23:00:00Z",
+            "marketValue": 184362
           },
           {
             "name": "Zymer Bytyqi",
@@ -6883,7 +6883,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-08-13T10:17:38Z",
+            "transferDate": "2026-08-13T08:17:38Z",
             "transferText": [
               null,
               null,
@@ -6906,9 +6906,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-11T00:00:00Z",
-            "toDate": "2027-12-31T00:00:00Z",
-            "marketValue": 623576
+            "fromDate": "2026-08-10T22:00:00Z",
+            "toDate": "2027-12-30T23:00:00Z",
+            "marketValue": 748291
           },
           {
             "name": "Sondre Tronstad",
@@ -6917,7 +6917,7 @@
               "label": "DM",
               "key": "centerdefensivemidfielder_short"
             },
-            "transferDate": "2026-08-13T10:16:25Z",
+            "transferDate": "2026-08-13T08:16:25Z",
             "transferText": [
               null,
               null,
@@ -6940,9 +6940,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-12T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 689670
+            "fromDate": "2026-08-11T22:00:00Z",
+            "toDate": "2028-12-30T23:00:00Z",
+            "marketValue": 623294
           },
           {
             "name": "Henrik Melland",
@@ -6951,7 +6951,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-13T10:15:24Z",
+            "transferDate": "2026-08-13T08:15:24Z",
             "transferText": [
               null,
               null,
@@ -6975,9 +6975,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-10T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 695059
+            "fromDate": "2026-08-09T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 834070
           },
           {
             "name": "Kparobo Arierhi",
@@ -6986,7 +6986,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-13T10:13:38Z",
+            "transferDate": "2026-08-13T08:13:38Z",
             "transferText": [
               null,
               null,
@@ -7009,9 +7009,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-10T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 829325
+            "fromDate": "2026-08-09T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 663460
           },
           {
             "name": "Julian Bakkeli Gonstad",
@@ -7020,7 +7020,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-12T19:16:12Z",
+            "transferDate": "2026-08-12T17:16:12Z",
             "transferText": [
               null,
               null,
@@ -7044,8 +7044,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-12T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-11T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 1515004
           },
           {
@@ -7055,7 +7055,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-12T19:14:02Z",
+            "transferDate": "2026-08-12T17:14:02Z",
             "transferText": [
               null,
               null,
@@ -7079,9 +7079,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-12T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 965806
+            "fromDate": "2026-08-11T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 772645
           },
           {
             "name": "Filip Thorvaldsen",
@@ -7090,7 +7090,7 @@
               "label": "RW",
               "key": "rightwinger_short"
             },
-            "transferDate": "2026-08-11T12:26:33Z",
+            "transferDate": "2026-08-11T10:26:33Z",
             "transferText": [
               null,
               null,
@@ -7114,18 +7114,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-11T00:00:00Z",
-            "toDate": "2031-06-30T00:00:00Z",
-            "marketValue": 2059542
+            "fromDate": "2026-08-10T22:00:00Z",
+            "toDate": "2031-06-29T22:00:00Z",
+            "marketValue": 4000000
           },
           {
             "name": "Jacob Steen Christensen",
             "playerId": 949273,
             "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
+              "label": "DM",
+              "key": "centerdefensivemidfielder_short"
             },
-            "transferDate": "2026-08-11T09:30:12Z",
+            "transferDate": "2026-08-11T07:30:12Z",
             "transferText": [
               null,
               null,
@@ -7148,9 +7148,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-10T00:00:00Z",
-            "toDate": "2027-06-30T00:00:00Z",
-            "marketValue": null
+            "fromDate": "2026-08-09T22:00:00Z",
+            "toDate": "2027-06-29T22:00:00Z",
+            "marketValue": 544465
           },
           {
             "name": "Jacob Blixt Flaten",
@@ -7159,7 +7159,7 @@
               "label": "LB",
               "key": "leftback_short"
             },
-            "transferDate": "2026-08-11T09:12:29Z",
+            "transferDate": "2026-08-11T07:12:29Z",
             "transferText": [
               null,
               null,
@@ -7182,18 +7182,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-10T00:00:00Z",
+            "fromDate": "2026-08-09T22:00:00Z",
             "toDate": null,
-            "marketValue": 207914
+            "marketValue": 249496
           },
           {
             "name": "Hrannar Snær Magnusson",
             "playerId": 1373521,
             "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
+              "label": "RW",
+              "key": "rightwinger_short"
             },
-            "transferDate": "2026-08-09T10:43:57Z",
+            "transferDate": "2026-08-09T08:43:57Z",
             "transferText": [
               null,
               null,
@@ -7202,8 +7202,8 @@
             "fromClub": "Kristiansund",
             "fromClubFullName": "Kristiansund",
             "fromClubId": 8605,
-            "toClub": "Vikingur Reykjavik",
-            "toClubFullName": "Vikingur Reykjavik",
+            "toClub": "Víkingur Reykjavík",
+            "toClubFullName": "Víkingur Reykjavík",
             "toClubId": 6017,
             "fee": null,
             "amountEuroEstimated": null,
@@ -7213,9 +7213,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-07T00:00:00Z",
+            "fromDate": "2026-08-06T22:00:00Z",
             "toDate": null,
-            "marketValue": 386870
+            "marketValue": 309496
           },
           {
             "name": "Lucas Svenningsen",
@@ -7224,7 +7224,7 @@
               "label": "LB",
               "key": "leftback_short"
             },
-            "transferDate": "2026-08-09T10:41:58Z",
+            "transferDate": "2026-08-09T08:41:58Z",
             "transferText": [
               null,
               null,
@@ -7247,9 +7247,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-06T00:00:00Z",
-            "toDate": "2027-07-31T00:00:00Z",
-            "marketValue": 304018
+            "fromDate": "2026-08-05T22:00:00Z",
+            "toDate": "2027-07-30T22:00:00Z",
+            "marketValue": 243214
           },
           {
             "name": "Mark Mampassi",
@@ -7258,7 +7258,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-09T10:37:14Z",
+            "transferDate": "2026-08-09T08:37:14Z",
             "transferText": [
               null,
               null,
@@ -7281,9 +7281,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-08T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 511986
+            "fromDate": "2026-08-07T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
+            "marketValue": 614383
           },
           {
             "name": "Markus Seehusen Karlsbakk",
@@ -7292,7 +7292,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-09T08:18:19Z",
+            "transferDate": "2026-08-09T06:18:19Z",
             "transferText": [
               null,
               null,
@@ -7316,18 +7316,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-08T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 1215133
+            "fromDate": "2026-08-07T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
+            "marketValue": 1269692
           },
           {
             "name": "Gard Simenstad",
             "playerId": 739798,
             "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
+              "label": "RB",
+              "key": "rightback_short"
             },
-            "transferDate": "2026-08-09T07:16:24Z",
+            "transferDate": "2026-08-09T05:16:24Z",
             "transferText": [
               null,
               null,
@@ -7350,9 +7350,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-07T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 217295
+            "fromDate": "2026-08-06T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 173836
           },
           {
             "name": "Anton Ekeroth",
@@ -7361,7 +7361,7 @@
               "label": "LM",
               "key": "leftmidfielder_short"
             },
-            "transferDate": "2026-08-09T07:12:28Z",
+            "transferDate": "2026-08-09T05:12:28Z",
             "transferText": [
               null,
               null,
@@ -7385,9 +7385,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-06T00:00:00Z",
+            "fromDate": "2026-08-05T22:00:00Z",
             "toDate": null,
-            "marketValue": 459651
+            "marketValue": 367721
           },
           {
             "name": "Aleksander Andresen",
@@ -7396,7 +7396,7 @@
               "label": "LM",
               "key": "leftmidfielder_short"
             },
-            "transferDate": "2026-08-09T06:43:15Z",
+            "transferDate": "2026-08-09T04:43:15Z",
             "transferText": [
               null,
               null,
@@ -7420,9 +7420,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-06T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 924550
+            "fromDate": "2026-08-05T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
+            "marketValue": 811299
           },
           {
             "name": "Jens Hjertø-Dahl",
@@ -7431,7 +7431,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-07T14:49:24Z",
+            "transferDate": "2026-08-07T12:49:24Z",
             "transferText": [
               null,
               null,
@@ -7455,9 +7455,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-07T00:00:00Z",
-            "toDate": "2031-06-30T00:00:00Z",
-            "marketValue": 7773607
+            "fromDate": "2026-08-06T22:00:00Z",
+            "toDate": "2031-06-29T22:00:00Z",
+            "marketValue": 6607565
           },
           {
             "name": "Oscar Forsmo Kapskarmo",
@@ -7466,7 +7466,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-07T09:35:26Z",
+            "transferDate": "2026-08-07T07:35:26Z",
             "transferText": [
               null,
               null,
@@ -7489,9 +7489,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-06T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 247495
+            "fromDate": "2026-08-05T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 296994
           },
           {
             "name": "Leon Hien",
@@ -7500,7 +7500,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-05T17:01:12Z",
+            "transferDate": "2026-08-05T15:01:12Z",
             "transferText": [
               null,
               null,
@@ -7523,9 +7523,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-05T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 515390
+            "fromDate": "2026-08-04T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 527527
           },
           {
             "name": "Jesper Daland",
@@ -7534,7 +7534,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-05T16:59:33Z",
+            "transferDate": "2026-08-05T14:59:33Z",
             "transferText": [
               null,
               null,
@@ -7557,9 +7557,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-04T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 1240787
+            "fromDate": "2026-08-03T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 1232841
           },
           {
             "name": "Felix Horn Myhre",
@@ -7568,7 +7568,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-05T16:58:11Z",
+            "transferDate": "2026-08-05T14:58:11Z",
             "transferText": [
               null,
               null,
@@ -7592,18 +7592,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-05T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 2150627
+            "fromDate": "2026-08-04T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
+            "marketValue": 2161232
           },
           {
-            "name": "Filip Manojlovic",
+            "name": "Filip Manojlović",
             "playerId": 643563,
             "position": {
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-08-05T10:26:28Z",
+            "transferDate": "2026-08-05T08:26:28Z",
             "transferText": [
               null,
               null,
@@ -7626,9 +7626,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-05T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 361503
+            "fromDate": "2026-08-04T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 289203
           },
           {
             "name": "Valdemar Lund",
@@ -7637,7 +7637,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-05T09:38:57Z",
+            "transferDate": "2026-08-05T07:38:57Z",
             "transferText": [
               null,
               null,
@@ -7660,9 +7660,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-04T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 1117099
+            "fromDate": "2026-08-03T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 893679
           },
           {
             "name": "João Barros",
@@ -7671,7 +7671,7 @@
               "label": "LB",
               "key": "leftback_short"
             },
-            "transferDate": "2026-08-05T09:36:35Z",
+            "transferDate": "2026-08-05T07:36:35Z",
             "transferText": [
               null,
               null,
@@ -7694,8 +7694,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-03T00:00:00Z",
-            "toDate": "2026-09-02T00:00:00Z",
+            "fromDate": "2026-08-02T22:00:00Z",
+            "toDate": "2026-09-01T22:00:00Z",
             "marketValue": 276917
           },
           {
@@ -7705,7 +7705,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-04T09:46:39Z",
+            "transferDate": "2026-08-04T07:46:39Z",
             "transferText": [
               null,
               null,
@@ -7728,18 +7728,18 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 395361
+            "fromDate": "2026-08-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 336101
           },
           {
             "name": "Niklas Ødegård",
             "playerId": 1283254,
             "position": {
-              "label": "AM",
-              "key": "centerattackingmidfielder_short"
+              "label": "CM",
+              "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-02T09:17:26Z",
+            "transferDate": "2026-08-02T07:17:26Z",
             "transferText": [
               null,
               null,
@@ -7763,9 +7763,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-01T00:00:00Z",
-            "toDate": "2030-06-30T00:00:00Z",
-            "marketValue": 895343
+            "fromDate": "2026-07-31T22:00:00Z",
+            "toDate": "2030-06-29T22:00:00Z",
+            "marketValue": 855987
           },
           {
             "name": "Tobias Guddal",
@@ -7774,7 +7774,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-01T10:45:11Z",
+            "transferDate": "2026-08-01T08:45:11Z",
             "transferText": [
               null,
               null,
@@ -7798,9 +7798,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-01T00:00:00Z",
+            "fromDate": "2026-07-31T22:00:00Z",
             "toDate": null,
-            "marketValue": 2906917
+            "marketValue": 2325533
           },
           {
             "name": "Igor Fabian Gosik",
@@ -7809,7 +7809,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-01T09:40:41Z",
+            "transferDate": "2026-08-01T07:40:41Z",
             "transferText": [
               null,
               null,
@@ -7832,9 +7832,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-07-31T00:00:00Z",
-            "toDate": "2026-08-13T00:00:00Z",
-            "marketValue": null
+            "fromDate": "2026-07-30T22:00:00Z",
+            "toDate": "2026-08-12T22:00:00Z",
+            "marketValue": 660161
           },
           {
             "name": "Teodor Berg Haltvik",
@@ -7843,7 +7843,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-07-30T17:50:53Z",
+            "transferDate": "2026-07-30T15:50:53Z",
             "transferText": [
               null,
               null,
@@ -7863,9 +7863,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-07-30T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 359470
+            "fromDate": "2026-07-29T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
+            "marketValue": 431364
           },
           {
             "name": "Sander Svendsen",
@@ -7874,7 +7874,7 @@
               "label": "RW",
               "key": "rightwinger_short"
             },
-            "transferDate": "2026-07-30T17:09:32Z",
+            "transferDate": "2026-07-30T15:09:32Z",
             "transferText": [
               null,
               null,
@@ -7897,9 +7897,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-07-30T00:00:00Z",
-            "toDate": "2028-06-30T00:00:00Z",
-            "marketValue": 292751
+            "fromDate": "2026-07-29T22:00:00Z",
+            "toDate": "2028-06-29T22:00:00Z",
+            "marketValue": 351301
           }
         ]
       },
@@ -9247,13 +9247,13 @@
                     "pts": 25,
                     "teamId": 8509,
                     "teamName": "Sarpsborg 08",
-                    "xg": 34.05190001428127,
-                    "xgConceded": 31.303699672222137,
-                    "xPoints": 30.83035981508218,
+                    "xg": 33.73809991776943,
+                    "xgConceded": 31.669899702072144,
+                    "xPoints": 30.41736681624392,
                     "position": 6,
-                    "xgDiff": -10.051900014281273,
-                    "xgConcededDiff": -2.3036996722221375,
-                    "xPointsDiff": -5.830359815082179,
+                    "xgDiff": -9.738099917769432,
+                    "xgConcededDiff": -2.6698997020721436,
+                    "xPointsDiff": -5.41736681624392,
                     "xPosition": 6,
                     "idx": 6,
                     "xPositionDiff": 3,
@@ -9476,6 +9476,33 @@
                     "qualColor": "#FFA72F"
                   },
                   {
+                    "name": "KFUM",
+                    "shortName": "KFUM",
+                    "id": 2305,
+                    "pageUrl": "/teams/2305/overview/kfum",
+                    "ongoing": null,
+                    "played": 21,
+                    "wins": 7,
+                    "draws": 4,
+                    "losses": 10,
+                    "scoresStr": "25-35",
+                    "goalConDiff": -10,
+                    "pts": 25,
+                    "teamId": 2305,
+                    "teamName": "KFUM",
+                    "xg": 25.25080020725727,
+                    "xgConceded": 39.49649974703789,
+                    "xPoints": 20.603396590911395,
+                    "position": 15,
+                    "xgDiff": -0.2508002072572708,
+                    "xgConcededDiff": -4.496499747037888,
+                    "xPointsDiff": 4.3966034090886055,
+                    "xPosition": 15,
+                    "idx": 15,
+                    "xPositionDiff": -5,
+                    "qualColor": "#FF4646"
+                  },
+                  {
                     "name": "Fredrikstad",
                     "shortName": "Fredrikstad",
                     "id": 8417,
@@ -9493,40 +9520,13 @@
                     "xg": 24.363000005483627,
                     "xgConceded": 39.50810043513775,
                     "xPoints": 20.467865972190044,
-                    "position": 15,
+                    "position": 16,
                     "xgDiff": 0.6369999945163727,
                     "xgConcededDiff": -7.508100435137749,
                     "xPointsDiff": 7.532134027809956,
-                    "xPosition": 15,
-                    "idx": 15,
-                    "xPositionDiff": -7,
-                    "qualColor": "#FF4646"
-                  },
-                  {
-                    "name": "KFUM",
-                    "shortName": "KFUM",
-                    "id": 2305,
-                    "pageUrl": "/teams/2305/overview/kfum",
-                    "ongoing": null,
-                    "played": 21,
-                    "wins": 7,
-                    "draws": 4,
-                    "losses": 10,
-                    "scoresStr": "25-35",
-                    "goalConDiff": -10,
-                    "pts": 25,
-                    "teamId": 2305,
-                    "teamName": "KFUM",
-                    "xg": 24.884600177407265,
-                    "xgConceded": 39.81029984354973,
-                    "xPoints": 20.254165272592143,
-                    "position": 16,
-                    "xgDiff": 0.11539982259273529,
-                    "xgConcededDiff": -4.810299843549728,
-                    "xPointsDiff": 4.745834727407857,
                     "xPosition": 16,
                     "idx": 16,
-                    "xPositionDiff": -6,
+                    "xPositionDiff": -8,
                     "qualColor": "#FF4646"
                   }
                 ]
@@ -30519,10 +30519,10 @@
               "ccode": "NOR",
               "teamId": 2305,
               "teamName": "KFUM Oslo",
-              "value": 8.6,
+              "value": 8.4,
               "stat": {
                 "name": "effective_clearance",
-                "value": 8.6,
+                "value": 8.4,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -30536,10 +30536,10 @@
                 "ccode": "NOR",
                 "teamId": 2305,
                 "teamName": "KFUM Oslo",
-                "value": 8.6,
+                "value": 8.4,
                 "stat": {
                   "name": "effective_clearance",
-                  "value": 8.6,
+                  "value": 8.4,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -30865,12 +30865,12 @@
           {
             "header": "Possession won final 3rd per 90",
             "participant": {
-              "id": 1452620,
-              "name": "Oskar Spiten-Nysæter",
+              "id": 633572,
+              "name": "David Hickson Gyedu",
               "rank": 1,
               "ccode": "NOR",
-              "teamId": 9917,
-              "teamName": "Molde",
+              "teamId": 2305,
+              "teamName": "KFUM Oslo",
               "value": 1.4,
               "stat": {
                 "name": "poss_won_att_3rd",
@@ -30882,9 +30882,30 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/poss_won_att_3rd.json",
             "topThree": [
               {
+                "id": 633572,
+                "name": "David Hickson Gyedu",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 2305,
+                "teamName": "KFUM Oslo",
+                "value": 1.4,
+                "stat": {
+                  "name": "poss_won_att_3rd",
+                  "value": 1.4,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#E60000",
+                  "lightMode": "#E60000",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1452620,
                 "name": "Oskar Spiten-Nysæter",
-                "rank": 1,
+                "rank": 2,
                 "ccode": "NOR",
                 "teamId": 9917,
                 "teamName": "Molde",
@@ -30905,7 +30926,7 @@
               {
                 "id": 1636179,
                 "name": "Ola Visted",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 2305,
                 "teamName": "KFUM Oslo",
@@ -30919,27 +30940,6 @@
                 "teamColors": {
                   "darkMode": "#E60000",
                   "lightMode": "#E60000",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 856936,
-                "name": "Kristall Ingason",
-                "rank": 3,
-                "ccode": "ISL",
-                "teamId": 8468,
-                "teamName": "Brann",
-                "value": 1.4,
-                "stat": {
-                  "name": "poss_won_att_3rd",
-                  "value": 1.4,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#DE1215",
-                  "lightMode": "#DE1215",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -49160,7 +49160,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-09-15T07:37:40Z",
+            "transferDate": "2026-09-15T05:37:40Z",
             "transferText": [
               null,
               null,
@@ -49183,15 +49183,15 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-07-21T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-07-20T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 160970
           },
           {
             "name": "Mathias Svenningsen-Grønn",
             "playerId": 1656393,
             "position": null,
-            "transferDate": "2026-09-12T10:19:36Z",
+            "transferDate": "2026-09-12T08:19:36Z",
             "transferText": [
               null,
               null,
@@ -49214,8 +49214,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-11T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-10T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 657288
           },
           {
@@ -49225,7 +49225,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-12T10:18:33Z",
+            "transferDate": "2026-09-12T08:18:33Z",
             "transferText": [
               null,
               null,
@@ -49248,8 +49248,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-11T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-10T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 2037218
           },
           {
@@ -49259,7 +49259,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-09-03T13:52:13Z",
+            "transferDate": "2026-09-03T11:52:13Z",
             "transferText": [
               null,
               null,
@@ -49283,8 +49283,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2030-06-30T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2030-06-29T22:00:00Z",
             "marketValue": 715057
           },
           {
@@ -49294,7 +49294,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-09-03T10:36:01Z",
+            "transferDate": "2026-09-03T08:36:01Z",
             "transferText": [
               null,
               null,
@@ -49318,8 +49318,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 172896
           },
           {
@@ -49329,7 +49329,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-09-03T10:33:17Z",
+            "transferDate": "2026-09-03T08:33:17Z",
             "transferText": [
               null,
               null,
@@ -49353,8 +49353,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
             "marketValue": 222826
           },
           {
@@ -49364,7 +49364,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-09-03T10:02:28Z",
+            "transferDate": "2026-09-03T08:02:28Z",
             "transferText": [
               null,
               null,
@@ -49387,8 +49387,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 280982
           },
           {
@@ -49398,7 +49398,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-03T10:02:13Z",
+            "transferDate": "2026-09-03T08:02:13Z",
             "transferText": [
               null,
               null,
@@ -49421,18 +49421,18 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 527709
           },
           {
             "name": "David Snær Johannsson",
             "playerId": 937004,
             "position": {
-              "label": "ST",
-              "key": "striker_short"
+              "label": "CM",
+              "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-03T09:23:40Z",
+            "transferDate": "2026-09-03T07:23:40Z",
             "transferText": [
               null,
               null,
@@ -49455,8 +49455,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 422337
           },
           {
@@ -49466,7 +49466,7 @@
               "label": "LB",
               "key": "leftback_short"
             },
-            "transferDate": "2026-09-03T09:13:52Z",
+            "transferDate": "2026-09-03T07:13:52Z",
             "transferText": [
               null,
               null,
@@ -49486,18 +49486,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2028-07-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2028-07-30T22:00:00Z",
             "marketValue": 335248
           },
           {
             "name": "Moussa Njie",
             "playerId": 441624,
             "position": {
-              "label": "LW",
-              "key": "leftwinger_short"
+              "label": "CM",
+              "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-03T08:53:30Z",
+            "transferDate": "2026-09-03T06:53:30Z",
             "transferText": [
               null,
               null,
@@ -49520,8 +49520,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 276046
           },
           {
@@ -49531,7 +49531,7 @@
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-09-02T11:06:19Z",
+            "transferDate": "2026-09-02T09:06:19Z",
             "transferText": [
               null,
               null,
@@ -49554,8 +49554,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-02T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-09-01T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 242233
           },
           {
@@ -49565,7 +49565,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-09-02T08:51:03Z",
+            "transferDate": "2026-09-02T06:51:03Z",
             "transferText": [
               null,
               null,
@@ -49588,8 +49588,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-09-01T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-31T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 650401
           },
           {
@@ -49599,7 +49599,7 @@
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-09-01T10:40:55Z",
+            "transferDate": "2026-09-01T08:40:55Z",
             "transferText": [
               null,
               null,
@@ -49623,8 +49623,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-31T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-30T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 467612
           },
           {
@@ -49634,7 +49634,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-09-01T07:33:42Z",
+            "transferDate": "2026-09-01T05:33:42Z",
             "transferText": [
               null,
               null,
@@ -49654,7 +49654,7 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-29T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
             "toDate": null,
             "marketValue": 352348
           },
@@ -49665,7 +49665,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-31T11:07:50Z",
+            "transferDate": "2026-08-31T09:07:50Z",
             "transferText": [
               null,
               null,
@@ -49689,8 +49689,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-31T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
+            "fromDate": "2026-08-30T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
             "marketValue": 1544631
           },
           {
@@ -49700,7 +49700,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-31T11:05:45Z",
+            "transferDate": "2026-08-31T09:05:45Z",
             "transferText": [
               null,
               null,
@@ -49723,15 +49723,18 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 365864
           },
           {
             "name": "Aksel Jörgensen",
             "playerId": 1812508,
-            "position": null,
-            "transferDate": "2026-08-30T11:14:07Z",
+            "position": {
+              "label": "CM",
+              "key": "centermidfielder_short"
+            },
+            "transferDate": "2026-08-30T09:14:07Z",
             "transferText": [
               null,
               null,
@@ -49754,8 +49757,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": null
           },
           {
@@ -49765,7 +49768,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-30T09:34:05Z",
+            "transferDate": "2026-08-30T07:34:05Z",
             "transferText": [
               null,
               null,
@@ -49788,8 +49791,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-30T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-08-29T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": 428270
           },
           {
@@ -49799,7 +49802,7 @@
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-08-29T14:20:13Z",
+            "transferDate": "2026-08-29T12:20:13Z",
             "transferText": [
               null,
               null,
@@ -49822,9 +49825,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-29T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 375182
+            "fromDate": "2026-08-28T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 390815
           },
           {
             "name": "Lukas Hjelleset Gausdal",
@@ -49833,7 +49836,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-08-28T10:20:38Z",
+            "transferDate": "2026-08-28T08:20:38Z",
             "transferText": [
               null,
               null,
@@ -49856,9 +49859,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-27T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 1025092
+            "fromDate": "2026-08-26T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 971577
           },
           {
             "name": "Terry Benjamin",
@@ -49867,7 +49870,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-26T07:55:00Z",
+            "transferDate": "2026-08-26T05:55:00Z",
             "transferText": [
               null,
               null,
@@ -49890,9 +49893,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-25T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 339956
+            "fromDate": "2026-08-24T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 328853
           },
           {
             "name": "Anestis Tricholidis",
@@ -49901,7 +49904,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-25T07:46:30Z",
+            "transferDate": "2026-08-25T05:46:30Z",
             "transferText": [
               null,
               null,
@@ -49925,7 +49928,7 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-24T00:00:00Z",
+            "fromDate": "2026-08-23T22:00:00Z",
             "toDate": null,
             "marketValue": null
           },
@@ -49936,7 +49939,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-08-21T09:55:35Z",
+            "transferDate": "2026-08-21T07:55:35Z",
             "transferText": [
               null,
               null,
@@ -49956,8 +49959,8 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-20T00:00:00Z",
-            "toDate": "2029-07-31T00:00:00Z",
+            "fromDate": "2026-08-19T22:00:00Z",
+            "toDate": "2029-07-30T22:00:00Z",
             "marketValue": null
           },
           {
@@ -49967,7 +49970,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-14T09:43:02Z",
+            "transferDate": "2026-08-14T07:43:02Z",
             "transferText": [
               null,
               null,
@@ -49987,9 +49990,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-13T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 478022
+            "fromDate": "2026-08-12T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
+            "marketValue": 382417
           },
           {
             "name": "Kparobo Arierhi",
@@ -49998,7 +50001,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-13T10:13:38Z",
+            "transferDate": "2026-08-13T08:13:38Z",
             "transferText": [
               null,
               null,
@@ -50021,18 +50024,18 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-10T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 829325
+            "fromDate": "2026-08-09T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 663460
           },
           {
             "name": "Gard Simenstad",
             "playerId": 739798,
             "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
+              "label": "RB",
+              "key": "rightback_short"
             },
-            "transferDate": "2026-08-09T07:16:24Z",
+            "transferDate": "2026-08-09T05:16:24Z",
             "transferText": [
               null,
               null,
@@ -50055,9 +50058,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-08-07T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 217295
+            "fromDate": "2026-08-06T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 173836
           },
           {
             "name": "Oscar Forsmo Kapskarmo",
@@ -50066,7 +50069,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-07T09:35:26Z",
+            "transferDate": "2026-08-07T07:35:26Z",
             "transferText": [
               null,
               null,
@@ -50089,9 +50092,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-06T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 247495
+            "fromDate": "2026-08-05T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 296994
           },
           {
             "name": "Jonathan Moalem",
@@ -50100,7 +50103,7 @@
               "label": "AM",
               "key": "centerattackingmidfielder_short"
             },
-            "transferDate": "2026-08-06T16:15:29Z",
+            "transferDate": "2026-08-06T14:15:29Z",
             "transferText": [
               null,
               null,
@@ -50123,8 +50126,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-06T00:00:00Z",
-            "toDate": "2027-06-30T00:00:00Z",
+            "fromDate": "2026-08-05T22:00:00Z",
+            "toDate": "2027-06-29T22:00:00Z",
             "marketValue": null
           },
           {
@@ -50134,7 +50137,7 @@
               "label": "LB",
               "key": "leftback_short"
             },
-            "transferDate": "2026-08-05T09:36:35Z",
+            "transferDate": "2026-08-05T07:36:35Z",
             "transferText": [
               null,
               null,
@@ -50157,8 +50160,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-08-03T00:00:00Z",
-            "toDate": "2026-09-02T00:00:00Z",
+            "fromDate": "2026-08-02T22:00:00Z",
+            "toDate": "2026-09-01T22:00:00Z",
             "marketValue": 276917
           },
           {
@@ -50168,7 +50171,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-08-01T09:40:41Z",
+            "transferDate": "2026-08-01T07:40:41Z",
             "transferText": [
               null,
               null,
@@ -50191,9 +50194,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-07-31T00:00:00Z",
-            "toDate": "2026-08-13T00:00:00Z",
-            "marketValue": null
+            "fromDate": "2026-07-30T22:00:00Z",
+            "toDate": "2026-08-12T22:00:00Z",
+            "marketValue": 660161
           },
           {
             "name": "Famara Camara",
@@ -50202,7 +50205,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-07-28T03:54:06Z",
+            "transferDate": "2026-07-28T01:54:06Z",
             "transferText": [
               null,
               null,
@@ -50222,9 +50225,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-07-27T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 486710
+            "fromDate": "2026-07-26T22:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
+            "marketValue": 664647
           },
           {
             "name": "Sivert Heltne Nilsen",
@@ -50233,7 +50236,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-07-26T10:53:48Z",
+            "transferDate": "2026-07-26T08:53:48Z",
             "transferText": [
               null,
               null,
@@ -50253,9 +50256,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-03-27T00:00:00Z",
-            "toDate": "2029-06-30T00:00:00Z",
-            "marketValue": 193565
+            "fromDate": "2026-03-26T23:00:00Z",
+            "toDate": "2029-06-29T22:00:00Z",
+            "marketValue": 165444
           },
           {
             "name": "Martin Håheim Elveseter",
@@ -50264,7 +50267,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-07-26T09:47:20Z",
+            "transferDate": "2026-07-26T07:47:20Z",
             "transferText": [
               null,
               null,
@@ -50287,9 +50290,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-07-24T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
-            "marketValue": 383111
+            "fromDate": "2026-07-23T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
+            "marketValue": 344227
           },
           {
             "name": "Per Kristian Bråtveit",
@@ -50298,7 +50301,7 @@
               "label": "GK",
               "key": "keeper"
             },
-            "transferDate": "2026-07-22T10:18:40Z",
+            "transferDate": "2026-07-22T08:18:40Z",
             "transferText": [
               null,
               null,
@@ -50321,9 +50324,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-07-20T00:00:00Z",
-            "toDate": "2028-12-31T00:00:00Z",
-            "marketValue": 302308
+            "fromDate": "2026-07-19T22:00:00Z",
+            "toDate": "2028-12-30T23:00:00Z",
+            "marketValue": 244265
           },
           {
             "name": "Omar Jebali",
@@ -50332,7 +50335,7 @@
               "label": "CB",
               "key": "centerback_short"
             },
-            "transferDate": "2026-07-22T10:14:23Z",
+            "transferDate": "2026-07-22T08:14:23Z",
             "transferText": [
               null,
               null,
@@ -50352,9 +50355,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-07-21T00:00:00Z",
+            "fromDate": "2026-07-20T22:00:00Z",
             "toDate": null,
-            "marketValue": 399338
+            "marketValue": 255576
           },
           {
             "name": "Brage Tobiassen",
@@ -50363,7 +50366,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-07-14T09:49:17Z",
+            "transferDate": "2026-07-14T07:49:17Z",
             "transferText": [
               null,
               null,
@@ -50387,9 +50390,9 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": "2030-12-31T00:00:00Z",
-            "marketValue": 438175
+            "fromDate": "2026-07-13T22:00:00Z",
+            "toDate": "2030-12-30T23:00:00Z",
+            "marketValue": 630972
           },
           {
             "name": "Mame Alassane Niang",
@@ -50398,7 +50401,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-07-14T09:33:48Z",
+            "transferDate": "2026-07-14T07:33:48Z",
             "transferText": [
               null,
               null,
@@ -50422,18 +50425,18 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": "2029-12-31T00:00:00Z",
-            "marketValue": 465246
+            "fromDate": "2026-07-13T22:00:00Z",
+            "toDate": "2029-12-30T23:00:00Z",
+            "marketValue": 669954
           },
           {
             "name": "Gottfrid Rapp",
             "playerId": 1478089,
             "position": {
-              "label": "RM",
-              "key": "rightmidfielder_short"
+              "label": "LW",
+              "key": "leftwinger_short"
             },
-            "transferDate": "2026-07-13T16:49:10Z",
+            "transferDate": "2026-07-13T14:49:10Z",
             "transferText": [
               null,
               null,
@@ -50456,8 +50459,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-07-13T00:00:00Z",
-            "toDate": "2026-12-31T00:00:00Z",
+            "fromDate": "2026-07-12T22:00:00Z",
+            "toDate": "2026-12-30T23:00:00Z",
             "marketValue": null
           },
           {
@@ -50467,7 +50470,7 @@
               "label": "RW",
               "key": "rightwinger_short"
             },
-            "transferDate": "2026-07-05T10:11:29Z",
+            "transferDate": "2026-07-05T08:11:29Z",
             "transferText": [
               null,
               null,
@@ -50491,14 +50494,17 @@
             },
             "contractExtension": false,
             "onLoan": false,
-            "fromDate": "2026-07-14T00:00:00Z",
-            "toDate": "2030-06-30T00:00:00Z",
-            "marketValue": 504522
+            "fromDate": "2026-07-13T22:00:00Z",
+            "toDate": "2030-06-29T22:00:00Z",
+            "marketValue": 553214
           },
           {
             "name": "Johan Solstad-Noeis",
             "playerId": 1745340,
-            "position": null,
+            "position": {
+              "label": "AM",
+              "key": "centerattackingmidfielder_short"
+            },
             "transferDate": "2026-06-16T01:08:37Z",
             "transferText": [
               null,
@@ -50524,7 +50530,7 @@
             "onLoan": true,
             "fromDate": "2026-06-03T22:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": null
+            "marketValue": 412056
           },
           {
             "name": "Storm Strand-Kolbjørnsen",
@@ -50558,7 +50564,7 @@
             "onLoan": true,
             "fromDate": "2026-06-10T22:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 197936
+            "marketValue": 152013
           },
           {
             "name": "Markus Edner Wæhler",
@@ -50592,7 +50598,7 @@
             "onLoan": true,
             "fromDate": "2026-06-11T22:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 807218
+            "marketValue": 413295
           },
           {
             "name": "Jesper Eikrem",
@@ -50626,14 +50632,14 @@
             "onLoan": true,
             "fromDate": "2026-06-11T22:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 843615
+            "marketValue": 581774
           },
           {
             "name": "Jesper Gregersen",
             "playerId": 1315454,
             "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
+              "label": "CB",
+              "key": "centerback_short"
             },
             "transferDate": "2026-05-03T10:20:50Z",
             "transferText": [
@@ -50660,7 +50666,7 @@
             "onLoan": true,
             "fromDate": "2026-04-17T22:00:00Z",
             "toDate": "2026-07-04T22:00:00Z",
-            "marketValue": 250848
+            "marketValue": 288975
           },
           {
             "name": "Stian Sjøvold Thorstensen",
@@ -50728,7 +50734,7 @@
             "onLoan": true,
             "fromDate": "2026-04-10T22:00:00Z",
             "toDate": "2026-04-24T22:00:00Z",
-            "marketValue": 257892
+            "marketValue": 297090
           },
           {
             "name": "Mads Myklebust",
@@ -50768,7 +50774,7 @@
               "label": "RM",
               "key": "rightmidfielder_short"
             },
-            "transferDate": "2026-04-02T18:38:07Z",
+            "transferDate": "2026-04-02T16:38:07Z",
             "transferText": [
               null,
               null,
@@ -50791,9 +50797,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-04-02T00:00:00Z",
-            "toDate": "2026-08-03T00:00:00Z",
-            "marketValue": 382017
+            "fromDate": "2026-04-01T22:00:00Z",
+            "toDate": "2026-08-02T22:00:00Z",
+            "marketValue": 458420
           },
           {
             "name": "Mame Alassane Niang",
@@ -50802,7 +50808,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-04-01T12:54:57Z",
+            "transferDate": "2026-04-01T10:54:57Z",
             "transferText": [
               null,
               null,
@@ -50825,16 +50831,16 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-03-31T00:00:00Z",
-            "toDate": "2026-07-13T00:00:00Z",
-            "marketValue": 465246
+            "fromDate": "2026-03-30T22:00:00Z",
+            "toDate": "2026-07-12T22:00:00Z",
+            "marketValue": 669954
           },
           {
             "name": "Niklas Sandberg",
             "playerId": 526809,
             "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
+              "label": "LW",
+              "key": "leftwinger_short"
             },
             "transferDate": "2026-04-01T10:47:30Z",
             "transferText": [
@@ -50858,7 +50864,7 @@
             "onLoan": false,
             "fromDate": "2026-03-30T22:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 139071
+            "marketValue": 167617
           },
           {
             "name": "Erik Frøysa",
@@ -50892,7 +50898,7 @@
             "onLoan": true,
             "fromDate": "2026-03-30T22:00:00Z",
             "toDate": "2026-07-14T22:00:00Z",
-            "marketValue": 116620
+            "marketValue": 123063
           },
           {
             "name": "Jacob Hanstad",
@@ -50927,7 +50933,7 @@
             "onLoan": false,
             "fromDate": "2026-03-30T22:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 283186
+            "marketValue": 249048
           },
           {
             "name": "Deni Dashaev",
@@ -50961,7 +50967,7 @@
             "onLoan": true,
             "fromDate": "2026-03-29T22:00:00Z",
             "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": 176412
+            "marketValue": 221731
           },
           {
             "name": "James Ampofo",
@@ -50970,7 +50976,7 @@
               "label": "ST",
               "key": "striker_short"
             },
-            "transferDate": "2026-03-28T09:46:12Z",
+            "transferDate": "2026-03-28T08:46:12Z",
             "transferText": [
               null,
               null,
@@ -50993,8 +50999,8 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-03-27T00:00:00Z",
-            "toDate": "2026-08-25T00:00:00Z",
+            "fromDate": "2026-03-26T23:00:00Z",
+            "toDate": "2026-08-24T22:00:00Z",
             "marketValue": 432951
           },
           {
@@ -51029,7 +51035,7 @@
             "onLoan": true,
             "fromDate": "2026-02-22T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 363808
+            "marketValue": 389109
           },
           {
             "name": "Marius Nordal",
@@ -51063,7 +51069,7 @@
             "onLoan": true,
             "fromDate": "2026-03-26T23:00:00Z",
             "toDate": "2026-05-05T22:00:00Z",
-            "marketValue": 423003
+            "marketValue": 540149
           },
           {
             "name": "Mads Sande",
@@ -51094,7 +51100,7 @@
             "onLoan": false,
             "fromDate": "2026-03-24T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 149095
+            "marketValue": 109294
           },
           {
             "name": "Wilmer Olofsson",
@@ -51128,7 +51134,7 @@
             "onLoan": true,
             "fromDate": "2026-03-22T23:00:00Z",
             "toDate": "2026-07-30T22:00:00Z",
-            "marketValue": 163476
+            "marketValue": 208236
           },
           {
             "name": "Julian Lægreid",
@@ -51137,7 +51143,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-03-21T20:39:06Z",
+            "transferDate": "2026-03-21T19:39:06Z",
             "transferText": [
               null,
               null,
@@ -51160,9 +51166,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-03-21T00:00:00Z",
-            "toDate": "2026-08-17T00:00:00Z",
-            "marketValue": 434566
+            "fromDate": "2026-03-20T23:00:00Z",
+            "toDate": "2026-08-16T22:00:00Z",
+            "marketValue": 521479
           },
           {
             "name": "Lars Bjørnerud Remmem",
@@ -51171,7 +51177,7 @@
               "label": "CM",
               "key": "centermidfielder_short"
             },
-            "transferDate": "2026-03-19T15:44:10Z",
+            "transferDate": "2026-03-19T14:44:10Z",
             "transferText": [
               null,
               null,
@@ -51194,9 +51200,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-03-18T00:00:00Z",
-            "toDate": "2026-08-18T00:00:00Z",
-            "marketValue": 356892
+            "fromDate": "2026-03-17T23:00:00Z",
+            "toDate": "2026-08-17T22:00:00Z",
+            "marketValue": 428270
           },
           {
             "name": "Elias Johnsson Solberg",
@@ -51227,7 +51233,7 @@
             "onLoan": false,
             "fromDate": "2026-03-15T23:00:00Z",
             "toDate": null,
-            "marketValue": 383057
+            "marketValue": 368126
           },
           {
             "name": "Oliver Hagen",
@@ -51262,14 +51268,14 @@
             "onLoan": false,
             "fromDate": "2026-03-12T23:00:00Z",
             "toDate": "2030-12-30T23:00:00Z",
-            "marketValue": null
+            "marketValue": 637467
           },
           {
             "name": "Alagie Sanyang",
             "playerId": 633403,
             "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
+              "label": "ST",
+              "key": "striker_short"
             },
             "transferDate": "2026-03-12T22:41:32Z",
             "transferText": [
@@ -51293,7 +51299,7 @@
             "onLoan": false,
             "fromDate": "2026-03-11T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 160438
+            "marketValue": 179149
           },
           {
             "name": "Noah Pallas",
@@ -51327,14 +51333,14 @@
             "onLoan": true,
             "fromDate": "2026-03-08T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 258341
+            "marketValue": 194787
           },
           {
             "name": "Kent-Are Antonsen",
             "playerId": 313806,
             "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
+              "label": "DM",
+              "key": "centerdefensivemidfielder_short"
             },
             "transferDate": "2026-03-09T20:03:49Z",
             "transferText": [
@@ -51361,7 +51367,7 @@
             "onLoan": false,
             "fromDate": "2026-03-08T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 166035
+            "marketValue": 166236
           },
           {
             "name": "Franklin Nyenetue",
@@ -51395,7 +51401,7 @@
             "onLoan": true,
             "fromDate": "2026-03-07T23:00:00Z",
             "toDate": "2026-07-13T22:00:00Z",
-            "marketValue": 162721
+            "marketValue": 133890
           },
           {
             "name": "Martin Håheim Elveseter",
@@ -51404,7 +51410,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-03-09T11:24:32Z",
+            "transferDate": "2026-03-09T10:24:32Z",
             "transferText": [
               null,
               null,
@@ -51427,9 +51433,9 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-03-06T00:00:00Z",
-            "toDate": "2026-06-30T00:00:00Z",
-            "marketValue": 383111
+            "fromDate": "2026-03-05T23:00:00Z",
+            "toDate": "2026-06-29T22:00:00Z",
+            "marketValue": 344227
           },
           {
             "name": "Yann-Erik de Lanlay",
@@ -51463,14 +51469,14 @@
             "onLoan": false,
             "fromDate": "2026-02-25T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 112737
+            "marketValue": 57720
           },
           {
             "name": "Niclas Schjøth Semmen",
             "playerId": 1483200,
             "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
+              "label": "ST",
+              "key": "striker_short"
             },
             "transferDate": "2026-02-24T06:34:14Z",
             "transferText": [
@@ -51497,7 +51503,7 @@
             "onLoan": false,
             "fromDate": "2026-02-21T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 209752
+            "marketValue": 211127
           },
           {
             "name": "Mats Trige",
@@ -51531,7 +51537,7 @@
             "onLoan": false,
             "fromDate": "2026-02-18T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 104827
+            "marketValue": 103781
           },
           {
             "name": "Johan Bakke",
@@ -51562,7 +51568,7 @@
             "onLoan": false,
             "fromDate": "2026-02-15T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 642081
+            "marketValue": 624544
           },
           {
             "name": "Aksel Bergsvik",
@@ -51627,7 +51633,7 @@
             "onLoan": true,
             "fromDate": "2026-02-09T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 340529
+            "marketValue": 209242
           },
           {
             "name": "William Da Rocha",
@@ -51658,7 +51664,7 @@
             "onLoan": false,
             "fromDate": "2026-02-09T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 173324
+            "marketValue": 190207
           },
           {
             "name": "Daniel Job",
@@ -51692,7 +51698,7 @@
             "onLoan": false,
             "fromDate": "2026-02-05T23:00:00Z",
             "toDate": null,
-            "marketValue": 464981
+            "marketValue": 715057
           },
           {
             "name": "Noa Williams",
@@ -51727,7 +51733,7 @@
             "onLoan": false,
             "fromDate": "2026-02-05T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 498850
+            "marketValue": 773636
           },
           {
             "name": "August Ljungberg",
@@ -51736,7 +51742,7 @@
               "label": "LW",
               "key": "leftwinger_short"
             },
-            "transferDate": "2026-02-06T07:33:12Z",
+            "transferDate": "2026-02-06T06:33:12Z",
             "transferText": [
               null,
               null,
@@ -51759,16 +51765,16 @@
             },
             "contractExtension": false,
             "onLoan": true,
-            "fromDate": "2026-02-05T00:00:00Z",
-            "toDate": "2026-06-30T00:00:00Z",
-            "marketValue": 317823
+            "fromDate": "2026-02-04T23:00:00Z",
+            "toDate": "2026-06-29T22:00:00Z",
+            "marketValue": 442143
           },
           {
             "name": "Kasper Sætherbø",
             "playerId": 1377129,
             "position": {
-              "label": "CM",
-              "key": "centermidfielder_short"
+              "label": "DM",
+              "key": "centerdefensivemidfielder_short"
             },
             "transferDate": "2026-02-06T06:29:26Z",
             "transferText": [
@@ -51792,7 +51798,7 @@
             "onLoan": false,
             "fromDate": "2026-02-02T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 241850
+            "marketValue": 278611
           },
           {
             "name": "Jacob Storevik",
@@ -51826,7 +51832,7 @@
             "onLoan": false,
             "fromDate": "2026-02-03T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 152400
+            "marketValue": 135558
           },
           {
             "name": "Simen Vidtun Nilsen",
@@ -51861,7 +51867,7 @@
             "onLoan": false,
             "fromDate": "2026-02-03T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 329440
+            "marketValue": 568735
           },
           {
             "name": "Madiodio Dia",
@@ -51892,7 +51898,7 @@
             "onLoan": false,
             "fromDate": "2026-02-01T23:00:00Z",
             "toDate": "2028-06-29T22:00:00Z",
-            "marketValue": 668816
+            "marketValue": 638586
           },
           {
             "name": "Atli Barkarson",
@@ -51923,7 +51929,7 @@
             "onLoan": false,
             "fromDate": "2026-02-01T23:00:00Z",
             "toDate": null,
-            "marketValue": 166988
+            "marketValue": 192369
           },
           {
             "name": "Aleksander van der Spa",
@@ -51954,7 +51960,7 @@
             "onLoan": false,
             "fromDate": "2026-01-31T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 229803
+            "marketValue": 257550
           },
           {
             "name": "Even Hovland",
@@ -51988,7 +51994,7 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2028-12-30T23:00:00Z",
-            "marketValue": 196065
+            "marketValue": 152479
           },
           {
             "name": "Leon-Robin Juberg-Hovland",
@@ -52022,7 +52028,7 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": null
+            "marketValue": 213457
           },
           {
             "name": "Mattias Lamhauge",
@@ -52053,14 +52059,14 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": null,
-            "marketValue": 219264
+            "marketValue": 210348
           },
           {
             "name": "Oskar Boesen",
             "playerId": 1459663,
             "position": {
-              "label": "DM",
-              "key": "centerdefensivemidfielder_short"
+              "label": "CM",
+              "key": "centermidfielder_short"
             },
             "transferDate": "2026-01-31T11:30:41Z",
             "transferText": [
@@ -52087,7 +52093,7 @@
             "onLoan": true,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": 625314
+            "marketValue": 356849
           },
           {
             "name": "Sebastian Biller",
@@ -52121,7 +52127,7 @@
             "onLoan": true,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2026-06-29T22:00:00Z",
-            "marketValue": 486947
+            "marketValue": 446185
           },
           {
             "name": "Oscar Aga",
@@ -52187,7 +52193,7 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2030-12-30T23:00:00Z",
-            "marketValue": 174577
+            "marketValue": 301668
           },
           {
             "name": "Claus Niyukuri",
@@ -52222,7 +52228,7 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 372630
+            "marketValue": 500542
           },
           {
             "name": "Jesper Grundt",
@@ -52257,14 +52263,14 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 224595
+            "marketValue": 388099
           },
           {
             "name": "Troy Nyhammer",
             "playerId": 1377921,
             "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
+              "label": "ST",
+              "key": "striker_short"
             },
             "transferDate": "2026-01-30T14:17:00Z",
             "transferText": [
@@ -52292,7 +52298,7 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2029-12-30T23:00:00Z",
-            "marketValue": 1052308
+            "marketValue": 1464838
           },
           {
             "name": "Miika Koskela",
@@ -52326,7 +52332,7 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 268551
+            "marketValue": 253325
           },
           {
             "name": "Knut-André Skjærstein",
@@ -52360,14 +52366,14 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": null,
-            "marketValue": 106964
+            "marketValue": 54764
           },
           {
             "name": "Axel Kryger",
             "playerId": 631758,
             "position": {
-              "label": "RB",
-              "key": "rightback_short"
+              "label": "CB",
+              "key": "centerback_short"
             },
             "transferDate": "2026-01-30T14:04:08Z",
             "transferText": [
@@ -52394,7 +52400,7 @@
             "onLoan": false,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 169747
+            "marketValue": 163567
           },
           {
             "name": "Joel Nilsson",
@@ -52428,7 +52434,7 @@
             "onLoan": false,
             "fromDate": "2026-01-28T23:00:00Z",
             "toDate": "2027-12-30T23:00:00Z",
-            "marketValue": 182328
+            "marketValue": 224133
           },
           {
             "name": "Fillip Voster Botnen",
@@ -52462,7 +52468,7 @@
             "onLoan": true,
             "fromDate": "2026-01-29T23:00:00Z",
             "toDate": "2026-12-30T23:00:00Z",
-            "marketValue": 183761
+            "marketValue": 211690
           },
           {
             "name": "Per Kristian Bråtveit",
@@ -52496,7 +52502,7 @@
             "onLoan": false,
             "fromDate": "2026-01-23T23:00:00Z",
             "toDate": "2027-05-30T22:00:00Z",
-            "marketValue": 302308
+            "marketValue": 244265
           }
         ]
       },
