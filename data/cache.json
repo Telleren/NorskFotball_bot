@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T21:26:40.623077+00:00",
+  "generated_at": "2026-09-23T04:53:03.218997+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1487,13 +1487,13 @@
                   "pts": 23,
                   "teamId": 8007,
                   "teamName": "Vålerenga",
-                  "xg": 36.67850011587143,
-                  "xgConceded": 38.669999957084656,
-                  "xPoints": 28.385000880194827,
+                  "xg": 36.577300012111664,
+                  "xgConceded": 38.71359997987747,
+                  "xPoints": 28.27182581045759,
                   "position": 9,
-                  "xgDiff": -2.6785001158714294,
-                  "xgConcededDiff": 4.330000042915344,
-                  "xPointsDiff": -5.385000880194827,
+                  "xgDiff": -2.577300012111664,
+                  "xgConcededDiff": 4.286400020122528,
+                  "xPointsDiff": -5.271825810457589,
                   "xPosition": 9,
                   "idx": 9,
                   "xPositionDiff": 3,
@@ -1676,13 +1676,13 @@
                   "pts": 28,
                   "teamId": 8417,
                   "teamName": "Fredrikstad",
-                  "xg": 24.363000005483627,
-                  "xgConceded": 39.50810043513775,
-                  "xPoints": 20.467865972190044,
+                  "xg": 24.406600028276443,
+                  "xgConceded": 39.40690033137798,
+                  "xPoints": 20.563861789256947,
                   "position": 16,
-                  "xgDiff": 0.6369999945163727,
-                  "xgConcededDiff": -7.508100435137749,
-                  "xPointsDiff": 7.532134027809956,
+                  "xgDiff": 0.5933999717235565,
+                  "xgConcededDiff": -7.406900331377983,
+                  "xPointsDiff": 7.436138210743053,
                   "xPosition": 16,
                   "idx": 16,
                   "xPositionDiff": -8,
@@ -9328,13 +9328,13 @@
                     "pts": 23,
                     "teamId": 8007,
                     "teamName": "Vålerenga",
-                    "xg": 36.67850011587143,
-                    "xgConceded": 38.669999957084656,
-                    "xPoints": 28.385000880194827,
+                    "xg": 36.577300012111664,
+                    "xgConceded": 38.71359997987747,
+                    "xPoints": 28.27182581045759,
                     "position": 9,
-                    "xgDiff": -2.6785001158714294,
-                    "xgConcededDiff": 4.330000042915344,
-                    "xPointsDiff": -5.385000880194827,
+                    "xgDiff": -2.577300012111664,
+                    "xgConcededDiff": 4.286400020122528,
+                    "xPointsDiff": -5.271825810457589,
                     "xPosition": 9,
                     "idx": 9,
                     "xPositionDiff": 3,
@@ -9517,13 +9517,13 @@
                     "pts": 28,
                     "teamId": 8417,
                     "teamName": "Fredrikstad",
-                    "xg": 24.363000005483627,
-                    "xgConceded": 39.50810043513775,
-                    "xPoints": 20.467865972190044,
+                    "xg": 24.406600028276443,
+                    "xgConceded": 39.40690033137798,
+                    "xPoints": 20.563861789256947,
                     "position": 16,
-                    "xgDiff": 0.6369999945163727,
-                    "xgConcededDiff": -7.508100435137749,
-                    "xPointsDiff": 7.532134027809956,
+                    "xgDiff": 0.5933999717235565,
+                    "xgConcededDiff": -7.406900331377983,
+                    "xPointsDiff": 7.436138210743053,
                     "xPosition": 16,
                     "idx": 16,
                     "xPositionDiff": -8,
@@ -32812,10 +32812,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8007,
-                "value": 6.1,
+                "value": 6.2,
                 "stat": {
                   "name": "accurate_cross_team",
-                  "value": 6.1,
+                  "value": 6.2,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -110897,8 +110897,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-09-23T16:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-09-23T16:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "23.09.2026 18:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -111587,7 +111590,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "shotMap": null,
         "playoff": {
           "rounds": [
@@ -120535,8 +120538,11 @@
                 "id": "8405"
               },
               "status": {
-                "utcTime": "2026-09-23T16:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-09-23T16:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "23.09.2026 18:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -121049,7 +121055,7 @@
               }
             }
           ],
-          "hasOngoingMatch": false,
+          "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "2",
@@ -125521,8 +125527,11 @@
               "id": "8405"
             },
             "status": {
-              "utcTime": "2026-09-23T16:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-09-23T16:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "23.09.2026 18:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -126035,7 +126044,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "2",
