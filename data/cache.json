@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:11:02.590186+00:00",
+  "generated_at": "2026-09-23T21:36:05.364861+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1515,13 +1515,13 @@
                   "pts": 16,
                   "teamId": 9919,
                   "teamName": "Start",
-                  "xg": 29.517799735069275,
-                  "xgConceded": 36.34079974889755,
-                  "xPoints": 25.59150471769015,
+                  "xg": 29.578799724578857,
+                  "xgConceded": 36.395199716091156,
+                  "xPoints": 25.606203194660083,
                   "position": 10,
-                  "xgDiff": -7.517799735069275,
-                  "xgConcededDiff": 7.6592002511024475,
-                  "xPointsDiff": -9.59150471769015,
+                  "xgDiff": -7.578799724578857,
+                  "xgConcededDiff": 7.604800283908844,
+                  "xPointsDiff": -9.606203194660083,
                   "xPosition": 10,
                   "idx": 10,
                   "xPositionDiff": 6,
@@ -1569,13 +1569,13 @@
                   "pts": 23,
                   "teamId": 8609,
                   "teamName": "Sandefjord",
-                  "xg": 27.415299773216248,
-                  "xgConceded": 40.03100010752678,
-                  "xPoints": 22.38517563250671,
+                  "xg": 27.46969974040985,
+                  "xgConceded": 40.09200009703636,
+                  "xPoints": 22.36793101344469,
                   "position": 12,
-                  "xgDiff": -6.415299773216248,
-                  "xgConcededDiff": -13.03100010752678,
-                  "xPointsDiff": 0.6148243674932914,
+                  "xgDiff": -6.469699740409851,
+                  "xgConcededDiff": -13.092000097036362,
+                  "xPointsDiff": 0.6320689865553106,
                   "xPosition": 12,
                   "idx": 12,
                   "xPositionDiff": -1,
@@ -9356,13 +9356,13 @@
                     "pts": 16,
                     "teamId": 9919,
                     "teamName": "Start",
-                    "xg": 29.517799735069275,
-                    "xgConceded": 36.34079974889755,
-                    "xPoints": 25.59150471769015,
+                    "xg": 29.578799724578857,
+                    "xgConceded": 36.395199716091156,
+                    "xPoints": 25.606203194660083,
                     "position": 10,
-                    "xgDiff": -7.517799735069275,
-                    "xgConcededDiff": 7.6592002511024475,
-                    "xPointsDiff": -9.59150471769015,
+                    "xgDiff": -7.578799724578857,
+                    "xgConcededDiff": 7.604800283908844,
+                    "xPointsDiff": -9.606203194660083,
                     "xPosition": 10,
                     "idx": 10,
                     "xPositionDiff": 6,
@@ -9410,13 +9410,13 @@
                     "pts": 23,
                     "teamId": 8609,
                     "teamName": "Sandefjord",
-                    "xg": 27.415299773216248,
-                    "xgConceded": 40.03100010752678,
-                    "xPoints": 22.38517563250671,
+                    "xg": 27.46969974040985,
+                    "xgConceded": 40.09200009703636,
+                    "xPoints": 22.36793101344469,
                     "position": 12,
-                    "xgDiff": -6.415299773216248,
-                    "xgConcededDiff": -13.03100010752678,
-                    "xPointsDiff": 0.6148243674932914,
+                    "xgDiff": -6.469699740409851,
+                    "xgConcededDiff": -13.092000097036362,
+                    "xPointsDiff": 0.6320689865553106,
                     "xPosition": 12,
                     "idx": 12,
                     "xPositionDiff": -1,
@@ -110893,10 +110893,10 @@
             "away": {
               "id": "8405",
               "name": "Moss",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
@@ -110904,22 +110904,21 @@
               "utcTime": "2026-09-23T16:00:00.000Z",
               "halfs": {
                 "firstHalfStarted": "23.09.2026 18:01:09",
-                "secondHalfStarted": "23.09.2026 19:04:05"
+                "secondHalfStarted": "23.09.2026 19:04:05",
+                "firstExtraHalfStarted": "23.09.2026 19:58:12",
+                "secondExtraHalfStarted": "23.09.2026 20:15:31"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "1 - 0",
-              "liveTime": {
-                "short": "49‎’‎",
-                "shortKey": "",
-                "long": "48:43",
-                "longKey": "",
-                "maxTime": 90,
-                "basePeriod": 90,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "1 - 1",
+              "reason": {
+                "short": "Pen",
+                "shortKey": "penalties_short",
+                "long": "After penalties",
+                "longKey": "afterpenalties"
               }
             }
           },
@@ -111266,15 +111265,15 @@
           },
           {
             "id": "6284184",
-            "pageUrl": "/matches/brann-vs-grorudmoss/wth0kebz#6284184",
+            "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
             "opponent": {
-              "id": "2259486",
-              "name": "Grorud/Moss",
+              "id": "4201",
+              "name": "Grorud",
               "score": 0
             },
             "home": {
-              "id": "2259486",
-              "name": "Grorud/Moss",
+              "id": "4201",
+              "name": "Grorud",
               "score": 0
             },
             "away": {
@@ -116805,8 +116804,9 @@
                   "drawOrder": 29,
                   "stage": "2",
                   "bestOf": 0,
-                  "homeScore": 0,
-                  "awayScore": 0,
+                  "winner": 4201,
+                  "homeScore": 1,
+                  "awayScore": 1,
                   "homeTeam": "Grorud",
                   "awayTeam": "Moss",
                   "homeTeamShortName": "GRU",
@@ -116820,43 +116820,40 @@
                         "id": 4201,
                         "name": "Grorud",
                         "shortName": "GRU",
-                        "score": 0,
+                        "score": 1,
                         "winner": false
                       },
                       "away": {
                         "id": 8405,
                         "name": "Moss",
                         "shortName": "MOS",
-                        "score": 0,
+                        "score": 1,
                         "winner": false
                       },
                       "pageUrl": "/matches/grorud-vs-moss/1bbbp2#6144870",
                       "status": {
                         "utcTime": "2026-09-23T14:00:00.000Z",
                         "timezone": "UTC",
-                        "finished": false,
+                        "finished": true,
                         "started": true,
                         "cancelled": false,
-                        "ongoing": true,
-                        "scoreStr": "0 - 0",
-                        "liveTime": {
-                          "short": "1‎’‎",
-                          "shortKey": "",
-                          "long": "00:01",
-                          "longKey": "",
-                          "maxTime": 90,
-                          "basePeriod": 90,
-                          "addedTime": 0
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                          "short": "Pen",
+                          "shortKey": "penalties_short",
+                          "long": "After penalties",
+                          "longKey": "afterpenalties"
                         }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
+                    "homeScore": 1,
+                    "awayScore": 1
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 4201,
+                  "aggregatedLoser": 8405
                 },
                 {
                   "homeTeamId": 2313,
@@ -117681,24 +117678,24 @@
                   "aggregatedLoser": null
                 },
                 {
-                  "homeTeamId": 2259486,
+                  "homeTeamId": 4201,
                   "awayTeamId": 8468,
                   "drawOrder": 15,
                   "stage": "3",
                   "bestOf": 0,
-                  "homeTeam": "Grorud/Moss",
+                  "homeTeam": "Grorud",
                   "awayTeam": "Brann",
-                  "homeTeamShortName": "TBD",
+                  "homeTeamShortName": "GRU",
                   "awayTeamShortName": "BRA",
-                  "tbdTeam1": true,
+                  "tbdTeam1": false,
                   "tbdTeam2": false,
                   "matches": [
                     {
                       "matchId": 6284184,
                       "home": {
-                        "id": 2259486,
-                        "name": "Grorud/Moss",
-                        "shortName": "TBD",
+                        "id": 4201,
+                        "name": "Grorud",
+                        "shortName": "GRU",
                         "score": 0,
                         "winner": false
                       },
@@ -117709,7 +117706,7 @@
                         "score": 0,
                         "winner": false
                       },
-                      "pageUrl": "/matches/brann-vs-grorudmoss/wth0kebz#6284184",
+                      "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
                       "status": {
                         "utcTime": "2026-10-28T16:00:00.000Z",
                         "timezone": "UTC",
@@ -117780,7 +117777,7 @@
           "special": [],
           "liveFixtureApiLink": {
             "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-            "pollFromUtc": "2026-09-23T15:55:00Z"
+            "pollFromUtc": "2026-09-30T13:55:00Z"
           },
           "leagueId": 206,
           "bronzeFinal": null,
@@ -117788,8 +117785,8 @@
         },
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 89,
-            "firstUnplayedMatchId": "6144870"
+            "firstUnplayedMatchIndex": 91,
+            "firstUnplayedMatchId": "6144872"
           },
           "allMatches": [
             {
@@ -120570,22 +120567,21 @@
                 "utcTime": "2026-09-23T16:00:00.000Z",
                 "halfs": {
                   "firstHalfStarted": "23.09.2026 18:01:09",
-                  "secondHalfStarted": "23.09.2026 19:04:05"
+                  "secondHalfStarted": "23.09.2026 19:04:05",
+                  "firstExtraHalfStarted": "23.09.2026 19:58:12",
+                  "secondExtraHalfStarted": "23.09.2026 20:15:31"
                 },
                 "periodLength": 45,
-                "finished": false,
+                "finished": true,
                 "started": true,
                 "cancelled": false,
-                "ongoing": true,
-                "scoreStr": "1 - 0",
-                "liveTime": {
-                  "short": "49‎’‎",
-                  "shortKey": "",
-                  "long": "48:43",
-                  "longKey": "",
-                  "maxTime": 90,
-                  "basePeriod": 90,
-                  "addedTime": 0
+                "awarded": false,
+                "scoreStr": "1 - 1",
+                "reason": {
+                  "short": "Pen",
+                  "shortKey": "penalties_short",
+                  "long": "After penalties",
+                  "longKey": "afterpenalties"
                 }
               }
             },
@@ -120845,12 +120841,12 @@
             {
               "round": "3",
               "roundName": 3,
-              "pageUrl": "/matches/brann-vs-grorudmoss/wth0kebz#6284184",
+              "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
               "id": "6284184",
               "home": {
-                "name": "Grorud/Moss",
-                "shortName": "Grorud/Moss",
-                "id": "2259486"
+                "name": "Grorud",
+                "shortName": "Grorud",
+                "id": "4201"
               },
               "away": {
                 "name": "Brann",
@@ -121891,11 +121887,11 @@
           {
             "header": "Yellow cards",
             "participant": {
-              "id": 1737708,
-              "name": "Adrian Fjeldstad",
+              "id": 737069,
+              "name": "Adrian Berntsen",
               "rank": 1,
-              "teamId": 46917,
-              "teamName": "Djerv 1919",
+              "teamId": 4201,
+              "teamName": "Grorud",
               "value": 1,
               "stat": {
                 "name": "yellow_card",
@@ -121906,6 +121902,26 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/yellow_card.json",
             "topThree": [
+              {
+                "id": 737069,
+                "name": "Adrian Berntsen",
+                "rank": 1,
+                "teamId": 4201,
+                "teamName": "Grorud",
+                "value": 1,
+                "stat": {
+                  "name": "yellow_card",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#FEEC01",
+                  "lightMode": "#e19c00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 1737708,
                 "name": "Adrian Fjeldstad",
@@ -121943,26 +121959,6 @@
                   "darkMode": "#0058B0",
                   "lightMode": "#0058B0",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1812508,
-                "name": "Aksel Jörgensen",
-                "rank": 1,
-                "teamId": 8133,
-                "teamName": "Sandnes Ulf",
-                "value": 1,
-                "stat": {
-                  "name": "yellow_card",
-                  "value": 1,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#70b5e9",
-                  "lightMode": "#6BB0E4",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -122286,10 +122282,10 @@
               },
               {
                 "id": 0,
-                "name": "Moss",
+                "name": "Ranheim",
                 "rank": 1,
-                "teamId": 8405,
-                "teamName": "Moss",
+                "teamId": 6563,
+                "teamName": "Ranheim",
                 "value": 2,
                 "stat": {
                   "name": "clean_sheet_team",
@@ -122298,9 +122294,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#FFE624",
-                  "lightMode": "#dc9f00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#006DB5",
+                  "lightMode": "#006DB5",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -122482,10 +122478,10 @@
             "header": "Yellow cards",
             "participant": {
               "id": 0,
-              "name": "Kristiansund BK",
+              "name": "Grorud",
               "rank": 1,
-              "teamId": 8605,
-              "teamName": "Kristiansund BK",
+              "teamId": 4201,
+              "teamName": "Grorud",
               "value": 4,
               "stat": {
                 "name": "total_yel_card_team",
@@ -122496,6 +122492,26 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/total_yel_card_team.json",
             "topThree": [
+              {
+                "id": 0,
+                "name": "Grorud",
+                "rank": 1,
+                "teamId": 4201,
+                "teamName": "Grorud",
+                "value": 4,
+                "stat": {
+                  "name": "total_yel_card_team",
+                  "value": 4,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#FEEC01",
+                  "lightMode": "#e19c00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 0,
                 "name": "Kristiansund BK",
@@ -122518,10 +122534,10 @@
               },
               {
                 "id": 0,
-                "name": "Traeff",
+                "name": "Moss",
                 "rank": 1,
-                "teamId": 6115,
-                "teamName": "Traeff",
+                "teamId": 8405,
+                "teamName": "Moss",
                 "value": 4,
                 "stat": {
                   "name": "total_yel_card_team",
@@ -122530,29 +122546,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#DDDDDD",
-                  "lightMode": "#333333",
+                  "darkMode": "#FFE624",
+                  "lightMode": "#dc9f00",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Aalesund",
-                "rank": 3,
-                "teamId": 8404,
-                "teamName": "Aalesund",
-                "value": 3,
-                "stat": {
-                  "name": "total_yel_card_team",
-                  "value": 3,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#eb7805",
-                  "lightMode": "#eb7805",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -122789,8 +122785,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 89,
-          "firstUnplayedMatchId": "6144870"
+          "firstUnplayedMatchIndex": 91,
+          "firstUnplayedMatchId": "6144872"
         },
         "allMatches": [
           {
@@ -125571,22 +125567,21 @@
               "utcTime": "2026-09-23T16:00:00.000Z",
               "halfs": {
                 "firstHalfStarted": "23.09.2026 18:01:09",
-                "secondHalfStarted": "23.09.2026 19:04:05"
+                "secondHalfStarted": "23.09.2026 19:04:05",
+                "firstExtraHalfStarted": "23.09.2026 19:58:12",
+                "secondExtraHalfStarted": "23.09.2026 20:15:31"
               },
               "periodLength": 45,
-              "finished": false,
+              "finished": true,
               "started": true,
               "cancelled": false,
-              "ongoing": true,
-              "scoreStr": "1 - 0",
-              "liveTime": {
-                "short": "49‎’‎",
-                "shortKey": "",
-                "long": "48:43",
-                "longKey": "",
-                "maxTime": 90,
-                "basePeriod": 90,
-                "addedTime": 0
+              "awarded": false,
+              "scoreStr": "1 - 1",
+              "reason": {
+                "short": "Pen",
+                "shortKey": "penalties_short",
+                "long": "After penalties",
+                "longKey": "afterpenalties"
               }
             }
           },
@@ -125846,12 +125841,12 @@
           {
             "round": "3",
             "roundName": 3,
-            "pageUrl": "/matches/brann-vs-grorudmoss/wth0kebz#6284184",
+            "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
             "id": "6284184",
             "home": {
-              "name": "Grorud/Moss",
-              "shortName": "Grorud/Moss",
-              "id": "2259486"
+              "name": "Grorud",
+              "shortName": "Grorud",
+              "id": "4201"
             },
             "away": {
               "name": "Brann",
@@ -131831,8 +131826,9 @@
                 "drawOrder": 29,
                 "stage": "2",
                 "bestOf": 0,
-                "homeScore": 0,
-                "awayScore": 0,
+                "winner": 4201,
+                "homeScore": 1,
+                "awayScore": 1,
                 "homeTeam": "Grorud",
                 "awayTeam": "Moss",
                 "homeTeamShortName": "GRU",
@@ -131846,43 +131842,40 @@
                       "id": 4201,
                       "name": "Grorud",
                       "shortName": "GRU",
-                      "score": 0,
+                      "score": 1,
                       "winner": false
                     },
                     "away": {
                       "id": 8405,
                       "name": "Moss",
                       "shortName": "MOS",
-                      "score": 0,
+                      "score": 1,
                       "winner": false
                     },
                     "pageUrl": "/matches/grorud-vs-moss/1bbbp2#6144870",
                     "status": {
                       "utcTime": "2026-09-23T14:00:00.000Z",
                       "timezone": "UTC",
-                      "finished": false,
+                      "finished": true,
                       "started": true,
                       "cancelled": false,
-                      "ongoing": true,
-                      "scoreStr": "0 - 0",
-                      "liveTime": {
-                        "short": "1‎’‎",
-                        "shortKey": "",
-                        "long": "00:01",
-                        "longKey": "",
-                        "maxTime": 90,
-                        "basePeriod": 90,
-                        "addedTime": 0
+                      "awarded": false,
+                      "scoreStr": "1 - 1",
+                      "reason": {
+                        "short": "Pen",
+                        "shortKey": "penalties_short",
+                        "long": "After penalties",
+                        "longKey": "afterpenalties"
                       }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
+                  "homeScore": 1,
+                  "awayScore": 1
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 4201,
+                "aggregatedLoser": 8405
               },
               {
                 "homeTeamId": 2313,
@@ -132707,24 +132700,24 @@
                 "aggregatedLoser": null
               },
               {
-                "homeTeamId": 2259486,
+                "homeTeamId": 4201,
                 "awayTeamId": 8468,
                 "drawOrder": 15,
                 "stage": "3",
                 "bestOf": 0,
-                "homeTeam": "Grorud/Moss",
+                "homeTeam": "Grorud",
                 "awayTeam": "Brann",
-                "homeTeamShortName": "TBD",
+                "homeTeamShortName": "GRU",
                 "awayTeamShortName": "BRA",
-                "tbdTeam1": true,
+                "tbdTeam1": false,
                 "tbdTeam2": false,
                 "matches": [
                   {
                     "matchId": 6284184,
                     "home": {
-                      "id": 2259486,
-                      "name": "Grorud/Moss",
-                      "shortName": "TBD",
+                      "id": 4201,
+                      "name": "Grorud",
+                      "shortName": "GRU",
                       "score": 0,
                       "winner": false
                     },
@@ -132735,7 +132728,7 @@
                       "score": 0,
                       "winner": false
                     },
-                    "pageUrl": "/matches/brann-vs-grorudmoss/wth0kebz#6284184",
+                    "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
                     "status": {
                       "utcTime": "2026-10-28T16:00:00.000Z",
                       "timezone": "UTC",
@@ -132806,7 +132799,7 @@
         "special": [],
         "liveFixtureApiLink": {
           "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-          "pollFromUtc": "2026-09-23T15:55:00Z"
+          "pollFromUtc": "2026-09-30T13:55:00Z"
         },
         "leagueId": 206,
         "bronzeFinal": null,
@@ -137372,7 +137365,6 @@
     "2258998": "-",
     "2259084": "-",
     "2259248": "-",
-    "2259384": "-",
-    "2259486": "-"
+    "2259384": "-"
   }
 }
