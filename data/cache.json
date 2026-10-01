@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:28:58.407848+00:00",
+  "generated_at": "2026-10-01T22:47:10.063392+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -107519,10 +107519,10 @@
                 }
               },
               {
-                "id": 1536744,
-                "name": "Sakarias Ringsbu",
-                "teamId": 4289,
-                "teamName": "Vindbjart",
+                "id": 741397,
+                "name": "Jens Petter Hauge",
+                "teamId": 8402,
+                "teamName": "Bodoe/Glimt",
                 "assists": 2,
                 "value": 2,
                 "stat": {
@@ -107532,9 +107532,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#0F0E9A",
-                  "lightMode": "#0F0E9A",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -111178,32 +111178,41 @@
             "opponent": {
               "id": "8137",
               "name": "Bærum",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "8137",
               "name": "Bærum",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "8476",
               "name": "Lillestrøm",
-              "score": 0
+              "score": 5
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-10-01T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.10.2026 18:00:00"
+                "firstHalfStarted": "01.10.2026 17:59:52",
+                "secondHalfStarted": "01.10.2026 19:00:28"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 5",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -111222,22 +111231,31 @@
             "away": {
               "id": "8478",
               "name": "Viking",
-              "score": 0
+              "score": 3
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-10-01T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.10.2026 18:00:00"
+                "firstHalfStarted": "01.10.2026 17:59:57",
+                "secondHalfStarted": "01.10.2026 19:02:30"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 3",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -111246,32 +111264,41 @@
             "opponent": {
               "id": "1004501",
               "name": "Rana FK",
-              "score": 0
+              "score": 2
             },
             "home": {
               "id": "1004501",
               "name": "Rana FK",
-              "score": 0
+              "score": 2
             },
             "away": {
               "id": "8402",
               "name": "Bodø/Glimt",
-              "score": 0
+              "score": 6
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-10-01T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.10.2026 18:00:00"
+                "firstHalfStarted": "01.10.2026 18:01:46",
+                "secondHalfStarted": "01.10.2026 19:04:41"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "2 - 6",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -111368,37 +111395,6 @@
             }
           },
           {
-            "id": "6284180",
-            "pageUrl": "/matches/sogndal-vs-baerumlillestroem/wt1lng1o#6284180",
-            "opponent": {
-              "id": "2258927",
-              "name": "Baerum/Lillestroem",
-              "score": 0
-            },
-            "home": {
-              "id": "2258927",
-              "name": "Baerum/Lillestroem",
-              "score": 0
-            },
-            "away": {
-              "id": "8616",
-              "name": "Sogndal",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-10-28T17:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "6284090",
             "pageUrl": "/matches/egersund-vs-bryne/1gamte#6284090",
             "opponent": {
@@ -111461,21 +111457,21 @@
             }
           },
           {
-            "id": "6284182",
-            "pageUrl": "/matches/kfum-vs-madlaviking/wmn4sluk#6284182",
+            "id": "6284180",
+            "pageUrl": "/matches/lillestrom-vs-sogndal/2ez47m#6284180",
             "opponent": {
-              "id": "2259084",
-              "name": "Madla/Viking",
+              "id": "8476",
+              "name": "Lillestrøm",
               "score": 0
             },
             "home": {
-              "id": "2259084",
-              "name": "Madla/Viking",
+              "id": "8476",
+              "name": "Lillestrøm",
               "score": 0
             },
             "away": {
-              "id": "2305",
-              "name": "KFUM",
+              "id": "8616",
+              "name": "Sogndal",
               "score": 0
             },
             "displayTournament": true,
@@ -111648,7 +111644,7 @@
           },
           {
             "id": "6284179",
-            "pageUrl": "/matches/sandnes-ulf-vs-rana-fkbodoeglimt/wseq8m3g#6284179",
+            "pageUrl": "/matches/sandnes-ulf-vs-bodoglimt/29ednq#6284179",
             "opponent": {
               "id": "8133",
               "name": "Sandnes Ulf",
@@ -111660,8 +111656,8 @@
               "score": 0
             },
             "away": {
-              "id": "2258800",
-              "name": "Rana FK/Bodoe/Glimt",
+              "id": "8402",
+              "name": "Bodø/Glimt",
               "score": 0
             },
             "displayTournament": true,
@@ -111693,6 +111689,37 @@
             "away": {
               "id": "8007",
               "name": "Vålerenga",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-10-28T17:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "6284182",
+            "pageUrl": "/matches/kfum-vs-viking/ymd5a#6284182",
+            "opponent": {
+              "id": "8478",
+              "name": "Viking",
+              "score": 0
+            },
+            "home": {
+              "id": "8478",
+              "name": "Viking",
+              "score": 0
+            },
+            "away": {
+              "id": "2305",
+              "name": "KFUM",
               "score": 0
             },
             "displayTournament": true,
@@ -116523,6 +116550,9 @@
                   "drawOrder": 20,
                   "stage": "2",
                   "bestOf": 0,
+                  "winner": 8402,
+                  "homeScore": 2,
+                  "awayScore": 6,
                   "homeTeam": "Rana FK",
                   "awayTeam": "Bodø/Glimt",
                   "homeTeamShortName": "RAN",
@@ -116536,32 +116566,40 @@
                         "id": 1004501,
                         "name": "Rana FK",
                         "shortName": "RAN",
-                        "score": 0,
+                        "score": 2,
                         "winner": false
                       },
                       "away": {
                         "id": 8402,
                         "name": "Bodø/Glimt",
                         "shortName": "BOD",
-                        "score": 0,
-                        "winner": false
+                        "score": 6,
+                        "winner": true
                       },
                       "pageUrl": "/matches/bodoglimt-vs-rana-fk/6jnv2k66#6144873",
                       "status": {
                         "utcTime": "2026-10-01T16:00:00Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "2 - 6",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
+                    "homeScore": 2,
+                    "awayScore": 6
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8402,
+                  "aggregatedLoser": 1004501
                 },
                 {
                   "homeTeamId": 8137,
@@ -116569,6 +116607,9 @@
                   "drawOrder": 21,
                   "stage": "2",
                   "bestOf": 0,
+                  "winner": 8476,
+                  "homeScore": 1,
+                  "awayScore": 5,
                   "homeTeam": "Bærum",
                   "awayTeam": "Lillestrøm",
                   "homeTeamShortName": "BAE",
@@ -116582,32 +116623,40 @@
                         "id": 8137,
                         "name": "Bærum",
                         "shortName": "BAE",
-                        "score": 0,
+                        "score": 1,
                         "winner": false
                       },
                       "away": {
                         "id": 8476,
                         "name": "Lillestrøm",
                         "shortName": "LIL",
-                        "score": 0,
-                        "winner": false
+                        "score": 5,
+                        "winner": true
                       },
                       "pageUrl": "/matches/baerum-vs-lillestrom/2a6397#6146353",
                       "status": {
                         "utcTime": "2026-10-01T16:00:00Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "1 - 5",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
                   "aggregatedResult": {
-                    "homeScore": 0,
-                    "awayScore": 0
+                    "homeScore": 1,
+                    "awayScore": 5
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8476,
+                  "aggregatedLoser": 8137
                 },
                 {
                   "homeTeamId": 189420,
@@ -116786,6 +116835,9 @@
                   "drawOrder": 25,
                   "stage": "2",
                   "bestOf": 0,
+                  "winner": 8478,
+                  "homeScore": 0,
+                  "awayScore": 3,
                   "homeTeam": "Madla",
                   "awayTeam": "Viking",
                   "homeTeamShortName": "MAD",
@@ -116806,25 +116858,33 @@
                         "id": 8478,
                         "name": "Viking",
                         "shortName": "VIK",
-                        "score": 0,
-                        "winner": false
+                        "score": 3,
+                        "winner": true
                       },
                       "pageUrl": "/matches/viking-vs-madla/2b4e8mz#6146352",
                       "status": {
                         "utcTime": "2026-10-01T16:00:00Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
                   "aggregatedResult": {
                     "homeScore": 0,
-                    "awayScore": 0
+                    "awayScore": 3
                   },
-                  "aggregatedWinner": null,
-                  "aggregatedLoser": null
+                  "aggregatedWinner": 8478,
+                  "aggregatedLoser": 91781
                 },
                 {
                   "homeTeamId": 8067,
@@ -117648,16 +117708,16 @@
                 },
                 {
                   "homeTeamId": 8133,
-                  "awayTeamId": 2258800,
+                  "awayTeamId": 8402,
                   "drawOrder": 10,
                   "stage": "3",
                   "bestOf": 0,
                   "homeTeam": "Sandnes Ulf",
-                  "awayTeam": "Rana FK/Bodoe/Glimt",
+                  "awayTeam": "Bodø/Glimt",
                   "homeTeamShortName": "SAN",
-                  "awayTeamShortName": "TBD",
+                  "awayTeamShortName": "BOD",
                   "tbdTeam1": false,
-                  "tbdTeam2": true,
+                  "tbdTeam2": false,
                   "matches": [
                     {
                       "matchId": 6284179,
@@ -117669,13 +117729,13 @@
                         "winner": false
                       },
                       "away": {
-                        "id": 2258800,
-                        "name": "Rana FK/Bodoe/Glimt",
-                        "shortName": "TBD",
+                        "id": 8402,
+                        "name": "Bodø/Glimt",
+                        "shortName": "BOD",
                         "score": 0,
                         "winner": false
                       },
-                      "pageUrl": "/matches/sandnes-ulf-vs-rana-fkbodoeglimt/wseq8m3g#6284179",
+                      "pageUrl": "/matches/sandnes-ulf-vs-bodoglimt/29ednq#6284179",
                       "status": {
                         "utcTime": "2026-10-28T17:00:00Z",
                         "timezone": "UTC",
@@ -117693,24 +117753,24 @@
                   "aggregatedLoser": null
                 },
                 {
-                  "homeTeamId": 2258927,
+                  "homeTeamId": 8476,
                   "awayTeamId": 8616,
                   "drawOrder": 11,
                   "stage": "3",
                   "bestOf": 0,
-                  "homeTeam": "Baerum/Lillestroem",
+                  "homeTeam": "Lillestrøm",
                   "awayTeam": "Sogndal",
-                  "homeTeamShortName": "TBD",
+                  "homeTeamShortName": "LIL",
                   "awayTeamShortName": "SOG",
-                  "tbdTeam1": true,
+                  "tbdTeam1": false,
                   "tbdTeam2": false,
                   "matches": [
                     {
                       "matchId": 6284180,
                       "home": {
-                        "id": 2258927,
-                        "name": "Baerum/Lillestroem",
-                        "shortName": "TBD",
+                        "id": 8476,
+                        "name": "Lillestrøm",
+                        "shortName": "LIL",
                         "score": 0,
                         "winner": false
                       },
@@ -117721,7 +117781,7 @@
                         "score": 0,
                         "winner": false
                       },
-                      "pageUrl": "/matches/sogndal-vs-baerumlillestroem/wt1lng1o#6284180",
+                      "pageUrl": "/matches/lillestrom-vs-sogndal/2ez47m#6284180",
                       "status": {
                         "utcTime": "2026-10-28T17:00:00Z",
                         "timezone": "UTC",
@@ -117785,24 +117845,24 @@
                   "aggregatedLoser": null
                 },
                 {
-                  "homeTeamId": 2259084,
+                  "homeTeamId": 8478,
                   "awayTeamId": 2305,
                   "drawOrder": 13,
                   "stage": "3",
                   "bestOf": 0,
-                  "homeTeam": "Madla/Viking",
+                  "homeTeam": "Viking",
                   "awayTeam": "KFUM",
-                  "homeTeamShortName": "TBD",
+                  "homeTeamShortName": "VIK",
                   "awayTeamShortName": "KFU",
-                  "tbdTeam1": true,
+                  "tbdTeam1": false,
                   "tbdTeam2": false,
                   "matches": [
                     {
                       "matchId": 6284182,
                       "home": {
-                        "id": 2259084,
-                        "name": "Madla/Viking",
-                        "shortName": "TBD",
+                        "id": 8478,
+                        "name": "Viking",
+                        "shortName": "VIK",
                         "score": 0,
                         "winner": false
                       },
@@ -117813,7 +117873,7 @@
                         "score": 0,
                         "winner": false
                       },
-                      "pageUrl": "/matches/kfum-vs-madlaviking/wmn4sluk#6284182",
+                      "pageUrl": "/matches/kfum-vs-viking/ymd5a#6284182",
                       "status": {
                         "utcTime": "2026-10-28T17:00:00Z",
                         "timezone": "UTC",
@@ -117976,7 +118036,7 @@
           "special": [],
           "liveFixtureApiLink": {
             "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-            "pollFromUtc": "2026-10-01T15:55:00Z"
+            "pollFromUtc": "2026-10-06T14:55:00Z"
           },
           "leagueId": 206,
           "bronzeFinal": null,
@@ -117984,8 +118044,8 @@
         },
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 93,
-            "firstUnplayedMatchId": "6146353"
+            "firstUnplayedMatchIndex": 96,
+            "firstUnplayedMatchId": "6284089"
           },
           "allMatches": [
             {
@@ -120889,12 +120949,21 @@
               "status": {
                 "utcTime": "2026-10-01T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.10.2026 18:00:00"
+                  "firstHalfStarted": "01.10.2026 17:59:52",
+                  "secondHalfStarted": "01.10.2026 19:00:28"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "1 - 5",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -120915,12 +120984,21 @@
               "status": {
                 "utcTime": "2026-10-01T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.10.2026 18:00:00"
+                  "firstHalfStarted": "01.10.2026 17:59:57",
+                  "secondHalfStarted": "01.10.2026 19:02:30"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "0 - 3",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -120941,12 +121019,21 @@
               "status": {
                 "utcTime": "2026-10-01T16:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "01.10.2026 18:00:00"
+                  "firstHalfStarted": "01.10.2026 18:01:46",
+                  "secondHalfStarted": "01.10.2026 19:04:41"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "2 - 6",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -121021,29 +121108,6 @@
             {
               "round": "3",
               "roundName": 3,
-              "pageUrl": "/matches/sogndal-vs-baerumlillestroem/wt1lng1o#6284180",
-              "id": "6284180",
-              "home": {
-                "name": "Baerum/Lillestroem",
-                "shortName": "Baerum/Lillestroem",
-                "id": "2258927"
-              },
-              "away": {
-                "name": "Sogndal",
-                "shortName": "Sogndal",
-                "id": "8616"
-              },
-              "status": {
-                "utcTime": "2026-10-28T17:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "3",
-              "roundName": 3,
               "pageUrl": "/matches/egersund-vs-bryne/1gamte#6284090",
               "id": "6284090",
               "home": {
@@ -121090,17 +121154,17 @@
             {
               "round": "3",
               "roundName": 3,
-              "pageUrl": "/matches/kfum-vs-madlaviking/wmn4sluk#6284182",
-              "id": "6284182",
+              "pageUrl": "/matches/lillestrom-vs-sogndal/2ez47m#6284180",
+              "id": "6284180",
               "home": {
-                "name": "Madla/Viking",
-                "shortName": "Madla/Viking",
-                "id": "2259084"
+                "name": "Lillestrøm",
+                "shortName": "Lillestrøm",
+                "id": "8476"
               },
               "away": {
-                "name": "KFUM",
-                "shortName": "KFUM",
-                "id": "2305"
+                "name": "Sogndal",
+                "shortName": "Sogndal",
+                "id": "8616"
               },
               "status": {
                 "utcTime": "2026-10-28T17:00:00Z",
@@ -121228,7 +121292,7 @@
             {
               "round": "3",
               "roundName": 3,
-              "pageUrl": "/matches/sandnes-ulf-vs-rana-fkbodoeglimt/wseq8m3g#6284179",
+              "pageUrl": "/matches/sandnes-ulf-vs-bodoglimt/29ednq#6284179",
               "id": "6284179",
               "home": {
                 "name": "Sandnes Ulf",
@@ -121236,9 +121300,9 @@
                 "id": "8133"
               },
               "away": {
-                "name": "Rana FK/Bodoe/Glimt",
-                "shortName": "Rana FK/Bodoe/Glimt",
-                "id": "2258800"
+                "name": "Bodø/Glimt",
+                "shortName": "Bodø/Glimt",
+                "id": "8402"
               },
               "status": {
                 "utcTime": "2026-10-28T17:00:00Z",
@@ -121262,6 +121326,29 @@
                 "name": "Vålerenga",
                 "shortName": "Vålerenga",
                 "id": "8007"
+              },
+              "status": {
+                "utcTime": "2026-10-28T17:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "round": "3",
+              "roundName": 3,
+              "pageUrl": "/matches/kfum-vs-viking/ymd5a#6284182",
+              "id": "6284182",
+              "home": {
+                "name": "Viking",
+                "shortName": "Viking",
+                "id": "8478"
+              },
+              "away": {
+                "name": "KFUM",
+                "shortName": "KFUM",
+                "id": "2305"
               },
               "status": {
                 "utcTime": "2026-10-28T17:00:00Z",
@@ -121321,7 +121408,7 @@
           "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
-              "roundId": "2",
+              "roundId": "3",
               "localizedKey": "round_fmt"
             },
             "rounds": [
@@ -122001,11 +122088,11 @@
                 }
               },
               {
-                "id": 1536744,
-                "name": "Sakarias Ringsbu",
+                "id": 741397,
+                "name": "Jens Petter Hauge",
                 "rank": 1,
-                "teamId": 4289,
-                "teamName": "Vindbjart",
+                "teamId": 8402,
+                "teamName": "Bodoe/Glimt",
                 "value": 2,
                 "stat": {
                   "name": "goal_assist",
@@ -122014,9 +122101,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#0F0E9A",
-                  "lightMode": "#0F0E9A",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -123011,8 +123098,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 93,
-          "firstUnplayedMatchId": "6146353"
+          "firstUnplayedMatchIndex": 96,
+          "firstUnplayedMatchId": "6284089"
         },
         "allMatches": [
           {
@@ -125916,12 +126003,21 @@
             "status": {
               "utcTime": "2026-10-01T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.10.2026 18:00:00"
+                "firstHalfStarted": "01.10.2026 17:59:52",
+                "secondHalfStarted": "01.10.2026 19:00:28"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 5",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -125942,12 +126038,21 @@
             "status": {
               "utcTime": "2026-10-01T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.10.2026 18:00:00"
+                "firstHalfStarted": "01.10.2026 17:59:57",
+                "secondHalfStarted": "01.10.2026 19:02:30"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "0 - 3",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -125968,12 +126073,21 @@
             "status": {
               "utcTime": "2026-10-01T16:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "01.10.2026 18:00:00"
+                "firstHalfStarted": "01.10.2026 18:01:46",
+                "secondHalfStarted": "01.10.2026 19:04:41"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "2 - 6",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -126048,29 +126162,6 @@
           {
             "round": "3",
             "roundName": 3,
-            "pageUrl": "/matches/sogndal-vs-baerumlillestroem/wt1lng1o#6284180",
-            "id": "6284180",
-            "home": {
-              "name": "Baerum/Lillestroem",
-              "shortName": "Baerum/Lillestroem",
-              "id": "2258927"
-            },
-            "away": {
-              "name": "Sogndal",
-              "shortName": "Sogndal",
-              "id": "8616"
-            },
-            "status": {
-              "utcTime": "2026-10-28T17:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "3",
-            "roundName": 3,
             "pageUrl": "/matches/egersund-vs-bryne/1gamte#6284090",
             "id": "6284090",
             "home": {
@@ -126117,17 +126208,17 @@
           {
             "round": "3",
             "roundName": 3,
-            "pageUrl": "/matches/kfum-vs-madlaviking/wmn4sluk#6284182",
-            "id": "6284182",
+            "pageUrl": "/matches/lillestrom-vs-sogndal/2ez47m#6284180",
+            "id": "6284180",
             "home": {
-              "name": "Madla/Viking",
-              "shortName": "Madla/Viking",
-              "id": "2259084"
+              "name": "Lillestrøm",
+              "shortName": "Lillestrøm",
+              "id": "8476"
             },
             "away": {
-              "name": "KFUM",
-              "shortName": "KFUM",
-              "id": "2305"
+              "name": "Sogndal",
+              "shortName": "Sogndal",
+              "id": "8616"
             },
             "status": {
               "utcTime": "2026-10-28T17:00:00Z",
@@ -126255,7 +126346,7 @@
           {
             "round": "3",
             "roundName": 3,
-            "pageUrl": "/matches/sandnes-ulf-vs-rana-fkbodoeglimt/wseq8m3g#6284179",
+            "pageUrl": "/matches/sandnes-ulf-vs-bodoglimt/29ednq#6284179",
             "id": "6284179",
             "home": {
               "name": "Sandnes Ulf",
@@ -126263,9 +126354,9 @@
               "id": "8133"
             },
             "away": {
-              "name": "Rana FK/Bodoe/Glimt",
-              "shortName": "Rana FK/Bodoe/Glimt",
-              "id": "2258800"
+              "name": "Bodø/Glimt",
+              "shortName": "Bodø/Glimt",
+              "id": "8402"
             },
             "status": {
               "utcTime": "2026-10-28T17:00:00Z",
@@ -126289,6 +126380,29 @@
               "name": "Vålerenga",
               "shortName": "Vålerenga",
               "id": "8007"
+            },
+            "status": {
+              "utcTime": "2026-10-28T17:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "round": "3",
+            "roundName": 3,
+            "pageUrl": "/matches/kfum-vs-viking/ymd5a#6284182",
+            "id": "6284182",
+            "home": {
+              "name": "Viking",
+              "shortName": "Viking",
+              "id": "8478"
+            },
+            "away": {
+              "name": "KFUM",
+              "shortName": "KFUM",
+              "id": "2305"
             },
             "status": {
               "utcTime": "2026-10-28T17:00:00Z",
@@ -126348,7 +126462,7 @@
         "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
-            "roundId": "2",
+            "roundId": "3",
             "localizedKey": "round_fmt"
           },
           "rounds": [
@@ -131632,6 +131746,9 @@
                 "drawOrder": 20,
                 "stage": "2",
                 "bestOf": 0,
+                "winner": 8402,
+                "homeScore": 2,
+                "awayScore": 6,
                 "homeTeam": "Rana FK",
                 "awayTeam": "Bodø/Glimt",
                 "homeTeamShortName": "RAN",
@@ -131645,32 +131762,40 @@
                       "id": 1004501,
                       "name": "Rana FK",
                       "shortName": "RAN",
-                      "score": 0,
+                      "score": 2,
                       "winner": false
                     },
                     "away": {
                       "id": 8402,
                       "name": "Bodø/Glimt",
                       "shortName": "BOD",
-                      "score": 0,
-                      "winner": false
+                      "score": 6,
+                      "winner": true
                     },
                     "pageUrl": "/matches/bodoglimt-vs-rana-fk/6jnv2k66#6144873",
                     "status": {
                       "utcTime": "2026-10-01T16:00:00Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "2 - 6",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
+                  "homeScore": 2,
+                  "awayScore": 6
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8402,
+                "aggregatedLoser": 1004501
               },
               {
                 "homeTeamId": 8137,
@@ -131678,6 +131803,9 @@
                 "drawOrder": 21,
                 "stage": "2",
                 "bestOf": 0,
+                "winner": 8476,
+                "homeScore": 1,
+                "awayScore": 5,
                 "homeTeam": "Bærum",
                 "awayTeam": "Lillestrøm",
                 "homeTeamShortName": "BAE",
@@ -131691,32 +131819,40 @@
                       "id": 8137,
                       "name": "Bærum",
                       "shortName": "BAE",
-                      "score": 0,
+                      "score": 1,
                       "winner": false
                     },
                     "away": {
                       "id": 8476,
                       "name": "Lillestrøm",
                       "shortName": "LIL",
-                      "score": 0,
-                      "winner": false
+                      "score": 5,
+                      "winner": true
                     },
                     "pageUrl": "/matches/baerum-vs-lillestrom/2a6397#6146353",
                     "status": {
                       "utcTime": "2026-10-01T16:00:00Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "1 - 5",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
                 "aggregatedResult": {
-                  "homeScore": 0,
-                  "awayScore": 0
+                  "homeScore": 1,
+                  "awayScore": 5
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8476,
+                "aggregatedLoser": 8137
               },
               {
                 "homeTeamId": 189420,
@@ -131895,6 +132031,9 @@
                 "drawOrder": 25,
                 "stage": "2",
                 "bestOf": 0,
+                "winner": 8478,
+                "homeScore": 0,
+                "awayScore": 3,
                 "homeTeam": "Madla",
                 "awayTeam": "Viking",
                 "homeTeamShortName": "MAD",
@@ -131915,25 +132054,33 @@
                       "id": 8478,
                       "name": "Viking",
                       "shortName": "VIK",
-                      "score": 0,
-                      "winner": false
+                      "score": 3,
+                      "winner": true
                     },
                     "pageUrl": "/matches/viking-vs-madla/2b4e8mz#6146352",
                     "status": {
                       "utcTime": "2026-10-01T16:00:00Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "0 - 3",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
                 "aggregatedResult": {
                   "homeScore": 0,
-                  "awayScore": 0
+                  "awayScore": 3
                 },
-                "aggregatedWinner": null,
-                "aggregatedLoser": null
+                "aggregatedWinner": 8478,
+                "aggregatedLoser": 91781
               },
               {
                 "homeTeamId": 8067,
@@ -132757,16 +132904,16 @@
               },
               {
                 "homeTeamId": 8133,
-                "awayTeamId": 2258800,
+                "awayTeamId": 8402,
                 "drawOrder": 10,
                 "stage": "3",
                 "bestOf": 0,
                 "homeTeam": "Sandnes Ulf",
-                "awayTeam": "Rana FK/Bodoe/Glimt",
+                "awayTeam": "Bodø/Glimt",
                 "homeTeamShortName": "SAN",
-                "awayTeamShortName": "TBD",
+                "awayTeamShortName": "BOD",
                 "tbdTeam1": false,
-                "tbdTeam2": true,
+                "tbdTeam2": false,
                 "matches": [
                   {
                     "matchId": 6284179,
@@ -132778,13 +132925,13 @@
                       "winner": false
                     },
                     "away": {
-                      "id": 2258800,
-                      "name": "Rana FK/Bodoe/Glimt",
-                      "shortName": "TBD",
+                      "id": 8402,
+                      "name": "Bodø/Glimt",
+                      "shortName": "BOD",
                       "score": 0,
                       "winner": false
                     },
-                    "pageUrl": "/matches/sandnes-ulf-vs-rana-fkbodoeglimt/wseq8m3g#6284179",
+                    "pageUrl": "/matches/sandnes-ulf-vs-bodoglimt/29ednq#6284179",
                     "status": {
                       "utcTime": "2026-10-28T17:00:00Z",
                       "timezone": "UTC",
@@ -132802,24 +132949,24 @@
                 "aggregatedLoser": null
               },
               {
-                "homeTeamId": 2258927,
+                "homeTeamId": 8476,
                 "awayTeamId": 8616,
                 "drawOrder": 11,
                 "stage": "3",
                 "bestOf": 0,
-                "homeTeam": "Baerum/Lillestroem",
+                "homeTeam": "Lillestrøm",
                 "awayTeam": "Sogndal",
-                "homeTeamShortName": "TBD",
+                "homeTeamShortName": "LIL",
                 "awayTeamShortName": "SOG",
-                "tbdTeam1": true,
+                "tbdTeam1": false,
                 "tbdTeam2": false,
                 "matches": [
                   {
                     "matchId": 6284180,
                     "home": {
-                      "id": 2258927,
-                      "name": "Baerum/Lillestroem",
-                      "shortName": "TBD",
+                      "id": 8476,
+                      "name": "Lillestrøm",
+                      "shortName": "LIL",
                       "score": 0,
                       "winner": false
                     },
@@ -132830,7 +132977,7 @@
                       "score": 0,
                       "winner": false
                     },
-                    "pageUrl": "/matches/sogndal-vs-baerumlillestroem/wt1lng1o#6284180",
+                    "pageUrl": "/matches/lillestrom-vs-sogndal/2ez47m#6284180",
                     "status": {
                       "utcTime": "2026-10-28T17:00:00Z",
                       "timezone": "UTC",
@@ -132894,24 +133041,24 @@
                 "aggregatedLoser": null
               },
               {
-                "homeTeamId": 2259084,
+                "homeTeamId": 8478,
                 "awayTeamId": 2305,
                 "drawOrder": 13,
                 "stage": "3",
                 "bestOf": 0,
-                "homeTeam": "Madla/Viking",
+                "homeTeam": "Viking",
                 "awayTeam": "KFUM",
-                "homeTeamShortName": "TBD",
+                "homeTeamShortName": "VIK",
                 "awayTeamShortName": "KFU",
-                "tbdTeam1": true,
+                "tbdTeam1": false,
                 "tbdTeam2": false,
                 "matches": [
                   {
                     "matchId": 6284182,
                     "home": {
-                      "id": 2259084,
-                      "name": "Madla/Viking",
-                      "shortName": "TBD",
+                      "id": 8478,
+                      "name": "Viking",
+                      "shortName": "VIK",
                       "score": 0,
                       "winner": false
                     },
@@ -132922,7 +133069,7 @@
                       "score": 0,
                       "winner": false
                     },
-                    "pageUrl": "/matches/kfum-vs-madlaviking/wmn4sluk#6284182",
+                    "pageUrl": "/matches/kfum-vs-viking/ymd5a#6284182",
                     "status": {
                       "utcTime": "2026-10-28T17:00:00Z",
                       "timezone": "UTC",
@@ -133085,7 +133232,7 @@
         "special": [],
         "liveFixtureApiLink": {
           "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-          "pollFromUtc": "2026-10-01T15:55:00Z"
+          "pollFromUtc": "2026-10-06T14:55:00Z"
         },
         "leagueId": 206,
         "bronzeFinal": null,
@@ -137646,9 +137793,6 @@
     "1599897": "Tønsnes kunstgress",
     "1609446": "-",
     "1609447": "-",
-    "1609448": "-",
-    "2258800": "-",
-    "2258927": "-",
-    "2259084": "-"
+    "1609448": "-"
   }
 }
