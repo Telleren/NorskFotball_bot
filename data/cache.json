@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:05:46.247062+00:00",
+  "generated_at": "2026-10-01T13:28:58.407848+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -42619,7 +42619,7 @@
             "263": "Premier League",
             "264": "First Division B",
             "267": "Premier League",
-            "268": "Serie A",
+            "268": "Série A",
             "270": "First Professional League",
             "273": "Liga de Primera",
             "274": "Primera A",
@@ -42808,7 +42808,7 @@
             "10603": "CONCACAF Gold Cup Women",
             "10607": "EURO",
             "10609": "Asian Cup  Playoff",
-            "10610": "CONCAFAF Gold Cup",
+            "10610": "CONCACAF Gold Cup",
             "10611": "Champions League",
             "10612": "Women's Champions League",
             "10613": "Europa League",
@@ -42883,7 +42883,8 @@
             "11697": "Copa de la Liga",
             "11839": "WSL Promotion/Relegation",
             "11840": "Throne Cup",
-            "13169": "MLS All-Star Game"
+            "13169": "MLS All-Star Game",
+            "13287": "FIFA ASEAN Cup"
           },
           "Words": {},
           "LeagueMapping": {
@@ -65058,6 +65059,37 @@
             }
           },
           {
+            "id": "5105311",
+            "pageUrl": "/matches/ranheim-vs-sogndal/1wli6i#5105311",
+            "opponent": {
+              "id": "6563",
+              "name": "Ranheim",
+              "score": 0
+            },
+            "home": {
+              "id": "6563",
+              "name": "Ranheim",
+              "score": 0
+            },
+            "away": {
+              "id": "8616",
+              "name": "Sogndal",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-11-01T13:30:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
             "id": "5105313",
             "pageUrl": "/matches/fk-haugesund-vs-asane/2u9a3j#5105313",
             "opponent": {
@@ -65197,37 +65229,6 @@
             "away": {
               "id": "8133",
               "name": "Sandnes Ulf",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-11-01T16:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "id": "5105311",
-            "pageUrl": "/matches/ranheim-vs-sogndal/1wli6i#5105311",
-            "opponent": {
-              "id": "6563",
-              "name": "Ranheim",
-              "score": 0
-            },
-            "home": {
-              "id": "6563",
-              "name": "Ranheim",
-              "score": 0
-            },
-            "away": {
-              "id": "8616",
-              "name": "Sogndal",
               "score": 0
             },
             "displayTournament": true,
@@ -72189,6 +72190,29 @@
             {
               "round": "29",
               "roundName": 29,
+              "pageUrl": "/matches/ranheim-vs-sogndal/1wli6i#5105311",
+              "id": "5105311",
+              "home": {
+                "name": "Ranheim",
+                "shortName": "Ranheim",
+                "id": "6563"
+              },
+              "away": {
+                "name": "Sogndal",
+                "shortName": "Sogndal",
+                "id": "8616"
+              },
+              "status": {
+                "utcTime": "2026-11-01T13:30:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "round": "29",
+              "roundName": 29,
               "pageUrl": "/matches/fk-haugesund-vs-asane/2u9a3j#5105313",
               "id": "5105313",
               "home": {
@@ -72292,29 +72316,6 @@
                 "name": "Sandnes Ulf",
                 "shortName": "Sandnes Ulf",
                 "id": "8133"
-              },
-              "status": {
-                "utcTime": "2026-11-01T16:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "29",
-              "roundName": 29,
-              "pageUrl": "/matches/ranheim-vs-sogndal/1wli6i#5105311",
-              "id": "5105311",
-              "home": {
-                "name": "Ranheim",
-                "shortName": "Ranheim",
-                "id": "6563"
-              },
-              "away": {
-                "name": "Sogndal",
-                "shortName": "Sogndal",
-                "id": "8616"
               },
               "status": {
                 "utcTime": "2026-11-01T16:00:00Z",
@@ -80574,6 +80575,29 @@
           {
             "round": "29",
             "roundName": 29,
+            "pageUrl": "/matches/ranheim-vs-sogndal/1wli6i#5105311",
+            "id": "5105311",
+            "home": {
+              "name": "Ranheim",
+              "shortName": "Ranheim",
+              "id": "6563"
+            },
+            "away": {
+              "name": "Sogndal",
+              "shortName": "Sogndal",
+              "id": "8616"
+            },
+            "status": {
+              "utcTime": "2026-11-01T13:30:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "round": "29",
+            "roundName": 29,
             "pageUrl": "/matches/fk-haugesund-vs-asane/2u9a3j#5105313",
             "id": "5105313",
             "home": {
@@ -80677,29 +80701,6 @@
               "name": "Sandnes Ulf",
               "shortName": "Sandnes Ulf",
               "id": "8133"
-            },
-            "status": {
-              "utcTime": "2026-11-01T16:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "29",
-            "roundName": 29,
-            "pageUrl": "/matches/ranheim-vs-sogndal/1wli6i#5105311",
-            "id": "5105311",
-            "home": {
-              "name": "Ranheim",
-              "shortName": "Ranheim",
-              "id": "6563"
-            },
-            "away": {
-              "name": "Sogndal",
-              "shortName": "Sogndal",
-              "id": "8616"
             },
             "status": {
               "utcTime": "2026-11-01T16:00:00Z",
@@ -81618,7 +81619,7 @@
             "263": "Premier League",
             "264": "First Division B",
             "267": "Premier League",
-            "268": "Serie A",
+            "268": "Série A",
             "270": "First Professional League",
             "273": "Liga de Primera",
             "274": "Primera A",
@@ -81807,7 +81808,7 @@
             "10603": "CONCACAF Gold Cup Women",
             "10607": "EURO",
             "10609": "Asian Cup  Playoff",
-            "10610": "CONCAFAF Gold Cup",
+            "10610": "CONCACAF Gold Cup",
             "10611": "Champions League",
             "10612": "Women's Champions League",
             "10613": "Europa League",
@@ -81882,7 +81883,8 @@
             "11697": "Copa de la Liga",
             "11839": "WSL Promotion/Relegation",
             "11840": "Throne Cup",
-            "13169": "MLS All-Star Game"
+            "13169": "MLS All-Star Game",
+            "13287": "FIFA ASEAN Cup"
           },
           "Words": {},
           "LeagueMapping": {
@@ -104862,7 +104864,7 @@
             "263": "Premier League",
             "264": "First Division B",
             "267": "Premier League",
-            "268": "Serie A",
+            "268": "Série A",
             "270": "First Professional League",
             "273": "Liga de Primera",
             "274": "Primera A",
@@ -105051,7 +105053,7 @@
             "10603": "CONCACAF Gold Cup Women",
             "10607": "EURO",
             "10609": "Asian Cup  Playoff",
-            "10610": "CONCAFAF Gold Cup",
+            "10610": "CONCACAF Gold Cup",
             "10611": "Champions League",
             "10612": "Women's Champions League",
             "10613": "Europa League",
@@ -105126,7 +105128,8 @@
             "11697": "Copa de la Liga",
             "11839": "WSL Promotion/Relegation",
             "11840": "Throne Cup",
-            "13169": "MLS All-Star Game"
+            "13169": "MLS All-Star Game",
+            "13287": "FIFA ASEAN Cup"
           },
           "Words": {},
           "LeagueMapping": {
@@ -135032,7 +135035,7 @@
             "263": "Premier League",
             "264": "First Division B",
             "267": "Premier League",
-            "268": "Serie A",
+            "268": "Série A",
             "270": "First Professional League",
             "273": "Liga de Primera",
             "274": "Primera A",
@@ -135221,7 +135224,7 @@
             "10603": "CONCACAF Gold Cup Women",
             "10607": "EURO",
             "10609": "Asian Cup  Playoff",
-            "10610": "CONCAFAF Gold Cup",
+            "10610": "CONCACAF Gold Cup",
             "10611": "Champions League",
             "10612": "Women's Champions League",
             "10613": "Europa League",
@@ -135296,7 +135299,8 @@
             "11697": "Copa de la Liga",
             "11839": "WSL Promotion/Relegation",
             "11840": "Throne Cup",
-            "13169": "MLS All-Star Game"
+            "13169": "MLS All-Star Game",
+            "13287": "FIFA ASEAN Cup"
           },
           "Words": {},
           "LeagueMapping": {
