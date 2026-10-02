@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:47:10.379466+00:00",
+  "generated_at": "2026-10-02T22:21:15.023842+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -45158,8 +45158,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/1-divisjon",
-            "leagueName": "1. Divisjon",
+            "pageUrl": "/leagues/203/overview/obos-ligaen",
+            "leagueName": "OBOS-ligaen",
             "legend": [
               {
                 "title": "Promotion",
@@ -45322,36 +45322,36 @@
                   "qualColor": null
                 },
                 {
-                  "name": "Egersund",
-                  "shortName": "Egersund",
-                  "id": 4722,
-                  "pageUrl": "/teams/4722/overview/egersund",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 23,
-                  "wins": 8,
-                  "draws": 5,
-                  "losses": 10,
-                  "scoresStr": "36-44",
-                  "goalConDiff": -8,
-                  "pts": 29,
-                  "idx": 8,
-                  "qualColor": null
-                },
-                {
                   "name": "Ranheim",
                   "shortName": "Ranheim",
                   "id": 6563,
                   "pageUrl": "/teams/6563/overview/ranheim",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 23,
-                  "wins": 8,
+                  "played": 24,
+                  "wins": 9,
                   "draws": 4,
                   "losses": 11,
-                  "scoresStr": "56-58",
-                  "goalConDiff": -2,
-                  "pts": 28,
+                  "scoresStr": "61-58",
+                  "goalConDiff": 3,
+                  "pts": 31,
+                  "idx": 8,
+                  "qualColor": null
+                },
+                {
+                  "name": "Egersund",
+                  "shortName": "Egersund",
+                  "id": 4722,
+                  "pageUrl": "/teams/4722/overview/egersund",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 24,
+                  "wins": 8,
+                  "draws": 5,
+                  "losses": 11,
+                  "scoresStr": "36-49",
+                  "goalConDiff": -13,
+                  "pts": 29,
                   "idx": 9,
                   "qualColor": null
                 },
@@ -45585,6 +45585,24 @@
                   "qualColor": "#FFD908"
                 },
                 {
+                  "name": "Ranheim",
+                  "shortName": "Ranheim",
+                  "id": 6563,
+                  "pageUrl": "/teams/6563/overview/ranheim",
+                  "deduction": null,
+                  "ongoing": null,
+                  "played": 13,
+                  "wins": 6,
+                  "draws": 3,
+                  "losses": 4,
+                  "scoresStr": "39-28",
+                  "goalConDiff": 11,
+                  "goalsScored": 39,
+                  "pts": 21,
+                  "idx": 7,
+                  "qualColor": null
+                },
+                {
                   "name": "Egersund",
                   "shortName": "Egersund",
                   "id": 4722,
@@ -45599,24 +45617,6 @@
                   "goalConDiff": 3,
                   "goalsScored": 19,
                   "pts": 21,
-                  "idx": 7,
-                  "qualColor": null
-                },
-                {
-                  "name": "Ranheim",
-                  "shortName": "Ranheim",
-                  "id": 6563,
-                  "pageUrl": "/teams/6563/overview/ranheim",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 12,
-                  "wins": 5,
-                  "draws": 3,
-                  "losses": 4,
-                  "scoresStr": "34-28",
-                  "goalConDiff": 6,
-                  "goalsScored": 34,
-                  "pts": 18,
                   "idx": 8,
                   "qualColor": null
                 },
@@ -45989,12 +45989,12 @@
                   "pageUrl": "/teams/4722/overview/egersund",
                   "deduction": null,
                   "ongoing": null,
-                  "played": 11,
+                  "played": 12,
                   "wins": 2,
                   "draws": 2,
-                  "losses": 7,
-                  "scoresStr": "17-28",
-                  "goalConDiff": -11,
+                  "losses": 8,
+                  "scoresStr": "17-33",
+                  "goalConDiff": -16,
                   "goalsScored": 17,
                   "pts": 8,
                   "idx": 13,
@@ -46147,6 +46147,24 @@
                   "qualColor": "#FFD908"
                 },
                 {
+                  "name": "Ranheim",
+                  "shortName": "Ranheim",
+                  "featuredInMatch": false,
+                  "id": 6563,
+                  "pageUrl": "/teams/6563/overview/ranheim",
+                  "played": 5,
+                  "wins": 2,
+                  "draws": 2,
+                  "losses": 1,
+                  "scoresStr": "15-9",
+                  "goalConDiff": 6,
+                  "goalsScored": 15,
+                  "pts": 8,
+                  "ongoing": null,
+                  "idx": 6,
+                  "qualColor": "#FFD908"
+                },
+                {
                   "name": "Lyn",
                   "shortName": "Lyn",
                   "featuredInMatch": false,
@@ -46161,8 +46179,8 @@
                   "goalsScored": 10,
                   "pts": 8,
                   "ongoing": null,
-                  "idx": 6,
-                  "qualColor": "#FFD908"
+                  "idx": 7,
+                  "qualColor": null
                 },
                 {
                   "name": "Odds Ballklubb",
@@ -46179,7 +46197,7 @@
                   "goalsScored": 12,
                   "pts": 7,
                   "ongoing": null,
-                  "idx": 7,
+                  "idx": 8,
                   "qualColor": null
                 },
                 {
@@ -46197,7 +46215,7 @@
                   "goalsScored": 9,
                   "pts": 7,
                   "ongoing": null,
-                  "idx": 8,
+                  "idx": 9,
                   "qualColor": null
                 },
                 {
@@ -46214,24 +46232,6 @@
                   "goalConDiff": -1,
                   "goalsScored": 9,
                   "pts": 6,
-                  "ongoing": null,
-                  "idx": 9,
-                  "qualColor": null
-                },
-                {
-                  "name": "Ranheim",
-                  "shortName": "Ranheim",
-                  "featuredInMatch": false,
-                  "id": 6563,
-                  "pageUrl": "/teams/6563/overview/ranheim",
-                  "played": 5,
-                  "wins": 1,
-                  "draws": 2,
-                  "losses": 2,
-                  "scoresStr": "12-13",
-                  "goalConDiff": -1,
-                  "goalsScored": 12,
-                  "pts": 5,
                   "ongoing": null,
                   "idx": 10,
                   "qualColor": null
@@ -46300,8 +46300,8 @@
                   "wins": 0,
                   "draws": 3,
                   "losses": 2,
-                  "scoresStr": "5-12",
-                  "goalConDiff": -7,
+                  "scoresStr": "5-14",
+                  "goalConDiff": -9,
                   "goalsScored": 5,
                   "pts": 3,
                   "ongoing": null,
@@ -46522,37 +46522,6 @@
             ],
             "4722": [
               {
-                "result": -1,
-                "resultString": "L",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8512.png",
-                "linkToMatch": "/matches/egersund-vs-fk-haugesund/1g58mz#5105226",
-                "date": null,
-                "teamPageUrl": "/teams/8512/overview/fk-haugesund",
-                "tooltipText": {
-                  "utcTime": "2026-08-26T17:00:00Z",
-                  "timezone": "UTC",
-                  "homeTeam": "FK Haugesund",
-                  "homeTeamId": 8512,
-                  "homeScore": 3,
-                  "awayTeam": "Egersund",
-                  "awayTeamId": 4722,
-                  "awayScore": 0
-                },
-                "score": "3 - 0",
-                "home": {
-                  "id": "8512",
-                  "name": "FK Haugesund",
-                  "shortName": "FK Haugesund",
-                  "isOurTeam": false
-                },
-                "away": {
-                  "id": "4722",
-                  "name": "Egersund",
-                  "shortName": "Egersund",
-                  "isOurTeam": true
-                }
-              },
-              {
                 "result": 0,
                 "resultString": "D",
                 "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10021.png",
@@ -46675,40 +46644,40 @@
                   "shortName": "Egersund",
                   "isOurTeam": true
                 }
-              }
-            ],
-            "6563": [
+              },
               {
                 "result": -1,
                 "resultString": "L",
-                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9918.png",
-                "linkToMatch": "/matches/ranheim-vs-stabaek/28vaz3#5105230",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6563.png",
+                "linkToMatch": "/matches/egersund-vs-ranheim/11x1u2#5105270",
                 "date": null,
-                "teamPageUrl": "/teams/9918/overview/stabaek",
+                "teamPageUrl": "/teams/6563/overview/ranheim",
                 "tooltipText": {
-                  "utcTime": "2026-08-26T17:00:00Z",
+                  "utcTime": "2026-10-02T17:00:00Z",
                   "timezone": "UTC",
-                  "homeTeam": "Stabæk",
-                  "homeTeamId": 9918,
-                  "homeScore": 4,
-                  "awayTeam": "Ranheim",
-                  "awayTeamId": 6563,
-                  "awayScore": 2
+                  "homeTeam": "Ranheim",
+                  "homeTeamId": 6563,
+                  "homeScore": 5,
+                  "awayTeam": "Egersund",
+                  "awayTeamId": 4722,
+                  "awayScore": 0
                 },
-                "score": "4 - 2",
+                "score": "5 - 0",
                 "home": {
-                  "id": "9918",
-                  "name": "Stabæk",
-                  "shortName": "Stabæk",
-                  "isOurTeam": false
-                },
-                "away": {
                   "id": "6563",
                   "name": "Ranheim",
                   "shortName": "Ranheim",
+                  "isOurTeam": false
+                },
+                "away": {
+                  "id": "4722",
+                  "name": "Egersund",
+                  "shortName": "Egersund",
                   "isOurTeam": true
                 }
-              },
+              }
+            ],
+            "6563": [
               {
                 "result": -1,
                 "resultString": "L",
@@ -46831,6 +46800,37 @@
                   "name": "Ranheim",
                   "shortName": "Ranheim",
                   "isOurTeam": true
+                }
+              },
+              {
+                "result": 1,
+                "resultString": "W",
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4722.png",
+                "linkToMatch": "/matches/egersund-vs-ranheim/11x1u2#5105270",
+                "date": null,
+                "teamPageUrl": "/teams/4722/overview/egersund",
+                "tooltipText": {
+                  "utcTime": "2026-10-02T17:00:00Z",
+                  "timezone": "UTC",
+                  "homeTeam": "Ranheim",
+                  "homeTeamId": 6563,
+                  "homeScore": 5,
+                  "awayTeam": "Egersund",
+                  "awayTeamId": 4722,
+                  "awayScore": 0
+                },
+                "score": "5 - 0",
+                "home": {
+                  "id": "6563",
+                  "name": "Ranheim",
+                  "shortName": "Ranheim",
+                  "isOurTeam": true
+                },
+                "away": {
+                  "id": "4722",
+                  "name": "Egersund",
+                  "shortName": "Egersund",
+                  "isOurTeam": false
                 }
               }
             ],
@@ -48894,36 +48894,36 @@
               "2026-10-03T12:30:00Z"
             ],
             "4722": [
-              "6563",
-              "Ranheim",
-              "5105270",
-              {
-                "id": "6563",
-                "name": "Ranheim",
-                "shortName": "Ranheim"
-              },
+              "7937",
+              "Hødd",
+              "5105274",
               {
                 "id": "4722",
                 "name": "Egersund",
                 "shortName": "Egersund"
               },
-              "2026-10-02T17:00:00Z"
+              {
+                "id": "7937",
+                "name": "Hødd",
+                "shortName": "Hødd"
+              },
+              "2026-10-11T15:00:00Z"
             ],
             "6563": [
-              "4722",
-              "Egersund",
-              "5105270",
+              "8179",
+              "Kongsvinger",
+              "5105275",
+              {
+                "id": "8179",
+                "name": "Kongsvinger",
+                "shortName": "Kongsvinger"
+              },
               {
                 "id": "6563",
                 "name": "Ranheim",
                 "shortName": "Ranheim"
               },
-              {
-                "id": "4722",
-                "name": "Egersund",
-                "shortName": "Egersund"
-              },
-              "2026-10-02T17:00:00Z"
+              "2026-10-11T15:00:00Z"
             ],
             "7937": [
               "7988",
@@ -52509,8 +52509,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/1-divisjon",
-              "leagueName": "1. Divisjon",
+              "pageUrl": "/leagues/203/overview/obos-ligaen",
+              "leagueName": "OBOS-ligaen",
               "legend": [
                 {
                   "title": "Promotion",
@@ -52673,36 +52673,36 @@
                     "qualColor": null
                   },
                   {
-                    "name": "Egersund",
-                    "shortName": "Egersund",
-                    "id": 4722,
-                    "pageUrl": "/teams/4722/overview/egersund",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 23,
-                    "wins": 8,
-                    "draws": 5,
-                    "losses": 10,
-                    "scoresStr": "36-44",
-                    "goalConDiff": -8,
-                    "pts": 29,
-                    "idx": 8,
-                    "qualColor": null
-                  },
-                  {
                     "name": "Ranheim",
                     "shortName": "Ranheim",
                     "id": 6563,
                     "pageUrl": "/teams/6563/overview/ranheim",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 23,
-                    "wins": 8,
+                    "played": 24,
+                    "wins": 9,
                     "draws": 4,
                     "losses": 11,
-                    "scoresStr": "56-58",
-                    "goalConDiff": -2,
-                    "pts": 28,
+                    "scoresStr": "61-58",
+                    "goalConDiff": 3,
+                    "pts": 31,
+                    "idx": 8,
+                    "qualColor": null
+                  },
+                  {
+                    "name": "Egersund",
+                    "shortName": "Egersund",
+                    "id": 4722,
+                    "pageUrl": "/teams/4722/overview/egersund",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 24,
+                    "wins": 8,
+                    "draws": 5,
+                    "losses": 11,
+                    "scoresStr": "36-49",
+                    "goalConDiff": -13,
+                    "pts": 29,
                     "idx": 9,
                     "qualColor": null
                   },
@@ -52936,6 +52936,24 @@
                     "qualColor": "#FFD908"
                   },
                   {
+                    "name": "Ranheim",
+                    "shortName": "Ranheim",
+                    "id": 6563,
+                    "pageUrl": "/teams/6563/overview/ranheim",
+                    "deduction": null,
+                    "ongoing": null,
+                    "played": 13,
+                    "wins": 6,
+                    "draws": 3,
+                    "losses": 4,
+                    "scoresStr": "39-28",
+                    "goalConDiff": 11,
+                    "goalsScored": 39,
+                    "pts": 21,
+                    "idx": 7,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Egersund",
                     "shortName": "Egersund",
                     "id": 4722,
@@ -52950,24 +52968,6 @@
                     "goalConDiff": 3,
                     "goalsScored": 19,
                     "pts": 21,
-                    "idx": 7,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Ranheim",
-                    "shortName": "Ranheim",
-                    "id": 6563,
-                    "pageUrl": "/teams/6563/overview/ranheim",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 12,
-                    "wins": 5,
-                    "draws": 3,
-                    "losses": 4,
-                    "scoresStr": "34-28",
-                    "goalConDiff": 6,
-                    "goalsScored": 34,
-                    "pts": 18,
                     "idx": 8,
                     "qualColor": null
                   },
@@ -53340,12 +53340,12 @@
                     "pageUrl": "/teams/4722/overview/egersund",
                     "deduction": null,
                     "ongoing": null,
-                    "played": 11,
+                    "played": 12,
                     "wins": 2,
                     "draws": 2,
-                    "losses": 7,
-                    "scoresStr": "17-28",
-                    "goalConDiff": -11,
+                    "losses": 8,
+                    "scoresStr": "17-33",
+                    "goalConDiff": -16,
                     "goalsScored": 17,
                     "pts": 8,
                     "idx": 13,
@@ -53498,6 +53498,24 @@
                     "qualColor": "#FFD908"
                   },
                   {
+                    "name": "Ranheim",
+                    "shortName": "Ranheim",
+                    "featuredInMatch": false,
+                    "id": 6563,
+                    "pageUrl": "/teams/6563/overview/ranheim",
+                    "played": 5,
+                    "wins": 2,
+                    "draws": 2,
+                    "losses": 1,
+                    "scoresStr": "15-9",
+                    "goalConDiff": 6,
+                    "goalsScored": 15,
+                    "pts": 8,
+                    "ongoing": null,
+                    "idx": 6,
+                    "qualColor": "#FFD908"
+                  },
+                  {
                     "name": "Lyn",
                     "shortName": "Lyn",
                     "featuredInMatch": false,
@@ -53512,8 +53530,8 @@
                     "goalsScored": 10,
                     "pts": 8,
                     "ongoing": null,
-                    "idx": 6,
-                    "qualColor": "#FFD908"
+                    "idx": 7,
+                    "qualColor": null
                   },
                   {
                     "name": "Odds Ballklubb",
@@ -53530,7 +53548,7 @@
                     "goalsScored": 12,
                     "pts": 7,
                     "ongoing": null,
-                    "idx": 7,
+                    "idx": 8,
                     "qualColor": null
                   },
                   {
@@ -53548,7 +53566,7 @@
                     "goalsScored": 9,
                     "pts": 7,
                     "ongoing": null,
-                    "idx": 8,
+                    "idx": 9,
                     "qualColor": null
                   },
                   {
@@ -53565,24 +53583,6 @@
                     "goalConDiff": -1,
                     "goalsScored": 9,
                     "pts": 6,
-                    "ongoing": null,
-                    "idx": 9,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Ranheim",
-                    "shortName": "Ranheim",
-                    "featuredInMatch": false,
-                    "id": 6563,
-                    "pageUrl": "/teams/6563/overview/ranheim",
-                    "played": 5,
-                    "wins": 1,
-                    "draws": 2,
-                    "losses": 2,
-                    "scoresStr": "12-13",
-                    "goalConDiff": -1,
-                    "goalsScored": 12,
-                    "pts": 5,
                     "ongoing": null,
                     "idx": 10,
                     "qualColor": null
@@ -53651,8 +53651,8 @@
                     "wins": 0,
                     "draws": 3,
                     "losses": 2,
-                    "scoresStr": "5-12",
-                    "goalConDiff": -7,
+                    "scoresStr": "5-14",
+                    "goalConDiff": -9,
                     "goalsScored": 5,
                     "pts": 3,
                     "ongoing": null,
@@ -53873,37 +53873,6 @@
               ],
               "4722": [
                 {
-                  "result": -1,
-                  "resultString": "L",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8512.png",
-                  "linkToMatch": "/matches/egersund-vs-fk-haugesund/1g58mz#5105226",
-                  "date": null,
-                  "teamPageUrl": "/teams/8512/overview/fk-haugesund",
-                  "tooltipText": {
-                    "utcTime": "2026-08-26T17:00:00Z",
-                    "timezone": "UTC",
-                    "homeTeam": "FK Haugesund",
-                    "homeTeamId": 8512,
-                    "homeScore": 3,
-                    "awayTeam": "Egersund",
-                    "awayTeamId": 4722,
-                    "awayScore": 0
-                  },
-                  "score": "3 - 0",
-                  "home": {
-                    "id": "8512",
-                    "name": "FK Haugesund",
-                    "shortName": "FK Haugesund",
-                    "isOurTeam": false
-                  },
-                  "away": {
-                    "id": "4722",
-                    "name": "Egersund",
-                    "shortName": "Egersund",
-                    "isOurTeam": true
-                  }
-                },
-                {
                   "result": 0,
                   "resultString": "D",
                   "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10021.png",
@@ -54026,40 +53995,40 @@
                     "shortName": "Egersund",
                     "isOurTeam": true
                   }
-                }
-              ],
-              "6563": [
+                },
                 {
                   "result": -1,
                   "resultString": "L",
-                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9918.png",
-                  "linkToMatch": "/matches/ranheim-vs-stabaek/28vaz3#5105230",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6563.png",
+                  "linkToMatch": "/matches/egersund-vs-ranheim/11x1u2#5105270",
                   "date": null,
-                  "teamPageUrl": "/teams/9918/overview/stabaek",
+                  "teamPageUrl": "/teams/6563/overview/ranheim",
                   "tooltipText": {
-                    "utcTime": "2026-08-26T17:00:00Z",
+                    "utcTime": "2026-10-02T17:00:00Z",
                     "timezone": "UTC",
-                    "homeTeam": "Stabæk",
-                    "homeTeamId": 9918,
-                    "homeScore": 4,
-                    "awayTeam": "Ranheim",
-                    "awayTeamId": 6563,
-                    "awayScore": 2
+                    "homeTeam": "Ranheim",
+                    "homeTeamId": 6563,
+                    "homeScore": 5,
+                    "awayTeam": "Egersund",
+                    "awayTeamId": 4722,
+                    "awayScore": 0
                   },
-                  "score": "4 - 2",
+                  "score": "5 - 0",
                   "home": {
-                    "id": "9918",
-                    "name": "Stabæk",
-                    "shortName": "Stabæk",
-                    "isOurTeam": false
-                  },
-                  "away": {
                     "id": "6563",
                     "name": "Ranheim",
                     "shortName": "Ranheim",
+                    "isOurTeam": false
+                  },
+                  "away": {
+                    "id": "4722",
+                    "name": "Egersund",
+                    "shortName": "Egersund",
                     "isOurTeam": true
                   }
-                },
+                }
+              ],
+              "6563": [
                 {
                   "result": -1,
                   "resultString": "L",
@@ -54182,6 +54151,37 @@
                     "name": "Ranheim",
                     "shortName": "Ranheim",
                     "isOurTeam": true
+                  }
+                },
+                {
+                  "result": 1,
+                  "resultString": "W",
+                  "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4722.png",
+                  "linkToMatch": "/matches/egersund-vs-ranheim/11x1u2#5105270",
+                  "date": null,
+                  "teamPageUrl": "/teams/4722/overview/egersund",
+                  "tooltipText": {
+                    "utcTime": "2026-10-02T17:00:00Z",
+                    "timezone": "UTC",
+                    "homeTeam": "Ranheim",
+                    "homeTeamId": 6563,
+                    "homeScore": 5,
+                    "awayTeam": "Egersund",
+                    "awayTeamId": 4722,
+                    "awayScore": 0
+                  },
+                  "score": "5 - 0",
+                  "home": {
+                    "id": "6563",
+                    "name": "Ranheim",
+                    "shortName": "Ranheim",
+                    "isOurTeam": true
+                  },
+                  "away": {
+                    "id": "4722",
+                    "name": "Egersund",
+                    "shortName": "Egersund",
+                    "isOurTeam": false
                   }
                 }
               ],
@@ -56245,36 +56245,36 @@
                 "2026-10-03T12:30:00Z"
               ],
               "4722": [
-                "6563",
-                "Ranheim",
-                "5105270",
-                {
-                  "id": "6563",
-                  "name": "Ranheim",
-                  "shortName": "Ranheim"
-                },
+                "7937",
+                "Hødd",
+                "5105274",
                 {
                   "id": "4722",
                   "name": "Egersund",
                   "shortName": "Egersund"
                 },
-                "2026-10-02T17:00:00Z"
+                {
+                  "id": "7937",
+                  "name": "Hødd",
+                  "shortName": "Hødd"
+                },
+                "2026-10-11T15:00:00Z"
               ],
               "6563": [
-                "4722",
-                "Egersund",
-                "5105270",
+                "8179",
+                "Kongsvinger",
+                "5105275",
+                {
+                  "id": "8179",
+                  "name": "Kongsvinger",
+                  "shortName": "Kongsvinger"
+                },
                 {
                   "id": "6563",
                   "name": "Ranheim",
                   "shortName": "Ranheim"
                 },
-                {
-                  "id": "4722",
-                  "name": "Egersund",
-                  "shortName": "Egersund"
-                },
-                "2026-10-02T17:00:00Z"
+                "2026-10-11T15:00:00Z"
               ],
               "7937": [
                 "7988",
@@ -63824,12 +63824,12 @@
             "opponent": {
               "id": "6563",
               "name": "Ranheim",
-              "score": 0
+              "score": 5
             },
             "home": {
               "id": "6563",
               "name": "Ranheim",
-              "score": 0
+              "score": 5
             },
             "away": {
               "id": "4722",
@@ -63837,19 +63837,28 @@
               "score": 0
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-10-02T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "02.10.2026 19:00:00"
+                "firstHalfStarted": "02.10.2026 19:00:55",
+                "secondHalfStarted": "02.10.2026 20:02:53"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "5 - 0",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -65562,8 +65571,8 @@
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 184,
-            "firstUnplayedMatchId": "5105270"
+            "firstUnplayedMatchIndex": 185,
+            "firstUnplayedMatchId": "5105272"
           },
           "allMatches": [
             {
@@ -71288,12 +71297,21 @@
               "status": {
                 "utcTime": "2026-10-02T17:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "02.10.2026 19:00:00"
+                  "firstHalfStarted": "02.10.2026 19:00:55",
+                  "secondHalfStarted": "02.10.2026 20:02:53"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "5 - 0",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -73412,10 +73430,10 @@
               },
               {
                 "id": 0,
-                "name": "Egersund",
+                "name": "Strømsgodset",
                 "rank": 2,
-                "teamId": 4722,
-                "teamName": "Egersund",
+                "teamId": 8180,
+                "teamName": "Strømsgodset",
                 "value": 7,
                 "stat": {
                   "name": "clean_sheet_team",
@@ -73424,9 +73442,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#FEE500",
-                  "lightMode": "#d7a100",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#24558e",
+                  "lightMode": "#084878",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -73496,20 +73514,20 @@
               },
               {
                 "id": 0,
-                "name": "Stroemsgodset",
+                "name": "Ranheim",
                 "rank": 3,
-                "teamId": 8180,
-                "teamName": "Stroemsgodset",
-                "value": 58,
+                "teamId": 6563,
+                "teamName": "Ranheim",
+                "value": 59,
                 "stat": {
                   "name": "_set_piece_goals_team",
-                  "value": 58,
+                  "value": 59,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#24558e",
-                  "lightMode": "#084878",
+                  "darkMode": "#006DB5",
+                  "lightMode": "#006DB5",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -73668,10 +73686,10 @@
                 "rank": 3,
                 "teamId": 4722,
                 "teamName": "Egersund",
-                "value": 44,
+                "value": 46,
                 "stat": {
                   "name": "total_yel_card_team",
-                  "value": 44,
+                  "value": 46,
                   "format": "number",
                   "fractions": 0
                 },
@@ -73950,8 +73968,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 184,
-          "firstUnplayedMatchId": "5105270"
+          "firstUnplayedMatchIndex": 185,
+          "firstUnplayedMatchId": "5105272"
         },
         "allMatches": [
           {
@@ -79676,12 +79694,21 @@
             "status": {
               "utcTime": "2026-10-02T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "02.10.2026 19:00:00"
+                "firstHalfStarted": "02.10.2026 19:00:55",
+                "secondHalfStarted": "02.10.2026 20:02:53"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "5 - 0",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
