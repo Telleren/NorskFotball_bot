@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:47:10.063392+00:00",
+  "generated_at": "2026-10-02T05:48:23.664213+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -45158,8 +45158,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/obos-ligaen",
-            "leagueName": "OBOS-ligaen",
+            "pageUrl": "/leagues/203/overview/1-divisjon",
+            "leagueName": "1. Divisjon",
             "legend": [
               {
                 "title": "Promotion",
@@ -52509,8 +52509,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/obos-ligaen",
-              "leagueName": "OBOS-ligaen",
+              "pageUrl": "/leagues/203/overview/1-divisjon",
+              "leagueName": "1. Divisjon",
               "legend": [
                 {
                   "title": "Promotion",
@@ -63842,8 +63842,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-10-02T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-10-02T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "02.10.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -65555,7 +65558,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -71283,8 +71286,11 @@
                 "id": "4722"
               },
               "status": {
-                "utcTime": "2026-10-02T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-10-02T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "02.10.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -72556,7 +72562,7 @@
               }
             }
           ],
-          "hasOngoingMatch": false,
+          "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "24",
@@ -79668,8 +79674,11 @@
               "id": "4722"
             },
             "status": {
-              "utcTime": "2026-10-02T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-10-02T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "02.10.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -80941,7 +80950,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "24",
@@ -111196,12 +111205,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-10-01T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "01.10.2026 17:59:52",
-                "secondHalfStarted": "01.10.2026 19:00:28"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-10-01T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -111239,12 +111244,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-10-01T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "01.10.2026 17:59:57",
-                "secondHalfStarted": "01.10.2026 19:02:30"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-10-01T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -111282,12 +111283,8 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-10-01T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "01.10.2026 18:01:46",
-                "secondHalfStarted": "01.10.2026 19:04:41"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-10-01T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -111798,7 +111795,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "shotMap": null,
         "playoff": {
           "rounds": [
@@ -120947,12 +120944,8 @@
                 "id": "8476"
               },
               "status": {
-                "utcTime": "2026-10-01T16:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "01.10.2026 17:59:52",
-                  "secondHalfStarted": "01.10.2026 19:00:28"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-10-01T16:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -120982,12 +120975,8 @@
                 "id": "8478"
               },
               "status": {
-                "utcTime": "2026-10-01T16:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "01.10.2026 17:59:57",
-                  "secondHalfStarted": "01.10.2026 19:02:30"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-10-01T16:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -121017,12 +121006,8 @@
                 "id": "8402"
               },
               "status": {
-                "utcTime": "2026-10-01T16:00:00.000Z",
-                "halfs": {
-                  "firstHalfStarted": "01.10.2026 18:01:46",
-                  "secondHalfStarted": "01.10.2026 19:04:41"
-                },
-                "periodLength": 45,
+                "utcTime": "2026-10-01T16:00:00Z",
+                "timezone": "UTC",
                 "finished": true,
                 "started": true,
                 "cancelled": false,
@@ -121405,7 +121390,7 @@
               }
             }
           ],
-          "hasOngoingMatch": true,
+          "hasOngoingMatch": false,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "3",
@@ -126001,12 +125986,8 @@
               "id": "8476"
             },
             "status": {
-              "utcTime": "2026-10-01T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "01.10.2026 17:59:52",
-                "secondHalfStarted": "01.10.2026 19:00:28"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-10-01T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -126036,12 +126017,8 @@
               "id": "8478"
             },
             "status": {
-              "utcTime": "2026-10-01T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "01.10.2026 17:59:57",
-                "secondHalfStarted": "01.10.2026 19:02:30"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-10-01T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -126071,12 +126048,8 @@
               "id": "8402"
             },
             "status": {
-              "utcTime": "2026-10-01T16:00:00.000Z",
-              "halfs": {
-                "firstHalfStarted": "01.10.2026 18:01:46",
-                "secondHalfStarted": "01.10.2026 19:04:41"
-              },
-              "periodLength": 45,
+              "utcTime": "2026-10-01T16:00:00Z",
+              "timezone": "UTC",
               "finished": true,
               "started": true,
               "cancelled": false,
@@ -126459,7 +126432,7 @@
             }
           }
         ],
-        "hasOngoingMatch": true,
+        "hasOngoingMatch": false,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "3",
