@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:02:51.213927+00:00",
+  "generated_at": "2026-10-04T12:31:12.234478+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -84324,7 +84324,72 @@
                 ]
               }
             ],
-            "ongoing": [],
+            "ongoing": [
+              {
+                "id": 5105429,
+                "hTeam": "Molde (W)",
+                "aTeam": "Stabæk (W)",
+                "hScore": 0,
+                "aScore": 3,
+                "hId": 726186,
+                "aId": 92171,
+                "stage": "18",
+                "time": "04.10.2026 13:00",
+                "status": "S",
+                "sId": 3,
+                "gs": "04.10.2026 13:00:43",
+                "shs": "04.10.2026 14:03:37",
+                "extId": "ls_0"
+              },
+              {
+                "id": 5105428,
+                "hTeam": "Lyn Fotball (W)",
+                "aTeam": "FK Haugesund (W)",
+                "hScore": 4,
+                "aScore": 2,
+                "hId": 429438,
+                "aId": 169297,
+                "stage": "18",
+                "time": "04.10.2026 13:00",
+                "status": "S",
+                "sId": 3,
+                "gs": "04.10.2026 13:01:47",
+                "shs": "04.10.2026 14:04:15",
+                "extId": "ls_0"
+              },
+              {
+                "id": 5105427,
+                "hTeam": "Hønefoss (W)",
+                "aTeam": "Bodø/Glimt (W)",
+                "hScore": 1,
+                "aScore": 0,
+                "hId": 920414,
+                "aId": 1599447,
+                "stage": "18",
+                "time": "04.10.2026 13:00",
+                "status": "S",
+                "sId": 3,
+                "gs": "04.10.2026 13:02:15",
+                "shs": "04.10.2026 14:03:04",
+                "extId": "ls_0"
+              },
+              {
+                "id": 5105430,
+                "hTeam": "Røa (W)",
+                "aTeam": "LSK Kvinner (W)",
+                "hScore": 2,
+                "aScore": 1,
+                "hId": 4485,
+                "aId": 4486,
+                "stage": "18",
+                "time": "04.10.2026 13:00",
+                "status": "S",
+                "sId": 3,
+                "gs": "04.10.2026 13:01:20",
+                "shs": "04.10.2026 14:02:33",
+                "extId": "ls_0"
+              }
+            ],
             "table": {
               "all": [
                 {
@@ -84333,7 +84398,6 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 17,
                   "wins": 15,
                   "draws": 2,
@@ -84350,7 +84414,6 @@
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 17,
                   "wins": 13,
                   "draws": 2,
@@ -84367,7 +84430,6 @@
                   "id": 4484,
                   "pageUrl": "/teams/4484/overview/rosenborg-bk",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 17,
                   "wins": 11,
                   "draws": 4,
@@ -84384,7 +84446,6 @@
                   "id": 4507,
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 17,
                   "wins": 11,
                   "draws": 1,
@@ -84401,14 +84462,29 @@
                   "id": 92171,
                   "pageUrl": "/teams/92171/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 17,
-                  "wins": 7,
+                  "ongoing": {
+                    "id": 5105429,
+                    "hTeam": "Molde (W)",
+                    "aTeam": "Stabæk (W)",
+                    "hScore": 0,
+                    "aScore": 3,
+                    "hId": 726186,
+                    "aId": 92171,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:00:43",
+                    "shs": "04.10.2026 14:03:37",
+                    "extId": "ls_0"
+                  },
+                  "played": 18,
+                  "wins": 8,
                   "draws": 3,
                   "losses": 7,
-                  "scoresStr": "33-20",
-                  "goalConDiff": 13,
-                  "pts": 24,
+                  "scoresStr": "36-20",
+                  "goalConDiff": 16,
+                  "pts": 27,
                   "idx": 5,
                   "qualColor": null
                 },
@@ -84418,14 +84494,29 @@
                   "id": 429438,
                   "pageUrl": "/teams/429438/overview/lyn-fotball",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 17,
-                  "wins": 6,
+                  "ongoing": {
+                    "id": 5105428,
+                    "hTeam": "Lyn Fotball (W)",
+                    "aTeam": "FK Haugesund (W)",
+                    "hScore": 4,
+                    "aScore": 2,
+                    "hId": 429438,
+                    "aId": 169297,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:47",
+                    "shs": "04.10.2026 14:04:15",
+                    "extId": "ls_0"
+                  },
+                  "played": 18,
+                  "wins": 7,
                   "draws": 5,
                   "losses": 6,
-                  "scoresStr": "30-23",
-                  "goalConDiff": 7,
-                  "pts": 23,
+                  "scoresStr": "34-25",
+                  "goalConDiff": 9,
+                  "pts": 26,
                   "idx": 6,
                   "qualColor": null
                 },
@@ -84435,13 +84526,28 @@
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 17,
+                  "ongoing": {
+                    "id": 5105429,
+                    "hTeam": "Molde (W)",
+                    "aTeam": "Stabæk (W)",
+                    "hScore": 0,
+                    "aScore": 3,
+                    "hId": 726186,
+                    "aId": 92171,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:00:43",
+                    "shs": "04.10.2026 14:03:37",
+                    "extId": "ls_0"
+                  },
+                  "played": 18,
                   "wins": 5,
                   "draws": 3,
-                  "losses": 9,
-                  "scoresStr": "23-33",
-                  "goalConDiff": -10,
+                  "losses": 10,
+                  "scoresStr": "23-36",
+                  "goalConDiff": -13,
                   "pts": 18,
                   "idx": 7,
                   "qualColor": null
@@ -84452,32 +84558,30 @@
                   "id": 169297,
                   "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 17,
+                  "ongoing": {
+                    "id": 5105428,
+                    "hTeam": "Lyn Fotball (W)",
+                    "aTeam": "FK Haugesund (W)",
+                    "hScore": 4,
+                    "aScore": 2,
+                    "hId": 429438,
+                    "aId": 169297,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:47",
+                    "shs": "04.10.2026 14:04:15",
+                    "extId": "ls_0"
+                  },
+                  "played": 18,
                   "wins": 5,
                   "draws": 3,
-                  "losses": 9,
-                  "scoresStr": "22-40",
-                  "goalConDiff": -18,
+                  "losses": 10,
+                  "scoresStr": "24-44",
+                  "goalConDiff": -20,
                   "pts": 18,
                   "idx": 8,
-                  "qualColor": null
-                },
-                {
-                  "name": "LSK Kvinner",
-                  "shortName": "LSK Kvinner",
-                  "id": 4486,
-                  "pageUrl": "/teams/4486/overview/lsk-kvinner",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 17,
-                  "wins": 4,
-                  "draws": 3,
-                  "losses": 10,
-                  "scoresStr": "23-33",
-                  "goalConDiff": -10,
-                  "pts": 15,
-                  "idx": 9,
                   "qualColor": null
                 },
                 {
@@ -84486,14 +84590,61 @@
                   "id": 920414,
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 17,
-                  "wins": 3,
+                  "ongoing": {
+                    "id": 5105427,
+                    "hTeam": "Hønefoss (W)",
+                    "aTeam": "Bodø/Glimt (W)",
+                    "hScore": 1,
+                    "aScore": 0,
+                    "hId": 920414,
+                    "aId": 1599447,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:02:15",
+                    "shs": "04.10.2026 14:03:04",
+                    "extId": "ls_0"
+                  },
+                  "played": 18,
+                  "wins": 4,
                   "draws": 4,
                   "losses": 10,
-                  "scoresStr": "13-30",
-                  "goalConDiff": -17,
-                  "pts": 13,
+                  "scoresStr": "14-30",
+                  "goalConDiff": -16,
+                  "pts": 16,
+                  "idx": 9,
+                  "qualColor": null
+                },
+                {
+                  "name": "LSK Kvinner",
+                  "shortName": "LSK Kvinner",
+                  "id": 4486,
+                  "pageUrl": "/teams/4486/overview/lsk-kvinner",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105430,
+                    "hTeam": "Røa (W)",
+                    "aTeam": "LSK Kvinner (W)",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4486,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:20",
+                    "shs": "04.10.2026 14:02:33",
+                    "extId": "ls_0"
+                  },
+                  "played": 18,
+                  "wins": 4,
+                  "draws": 3,
+                  "losses": 11,
+                  "scoresStr": "24-35",
+                  "goalConDiff": -11,
+                  "pts": 15,
                   "idx": 10,
                   "qualColor": "#FFA72F"
                 },
@@ -84503,14 +84654,29 @@
                   "id": 4485,
                   "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 17,
-                  "wins": 2,
+                  "ongoing": {
+                    "id": 5105430,
+                    "hTeam": "Røa (W)",
+                    "aTeam": "LSK Kvinner (W)",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4486,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:20",
+                    "shs": "04.10.2026 14:02:33",
+                    "extId": "ls_0"
+                  },
+                  "played": 18,
+                  "wins": 3,
                   "draws": 5,
                   "losses": 10,
-                  "scoresStr": "16-36",
-                  "goalConDiff": -20,
-                  "pts": 11,
+                  "scoresStr": "18-37",
+                  "goalConDiff": -19,
+                  "pts": 14,
                   "idx": 11,
                   "qualColor": "#FF4646"
                 },
@@ -84520,13 +84686,28 @@
                   "id": 1599447,
                   "pageUrl": "/teams/1599447/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 17,
+                  "ongoing": {
+                    "id": 5105427,
+                    "hTeam": "Hønefoss (W)",
+                    "aTeam": "Bodø/Glimt (W)",
+                    "hScore": 1,
+                    "aScore": 0,
+                    "hId": 920414,
+                    "aId": 1599447,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:02:15",
+                    "shs": "04.10.2026 14:03:04",
+                    "extId": "ls_0"
+                  },
+                  "played": 18,
                   "wins": 1,
                   "draws": 3,
-                  "losses": 13,
-                  "scoresStr": "11-65",
-                  "goalConDiff": -54,
+                  "losses": 14,
+                  "scoresStr": "11-66",
+                  "goalConDiff": -55,
                   "pts": 6,
                   "idx": 12,
                   "qualColor": "#FF4646"
@@ -84539,7 +84720,6 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 6,
                   "draws": 2,
@@ -84557,7 +84737,6 @@
                   "id": 4484,
                   "pageUrl": "/teams/4484/overview/rosenborg-bk",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 6,
                   "draws": 2,
@@ -84575,7 +84754,6 @@
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 6,
                   "draws": 1,
@@ -84593,7 +84771,6 @@
                   "id": 4507,
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 6,
                   "draws": 0,
@@ -84611,7 +84788,22 @@
                   "id": 92171,
                   "pageUrl": "/teams/92171/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105429,
+                    "hTeam": "Molde (W)",
+                    "aTeam": "Stabæk (W)",
+                    "hScore": 0,
+                    "aScore": 3,
+                    "hId": 726186,
+                    "aId": 92171,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:00:43",
+                    "shs": "04.10.2026 14:03:37",
+                    "extId": "ls_0"
+                  },
                   "played": 9,
                   "wins": 4,
                   "draws": 1,
@@ -84624,12 +84816,60 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Lyn Fotball",
+                  "shortName": "Lyn Fotball",
+                  "id": 429438,
+                  "pageUrl": "/teams/429438/overview/lyn-fotball",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105428,
+                    "hTeam": "Lyn Fotball (W)",
+                    "aTeam": "FK Haugesund (W)",
+                    "hScore": 4,
+                    "aScore": 2,
+                    "hId": 429438,
+                    "aId": 169297,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:47",
+                    "shs": "04.10.2026 14:04:15",
+                    "extId": "ls_0"
+                  },
+                  "played": 9,
+                  "wins": 3,
+                  "draws": 4,
+                  "losses": 2,
+                  "scoresStr": "22-13",
+                  "goalConDiff": 9,
+                  "goalsScored": 22,
+                  "pts": 13,
+                  "idx": 6,
+                  "qualColor": null
+                },
+                {
                   "name": "FK Haugesund",
                   "shortName": "FK Haugesund",
                   "id": 169297,
                   "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105428,
+                    "hTeam": "Lyn Fotball (W)",
+                    "aTeam": "FK Haugesund (W)",
+                    "hScore": 4,
+                    "aScore": 2,
+                    "hId": 429438,
+                    "aId": 169297,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:47",
+                    "shs": "04.10.2026 14:04:15",
+                    "extId": "ls_0"
+                  },
                   "played": 9,
                   "wins": 4,
                   "draws": 1,
@@ -84638,43 +84878,7 @@
                   "goalConDiff": -8,
                   "goalsScored": 12,
                   "pts": 13,
-                  "idx": 6,
-                  "qualColor": null
-                },
-                {
-                  "name": "Lyn Fotball",
-                  "shortName": "Lyn Fotball",
-                  "id": 429438,
-                  "pageUrl": "/teams/429438/overview/lyn-fotball",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 8,
-                  "wins": 2,
-                  "draws": 4,
-                  "losses": 2,
-                  "scoresStr": "18-11",
-                  "goalConDiff": 7,
-                  "goalsScored": 18,
-                  "pts": 10,
                   "idx": 7,
-                  "qualColor": null
-                },
-                {
-                  "name": "Molde",
-                  "shortName": "Molde",
-                  "id": 726186,
-                  "pageUrl": "/teams/726186/overview/molde",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 9,
-                  "wins": 2,
-                  "draws": 2,
-                  "losses": 5,
-                  "scoresStr": "12-19",
-                  "goalConDiff": -7,
-                  "goalsScored": 12,
-                  "pts": 8,
-                  "idx": 8,
                   "qualColor": null
                 },
                 {
@@ -84683,15 +84887,63 @@
                   "id": 920414,
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 8,
-                  "wins": 2,
+                  "ongoing": {
+                    "id": 5105427,
+                    "hTeam": "Hønefoss (W)",
+                    "aTeam": "Bodø/Glimt (W)",
+                    "hScore": 1,
+                    "aScore": 0,
+                    "hId": 920414,
+                    "aId": 1599447,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:02:15",
+                    "shs": "04.10.2026 14:03:04",
+                    "extId": "ls_0"
+                  },
+                  "played": 9,
+                  "wins": 3,
                   "draws": 1,
                   "losses": 5,
-                  "scoresStr": "7-13",
-                  "goalConDiff": -6,
-                  "goalsScored": 7,
-                  "pts": 7,
+                  "scoresStr": "8-13",
+                  "goalConDiff": -5,
+                  "goalsScored": 8,
+                  "pts": 10,
+                  "idx": 8,
+                  "qualColor": null
+                },
+                {
+                  "name": "Molde",
+                  "shortName": "Molde",
+                  "id": 726186,
+                  "pageUrl": "/teams/726186/overview/molde",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105429,
+                    "hTeam": "Molde (W)",
+                    "aTeam": "Stabæk (W)",
+                    "hScore": 0,
+                    "aScore": 3,
+                    "hId": 726186,
+                    "aId": 92171,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:00:43",
+                    "shs": "04.10.2026 14:03:37",
+                    "extId": "ls_0"
+                  },
+                  "played": 10,
+                  "wins": 2,
+                  "draws": 2,
+                  "losses": 6,
+                  "scoresStr": "12-22",
+                  "goalConDiff": -10,
+                  "goalsScored": 12,
+                  "pts": 8,
                   "idx": 9,
                   "qualColor": null
                 },
@@ -84701,7 +84953,22 @@
                   "id": 4486,
                   "pageUrl": "/teams/4486/overview/lsk-kvinner",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105430,
+                    "hTeam": "Røa (W)",
+                    "aTeam": "LSK Kvinner (W)",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4486,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:20",
+                    "shs": "04.10.2026 14:02:33",
+                    "extId": "ls_0"
+                  },
                   "played": 9,
                   "wins": 2,
                   "draws": 1,
@@ -84714,12 +84981,60 @@
                   "qualColor": "#FFA72F"
                 },
                 {
+                  "name": "Røa",
+                  "shortName": "Røa",
+                  "id": 4485,
+                  "pageUrl": "/teams/4485/overview/roa",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105430,
+                    "hTeam": "Røa (W)",
+                    "aTeam": "LSK Kvinner (W)",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4486,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:20",
+                    "shs": "04.10.2026 14:02:33",
+                    "extId": "ls_0"
+                  },
+                  "played": 9,
+                  "wins": 1,
+                  "draws": 3,
+                  "losses": 5,
+                  "scoresStr": "11-19",
+                  "goalConDiff": -8,
+                  "goalsScored": 11,
+                  "pts": 6,
+                  "idx": 11,
+                  "qualColor": "#FF4646"
+                },
+                {
                   "name": "Bodø/Glimt",
                   "shortName": "Bodø/Glimt",
                   "id": 1599447,
                   "pageUrl": "/teams/1599447/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105427,
+                    "hTeam": "Hønefoss (W)",
+                    "aTeam": "Bodø/Glimt (W)",
+                    "hScore": 1,
+                    "aScore": 0,
+                    "hId": 920414,
+                    "aId": 1599447,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:02:15",
+                    "shs": "04.10.2026 14:03:04",
+                    "extId": "ls_0"
+                  },
                   "played": 8,
                   "wins": 1,
                   "draws": 1,
@@ -84728,24 +85043,6 @@
                   "goalConDiff": -18,
                   "goalsScored": 5,
                   "pts": 4,
-                  "idx": 11,
-                  "qualColor": "#FF4646"
-                },
-                {
-                  "name": "Røa",
-                  "shortName": "Røa",
-                  "id": 4485,
-                  "pageUrl": "/teams/4485/overview/roa",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 8,
-                  "wins": 0,
-                  "draws": 3,
-                  "losses": 5,
-                  "scoresStr": "9-18",
-                  "goalConDiff": -9,
-                  "goalsScored": 9,
-                  "pts": 3,
                   "idx": 12,
                   "qualColor": "#FF4646"
                 }
@@ -84757,7 +85054,6 @@
                   "id": 4182,
                   "pageUrl": "/teams/4182/overview/brann",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 9,
                   "draws": 0,
@@ -84775,7 +85071,6 @@
                   "id": 4500,
                   "pageUrl": "/teams/4500/overview/aalesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 9,
                   "wins": 7,
                   "draws": 1,
@@ -84793,7 +85088,6 @@
                   "id": 4484,
                   "pageUrl": "/teams/4484/overview/rosenborg-bk",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 5,
                   "draws": 2,
@@ -84811,7 +85105,6 @@
                   "id": 4507,
                   "pageUrl": "/teams/4507/overview/valerenga",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 8,
                   "wins": 5,
                   "draws": 1,
@@ -84824,12 +85117,60 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Stabæk",
+                  "shortName": "Stabæk",
+                  "id": 92171,
+                  "pageUrl": "/teams/92171/overview/stabaek",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105429,
+                    "hTeam": "Molde (W)",
+                    "aTeam": "Stabæk (W)",
+                    "hScore": 0,
+                    "aScore": 3,
+                    "hId": 726186,
+                    "aId": 92171,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:00:43",
+                    "shs": "04.10.2026 14:03:37",
+                    "extId": "ls_0"
+                  },
+                  "played": 9,
+                  "wins": 4,
+                  "draws": 2,
+                  "losses": 3,
+                  "scoresStr": "18-12",
+                  "goalConDiff": 6,
+                  "goalsScored": 18,
+                  "pts": 14,
+                  "idx": 5,
+                  "qualColor": null
+                },
+                {
                   "name": "Lyn Fotball",
                   "shortName": "Lyn Fotball",
                   "id": 429438,
                   "pageUrl": "/teams/429438/overview/lyn-fotball",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105428,
+                    "hTeam": "Lyn Fotball (W)",
+                    "aTeam": "FK Haugesund (W)",
+                    "hScore": 4,
+                    "aScore": 2,
+                    "hId": 429438,
+                    "aId": 169297,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:47",
+                    "shs": "04.10.2026 14:04:15",
+                    "extId": "ls_0"
+                  },
                   "played": 9,
                   "wins": 4,
                   "draws": 1,
@@ -84838,24 +85179,6 @@
                   "goalConDiff": 0,
                   "goalsScored": 12,
                   "pts": 13,
-                  "idx": 5,
-                  "qualColor": null
-                },
-                {
-                  "name": "Stabæk",
-                  "shortName": "Stabæk",
-                  "id": 92171,
-                  "pageUrl": "/teams/92171/overview/stabaek",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 8,
-                  "wins": 3,
-                  "draws": 2,
-                  "losses": 3,
-                  "scoresStr": "15-12",
-                  "goalConDiff": 3,
-                  "goalsScored": 15,
-                  "pts": 11,
                   "idx": 6,
                   "qualColor": null
                 },
@@ -84865,7 +85188,22 @@
                   "id": 726186,
                   "pageUrl": "/teams/726186/overview/molde",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105429,
+                    "hTeam": "Molde (W)",
+                    "aTeam": "Stabæk (W)",
+                    "hScore": 0,
+                    "aScore": 3,
+                    "hId": 726186,
+                    "aId": 92171,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:00:43",
+                    "shs": "04.10.2026 14:03:37",
+                    "extId": "ls_0"
+                  },
                   "played": 8,
                   "wins": 3,
                   "draws": 1,
@@ -84883,14 +85221,29 @@
                   "id": 4486,
                   "pageUrl": "/teams/4486/overview/lsk-kvinner",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 8,
+                  "ongoing": {
+                    "id": 5105430,
+                    "hTeam": "Røa (W)",
+                    "aTeam": "LSK Kvinner (W)",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4486,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:20",
+                    "shs": "04.10.2026 14:02:33",
+                    "extId": "ls_0"
+                  },
+                  "played": 9,
                   "wins": 2,
                   "draws": 2,
-                  "losses": 4,
-                  "scoresStr": "12-12",
-                  "goalConDiff": 0,
-                  "goalsScored": 12,
+                  "losses": 5,
+                  "scoresStr": "13-14",
+                  "goalConDiff": -1,
+                  "goalsScored": 13,
                   "pts": 8,
                   "idx": 8,
                   "qualColor": null
@@ -84901,7 +85254,22 @@
                   "id": 4485,
                   "pageUrl": "/teams/4485/overview/roa",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105430,
+                    "hTeam": "Røa (W)",
+                    "aTeam": "LSK Kvinner (W)",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4486,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:20",
+                    "shs": "04.10.2026 14:02:33",
+                    "extId": "ls_0"
+                  },
                   "played": 9,
                   "wins": 2,
                   "draws": 2,
@@ -84919,7 +85287,22 @@
                   "id": 920414,
                   "pageUrl": "/teams/920414/overview/honefoss",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105427,
+                    "hTeam": "Hønefoss (W)",
+                    "aTeam": "Bodø/Glimt (W)",
+                    "hScore": 1,
+                    "aScore": 0,
+                    "hId": 920414,
+                    "aId": 1599447,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:02:15",
+                    "shs": "04.10.2026 14:03:04",
+                    "extId": "ls_0"
+                  },
                   "played": 9,
                   "wins": 1,
                   "draws": 3,
@@ -84937,14 +85320,29 @@
                   "id": 169297,
                   "pageUrl": "/teams/169297/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 8,
+                  "ongoing": {
+                    "id": 5105428,
+                    "hTeam": "Lyn Fotball (W)",
+                    "aTeam": "FK Haugesund (W)",
+                    "hScore": 4,
+                    "aScore": 2,
+                    "hId": 429438,
+                    "aId": 169297,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:47",
+                    "shs": "04.10.2026 14:04:15",
+                    "extId": "ls_0"
+                  },
+                  "played": 9,
                   "wins": 1,
                   "draws": 2,
-                  "losses": 5,
-                  "scoresStr": "10-20",
-                  "goalConDiff": -10,
-                  "goalsScored": 10,
+                  "losses": 6,
+                  "scoresStr": "12-24",
+                  "goalConDiff": -12,
+                  "goalsScored": 12,
                   "pts": 5,
                   "idx": 11,
                   "qualColor": "#FF4646"
@@ -84955,13 +85353,28 @@
                   "id": 1599447,
                   "pageUrl": "/teams/1599447/overview/bodoglimt",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 9,
+                  "ongoing": {
+                    "id": 5105427,
+                    "hTeam": "Hønefoss (W)",
+                    "aTeam": "Bodø/Glimt (W)",
+                    "hScore": 1,
+                    "aScore": 0,
+                    "hId": 920414,
+                    "aId": 1599447,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:02:15",
+                    "shs": "04.10.2026 14:03:04",
+                    "extId": "ls_0"
+                  },
+                  "played": 10,
                   "wins": 0,
                   "draws": 2,
-                  "losses": 7,
-                  "scoresStr": "6-42",
-                  "goalConDiff": -36,
+                  "losses": 8,
+                  "scoresStr": "6-43",
+                  "goalConDiff": -37,
                   "goalsScored": 6,
                   "pts": 2,
                   "idx": 12,
@@ -84983,7 +85396,6 @@
                   "goalConDiff": 15,
                   "goalsScored": 16,
                   "pts": 15,
-                  "ongoing": null,
                   "idx": 1,
                   "qualColor": "#FFD908"
                 },
@@ -85001,7 +85413,6 @@
                   "goalConDiff": 12,
                   "goalsScored": 18,
                   "pts": 15,
-                  "ongoing": null,
                   "idx": 2,
                   "qualColor": "#FFD908"
                 },
@@ -85019,7 +85430,6 @@
                   "goalConDiff": 10,
                   "goalsScored": 13,
                   "pts": 13,
-                  "ongoing": null,
                   "idx": 3,
                   "qualColor": "#0046A7"
                 },
@@ -85037,7 +85447,6 @@
                   "goalConDiff": 5,
                   "goalsScored": 11,
                   "pts": 13,
-                  "ongoing": null,
                   "idx": 4,
                   "qualColor": null
                 },
@@ -85055,7 +85464,22 @@
                   "goalConDiff": 7,
                   "goalsScored": 15,
                   "pts": 7,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105429,
+                    "hTeam": "Molde (W)",
+                    "aTeam": "Stabæk (W)",
+                    "hScore": 0,
+                    "aScore": 3,
+                    "hId": 726186,
+                    "aId": 92171,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:00:43",
+                    "shs": "04.10.2026 14:03:37",
+                    "extId": "ls_0"
+                  },
                   "idx": 5,
                   "qualColor": null
                 },
@@ -85073,7 +85497,22 @@
                   "goalConDiff": -1,
                   "goalsScored": 9,
                   "pts": 7,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105428,
+                    "hTeam": "Lyn Fotball (W)",
+                    "aTeam": "FK Haugesund (W)",
+                    "hScore": 4,
+                    "aScore": 2,
+                    "hId": 429438,
+                    "aId": 169297,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:47",
+                    "shs": "04.10.2026 14:04:15",
+                    "extId": "ls_0"
+                  },
                   "idx": 6,
                   "qualColor": null
                 },
@@ -85091,7 +85530,22 @@
                   "goalConDiff": -1,
                   "goalsScored": 3,
                   "pts": 5,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105427,
+                    "hTeam": "Hønefoss (W)",
+                    "aTeam": "Bodø/Glimt (W)",
+                    "hScore": 1,
+                    "aScore": 0,
+                    "hId": 920414,
+                    "aId": 1599447,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:02:15",
+                    "shs": "04.10.2026 14:03:04",
+                    "extId": "ls_0"
+                  },
                   "idx": 7,
                   "qualColor": null
                 },
@@ -85109,7 +85563,22 @@
                   "goalConDiff": -5,
                   "goalsScored": 5,
                   "pts": 4,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105428,
+                    "hTeam": "Lyn Fotball (W)",
+                    "aTeam": "FK Haugesund (W)",
+                    "hScore": 4,
+                    "aScore": 2,
+                    "hId": 429438,
+                    "aId": 169297,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:47",
+                    "shs": "04.10.2026 14:04:15",
+                    "extId": "ls_0"
+                  },
                   "idx": 8,
                   "qualColor": null
                 },
@@ -85127,7 +85596,22 @@
                   "goalConDiff": -7,
                   "goalsScored": 3,
                   "pts": 4,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105429,
+                    "hTeam": "Molde (W)",
+                    "aTeam": "Stabæk (W)",
+                    "hScore": 0,
+                    "aScore": 3,
+                    "hId": 726186,
+                    "aId": 92171,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:00:43",
+                    "shs": "04.10.2026 14:03:37",
+                    "extId": "ls_0"
+                  },
                   "idx": 9,
                   "qualColor": null
                 },
@@ -85145,7 +85629,22 @@
                   "goalConDiff": -11,
                   "goalsScored": 4,
                   "pts": 4,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105427,
+                    "hTeam": "Hønefoss (W)",
+                    "aTeam": "Bodø/Glimt (W)",
+                    "hScore": 1,
+                    "aScore": 0,
+                    "hId": 920414,
+                    "aId": 1599447,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:02:15",
+                    "shs": "04.10.2026 14:03:04",
+                    "extId": "ls_0"
+                  },
                   "idx": 10,
                   "qualColor": "#FFA72F"
                 },
@@ -85163,7 +85662,22 @@
                   "goalConDiff": -7,
                   "goalsScored": 5,
                   "pts": 1,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105430,
+                    "hTeam": "Røa (W)",
+                    "aTeam": "LSK Kvinner (W)",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4486,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:20",
+                    "shs": "04.10.2026 14:02:33",
+                    "extId": "ls_0"
+                  },
                   "idx": 11,
                   "qualColor": "#FF4646"
                 },
@@ -85181,7 +85695,22 @@
                   "goalConDiff": -10,
                   "goalsScored": 6,
                   "pts": 1,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105430,
+                    "hTeam": "Røa (W)",
+                    "aTeam": "LSK Kvinner (W)",
+                    "hScore": 2,
+                    "aScore": 1,
+                    "hId": 4485,
+                    "aId": 4486,
+                    "stage": "18",
+                    "time": "04.10.2026 13:00",
+                    "status": "S",
+                    "sId": 3,
+                    "gs": "04.10.2026 13:01:20",
+                    "shs": "04.10.2026 14:02:33",
+                    "extId": "ls_0"
+                  },
                   "idx": 12,
                   "qualColor": "#FF4646"
                 }
@@ -87123,36 +87652,36 @@
               "2026-10-04T15:00:00Z"
             ],
             "4485": [
-              "4486",
-              "LSK Kvinner (W)",
-              "5105430",
+              "4500",
+              "Aalesund (W)",
+              "5105437",
+              {
+                "id": "4500",
+                "name": "Aalesund (W)",
+                "shortName": "Aalesund (W)"
+              },
               {
                 "id": "4485",
                 "name": "Røa (W)",
                 "shortName": "Røa (W)"
               },
-              {
-                "id": "4486",
-                "name": "LSK Kvinner (W)",
-                "shortName": "LSK Kvinner (W)"
-              },
-              "2026-10-04T11:00:00Z"
+              "2026-10-16T16:00:00Z"
             ],
             "4486": [
-              "4485",
-              "Røa (W)",
-              "5105430",
-              {
-                "id": "4485",
-                "name": "Røa (W)",
-                "shortName": "Røa (W)"
-              },
+              "4507",
+              "Vålerenga (W)",
+              "5105434",
               {
                 "id": "4486",
                 "name": "LSK Kvinner (W)",
                 "shortName": "LSK Kvinner (W)"
               },
-              "2026-10-04T11:00:00Z"
+              {
+                "id": "4507",
+                "name": "Vålerenga (W)",
+                "shortName": "Vålerenga (W)"
+              },
+              "2026-10-17T11:00:00Z"
             ],
             "4500": [
               "4182",
@@ -87187,100 +87716,100 @@
               "2026-10-04T15:00:00Z"
             ],
             "92171": [
-              "726186",
-              "Molde (W)",
-              "5105429",
-              {
-                "id": "726186",
-                "name": "Molde (W)",
-                "shortName": "Molde (W)"
-              },
-              {
-                "id": "92171",
-                "name": "Stabæk (W)",
-                "shortName": "Stabæk (W)"
-              },
-              "2026-10-04T11:00:00Z"
-            ],
-            "169297": [
-              "429438",
-              "Lyn Fotball (W)",
-              "5105428",
-              {
-                "id": "429438",
-                "name": "Lyn Fotball (W)",
-                "shortName": "Lyn Fotball (W)"
-              },
-              {
-                "id": "169297",
-                "name": "FK Haugesund (W)",
-                "shortName": "FK Haugesund (W)"
-              },
-              "2026-10-04T11:00:00Z"
-            ],
-            "429438": [
-              "169297",
-              "FK Haugesund (W)",
-              "5105428",
-              {
-                "id": "429438",
-                "name": "Lyn Fotball (W)",
-                "shortName": "Lyn Fotball (W)"
-              },
-              {
-                "id": "169297",
-                "name": "FK Haugesund (W)",
-                "shortName": "FK Haugesund (W)"
-              },
-              "2026-10-04T11:00:00Z"
-            ],
-            "726186": [
-              "92171",
-              "Stabæk (W)",
-              "5105429",
-              {
-                "id": "726186",
-                "name": "Molde (W)",
-                "shortName": "Molde (W)"
-              },
-              {
-                "id": "92171",
-                "name": "Stabæk (W)",
-                "shortName": "Stabæk (W)"
-              },
-              "2026-10-04T11:00:00Z"
-            ],
-            "920414": [
-              "1599447",
-              "Bodø/Glimt (W)",
-              "5105427",
-              {
-                "id": "920414",
-                "name": "Hønefoss (W)",
-                "shortName": "Hønefoss (W)"
-              },
-              {
-                "id": "1599447",
-                "name": "Bodø/Glimt (W)",
-                "shortName": "Bodø/Glimt (W)"
-              },
-              "2026-10-04T11:00:00Z"
-            ],
-            "1599447": [
               "920414",
               "Hønefoss (W)",
-              "5105427",
+              "5105436",
+              {
+                "id": "92171",
+                "name": "Stabæk (W)",
+                "shortName": "Stabæk (W)"
+              },
               {
                 "id": "920414",
                 "name": "Hønefoss (W)",
                 "shortName": "Hønefoss (W)"
               },
+              "2026-10-17T11:00:00Z"
+            ],
+            "169297": [
+              "726186",
+              "Molde (W)",
+              "5105433",
+              {
+                "id": "169297",
+                "name": "FK Haugesund (W)",
+                "shortName": "FK Haugesund (W)"
+              },
+              {
+                "id": "726186",
+                "name": "Molde (W)",
+                "shortName": "Molde (W)"
+              },
+              "2026-10-17T11:00:00Z"
+            ],
+            "429438": [
+              "1599447",
+              "Bodø/Glimt (W)",
+              "5105432",
               {
                 "id": "1599447",
                 "name": "Bodø/Glimt (W)",
                 "shortName": "Bodø/Glimt (W)"
               },
-              "2026-10-04T11:00:00Z"
+              {
+                "id": "429438",
+                "name": "Lyn Fotball (W)",
+                "shortName": "Lyn Fotball (W)"
+              },
+              "2026-10-16T16:00:00Z"
+            ],
+            "726186": [
+              "169297",
+              "FK Haugesund (W)",
+              "5105433",
+              {
+                "id": "169297",
+                "name": "FK Haugesund (W)",
+                "shortName": "FK Haugesund (W)"
+              },
+              {
+                "id": "726186",
+                "name": "Molde (W)",
+                "shortName": "Molde (W)"
+              },
+              "2026-10-17T11:00:00Z"
+            ],
+            "920414": [
+              "92171",
+              "Stabæk (W)",
+              "5105436",
+              {
+                "id": "92171",
+                "name": "Stabæk (W)",
+                "shortName": "Stabæk (W)"
+              },
+              {
+                "id": "920414",
+                "name": "Hønefoss (W)",
+                "shortName": "Hønefoss (W)"
+              },
+              "2026-10-17T11:00:00Z"
+            ],
+            "1599447": [
+              "429438",
+              "Lyn Fotball (W)",
+              "5105432",
+              {
+                "id": "1599447",
+                "name": "Bodø/Glimt (W)",
+                "shortName": "Bodø/Glimt (W)"
+              },
+              {
+                "id": "429438",
+                "name": "Lyn Fotball (W)",
+                "shortName": "Lyn Fotball (W)"
+              },
+              "2026-10-16T16:00:00Z"
             ]
           },
           "tableHeader": {
@@ -87352,7 +87881,72 @@
                   ]
                 }
               ],
-              "ongoing": [],
+              "ongoing": [
+                {
+                  "id": 5105429,
+                  "hTeam": "Molde (W)",
+                  "aTeam": "Stabæk (W)",
+                  "hScore": 0,
+                  "aScore": 3,
+                  "hId": 726186,
+                  "aId": 92171,
+                  "stage": "18",
+                  "time": "04.10.2026 13:00",
+                  "status": "S",
+                  "sId": 3,
+                  "gs": "04.10.2026 13:00:43",
+                  "shs": "04.10.2026 14:03:37",
+                  "extId": "ls_0"
+                },
+                {
+                  "id": 5105428,
+                  "hTeam": "Lyn Fotball (W)",
+                  "aTeam": "FK Haugesund (W)",
+                  "hScore": 4,
+                  "aScore": 2,
+                  "hId": 429438,
+                  "aId": 169297,
+                  "stage": "18",
+                  "time": "04.10.2026 13:00",
+                  "status": "S",
+                  "sId": 3,
+                  "gs": "04.10.2026 13:01:47",
+                  "shs": "04.10.2026 14:04:15",
+                  "extId": "ls_0"
+                },
+                {
+                  "id": 5105427,
+                  "hTeam": "Hønefoss (W)",
+                  "aTeam": "Bodø/Glimt (W)",
+                  "hScore": 1,
+                  "aScore": 0,
+                  "hId": 920414,
+                  "aId": 1599447,
+                  "stage": "18",
+                  "time": "04.10.2026 13:00",
+                  "status": "S",
+                  "sId": 3,
+                  "gs": "04.10.2026 13:02:15",
+                  "shs": "04.10.2026 14:03:04",
+                  "extId": "ls_0"
+                },
+                {
+                  "id": 5105430,
+                  "hTeam": "Røa (W)",
+                  "aTeam": "LSK Kvinner (W)",
+                  "hScore": 2,
+                  "aScore": 1,
+                  "hId": 4485,
+                  "aId": 4486,
+                  "stage": "18",
+                  "time": "04.10.2026 13:00",
+                  "status": "S",
+                  "sId": 3,
+                  "gs": "04.10.2026 13:01:20",
+                  "shs": "04.10.2026 14:02:33",
+                  "extId": "ls_0"
+                }
+              ],
               "table": {
                 "all": [
                   {
@@ -87361,7 +87955,6 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 17,
                     "wins": 15,
                     "draws": 2,
@@ -87378,7 +87971,6 @@
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 17,
                     "wins": 13,
                     "draws": 2,
@@ -87395,7 +87987,6 @@
                     "id": 4484,
                     "pageUrl": "/teams/4484/overview/rosenborg-bk",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 17,
                     "wins": 11,
                     "draws": 4,
@@ -87412,7 +88003,6 @@
                     "id": 4507,
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 17,
                     "wins": 11,
                     "draws": 1,
@@ -87429,14 +88019,29 @@
                     "id": 92171,
                     "pageUrl": "/teams/92171/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 17,
-                    "wins": 7,
+                    "ongoing": {
+                      "id": 5105429,
+                      "hTeam": "Molde (W)",
+                      "aTeam": "Stabæk (W)",
+                      "hScore": 0,
+                      "aScore": 3,
+                      "hId": 726186,
+                      "aId": 92171,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:00:43",
+                      "shs": "04.10.2026 14:03:37",
+                      "extId": "ls_0"
+                    },
+                    "played": 18,
+                    "wins": 8,
                     "draws": 3,
                     "losses": 7,
-                    "scoresStr": "33-20",
-                    "goalConDiff": 13,
-                    "pts": 24,
+                    "scoresStr": "36-20",
+                    "goalConDiff": 16,
+                    "pts": 27,
                     "idx": 5,
                     "qualColor": null
                   },
@@ -87446,14 +88051,29 @@
                     "id": 429438,
                     "pageUrl": "/teams/429438/overview/lyn-fotball",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 17,
-                    "wins": 6,
+                    "ongoing": {
+                      "id": 5105428,
+                      "hTeam": "Lyn Fotball (W)",
+                      "aTeam": "FK Haugesund (W)",
+                      "hScore": 4,
+                      "aScore": 2,
+                      "hId": 429438,
+                      "aId": 169297,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:47",
+                      "shs": "04.10.2026 14:04:15",
+                      "extId": "ls_0"
+                    },
+                    "played": 18,
+                    "wins": 7,
                     "draws": 5,
                     "losses": 6,
-                    "scoresStr": "30-23",
-                    "goalConDiff": 7,
-                    "pts": 23,
+                    "scoresStr": "34-25",
+                    "goalConDiff": 9,
+                    "pts": 26,
                     "idx": 6,
                     "qualColor": null
                   },
@@ -87463,13 +88083,28 @@
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 17,
+                    "ongoing": {
+                      "id": 5105429,
+                      "hTeam": "Molde (W)",
+                      "aTeam": "Stabæk (W)",
+                      "hScore": 0,
+                      "aScore": 3,
+                      "hId": 726186,
+                      "aId": 92171,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:00:43",
+                      "shs": "04.10.2026 14:03:37",
+                      "extId": "ls_0"
+                    },
+                    "played": 18,
                     "wins": 5,
                     "draws": 3,
-                    "losses": 9,
-                    "scoresStr": "23-33",
-                    "goalConDiff": -10,
+                    "losses": 10,
+                    "scoresStr": "23-36",
+                    "goalConDiff": -13,
                     "pts": 18,
                     "idx": 7,
                     "qualColor": null
@@ -87480,32 +88115,30 @@
                     "id": 169297,
                     "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 17,
+                    "ongoing": {
+                      "id": 5105428,
+                      "hTeam": "Lyn Fotball (W)",
+                      "aTeam": "FK Haugesund (W)",
+                      "hScore": 4,
+                      "aScore": 2,
+                      "hId": 429438,
+                      "aId": 169297,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:47",
+                      "shs": "04.10.2026 14:04:15",
+                      "extId": "ls_0"
+                    },
+                    "played": 18,
                     "wins": 5,
                     "draws": 3,
-                    "losses": 9,
-                    "scoresStr": "22-40",
-                    "goalConDiff": -18,
+                    "losses": 10,
+                    "scoresStr": "24-44",
+                    "goalConDiff": -20,
                     "pts": 18,
                     "idx": 8,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "LSK Kvinner",
-                    "shortName": "LSK Kvinner",
-                    "id": 4486,
-                    "pageUrl": "/teams/4486/overview/lsk-kvinner",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 17,
-                    "wins": 4,
-                    "draws": 3,
-                    "losses": 10,
-                    "scoresStr": "23-33",
-                    "goalConDiff": -10,
-                    "pts": 15,
-                    "idx": 9,
                     "qualColor": null
                   },
                   {
@@ -87514,14 +88147,61 @@
                     "id": 920414,
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 17,
-                    "wins": 3,
+                    "ongoing": {
+                      "id": 5105427,
+                      "hTeam": "Hønefoss (W)",
+                      "aTeam": "Bodø/Glimt (W)",
+                      "hScore": 1,
+                      "aScore": 0,
+                      "hId": 920414,
+                      "aId": 1599447,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:02:15",
+                      "shs": "04.10.2026 14:03:04",
+                      "extId": "ls_0"
+                    },
+                    "played": 18,
+                    "wins": 4,
                     "draws": 4,
                     "losses": 10,
-                    "scoresStr": "13-30",
-                    "goalConDiff": -17,
-                    "pts": 13,
+                    "scoresStr": "14-30",
+                    "goalConDiff": -16,
+                    "pts": 16,
+                    "idx": 9,
+                    "qualColor": null
+                  },
+                  {
+                    "name": "LSK Kvinner",
+                    "shortName": "LSK Kvinner",
+                    "id": 4486,
+                    "pageUrl": "/teams/4486/overview/lsk-kvinner",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105430,
+                      "hTeam": "Røa (W)",
+                      "aTeam": "LSK Kvinner (W)",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4486,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:20",
+                      "shs": "04.10.2026 14:02:33",
+                      "extId": "ls_0"
+                    },
+                    "played": 18,
+                    "wins": 4,
+                    "draws": 3,
+                    "losses": 11,
+                    "scoresStr": "24-35",
+                    "goalConDiff": -11,
+                    "pts": 15,
                     "idx": 10,
                     "qualColor": "#FFA72F"
                   },
@@ -87531,14 +88211,29 @@
                     "id": 4485,
                     "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 17,
-                    "wins": 2,
+                    "ongoing": {
+                      "id": 5105430,
+                      "hTeam": "Røa (W)",
+                      "aTeam": "LSK Kvinner (W)",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4486,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:20",
+                      "shs": "04.10.2026 14:02:33",
+                      "extId": "ls_0"
+                    },
+                    "played": 18,
+                    "wins": 3,
                     "draws": 5,
                     "losses": 10,
-                    "scoresStr": "16-36",
-                    "goalConDiff": -20,
-                    "pts": 11,
+                    "scoresStr": "18-37",
+                    "goalConDiff": -19,
+                    "pts": 14,
                     "idx": 11,
                     "qualColor": "#FF4646"
                   },
@@ -87548,13 +88243,28 @@
                     "id": 1599447,
                     "pageUrl": "/teams/1599447/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 17,
+                    "ongoing": {
+                      "id": 5105427,
+                      "hTeam": "Hønefoss (W)",
+                      "aTeam": "Bodø/Glimt (W)",
+                      "hScore": 1,
+                      "aScore": 0,
+                      "hId": 920414,
+                      "aId": 1599447,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:02:15",
+                      "shs": "04.10.2026 14:03:04",
+                      "extId": "ls_0"
+                    },
+                    "played": 18,
                     "wins": 1,
                     "draws": 3,
-                    "losses": 13,
-                    "scoresStr": "11-65",
-                    "goalConDiff": -54,
+                    "losses": 14,
+                    "scoresStr": "11-66",
+                    "goalConDiff": -55,
                     "pts": 6,
                     "idx": 12,
                     "qualColor": "#FF4646"
@@ -87567,7 +88277,6 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 6,
                     "draws": 2,
@@ -87585,7 +88294,6 @@
                     "id": 4484,
                     "pageUrl": "/teams/4484/overview/rosenborg-bk",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 6,
                     "draws": 2,
@@ -87603,7 +88311,6 @@
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 6,
                     "draws": 1,
@@ -87621,7 +88328,6 @@
                     "id": 4507,
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 6,
                     "draws": 0,
@@ -87639,7 +88345,22 @@
                     "id": 92171,
                     "pageUrl": "/teams/92171/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105429,
+                      "hTeam": "Molde (W)",
+                      "aTeam": "Stabæk (W)",
+                      "hScore": 0,
+                      "aScore": 3,
+                      "hId": 726186,
+                      "aId": 92171,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:00:43",
+                      "shs": "04.10.2026 14:03:37",
+                      "extId": "ls_0"
+                    },
                     "played": 9,
                     "wins": 4,
                     "draws": 1,
@@ -87652,12 +88373,60 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Lyn Fotball",
+                    "shortName": "Lyn Fotball",
+                    "id": 429438,
+                    "pageUrl": "/teams/429438/overview/lyn-fotball",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105428,
+                      "hTeam": "Lyn Fotball (W)",
+                      "aTeam": "FK Haugesund (W)",
+                      "hScore": 4,
+                      "aScore": 2,
+                      "hId": 429438,
+                      "aId": 169297,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:47",
+                      "shs": "04.10.2026 14:04:15",
+                      "extId": "ls_0"
+                    },
+                    "played": 9,
+                    "wins": 3,
+                    "draws": 4,
+                    "losses": 2,
+                    "scoresStr": "22-13",
+                    "goalConDiff": 9,
+                    "goalsScored": 22,
+                    "pts": 13,
+                    "idx": 6,
+                    "qualColor": null
+                  },
+                  {
                     "name": "FK Haugesund",
                     "shortName": "FK Haugesund",
                     "id": 169297,
                     "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105428,
+                      "hTeam": "Lyn Fotball (W)",
+                      "aTeam": "FK Haugesund (W)",
+                      "hScore": 4,
+                      "aScore": 2,
+                      "hId": 429438,
+                      "aId": 169297,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:47",
+                      "shs": "04.10.2026 14:04:15",
+                      "extId": "ls_0"
+                    },
                     "played": 9,
                     "wins": 4,
                     "draws": 1,
@@ -87666,43 +88435,7 @@
                     "goalConDiff": -8,
                     "goalsScored": 12,
                     "pts": 13,
-                    "idx": 6,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Lyn Fotball",
-                    "shortName": "Lyn Fotball",
-                    "id": 429438,
-                    "pageUrl": "/teams/429438/overview/lyn-fotball",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 8,
-                    "wins": 2,
-                    "draws": 4,
-                    "losses": 2,
-                    "scoresStr": "18-11",
-                    "goalConDiff": 7,
-                    "goalsScored": 18,
-                    "pts": 10,
                     "idx": 7,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Molde",
-                    "shortName": "Molde",
-                    "id": 726186,
-                    "pageUrl": "/teams/726186/overview/molde",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 9,
-                    "wins": 2,
-                    "draws": 2,
-                    "losses": 5,
-                    "scoresStr": "12-19",
-                    "goalConDiff": -7,
-                    "goalsScored": 12,
-                    "pts": 8,
-                    "idx": 8,
                     "qualColor": null
                   },
                   {
@@ -87711,15 +88444,63 @@
                     "id": 920414,
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 8,
-                    "wins": 2,
+                    "ongoing": {
+                      "id": 5105427,
+                      "hTeam": "Hønefoss (W)",
+                      "aTeam": "Bodø/Glimt (W)",
+                      "hScore": 1,
+                      "aScore": 0,
+                      "hId": 920414,
+                      "aId": 1599447,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:02:15",
+                      "shs": "04.10.2026 14:03:04",
+                      "extId": "ls_0"
+                    },
+                    "played": 9,
+                    "wins": 3,
                     "draws": 1,
                     "losses": 5,
-                    "scoresStr": "7-13",
-                    "goalConDiff": -6,
-                    "goalsScored": 7,
-                    "pts": 7,
+                    "scoresStr": "8-13",
+                    "goalConDiff": -5,
+                    "goalsScored": 8,
+                    "pts": 10,
+                    "idx": 8,
+                    "qualColor": null
+                  },
+                  {
+                    "name": "Molde",
+                    "shortName": "Molde",
+                    "id": 726186,
+                    "pageUrl": "/teams/726186/overview/molde",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105429,
+                      "hTeam": "Molde (W)",
+                      "aTeam": "Stabæk (W)",
+                      "hScore": 0,
+                      "aScore": 3,
+                      "hId": 726186,
+                      "aId": 92171,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:00:43",
+                      "shs": "04.10.2026 14:03:37",
+                      "extId": "ls_0"
+                    },
+                    "played": 10,
+                    "wins": 2,
+                    "draws": 2,
+                    "losses": 6,
+                    "scoresStr": "12-22",
+                    "goalConDiff": -10,
+                    "goalsScored": 12,
+                    "pts": 8,
                     "idx": 9,
                     "qualColor": null
                   },
@@ -87729,7 +88510,22 @@
                     "id": 4486,
                     "pageUrl": "/teams/4486/overview/lsk-kvinner",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105430,
+                      "hTeam": "Røa (W)",
+                      "aTeam": "LSK Kvinner (W)",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4486,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:20",
+                      "shs": "04.10.2026 14:02:33",
+                      "extId": "ls_0"
+                    },
                     "played": 9,
                     "wins": 2,
                     "draws": 1,
@@ -87742,12 +88538,60 @@
                     "qualColor": "#FFA72F"
                   },
                   {
+                    "name": "Røa",
+                    "shortName": "Røa",
+                    "id": 4485,
+                    "pageUrl": "/teams/4485/overview/roa",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105430,
+                      "hTeam": "Røa (W)",
+                      "aTeam": "LSK Kvinner (W)",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4486,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:20",
+                      "shs": "04.10.2026 14:02:33",
+                      "extId": "ls_0"
+                    },
+                    "played": 9,
+                    "wins": 1,
+                    "draws": 3,
+                    "losses": 5,
+                    "scoresStr": "11-19",
+                    "goalConDiff": -8,
+                    "goalsScored": 11,
+                    "pts": 6,
+                    "idx": 11,
+                    "qualColor": "#FF4646"
+                  },
+                  {
                     "name": "Bodø/Glimt",
                     "shortName": "Bodø/Glimt",
                     "id": 1599447,
                     "pageUrl": "/teams/1599447/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105427,
+                      "hTeam": "Hønefoss (W)",
+                      "aTeam": "Bodø/Glimt (W)",
+                      "hScore": 1,
+                      "aScore": 0,
+                      "hId": 920414,
+                      "aId": 1599447,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:02:15",
+                      "shs": "04.10.2026 14:03:04",
+                      "extId": "ls_0"
+                    },
                     "played": 8,
                     "wins": 1,
                     "draws": 1,
@@ -87756,24 +88600,6 @@
                     "goalConDiff": -18,
                     "goalsScored": 5,
                     "pts": 4,
-                    "idx": 11,
-                    "qualColor": "#FF4646"
-                  },
-                  {
-                    "name": "Røa",
-                    "shortName": "Røa",
-                    "id": 4485,
-                    "pageUrl": "/teams/4485/overview/roa",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 8,
-                    "wins": 0,
-                    "draws": 3,
-                    "losses": 5,
-                    "scoresStr": "9-18",
-                    "goalConDiff": -9,
-                    "goalsScored": 9,
-                    "pts": 3,
                     "idx": 12,
                     "qualColor": "#FF4646"
                   }
@@ -87785,7 +88611,6 @@
                     "id": 4182,
                     "pageUrl": "/teams/4182/overview/brann",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 9,
                     "draws": 0,
@@ -87803,7 +88628,6 @@
                     "id": 4500,
                     "pageUrl": "/teams/4500/overview/aalesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 9,
                     "wins": 7,
                     "draws": 1,
@@ -87821,7 +88645,6 @@
                     "id": 4484,
                     "pageUrl": "/teams/4484/overview/rosenborg-bk",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 5,
                     "draws": 2,
@@ -87839,7 +88662,6 @@
                     "id": 4507,
                     "pageUrl": "/teams/4507/overview/valerenga",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 8,
                     "wins": 5,
                     "draws": 1,
@@ -87852,12 +88674,60 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Stabæk",
+                    "shortName": "Stabæk",
+                    "id": 92171,
+                    "pageUrl": "/teams/92171/overview/stabaek",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105429,
+                      "hTeam": "Molde (W)",
+                      "aTeam": "Stabæk (W)",
+                      "hScore": 0,
+                      "aScore": 3,
+                      "hId": 726186,
+                      "aId": 92171,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:00:43",
+                      "shs": "04.10.2026 14:03:37",
+                      "extId": "ls_0"
+                    },
+                    "played": 9,
+                    "wins": 4,
+                    "draws": 2,
+                    "losses": 3,
+                    "scoresStr": "18-12",
+                    "goalConDiff": 6,
+                    "goalsScored": 18,
+                    "pts": 14,
+                    "idx": 5,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Lyn Fotball",
                     "shortName": "Lyn Fotball",
                     "id": 429438,
                     "pageUrl": "/teams/429438/overview/lyn-fotball",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105428,
+                      "hTeam": "Lyn Fotball (W)",
+                      "aTeam": "FK Haugesund (W)",
+                      "hScore": 4,
+                      "aScore": 2,
+                      "hId": 429438,
+                      "aId": 169297,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:47",
+                      "shs": "04.10.2026 14:04:15",
+                      "extId": "ls_0"
+                    },
                     "played": 9,
                     "wins": 4,
                     "draws": 1,
@@ -87866,24 +88736,6 @@
                     "goalConDiff": 0,
                     "goalsScored": 12,
                     "pts": 13,
-                    "idx": 5,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Stabæk",
-                    "shortName": "Stabæk",
-                    "id": 92171,
-                    "pageUrl": "/teams/92171/overview/stabaek",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 8,
-                    "wins": 3,
-                    "draws": 2,
-                    "losses": 3,
-                    "scoresStr": "15-12",
-                    "goalConDiff": 3,
-                    "goalsScored": 15,
-                    "pts": 11,
                     "idx": 6,
                     "qualColor": null
                   },
@@ -87893,7 +88745,22 @@
                     "id": 726186,
                     "pageUrl": "/teams/726186/overview/molde",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105429,
+                      "hTeam": "Molde (W)",
+                      "aTeam": "Stabæk (W)",
+                      "hScore": 0,
+                      "aScore": 3,
+                      "hId": 726186,
+                      "aId": 92171,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:00:43",
+                      "shs": "04.10.2026 14:03:37",
+                      "extId": "ls_0"
+                    },
                     "played": 8,
                     "wins": 3,
                     "draws": 1,
@@ -87911,14 +88778,29 @@
                     "id": 4486,
                     "pageUrl": "/teams/4486/overview/lsk-kvinner",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 8,
+                    "ongoing": {
+                      "id": 5105430,
+                      "hTeam": "Røa (W)",
+                      "aTeam": "LSK Kvinner (W)",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4486,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:20",
+                      "shs": "04.10.2026 14:02:33",
+                      "extId": "ls_0"
+                    },
+                    "played": 9,
                     "wins": 2,
                     "draws": 2,
-                    "losses": 4,
-                    "scoresStr": "12-12",
-                    "goalConDiff": 0,
-                    "goalsScored": 12,
+                    "losses": 5,
+                    "scoresStr": "13-14",
+                    "goalConDiff": -1,
+                    "goalsScored": 13,
                     "pts": 8,
                     "idx": 8,
                     "qualColor": null
@@ -87929,7 +88811,22 @@
                     "id": 4485,
                     "pageUrl": "/teams/4485/overview/roa",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105430,
+                      "hTeam": "Røa (W)",
+                      "aTeam": "LSK Kvinner (W)",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4486,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:20",
+                      "shs": "04.10.2026 14:02:33",
+                      "extId": "ls_0"
+                    },
                     "played": 9,
                     "wins": 2,
                     "draws": 2,
@@ -87947,7 +88844,22 @@
                     "id": 920414,
                     "pageUrl": "/teams/920414/overview/honefoss",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105427,
+                      "hTeam": "Hønefoss (W)",
+                      "aTeam": "Bodø/Glimt (W)",
+                      "hScore": 1,
+                      "aScore": 0,
+                      "hId": 920414,
+                      "aId": 1599447,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:02:15",
+                      "shs": "04.10.2026 14:03:04",
+                      "extId": "ls_0"
+                    },
                     "played": 9,
                     "wins": 1,
                     "draws": 3,
@@ -87965,14 +88877,29 @@
                     "id": 169297,
                     "pageUrl": "/teams/169297/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 8,
+                    "ongoing": {
+                      "id": 5105428,
+                      "hTeam": "Lyn Fotball (W)",
+                      "aTeam": "FK Haugesund (W)",
+                      "hScore": 4,
+                      "aScore": 2,
+                      "hId": 429438,
+                      "aId": 169297,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:47",
+                      "shs": "04.10.2026 14:04:15",
+                      "extId": "ls_0"
+                    },
+                    "played": 9,
                     "wins": 1,
                     "draws": 2,
-                    "losses": 5,
-                    "scoresStr": "10-20",
-                    "goalConDiff": -10,
-                    "goalsScored": 10,
+                    "losses": 6,
+                    "scoresStr": "12-24",
+                    "goalConDiff": -12,
+                    "goalsScored": 12,
                     "pts": 5,
                     "idx": 11,
                     "qualColor": "#FF4646"
@@ -87983,13 +88910,28 @@
                     "id": 1599447,
                     "pageUrl": "/teams/1599447/overview/bodoglimt",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 9,
+                    "ongoing": {
+                      "id": 5105427,
+                      "hTeam": "Hønefoss (W)",
+                      "aTeam": "Bodø/Glimt (W)",
+                      "hScore": 1,
+                      "aScore": 0,
+                      "hId": 920414,
+                      "aId": 1599447,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:02:15",
+                      "shs": "04.10.2026 14:03:04",
+                      "extId": "ls_0"
+                    },
+                    "played": 10,
                     "wins": 0,
                     "draws": 2,
-                    "losses": 7,
-                    "scoresStr": "6-42",
-                    "goalConDiff": -36,
+                    "losses": 8,
+                    "scoresStr": "6-43",
+                    "goalConDiff": -37,
                     "goalsScored": 6,
                     "pts": 2,
                     "idx": 12,
@@ -88011,7 +88953,6 @@
                     "goalConDiff": 15,
                     "goalsScored": 16,
                     "pts": 15,
-                    "ongoing": null,
                     "idx": 1,
                     "qualColor": "#FFD908"
                   },
@@ -88029,7 +88970,6 @@
                     "goalConDiff": 12,
                     "goalsScored": 18,
                     "pts": 15,
-                    "ongoing": null,
                     "idx": 2,
                     "qualColor": "#FFD908"
                   },
@@ -88047,7 +88987,6 @@
                     "goalConDiff": 10,
                     "goalsScored": 13,
                     "pts": 13,
-                    "ongoing": null,
                     "idx": 3,
                     "qualColor": "#0046A7"
                   },
@@ -88065,7 +89004,6 @@
                     "goalConDiff": 5,
                     "goalsScored": 11,
                     "pts": 13,
-                    "ongoing": null,
                     "idx": 4,
                     "qualColor": null
                   },
@@ -88083,7 +89021,22 @@
                     "goalConDiff": 7,
                     "goalsScored": 15,
                     "pts": 7,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105429,
+                      "hTeam": "Molde (W)",
+                      "aTeam": "Stabæk (W)",
+                      "hScore": 0,
+                      "aScore": 3,
+                      "hId": 726186,
+                      "aId": 92171,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:00:43",
+                      "shs": "04.10.2026 14:03:37",
+                      "extId": "ls_0"
+                    },
                     "idx": 5,
                     "qualColor": null
                   },
@@ -88101,7 +89054,22 @@
                     "goalConDiff": -1,
                     "goalsScored": 9,
                     "pts": 7,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105428,
+                      "hTeam": "Lyn Fotball (W)",
+                      "aTeam": "FK Haugesund (W)",
+                      "hScore": 4,
+                      "aScore": 2,
+                      "hId": 429438,
+                      "aId": 169297,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:47",
+                      "shs": "04.10.2026 14:04:15",
+                      "extId": "ls_0"
+                    },
                     "idx": 6,
                     "qualColor": null
                   },
@@ -88119,7 +89087,22 @@
                     "goalConDiff": -1,
                     "goalsScored": 3,
                     "pts": 5,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105427,
+                      "hTeam": "Hønefoss (W)",
+                      "aTeam": "Bodø/Glimt (W)",
+                      "hScore": 1,
+                      "aScore": 0,
+                      "hId": 920414,
+                      "aId": 1599447,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:02:15",
+                      "shs": "04.10.2026 14:03:04",
+                      "extId": "ls_0"
+                    },
                     "idx": 7,
                     "qualColor": null
                   },
@@ -88137,7 +89120,22 @@
                     "goalConDiff": -5,
                     "goalsScored": 5,
                     "pts": 4,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105428,
+                      "hTeam": "Lyn Fotball (W)",
+                      "aTeam": "FK Haugesund (W)",
+                      "hScore": 4,
+                      "aScore": 2,
+                      "hId": 429438,
+                      "aId": 169297,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:47",
+                      "shs": "04.10.2026 14:04:15",
+                      "extId": "ls_0"
+                    },
                     "idx": 8,
                     "qualColor": null
                   },
@@ -88155,7 +89153,22 @@
                     "goalConDiff": -7,
                     "goalsScored": 3,
                     "pts": 4,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105429,
+                      "hTeam": "Molde (W)",
+                      "aTeam": "Stabæk (W)",
+                      "hScore": 0,
+                      "aScore": 3,
+                      "hId": 726186,
+                      "aId": 92171,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:00:43",
+                      "shs": "04.10.2026 14:03:37",
+                      "extId": "ls_0"
+                    },
                     "idx": 9,
                     "qualColor": null
                   },
@@ -88173,7 +89186,22 @@
                     "goalConDiff": -11,
                     "goalsScored": 4,
                     "pts": 4,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105427,
+                      "hTeam": "Hønefoss (W)",
+                      "aTeam": "Bodø/Glimt (W)",
+                      "hScore": 1,
+                      "aScore": 0,
+                      "hId": 920414,
+                      "aId": 1599447,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:02:15",
+                      "shs": "04.10.2026 14:03:04",
+                      "extId": "ls_0"
+                    },
                     "idx": 10,
                     "qualColor": "#FFA72F"
                   },
@@ -88191,7 +89219,22 @@
                     "goalConDiff": -7,
                     "goalsScored": 5,
                     "pts": 1,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105430,
+                      "hTeam": "Røa (W)",
+                      "aTeam": "LSK Kvinner (W)",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4486,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:20",
+                      "shs": "04.10.2026 14:02:33",
+                      "extId": "ls_0"
+                    },
                     "idx": 11,
                     "qualColor": "#FF4646"
                   },
@@ -88209,7 +89252,22 @@
                     "goalConDiff": -10,
                     "goalsScored": 6,
                     "pts": 1,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105430,
+                      "hTeam": "Røa (W)",
+                      "aTeam": "LSK Kvinner (W)",
+                      "hScore": 2,
+                      "aScore": 1,
+                      "hId": 4485,
+                      "aId": 4486,
+                      "stage": "18",
+                      "time": "04.10.2026 13:00",
+                      "status": "S",
+                      "sId": 3,
+                      "gs": "04.10.2026 13:01:20",
+                      "shs": "04.10.2026 14:02:33",
+                      "extId": "ls_0"
+                    },
                     "idx": 12,
                     "qualColor": "#FF4646"
                   }
@@ -90151,36 +91209,36 @@
                 "2026-10-04T15:00:00Z"
               ],
               "4485": [
-                "4486",
-                "LSK Kvinner (W)",
-                "5105430",
+                "4500",
+                "Aalesund (W)",
+                "5105437",
+                {
+                  "id": "4500",
+                  "name": "Aalesund (W)",
+                  "shortName": "Aalesund (W)"
+                },
                 {
                   "id": "4485",
                   "name": "Røa (W)",
                   "shortName": "Røa (W)"
                 },
-                {
-                  "id": "4486",
-                  "name": "LSK Kvinner (W)",
-                  "shortName": "LSK Kvinner (W)"
-                },
-                "2026-10-04T11:00:00Z"
+                "2026-10-16T16:00:00Z"
               ],
               "4486": [
-                "4485",
-                "Røa (W)",
-                "5105430",
-                {
-                  "id": "4485",
-                  "name": "Røa (W)",
-                  "shortName": "Røa (W)"
-                },
+                "4507",
+                "Vålerenga (W)",
+                "5105434",
                 {
                   "id": "4486",
                   "name": "LSK Kvinner (W)",
                   "shortName": "LSK Kvinner (W)"
                 },
-                "2026-10-04T11:00:00Z"
+                {
+                  "id": "4507",
+                  "name": "Vålerenga (W)",
+                  "shortName": "Vålerenga (W)"
+                },
+                "2026-10-17T11:00:00Z"
               ],
               "4500": [
                 "4182",
@@ -90215,100 +91273,100 @@
                 "2026-10-04T15:00:00Z"
               ],
               "92171": [
-                "726186",
-                "Molde (W)",
-                "5105429",
-                {
-                  "id": "726186",
-                  "name": "Molde (W)",
-                  "shortName": "Molde (W)"
-                },
-                {
-                  "id": "92171",
-                  "name": "Stabæk (W)",
-                  "shortName": "Stabæk (W)"
-                },
-                "2026-10-04T11:00:00Z"
-              ],
-              "169297": [
-                "429438",
-                "Lyn Fotball (W)",
-                "5105428",
-                {
-                  "id": "429438",
-                  "name": "Lyn Fotball (W)",
-                  "shortName": "Lyn Fotball (W)"
-                },
-                {
-                  "id": "169297",
-                  "name": "FK Haugesund (W)",
-                  "shortName": "FK Haugesund (W)"
-                },
-                "2026-10-04T11:00:00Z"
-              ],
-              "429438": [
-                "169297",
-                "FK Haugesund (W)",
-                "5105428",
-                {
-                  "id": "429438",
-                  "name": "Lyn Fotball (W)",
-                  "shortName": "Lyn Fotball (W)"
-                },
-                {
-                  "id": "169297",
-                  "name": "FK Haugesund (W)",
-                  "shortName": "FK Haugesund (W)"
-                },
-                "2026-10-04T11:00:00Z"
-              ],
-              "726186": [
-                "92171",
-                "Stabæk (W)",
-                "5105429",
-                {
-                  "id": "726186",
-                  "name": "Molde (W)",
-                  "shortName": "Molde (W)"
-                },
-                {
-                  "id": "92171",
-                  "name": "Stabæk (W)",
-                  "shortName": "Stabæk (W)"
-                },
-                "2026-10-04T11:00:00Z"
-              ],
-              "920414": [
-                "1599447",
-                "Bodø/Glimt (W)",
-                "5105427",
-                {
-                  "id": "920414",
-                  "name": "Hønefoss (W)",
-                  "shortName": "Hønefoss (W)"
-                },
-                {
-                  "id": "1599447",
-                  "name": "Bodø/Glimt (W)",
-                  "shortName": "Bodø/Glimt (W)"
-                },
-                "2026-10-04T11:00:00Z"
-              ],
-              "1599447": [
                 "920414",
                 "Hønefoss (W)",
-                "5105427",
+                "5105436",
+                {
+                  "id": "92171",
+                  "name": "Stabæk (W)",
+                  "shortName": "Stabæk (W)"
+                },
                 {
                   "id": "920414",
                   "name": "Hønefoss (W)",
                   "shortName": "Hønefoss (W)"
                 },
+                "2026-10-17T11:00:00Z"
+              ],
+              "169297": [
+                "726186",
+                "Molde (W)",
+                "5105433",
+                {
+                  "id": "169297",
+                  "name": "FK Haugesund (W)",
+                  "shortName": "FK Haugesund (W)"
+                },
+                {
+                  "id": "726186",
+                  "name": "Molde (W)",
+                  "shortName": "Molde (W)"
+                },
+                "2026-10-17T11:00:00Z"
+              ],
+              "429438": [
+                "1599447",
+                "Bodø/Glimt (W)",
+                "5105432",
                 {
                   "id": "1599447",
                   "name": "Bodø/Glimt (W)",
                   "shortName": "Bodø/Glimt (W)"
                 },
-                "2026-10-04T11:00:00Z"
+                {
+                  "id": "429438",
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)"
+                },
+                "2026-10-16T16:00:00Z"
+              ],
+              "726186": [
+                "169297",
+                "FK Haugesund (W)",
+                "5105433",
+                {
+                  "id": "169297",
+                  "name": "FK Haugesund (W)",
+                  "shortName": "FK Haugesund (W)"
+                },
+                {
+                  "id": "726186",
+                  "name": "Molde (W)",
+                  "shortName": "Molde (W)"
+                },
+                "2026-10-17T11:00:00Z"
+              ],
+              "920414": [
+                "92171",
+                "Stabæk (W)",
+                "5105436",
+                {
+                  "id": "92171",
+                  "name": "Stabæk (W)",
+                  "shortName": "Stabæk (W)"
+                },
+                {
+                  "id": "920414",
+                  "name": "Hønefoss (W)",
+                  "shortName": "Hønefoss (W)"
+                },
+                "2026-10-17T11:00:00Z"
+              ],
+              "1599447": [
+                "429438",
+                "Lyn Fotball (W)",
+                "5105432",
+                {
+                  "id": "1599447",
+                  "name": "Bodø/Glimt (W)",
+                  "shortName": "Bodø/Glimt (W)"
+                },
+                {
+                  "id": "429438",
+                  "name": "Lyn Fotball (W)",
+                  "shortName": "Lyn Fotball (W)"
+                },
+                "2026-10-16T16:00:00Z"
               ]
             },
             "tableHeader": {
@@ -94452,12 +95510,12 @@
             "opponent": {
               "id": "920414",
               "name": "Hønefoss (W)",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "920414",
               "name": "Hønefoss (W)",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "1599447",
@@ -94472,12 +95530,24 @@
             "status": {
               "utcTime": "2026-10-04T11:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "04.10.2026 13:00:00"
+                "firstHalfStarted": "04.10.2026 13:02:15",
+                "secondHalfStarted": "04.10.2026 14:03:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 0",
+              "liveTime": {
+                "short": "71‎’‎",
+                "shortKey": "",
+                "long": "70:25",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -94486,17 +95556,17 @@
             "opponent": {
               "id": "429438",
               "name": "Lyn Fotball (W)",
-              "score": 0
+              "score": 4
             },
             "home": {
               "id": "429438",
               "name": "Lyn Fotball (W)",
-              "score": 0
+              "score": 4
             },
             "away": {
               "id": "169297",
               "name": "FK Haugesund (W)",
-              "score": 0
+              "score": 2
             },
             "displayTournament": true,
             "notStarted": true,
@@ -94506,12 +95576,24 @@
             "status": {
               "utcTime": "2026-10-04T11:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "04.10.2026 13:00:00"
+                "firstHalfStarted": "04.10.2026 13:01:47",
+                "secondHalfStarted": "04.10.2026 14:04:15"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "4 - 2",
+              "liveTime": {
+                "short": "70‎’‎",
+                "shortKey": "",
+                "long": "69:14",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -94530,7 +95612,7 @@
             "away": {
               "id": "92171",
               "name": "Stabæk (W)",
-              "score": 0
+              "score": 3
             },
             "displayTournament": true,
             "notStarted": true,
@@ -94540,12 +95622,24 @@
             "status": {
               "utcTime": "2026-10-04T11:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "04.10.2026 13:00:00"
+                "firstHalfStarted": "04.10.2026 13:00:43",
+                "secondHalfStarted": "04.10.2026 14:03:37"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 3",
+              "liveTime": {
+                "short": "70‎’‎",
+                "shortKey": "",
+                "long": "69:52",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -94554,17 +95648,17 @@
             "opponent": {
               "id": "4485",
               "name": "Røa (W)",
-              "score": 0
+              "score": 2
             },
             "home": {
               "id": "4485",
               "name": "Røa (W)",
-              "score": 0
+              "score": 2
             },
             "away": {
               "id": "4486",
               "name": "LSK Kvinner (W)",
-              "score": 0
+              "score": 1
             },
             "displayTournament": true,
             "notStarted": true,
@@ -94574,12 +95668,24 @@
             "status": {
               "utcTime": "2026-10-04T11:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "04.10.2026 13:00:00"
+                "firstHalfStarted": "04.10.2026 13:01:20",
+                "secondHalfStarted": "04.10.2026 14:02:33"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "2 - 1",
+              "liveTime": {
+                "short": "71‎’‎",
+                "shortKey": "",
+                "long": "70:56",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -98583,12 +99689,24 @@
               "status": {
                 "utcTime": "2026-10-04T11:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "04.10.2026 13:00:00"
+                  "firstHalfStarted": "04.10.2026 13:02:15",
+                  "secondHalfStarted": "04.10.2026 14:03:04"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "1 - 0",
+                "liveTime": {
+                  "short": "71‎’‎",
+                  "shortKey": "",
+                  "long": "70:25",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -98609,12 +99727,24 @@
               "status": {
                 "utcTime": "2026-10-04T11:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "04.10.2026 13:00:00"
+                  "firstHalfStarted": "04.10.2026 13:01:47",
+                  "secondHalfStarted": "04.10.2026 14:04:15"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "4 - 2",
+                "liveTime": {
+                  "short": "70‎’‎",
+                  "shortKey": "",
+                  "long": "69:14",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -98635,12 +99765,24 @@
               "status": {
                 "utcTime": "2026-10-04T11:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "04.10.2026 13:00:00"
+                  "firstHalfStarted": "04.10.2026 13:00:43",
+                  "secondHalfStarted": "04.10.2026 14:03:37"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 3",
+                "liveTime": {
+                  "short": "70‎’‎",
+                  "shortKey": "",
+                  "long": "69:52",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -98661,12 +99803,24 @@
               "status": {
                 "utcTime": "2026-10-04T11:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "04.10.2026 13:00:00"
+                  "firstHalfStarted": "04.10.2026 13:01:20",
+                  "secondHalfStarted": "04.10.2026 14:02:33"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "2 - 1",
+                "liveTime": {
+                  "short": "71‎’‎",
+                  "shortKey": "",
+                  "long": "70:56",
+                  "longKey": "",
+                  "maxTime": 90,
+                  "basePeriod": 90,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -100080,10 +101234,10 @@
                 "rank": 3,
                 "teamId": 429438,
                 "teamName": "Lyn Fotball",
-                "value": 6,
+                "value": 7,
                 "stat": {
                   "name": "clean_sheet_team",
-                  "value": 6,
+                  "value": 7,
                   "format": "number",
                   "fractions": 0
                 },
@@ -100244,10 +101398,10 @@
               },
               {
                 "id": 0,
-                "name": "Rosenborg BK",
+                "name": "Stabaek",
                 "rank": 3,
-                "teamId": 4484,
-                "teamName": "Rosenborg BK",
+                "teamId": 92171,
+                "teamName": "Stabaek",
                 "value": 19,
                 "stat": {
                   "name": "_set_piece_goals_conceded_team",
@@ -100256,9 +101410,9 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#ffffff",
-                  "lightMode": "#000000",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#2e5483",
+                  "lightMode": "#003763",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -100328,21 +101482,21 @@
               },
               {
                 "id": 0,
-                "name": "LSK Kvinner",
-                "rank": 3,
-                "teamId": 4486,
-                "teamName": "LSK Kvinner",
-                "value": 19,
+                "name": "Stabaek",
+                "rank": 2,
+                "teamId": 92171,
+                "teamName": "Stabaek",
+                "value": 20,
                 "stat": {
                   "name": "total_yel_card_team",
-                  "value": 19,
+                  "value": 20,
                   "format": "number",
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#fede02",
-                  "lightMode": "#c1a800",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#2e5483",
+                  "lightMode": "#003763",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -103798,12 +104952,24 @@
             "status": {
               "utcTime": "2026-10-04T11:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "04.10.2026 13:00:00"
+                "firstHalfStarted": "04.10.2026 13:02:15",
+                "secondHalfStarted": "04.10.2026 14:03:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "1 - 0",
+              "liveTime": {
+                "short": "71‎’‎",
+                "shortKey": "",
+                "long": "70:25",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -103824,12 +104990,24 @@
             "status": {
               "utcTime": "2026-10-04T11:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "04.10.2026 13:00:00"
+                "firstHalfStarted": "04.10.2026 13:01:47",
+                "secondHalfStarted": "04.10.2026 14:04:15"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "4 - 2",
+              "liveTime": {
+                "short": "70‎’‎",
+                "shortKey": "",
+                "long": "69:14",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -103850,12 +105028,24 @@
             "status": {
               "utcTime": "2026-10-04T11:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "04.10.2026 13:00:00"
+                "firstHalfStarted": "04.10.2026 13:00:43",
+                "secondHalfStarted": "04.10.2026 14:03:37"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 3",
+              "liveTime": {
+                "short": "70‎’‎",
+                "shortKey": "",
+                "long": "69:52",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -103876,12 +105066,24 @@
             "status": {
               "utcTime": "2026-10-04T11:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "04.10.2026 13:00:00"
+                "firstHalfStarted": "04.10.2026 13:01:20",
+                "secondHalfStarted": "04.10.2026 14:02:33"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "2 - 1",
+              "liveTime": {
+                "short": "71‎’‎",
+                "shortKey": "",
+                "long": "70:56",
+                "longKey": "",
+                "maxTime": 90,
+                "basePeriod": 90,
+                "addedTime": 0
+              }
             }
           },
           {
