@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:30:19.601821+00:00",
+  "generated_at": "2026-10-06T18:28:36.677698+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -32963,6 +32963,94 @@
             "category": "Top Stat"
           },
           {
+            "header": "Squad value",
+            "participant": {
+              "id": 0,
+              "name": "Bodø/Glimt",
+              "rank": 1,
+              "ccode": "NOR",
+              "teamId": 8402,
+              "teamName": "Bodø/Glimt",
+              "value": 57443186,
+              "stat": {
+                "name": "squad_value_team",
+                "value": 57443186,
+                "format": "currency",
+                "fractions": 0
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/squad_value_team.json",
+            "topThree": [
+              {
+                "id": 0,
+                "name": "Bodø/Glimt",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8402,
+                "teamName": "Bodø/Glimt",
+                "value": 57443186,
+                "stat": {
+                  "name": "squad_value_team",
+                  "value": 57443186,
+                  "format": "currency",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Molde",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 9917,
+                "teamName": "Molde",
+                "value": 33733941,
+                "stat": {
+                  "name": "squad_value_team",
+                  "value": 33733941,
+                  "format": "currency",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#0068b0",
+                  "lightMode": "#0D47A0",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Viking",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8478,
+                "teamName": "Viking",
+                "value": 28229866,
+                "stat": {
+                  "name": "squad_value_team",
+                  "value": 28229866,
+                  "format": "currency",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 50,
+            "name": "squad_value_team",
+            "localizedTitleId": "squad_value",
+            "category": "Top Stat"
+          },
+          {
             "header": "Expected goals",
             "participant": {
               "id": 0,
@@ -45960,8 +46048,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/obos-ligaen",
-            "leagueName": "OBOS-ligaen",
+            "pageUrl": "/leagues/203/overview/1-divisjon",
+            "leagueName": "1. Divisjon",
             "legend": [
               {
                 "title": "Promotion",
@@ -54111,8 +54199,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/obos-ligaen",
-              "leagueName": "OBOS-ligaen",
+              "pageUrl": "/leagues/203/overview/1-divisjon",
+              "leagueName": "1. Divisjon",
               "legend": [
                 {
                   "title": "Promotion",
@@ -109395,6 +109483,46 @@
           "byAssists": {
             "players": [
               {
+                "id": 630289,
+                "name": "Erlend Segberg",
+                "teamId": 9919,
+                "teamName": "Start",
+                "assists": 3,
+                "value": 3,
+                "stat": {
+                  "name": "assists",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#F3D000",
+                  "lightMode": "#d9a200",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 440315,
+                "name": "Håkon Lorentzen",
+                "teamId": 9919,
+                "teamName": "Start",
+                "assists": 3,
+                "value": 3,
+                "stat": {
+                  "name": "assists",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#F3D000",
+                  "lightMode": "#d9a200",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1046177,
                 "name": "Halvard Urnes",
                 "teamId": 7937,
@@ -109411,46 +109539,6 @@
                   "darkMode": "#32528a",
                   "lightMode": "#1D4278",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1631794,
-                "name": "Isaac Barnett",
-                "teamId": 10224,
-                "teamName": "Lyn",
-                "assists": 2,
-                "value": 2,
-                "stat": {
-                  "name": "assists",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#A30013",
-                  "lightMode": "#A30013",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 741397,
-                "name": "Jens Petter Hauge",
-                "teamId": 8402,
-                "teamName": "Bodoe/Glimt",
-                "assists": 2,
-                "value": 2,
-                "stat": {
-                  "name": "assists",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#f8dc03",
-                  "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -113211,32 +113299,41 @@
             "opponent": {
               "id": "9812",
               "name": "Raufoss",
-              "score": 0
+              "score": 1
             },
             "home": {
               "id": "9812",
               "name": "Raufoss",
-              "score": 0
+              "score": 1
             },
             "away": {
               "id": "9919",
               "name": "Start",
-              "score": 0
+              "score": 5
             },
             "displayTournament": true,
-            "notStarted": true,
+            "notStarted": false,
             "tournament": {
               "stage": ""
             },
             "status": {
               "utcTime": "2026-10-06T15:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "06.10.2026 17:00:00"
+                "firstHalfStarted": "06.10.2026 17:00:40",
+                "secondHalfStarted": "06.10.2026 18:03:35"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 5",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -119781,6 +119878,8 @@
                   "drawOrder": 1,
                   "stage": "3",
                   "bestOf": 0,
+                  "homeScore": 0,
+                  "awayScore": 0,
                   "homeTeam": "Raufoss",
                   "awayTeam": "Start",
                   "homeTeamShortName": "RAU",
@@ -119808,9 +119907,17 @@
                       "status": {
                         "utcTime": "2026-10-06T15:00:00Z",
                         "timezone": "UTC",
-                        "started": false,
+                        "finished": true,
+                        "started": true,
                         "cancelled": false,
-                        "finished": false
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                          "short": "FT",
+                          "shortKey": "fulltime_short",
+                          "long": "Full-Time",
+                          "longKey": "finished"
+                        }
                       }
                     }
                   ],
@@ -120528,14 +120635,14 @@
                   "aggregatedLoser": null
                 }
               ],
-              "started": false
+              "started": true
             }
           ],
           "hasDrawOrder": true,
           "special": [],
           "liveFixtureApiLink": {
             "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-            "pollFromUtc": "2026-10-06T14:55:00Z"
+            "pollFromUtc": "2026-10-28T15:55:00Z"
           },
           "leagueId": 206,
           "bronzeFinal": null,
@@ -120543,8 +120650,8 @@
         },
         "matches": {
           "firstUnplayedMatch": {
-            "firstUnplayedMatchIndex": 96,
-            "firstUnplayedMatchId": "6284089"
+            "firstUnplayedMatchIndex": 97,
+            "firstUnplayedMatchId": "6284092"
           },
           "allMatches": [
             {
@@ -123541,12 +123648,21 @@
               "status": {
                 "utcTime": "2026-10-06T15:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "06.10.2026 17:00:00"
+                  "firstHalfStarted": "06.10.2026 17:00:40",
+                  "secondHalfStarted": "06.10.2026 18:03:35"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": true,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "awarded": false,
+                "scoreStr": "1 - 5",
+                "reason": {
+                  "short": "FT",
+                  "shortKey": "fulltime_short",
+                  "long": "Full-Time",
+                  "longKey": "finished"
+                }
               }
             },
             {
@@ -124522,15 +124638,15 @@
           {
             "header": "Assists",
             "participant": {
-              "id": 1046177,
-              "name": "Halvard Urnes",
+              "id": 630289,
+              "name": "Erlend Segberg",
               "rank": 1,
-              "teamId": 7937,
-              "teamName": "Hoedd",
-              "value": 2,
+              "teamId": 9919,
+              "teamName": "Start",
+              "value": 3,
               "stat": {
                 "name": "goal_assist",
-                "value": 2,
+                "value": 3,
                 "format": "number",
                 "fractions": 0
               }
@@ -124538,9 +124654,49 @@
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/goal_assist.json",
             "topThree": [
               {
+                "id": 630289,
+                "name": "Erlend Segberg",
+                "rank": 1,
+                "teamId": 9919,
+                "teamName": "Start",
+                "value": 3,
+                "stat": {
+                  "name": "goal_assist",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#F3D000",
+                  "lightMode": "#d9a200",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 440315,
+                "name": "Håkon Lorentzen",
+                "rank": 1,
+                "teamId": 9919,
+                "teamName": "Start",
+                "value": 3,
+                "stat": {
+                  "name": "goal_assist",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#F3D000",
+                  "lightMode": "#d9a200",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1046177,
                 "name": "Halvard Urnes",
-                "rank": 1,
+                "rank": 3,
                 "teamId": 7937,
                 "teamName": "Hoedd",
                 "value": 2,
@@ -124554,46 +124710,6 @@
                   "darkMode": "#32528a",
                   "lightMode": "#1D4278",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 1631794,
-                "name": "Isaac Barnett",
-                "rank": 1,
-                "teamId": 10224,
-                "teamName": "Lyn",
-                "value": 2,
-                "stat": {
-                  "name": "goal_assist",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#A30013",
-                  "lightMode": "#A30013",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 741397,
-                "name": "Jens Petter Hauge",
-                "rank": 1,
-                "teamId": 8402,
-                "teamName": "Bodoe/Glimt",
-                "value": 2,
-                "stat": {
-                  "name": "goal_assist",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#f8dc03",
-                  "lightMode": "#e09d00",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -125029,14 +125145,14 @@
             "header": "Clean sheets",
             "participant": {
               "id": 0,
-              "name": "Hamarkameratene",
+              "name": "Raufoss",
               "rank": 1,
-              "teamId": 8448,
-              "teamName": "Hamarkameratene",
-              "value": 2,
+              "teamId": 9812,
+              "teamName": "Raufoss",
+              "value": 3,
               "stat": {
                 "name": "clean_sheet_team",
-                "value": 2,
+                "value": 3,
                 "format": "number",
                 "fractions": 0
               }
@@ -125045,8 +125161,28 @@
             "topThree": [
               {
                 "id": 0,
-                "name": "Hamarkameratene",
+                "name": "Raufoss",
                 "rank": 1,
+                "teamId": 9812,
+                "teamName": "Raufoss",
+                "value": 3,
+                "stat": {
+                  "name": "clean_sheet_team",
+                  "value": 3,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#FEEC00",
+                  "lightMode": "#000000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Hamarkameratene",
+                "rank": 2,
                 "teamId": 8448,
                 "teamName": "Hamarkameratene",
                 "value": 2,
@@ -125066,7 +125202,7 @@
               {
                 "id": 0,
                 "name": "KFUM",
-                "rank": 1,
+                "rank": 2,
                 "teamId": 2305,
                 "teamName": "KFUM",
                 "value": 2,
@@ -125079,26 +125215,6 @@
                 "teamColors": {
                   "darkMode": "#E60000",
                   "lightMode": "#E60000",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Molde",
-                "rank": 1,
-                "teamId": 9917,
-                "teamName": "Molde",
-                "value": 2,
-                "stat": {
-                  "name": "clean_sheet_team",
-                  "value": 2,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#0068b0",
-                  "lightMode": "#0D47A0",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -125197,10 +125313,10 @@
             "header": "Set piece goals conceded",
             "participant": {
               "id": 0,
-              "name": "Hamarkameratene",
+              "name": "Raufoss",
               "rank": 1,
-              "teamId": 8448,
-              "teamName": "Hamarkameratene",
+              "teamId": 9812,
+              "teamName": "Raufoss",
               "value": 0,
               "stat": {
                 "name": "_set_piece_goals_conceded_team",
@@ -125211,6 +125327,26 @@
             },
             "fetchAllUrl": "https://data.fotmob.com/stats/206/season/38067/_set_piece_goals_conceded_team.json",
             "topThree": [
+              {
+                "id": 0,
+                "name": "Raufoss",
+                "rank": 1,
+                "teamId": 9812,
+                "teamName": "Raufoss",
+                "value": 0,
+                "stat": {
+                  "name": "_set_piece_goals_conceded_team",
+                  "value": 0,
+                  "format": "number",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#FEEC00",
+                  "lightMode": "#000000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
               {
                 "id": 0,
                 "name": "Hamarkameratene",
@@ -125247,26 +125383,6 @@
                 "teamColors": {
                   "darkMode": "#E60000",
                   "lightMode": "#E60000",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Kristiansund BK",
-                "rank": 1,
-                "teamId": 8605,
-                "teamName": "Kristiansund BK",
-                "value": 0,
-                "stat": {
-                  "name": "_set_piece_goals_conceded_team",
-                  "value": 0,
-                  "format": "number",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#2c528c",
-                  "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -125588,8 +125704,8 @@
       },
       "fixtures": {
         "firstUnplayedMatch": {
-          "firstUnplayedMatchIndex": 96,
-          "firstUnplayedMatchId": "6284089"
+          "firstUnplayedMatchIndex": 97,
+          "firstUnplayedMatchId": "6284092"
         },
         "allMatches": [
           {
@@ -128586,12 +128702,21 @@
             "status": {
               "utcTime": "2026-10-06T15:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "06.10.2026 17:00:00"
+                "firstHalfStarted": "06.10.2026 17:00:40",
+                "secondHalfStarted": "06.10.2026 18:03:35"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": true,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "awarded": false,
+              "scoreStr": "1 - 5",
+              "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+              }
             }
           },
           {
@@ -135551,6 +135676,8 @@
                 "drawOrder": 1,
                 "stage": "3",
                 "bestOf": 0,
+                "homeScore": 0,
+                "awayScore": 0,
                 "homeTeam": "Raufoss",
                 "awayTeam": "Start",
                 "homeTeamShortName": "RAU",
@@ -135578,9 +135705,17 @@
                     "status": {
                       "utcTime": "2026-10-06T15:00:00Z",
                       "timezone": "UTC",
-                      "started": false,
+                      "finished": true,
+                      "started": true,
                       "cancelled": false,
-                      "finished": false
+                      "awarded": false,
+                      "scoreStr": "0 - 0",
+                      "reason": {
+                        "short": "FT",
+                        "shortKey": "fulltime_short",
+                        "long": "Full-Time",
+                        "longKey": "finished"
+                      }
                     }
                   }
                 ],
@@ -136298,14 +136433,14 @@
                 "aggregatedLoser": null
               }
             ],
-            "started": false
+            "started": true
           }
         ],
         "hasDrawOrder": true,
         "special": [],
         "liveFixtureApiLink": {
           "url": "https://pub.fotmob.com/prod/db/api/fixture/live?leagueId=206",
-          "pollFromUtc": "2026-10-06T14:55:00Z"
+          "pollFromUtc": "2026-10-28T15:55:00Z"
         },
         "leagueId": 206,
         "bronzeFinal": null,
