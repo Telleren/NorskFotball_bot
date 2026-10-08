@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:14:45.121955+00:00",
+  "generated_at": "2026-10-08T13:41:43.260029+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -44745,6 +44745,7 @@
         "lineup": "Lineup",
         "squad_name": "Squad name",
         "my_lineups": "My lineups",
+        "remove_player": "Remove player",
         "delete_action": "Delete",
         "delete_saved_lineup": "Delete saved lineup?",
         "this_removes": "This removes",
@@ -45172,6 +45173,7 @@
         "cm": "%d cm",
         "fantasy": "Fantasy",
         "open_play": "Open play",
+        "watch_now": "Watch now",
         "set_piece": "Set piece",
         "free_kick": "Free kick",
         "middle_east": "Middle East",
@@ -45269,6 +45271,7 @@
         "currency": "Currency",
         "players_in": "Players in",
         "players_out": "Players out",
+        "last_x_months": "%s months ago",
         "top_transfers": "Top transfers",
         "primary_position": "Primary",
         "measurement_system": "Measurement system",
@@ -45469,6 +45472,7 @@
         "team_of_the_week": "Team of the Week",
         "by_date": "By date",
         "by_round": "By round",
+        "by_group": "By group",
         "career_stats": "Career stats",
         "city": "City",
         "load_more": "Load more",
@@ -45781,6 +45785,7 @@
         "ends": "Ends",
         "next_five_matches": "Next five matches",
         "fixture_difficulty": "Fixture difficulty",
+        "next_fixtures": "Next fixtures",
         "difficulty_easy": "Easy",
         "difficulty_manageable": "Manageable",
         "difficulty_moderate": "Moderate",
@@ -45937,6 +45942,10 @@
         "tv_guide_world_cup_subheading": "World Cup TV Schedule in %s",
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
+        "ltc_accessibility_elapsed_minutes": {
+          "one": "%s minute",
+          "other": "%s minutes"
+        },
         "stats_definitions": "Stats definitions",
         "skip_to_main_content": "Skip to main content",
         "odds_aria_home_win": "Home win, odds %1$s",
@@ -45977,8 +45986,12 @@
         "select_round": "Select round",
         "line_breaking_passes_per_90": "Line-breaking passes per 90",
         "failed_to_load_more_transfers": "Failed to load more transfers, <a>retry?</a>",
+        "advanced_filters": "Advanced filters",
+        "player_position": "Player position",
+        "active_filter_nationality": "Nationality",
         "market_value": "Market value",
-        "speculation_probability": "Speculative"
+        "speculation_probability": "Speculative",
+        "add": "Add"
       }
     },
     "203": {
@@ -84717,6 +84730,7 @@
         "lineup": "Lineup",
         "squad_name": "Squad name",
         "my_lineups": "My lineups",
+        "remove_player": "Remove player",
         "delete_action": "Delete",
         "delete_saved_lineup": "Delete saved lineup?",
         "this_removes": "This removes",
@@ -85144,6 +85158,7 @@
         "cm": "%d cm",
         "fantasy": "Fantasy",
         "open_play": "Open play",
+        "watch_now": "Watch now",
         "set_piece": "Set piece",
         "free_kick": "Free kick",
         "middle_east": "Middle East",
@@ -85241,6 +85256,7 @@
         "currency": "Currency",
         "players_in": "Players in",
         "players_out": "Players out",
+        "last_x_months": "%s months ago",
         "top_transfers": "Top transfers",
         "primary_position": "Primary",
         "measurement_system": "Measurement system",
@@ -85441,6 +85457,7 @@
         "team_of_the_week": "Team of the Week",
         "by_date": "By date",
         "by_round": "By round",
+        "by_group": "By group",
         "career_stats": "Career stats",
         "city": "City",
         "load_more": "Load more",
@@ -85753,6 +85770,7 @@
         "ends": "Ends",
         "next_five_matches": "Next five matches",
         "fixture_difficulty": "Fixture difficulty",
+        "next_fixtures": "Next fixtures",
         "difficulty_easy": "Easy",
         "difficulty_manageable": "Manageable",
         "difficulty_moderate": "Moderate",
@@ -85909,6 +85927,10 @@
         "tv_guide_world_cup_subheading": "World Cup TV Schedule in %s",
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
+        "ltc_accessibility_elapsed_minutes": {
+          "one": "%s minute",
+          "other": "%s minutes"
+        },
         "stats_definitions": "Stats definitions",
         "skip_to_main_content": "Skip to main content",
         "odds_aria_home_win": "Home win, odds %1$s",
@@ -85949,8 +85971,12 @@
         "select_round": "Select round",
         "line_breaking_passes_per_90": "Line-breaking passes per 90",
         "failed_to_load_more_transfers": "Failed to load more transfers, <a>retry?</a>",
+        "advanced_filters": "Advanced filters",
+        "player_position": "Player position",
+        "active_filter_nationality": "Nationality",
         "market_value": "Market value",
-        "speculation_probability": "Speculative"
+        "speculation_probability": "Speculative",
+        "add": "Add"
       }
     },
     "331": {
@@ -108110,6 +108136,7 @@
         "lineup": "Lineup",
         "squad_name": "Squad name",
         "my_lineups": "My lineups",
+        "remove_player": "Remove player",
         "delete_action": "Delete",
         "delete_saved_lineup": "Delete saved lineup?",
         "this_removes": "This removes",
@@ -108537,6 +108564,7 @@
         "cm": "%d cm",
         "fantasy": "Fantasy",
         "open_play": "Open play",
+        "watch_now": "Watch now",
         "set_piece": "Set piece",
         "free_kick": "Free kick",
         "middle_east": "Middle East",
@@ -108634,6 +108662,7 @@
         "currency": "Currency",
         "players_in": "Players in",
         "players_out": "Players out",
+        "last_x_months": "%s months ago",
         "top_transfers": "Top transfers",
         "primary_position": "Primary",
         "measurement_system": "Measurement system",
@@ -108834,6 +108863,7 @@
         "team_of_the_week": "Team of the Week",
         "by_date": "By date",
         "by_round": "By round",
+        "by_group": "By group",
         "career_stats": "Career stats",
         "city": "City",
         "load_more": "Load more",
@@ -109146,6 +109176,7 @@
         "ends": "Ends",
         "next_five_matches": "Next five matches",
         "fixture_difficulty": "Fixture difficulty",
+        "next_fixtures": "Next fixtures",
         "difficulty_easy": "Easy",
         "difficulty_manageable": "Manageable",
         "difficulty_moderate": "Moderate",
@@ -109302,6 +109333,10 @@
         "tv_guide_world_cup_subheading": "World Cup TV Schedule in %s",
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
+        "ltc_accessibility_elapsed_minutes": {
+          "one": "%s minute",
+          "other": "%s minutes"
+        },
         "stats_definitions": "Stats definitions",
         "skip_to_main_content": "Skip to main content",
         "odds_aria_home_win": "Home win, odds %1$s",
@@ -109342,8 +109377,12 @@
         "select_round": "Select round",
         "line_breaking_passes_per_90": "Line-breaking passes per 90",
         "failed_to_load_more_transfers": "Failed to load more transfers, <a>retry?</a>",
+        "advanced_filters": "Advanced filters",
+        "player_position": "Player position",
+        "active_filter_nationality": "Nationality",
         "market_value": "Market value",
-        "speculation_probability": "Speculative"
+        "speculation_probability": "Speculative",
+        "add": "Add"
       }
     },
     "206": {
@@ -139636,6 +139675,7 @@
         "lineup": "Lineup",
         "squad_name": "Squad name",
         "my_lineups": "My lineups",
+        "remove_player": "Remove player",
         "delete_action": "Delete",
         "delete_saved_lineup": "Delete saved lineup?",
         "this_removes": "This removes",
@@ -140063,6 +140103,7 @@
         "cm": "%d cm",
         "fantasy": "Fantasy",
         "open_play": "Open play",
+        "watch_now": "Watch now",
         "set_piece": "Set piece",
         "free_kick": "Free kick",
         "middle_east": "Middle East",
@@ -140160,6 +140201,7 @@
         "currency": "Currency",
         "players_in": "Players in",
         "players_out": "Players out",
+        "last_x_months": "%s months ago",
         "top_transfers": "Top transfers",
         "primary_position": "Primary",
         "measurement_system": "Measurement system",
@@ -140360,6 +140402,7 @@
         "team_of_the_week": "Team of the Week",
         "by_date": "By date",
         "by_round": "By round",
+        "by_group": "By group",
         "career_stats": "Career stats",
         "city": "City",
         "load_more": "Load more",
@@ -140672,6 +140715,7 @@
         "ends": "Ends",
         "next_five_matches": "Next five matches",
         "fixture_difficulty": "Fixture difficulty",
+        "next_fixtures": "Next fixtures",
         "difficulty_easy": "Easy",
         "difficulty_manageable": "Manageable",
         "difficulty_moderate": "Moderate",
@@ -140828,6 +140872,10 @@
         "tv_guide_world_cup_subheading": "World Cup TV Schedule in %s",
         "site_title_tv_guide_channel_world_cup": "World Cup on %s - TV Schedule | FotMob",
         "site_description_tv_guide_channel_world_cup": "Watch the World Cup on %s. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
+        "ltc_accessibility_elapsed_minutes": {
+          "one": "%s minute",
+          "other": "%s minutes"
+        },
         "stats_definitions": "Stats definitions",
         "skip_to_main_content": "Skip to main content",
         "odds_aria_home_win": "Home win, odds %1$s",
@@ -140868,8 +140916,12 @@
         "select_round": "Select round",
         "line_breaking_passes_per_90": "Line-breaking passes per 90",
         "failed_to_load_more_transfers": "Failed to load more transfers, <a>retry?</a>",
+        "advanced_filters": "Advanced filters",
+        "player_position": "Player position",
+        "active_filter_nationality": "Nationality",
         "market_value": "Market value",
-        "speculation_probability": "Speculative"
+        "speculation_probability": "Speculative",
+        "add": "Add"
       }
     }
   },
