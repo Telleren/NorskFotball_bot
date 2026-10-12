@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:08:23.761028+00:00",
+  "generated_at": "2026-10-12T15:38:19.975488+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4505,6 +4505,45 @@
         "type": "league",
         "data": [
           {
+            "name": "Elias Jemal",
+            "playerId": 1414417,
+            "position": {
+              "label": "LW",
+              "key": "leftwinger_short"
+            },
+            "transferDate": "2026-10-12T09:29:38Z",
+            "transferText": [
+              null,
+              null,
+              null
+            ],
+            "fromClub": "Sandefjord",
+            "fromClubFullName": "Sandefjord",
+            "fromClubId": 8609,
+            "fromClubColors": {
+              "lightMode": "#104070",
+              "darkMode": "#035db8"
+            },
+            "toClub": "IFK Norrköping",
+            "toClubFullName": "IFK Norrköping",
+            "toClubId": 8449,
+            "toClubColors": {
+              "lightMode": "#305890",
+              "darkMode": "#ffffff"
+            },
+            "fee": null,
+            "amountEuroEstimated": null,
+            "transferType": {
+              "text": "contract",
+              "localizationKey": "contract"
+            },
+            "contractExtension": false,
+            "onLoan": false,
+            "fromDate": "2027-01-01T00:00:00Z",
+            "toDate": "2029-12-31T00:00:00Z",
+            "marketValue": 195465
+          },
+          {
             "name": "Magnus Smelhus Sjøeng",
             "playerId": 1144995,
             "position": {
@@ -8660,48 +8699,6 @@
             "fromDate": "2026-07-29T22:00:00Z",
             "toDate": "2029-06-29T22:00:00Z",
             "marketValue": 562782
-          },
-          {
-            "name": "Sander Svendsen",
-            "playerId": 440647,
-            "position": {
-              "label": "RW",
-              "key": "rightwinger_short"
-            },
-            "transferDate": "2026-07-30T15:09:32Z",
-            "transferText": [
-              null,
-              null,
-              null
-            ],
-            "fromClub": "Konyaspor",
-            "fromClubFullName": "Konyaspor",
-            "fromClubId": 8622,
-            "fromClubColors": {
-              "lightMode": "#008050",
-              "darkMode": "#008050"
-            },
-            "toClub": "Kristiansund",
-            "toClubFullName": "Kristiansund",
-            "toClubId": 8605,
-            "toClubColors": {
-              "lightMode": "#0C2340",
-              "darkMode": "#2c528c"
-            },
-            "fee": {
-              "feeText": "free transfer",
-              "localizedFeeText": "transfer_type_free_transfer"
-            },
-            "amountEuroEstimated": null,
-            "transferType": {
-              "text": "contract",
-              "localizationKey": "contract"
-            },
-            "contractExtension": false,
-            "onLoan": false,
-            "fromDate": "2026-07-29T22:00:00Z",
-            "toDate": "2028-06-29T22:00:00Z",
-            "marketValue": 448793
           }
         ]
       },
@@ -43694,6 +43691,7 @@
             "64": "Premiership",
             "65": "Summer Olympics (Women)",
             "66": "Summer Olympics",
+            "67": "Allsvenskan",
             "68": "Allsvenskan",
             "69": "Super League",
             "73": "Europa League",
@@ -83910,6 +83908,7 @@
             "64": "Premiership",
             "65": "Summer Olympics (Women)",
             "66": "Summer Olympics",
+            "67": "Allsvenskan",
             "68": "Allsvenskan",
             "69": "Super League",
             "73": "Europa League",
@@ -107355,6 +107354,7 @@
             "64": "Premiership",
             "65": "Summer Olympics (Women)",
             "66": "Summer Olympics",
+            "67": "Allsvenskan",
             "68": "Allsvenskan",
             "69": "Super League",
             "73": "Europa League",
@@ -114048,6 +114048,37 @@
             }
           },
           {
+            "id": "6284184",
+            "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
+            "opponent": {
+              "id": "4201",
+              "name": "Grorud",
+              "score": 0
+            },
+            "home": {
+              "id": "4201",
+              "name": "Grorud",
+              "score": 0
+            },
+            "away": {
+              "id": "8468",
+              "name": "Brann",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-10-28T17:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
             "id": "6284091",
             "pageUrl": "/matches/aalesund-vs-kristiansund/2e4s7a#6284091",
             "opponent": {
@@ -114382,37 +114413,6 @@
             },
             "status": {
               "utcTime": "2026-10-28T18:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "id": "6284184",
-            "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
-            "opponent": {
-              "id": "4201",
-              "name": "Grorud",
-              "score": 0
-            },
-            "home": {
-              "id": "4201",
-              "name": "Grorud",
-              "score": 0
-            },
-            "away": {
-              "id": "8468",
-              "name": "Brann",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-10-28T19:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -121242,7 +121242,7 @@
                       },
                       "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
                       "status": {
-                        "utcTime": "2026-10-28T19:00:00Z",
+                        "utcTime": "2026-10-28T17:00:00Z",
                         "timezone": "UTC",
                         "started": false,
                         "cancelled": false,
@@ -124357,6 +124357,29 @@
             {
               "round": "3",
               "roundName": 3,
+              "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
+              "id": "6284184",
+              "home": {
+                "name": "Grorud",
+                "shortName": "Grorud",
+                "id": "4201"
+              },
+              "away": {
+                "name": "Brann",
+                "shortName": "Brann",
+                "id": "8468"
+              },
+              "status": {
+                "utcTime": "2026-10-28T17:00:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "round": "3",
+              "roundName": 3,
               "pageUrl": "/matches/aalesund-vs-kristiansund/2e4s7a#6284091",
               "id": "6284091",
               "home": {
@@ -124601,29 +124624,6 @@
               },
               "status": {
                 "utcTime": "2026-10-28T18:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "3",
-              "roundName": 3,
-              "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
-              "id": "6284184",
-              "home": {
-                "name": "Grorud",
-                "shortName": "Grorud",
-                "id": "4201"
-              },
-              "away": {
-                "name": "Brann",
-                "shortName": "Brann",
-                "id": "8468"
-              },
-              "status": {
-                "utcTime": "2026-10-28T19:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -129407,6 +129407,29 @@
           {
             "round": "3",
             "roundName": 3,
+            "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
+            "id": "6284184",
+            "home": {
+              "name": "Grorud",
+              "shortName": "Grorud",
+              "id": "4201"
+            },
+            "away": {
+              "name": "Brann",
+              "shortName": "Brann",
+              "id": "8468"
+            },
+            "status": {
+              "utcTime": "2026-10-28T17:00:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "round": "3",
+            "roundName": 3,
             "pageUrl": "/matches/aalesund-vs-kristiansund/2e4s7a#6284091",
             "id": "6284091",
             "home": {
@@ -129651,29 +129674,6 @@
             },
             "status": {
               "utcTime": "2026-10-28T18:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "3",
-            "roundName": 3,
-            "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
-            "id": "6284184",
-            "home": {
-              "name": "Grorud",
-              "shortName": "Grorud",
-              "id": "4201"
-            },
-            "away": {
-              "name": "Brann",
-              "shortName": "Brann",
-              "id": "8468"
-            },
-            "status": {
-              "utcTime": "2026-10-28T19:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -137038,7 +137038,7 @@
                     },
                     "pageUrl": "/matches/grorud-vs-brann/1bse3b#6284184",
                     "status": {
-                      "utcTime": "2026-10-28T19:00:00Z",
+                      "utcTime": "2026-10-28T17:00:00Z",
                       "timezone": "UTC",
                       "started": false,
                       "cancelled": false,
@@ -138933,6 +138933,7 @@
             "64": "Premiership",
             "65": "Summer Olympics (Women)",
             "66": "Summer Olympics",
+            "67": "Allsvenskan",
             "68": "Allsvenskan",
             "69": "Super League",
             "73": "Europa League",
