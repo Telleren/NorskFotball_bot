@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:02:12.303078+00:00",
+  "generated_at": "2026-10-14T12:02:50.694353+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -45100,6 +45100,7 @@
         "aggregate": "Aggregate",
         "aggregate_short": "Agg",
         "missed_penalty": "Missed penalty",
+        "saved_penalty": "Penalty saved",
         "assist": "assist by",
         "name": "Name",
         "close": "Close",
@@ -46309,7 +46310,11 @@
         "active_filter_nationality": "Nationality",
         "market_value": "Market value",
         "speculation_probability": "Speculative",
-        "add": "Add"
+        "add": "Add",
+        "gfx_statcard_timestamp": {
+          "one": "After 1 minute played",
+          "other": "After %d minutes played"
+        }
       }
     },
     "203": {
@@ -46343,10 +46348,10 @@
       "details": {
         "id": 203,
         "type": "league",
-        "name": "1. Divisjon",
+        "name": "OBOS-ligaen",
         "selectedSeason": "2026",
         "latestSeason": "2026",
-        "shortName": "1. Divisjon",
+        "shortName": "OBOS-ligaen",
         "country": "NOR",
         "gender": "male",
         "nationalTeamId": 8492,
@@ -46364,8 +46369,8 @@
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "1. Divisjon",
-              "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+              "name": "OBOS-ligaen",
+              "item": "https://www.fotmob.com/leagues/203/overview/obos-ligaen"
             }
           ]
         },
@@ -46373,9 +46378,9 @@
         "hasFixtureDifficulty": true,
         "leagueColor": "#212121",
         "dataProvider": "enet",
-        "seopath": "1-divisjon"
+        "seopath": "obos-ligaen"
       },
-      "seostr": "1-divisjon",
+      "seostr": "obos-ligaen",
       "QAData": [],
       "table": [
         {
@@ -58530,7 +58535,7 @@
         ],
         "topPlayers": {
           "byRating": {
-            "seeAllLink": "/leagues/203/stats/season/30205/players/rating/1-divisjon"
+            "seeAllLink": "/leagues/203/stats/season/30205/players/rating/obos-ligaen"
           },
           "byGoals": {
             "players": [
@@ -58595,7 +58600,7 @@
                 }
               }
             ],
-            "seeAllLink": "/leagues/203/stats/season/30205/players/goals/1-divisjon"
+            "seeAllLink": "/leagues/203/stats/season/30205/players/goals/obos-ligaen"
           },
           "byAssists": {
             "players": [
@@ -58660,7 +58665,7 @@
                 }
               }
             ],
-            "seeAllLink": "/leagues/203/stats/season/30205/players/goal_assist/1-divisjon"
+            "seeAllLink": "/leagues/203/stats/season/30205/players/goal_assist/obos-ligaen"
           },
           "seeAllUrl": "stats"
         },
@@ -85390,6 +85395,7 @@
         "aggregate": "Aggregate",
         "aggregate_short": "Agg",
         "missed_penalty": "Missed penalty",
+        "saved_penalty": "Penalty saved",
         "assist": "assist by",
         "name": "Name",
         "close": "Close",
@@ -86599,7 +86605,11 @@
         "active_filter_nationality": "Nationality",
         "market_value": "Market value",
         "speculation_probability": "Speculative",
-        "add": "Add"
+        "add": "Add",
+        "gfx_statcard_timestamp": {
+          "one": "After 1 minute played",
+          "other": "After %d minutes played"
+        }
       }
     },
     "331": {
@@ -108837,6 +108847,7 @@
         "aggregate": "Aggregate",
         "aggregate_short": "Agg",
         "missed_penalty": "Missed penalty",
+        "saved_penalty": "Penalty saved",
         "assist": "assist by",
         "name": "Name",
         "close": "Close",
@@ -110046,7 +110057,11 @@
         "active_filter_nationality": "Nationality",
         "market_value": "Market value",
         "speculation_probability": "Speculative",
-        "add": "Add"
+        "add": "Add",
+        "gfx_statcard_timestamp": {
+          "one": "After 1 minute played",
+          "other": "After %d minutes played"
+        }
       }
     },
     "206": {
@@ -110080,10 +110095,10 @@
       "details": {
         "id": 206,
         "type": "league",
-        "name": "Cup",
+        "name": "Norgesmesterskapet",
         "selectedSeason": "2026/2027",
         "latestSeason": "2026/2027",
-        "shortName": "Cup",
+        "shortName": "Norgesmesterskapet",
         "country": "NOR",
         "gender": "male",
         "nationalTeamId": 8492,
@@ -110101,8 +110116,8 @@
             {
               "@type": "ListItem",
               "position": 2,
-              "name": "Cup",
-              "item": "https://www.fotmob.com/leagues/206/overview/cup"
+              "name": "Norgesmesterskapet",
+              "item": "https://www.fotmob.com/leagues/206/overview/norgesmesterskapet"
             }
           ]
         },
@@ -110110,9 +110125,9 @@
         "hasFixtureDifficulty": false,
         "leagueColor": "#212121",
         "dataProvider": "enet",
-        "seopath": "cup"
+        "seopath": "norgesmesterskapet"
       },
-      "seostr": "cup",
+      "seostr": "norgesmesterskapet",
       "QAData": [],
       "table": null,
       "transfers": {
@@ -110125,7 +110140,7 @@
         "table": null,
         "topPlayers": {
           "byRating": {
-            "seeAllLink": "/leagues/206/stats/season/38067/players/rating/cup"
+            "seeAllLink": "/leagues/206/stats/season/38067/players/rating/norgesmesterskapet"
           },
           "byGoals": {
             "players": [
@@ -110190,7 +110205,7 @@
                 }
               }
             ],
-            "seeAllLink": "/leagues/206/stats/season/38067/players/goals/cup"
+            "seeAllLink": "/leagues/206/stats/season/38067/players/goals/norgesmesterskapet"
           },
           "byAssists": {
             "players": [
@@ -110255,7 +110270,7 @@
                 }
               }
             ],
-            "seeAllLink": "/leagues/206/stats/season/38067/players/goal_assist/cup"
+            "seeAllLink": "/leagues/206/stats/season/38067/players/goal_assist/norgesmesterskapet"
           },
           "seeAllUrl": "stats"
         },
@@ -140417,6 +140432,7 @@
         "aggregate": "Aggregate",
         "aggregate_short": "Agg",
         "missed_penalty": "Missed penalty",
+        "saved_penalty": "Penalty saved",
         "assist": "assist by",
         "name": "Name",
         "close": "Close",
@@ -141626,7 +141642,11 @@
         "active_filter_nationality": "Nationality",
         "market_value": "Market value",
         "speculation_probability": "Speculative",
-        "add": "Add"
+        "add": "Add",
+        "gfx_statcard_timestamp": {
+          "one": "After 1 minute played",
+          "other": "After %d minutes played"
+        }
       }
     }
   },
