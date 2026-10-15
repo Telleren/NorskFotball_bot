@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:50:18.400526+00:00",
+  "generated_at": "2026-10-15T11:39:54.741525+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -1381,13 +1381,13 @@
                   "pts": 34,
                   "teamId": 8422,
                   "teamName": "Rosenborg",
-                  "xg": 40.71329998970032,
-                  "xgConceded": 33.932899951934814,
-                  "xPoints": 36.078573808313685,
+                  "xg": 40.77109980583191,
+                  "xgConceded": 34.30979996919632,
+                  "xPoints": 35.92489409090264,
                   "position": 5,
-                  "xgDiff": -0.7132999897003174,
-                  "xgConcededDiff": -2.9328999519348145,
-                  "xPointsDiff": -2.078573808313685,
+                  "xgDiff": -0.7710998058319092,
+                  "xgConcededDiff": -3.3097999691963196,
+                  "xPointsDiff": -1.9248940909026402,
                   "xPosition": 5,
                   "idx": 5,
                   "xPositionDiff": 0,
@@ -1570,13 +1570,13 @@
                   "pts": 24,
                   "teamId": 8609,
                   "teamName": "Sandefjord",
-                  "xg": 27.846499741077423,
-                  "xgConceded": 42.79500016570091,
-                  "xPoints": 22.488096795715187,
+                  "xg": 28.223399758338928,
+                  "xgConceded": 42.852799981832504,
+                  "xPoints": 22.60541166155542,
                   "position": 12,
-                  "xgDiff": -5.846499741077423,
-                  "xgConcededDiff": -14.795000165700912,
-                  "xPointsDiff": 1.5119032042848133,
+                  "xgDiff": -6.223399758338928,
+                  "xgConcededDiff": -14.852799981832504,
+                  "xPointsDiff": 1.3945883384445814,
                   "xPosition": 12,
                   "idx": 12,
                   "xPositionDiff": 0,
@@ -10019,13 +10019,13 @@
                     "pts": 34,
                     "teamId": 8422,
                     "teamName": "Rosenborg",
-                    "xg": 40.71329998970032,
-                    "xgConceded": 33.932899951934814,
-                    "xPoints": 36.078573808313685,
+                    "xg": 40.77109980583191,
+                    "xgConceded": 34.30979996919632,
+                    "xPoints": 35.92489409090264,
                     "position": 5,
-                    "xgDiff": -0.7132999897003174,
-                    "xgConcededDiff": -2.9328999519348145,
-                    "xPointsDiff": -2.078573808313685,
+                    "xgDiff": -0.7710998058319092,
+                    "xgConcededDiff": -3.3097999691963196,
+                    "xPointsDiff": -1.9248940909026402,
                     "xPosition": 5,
                     "idx": 5,
                     "xPositionDiff": 0,
@@ -10208,13 +10208,13 @@
                     "pts": 24,
                     "teamId": 8609,
                     "teamName": "Sandefjord",
-                    "xg": 27.846499741077423,
-                    "xgConceded": 42.79500016570091,
-                    "xPoints": 22.488096795715187,
+                    "xg": 28.223399758338928,
+                    "xgConceded": 42.852799981832504,
+                    "xPoints": 22.60541166155542,
                     "position": 12,
-                    "xgDiff": -5.846499741077423,
-                    "xgConcededDiff": -14.795000165700912,
-                    "xPointsDiff": 1.5119032042848133,
+                    "xgDiff": -6.223399758338928,
+                    "xgConcededDiff": -14.852799981832504,
+                    "xPointsDiff": 1.3945883384445814,
                     "xPosition": 12,
                     "idx": 12,
                     "xPositionDiff": 0,
@@ -29862,10 +29862,10 @@
               "ccode": "ALG",
               "teamId": 8422,
               "teamName": "Rosenborg",
-              "value": 13.2,
+              "value": 13.3,
               "stat": {
                 "name": "expected_goals",
-                "value": 13.2,
+                "value": 13.3,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -29879,10 +29879,10 @@
                 "ccode": "ALG",
                 "teamId": 8422,
                 "teamName": "Rosenborg",
-                "value": 13.2,
+                "value": 13.3,
                 "stat": {
                   "name": "expected_goals",
-                  "value": 13.2,
+                  "value": 13.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -30686,9 +30686,30 @@
                 }
               },
               {
+                "id": 538644,
+                "name": "Joachim Soltvedt",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8468,
+                "teamName": "Brann",
+                "value": 6,
+                "stat": {
+                  "name": "lbp_total",
+                  "value": 6,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#DE1215",
+                  "lightMode": "#DE1215",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
                 "id": 1126471,
                 "name": "Claus Niyukuri",
-                "rank": 2,
+                "rank": 3,
                 "ccode": "BDI",
                 "teamId": 8509,
                 "teamName": "Sarpsborg 08",
@@ -30702,27 +30723,6 @@
                 "teamColors": {
                   "darkMode": "#2255a5",
                   "lightMode": "#102763",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 538644,
-                "name": "Joachim Soltvedt",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8468,
-                "teamName": "Brann",
-                "value": 4.9,
-                "stat": {
-                  "name": "lbp_total",
-                  "value": 4.9,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#DE1215",
-                  "lightMode": "#DE1215",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -31270,10 +31270,10 @@
               "ccode": "NOR",
               "teamId": 8422,
               "teamName": "Rosenborg",
-              "value": 17.1,
+              "value": 17,
               "stat": {
                 "name": "defensive_contributions",
-                "value": 17.1,
+                "value": 17,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -31287,10 +31287,10 @@
                 "ccode": "NOR",
                 "teamId": 8422,
                 "teamName": "Rosenborg",
-                "value": 17.1,
+                "value": 17,
                 "stat": {
                   "name": "defensive_contributions",
-                  "value": 17.1,
+                  "value": 17,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -31505,10 +31505,10 @@
                 "ccode": "NOR",
                 "teamId": 8422,
                 "teamName": "Rosenborg",
-                "value": 2.2,
+                "value": 2.1,
                 "stat": {
                   "name": "interception",
-                  "value": 2.2,
+                  "value": 2.1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -32238,10 +32238,10 @@
               "ccode": "SYR",
               "teamId": 8609,
               "teamName": "Sandefjord",
-              "value": 6.5,
+              "value": 6.3,
               "stat": {
                 "name": "_goals_prevented",
-                "value": 6.5,
+                "value": 6.3,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -32255,10 +32255,10 @@
                 "ccode": "SYR",
                 "teamId": 8609,
                 "teamName": "Sandefjord",
-                "value": 6.5,
+                "value": 6.3,
                 "stat": {
                   "name": "_goals_prevented",
-                  "value": 6.5,
+                  "value": 6.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -34395,6 +34395,26 @@
               },
               {
                 "id": 0,
+                "name": "Kristiansund",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8605,
+                "value": 9.5,
+                "stat": {
+                  "name": "interception_team",
+                  "value": 9.5,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#2c528c",
+                  "lightMode": "#0C2340",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
                 "name": "Rosenborg",
                 "rank": 2,
                 "ccode": "NOR",
@@ -34410,26 +34430,6 @@
                   "darkMode": "#ffffff",
                   "lightMode": "#000000",
                   "fontDarkMode": "rgba(29, 29, 29, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Kristiansund",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8605,
-                "value": 9.5,
-                "stat": {
-                  "name": "interception_team",
-                  "value": 9.5,
-                  "format": "fraction",
-                  "fractions": 1
-                },
-                "teamColors": {
-                  "darkMode": "#2c528c",
-                  "lightMode": "#0C2340",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
@@ -46388,8 +46388,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/obos-ligaen",
-            "leagueName": "OBOS-ligaen",
+            "pageUrl": "/leagues/203/overview/1-divisjon",
+            "leagueName": "1. Divisjon",
             "legend": [
               {
                 "title": "Promotion",
@@ -54539,8 +54539,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/obos-ligaen",
-              "leagueName": "OBOS-ligaen",
+              "pageUrl": "/leagues/203/overview/1-divisjon",
+              "leagueName": "1. Divisjon",
               "legend": [
                 {
                   "title": "Promotion",
