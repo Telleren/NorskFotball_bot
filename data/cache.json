@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:30:48.072801+00:00",
+  "generated_at": "2026-10-19T22:27:17.674937+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -33345,8 +33345,29 @@
               },
               {
                 "id": 0,
-                "name": "Molde",
+                "name": "Viking",
                 "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8478,
+                "teamName": "Viking",
+                "value": 37211939,
+                "stat": {
+                  "name": "squad_value_team",
+                  "value": 37211939,
+                  "format": "currency",
+                  "fractions": 0
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 0,
+                "name": "Molde",
+                "rank": 3,
                 "ccode": "NOR",
                 "teamId": 9917,
                 "teamName": "Molde",
@@ -33360,27 +33381,6 @@
                 "teamColors": {
                   "darkMode": "#0068b0",
                   "lightMode": "#0D47A0",
-                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
-                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
-                }
-              },
-              {
-                "id": 0,
-                "name": "Viking",
-                "rank": 3,
-                "ccode": "NOR",
-                "teamId": 8478,
-                "teamName": "Viking",
-                "value": 28229866,
-                "stat": {
-                  "name": "squad_value_team",
-                  "value": 28229866,
-                  "format": "currency",
-                  "fractions": 0
-                },
-                "teamColors": {
-                  "darkMode": "#244d89",
-                  "lightMode": "#132847",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
@@ -76156,10 +76156,10 @@
               "rank": 1,
               "teamId": 10021,
               "teamName": "Aasane",
-              "value": 57,
+              "value": 58,
               "stat": {
                 "name": "total_yel_card_team",
-                "value": 57,
+                "value": 58,
                 "format": "number",
                 "fractions": 0
               }
@@ -76172,10 +76172,10 @@
                 "rank": 1,
                 "teamId": 10021,
                 "teamName": "Aasane",
-                "value": 57,
+                "value": 58,
                 "stat": {
                   "name": "total_yel_card_team",
-                  "value": 57,
+                  "value": 58,
                   "format": "number",
                   "fractions": 0
                 },
