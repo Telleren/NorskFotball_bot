@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:59:05.267393+00:00",
+  "generated_at": "2026-10-21T17:19:57.198718+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -99,7 +99,12 @@
                 "color": "#FFA72F",
                 "indices": [
                   13
-                ]
+                ],
+                "targetLeague": {
+                  "id": 203,
+                  "name": "OBOS-ligaen",
+                  "tKey": "relegationqual_to"
+                }
               },
               {
                 "title": "Relegation",
@@ -108,7 +113,12 @@
                 "indices": [
                   14,
                   15
-                ]
+                ],
+                "targetLeague": {
+                  "id": 203,
+                  "name": "OBOS-ligaen",
+                  "tKey": "relegation_to"
+                }
               }
             ],
             "ongoing": [],
@@ -1597,13 +1607,13 @@
                   "pts": 24,
                   "teamId": 8404,
                   "teamName": "Aalesund",
-                  "xg": 37.72850000858307,
-                  "xgConceded": 51.15070033073425,
-                  "xPoints": 23.88107051287315,
+                  "xg": 38.477400064468384,
+                  "xgConceded": 51.62980031967163,
+                  "xPoints": 24.043934916611537,
                   "position": 13,
-                  "xgDiff": 1.2714999914169312,
-                  "xgConcededDiff": -0.15070033073425293,
-                  "xPointsDiff": 0.1189294871268487,
+                  "xgDiff": 0.5225999355316162,
+                  "xgConcededDiff": -0.6298003196716309,
+                  "xPointsDiff": -0.043934916611537034,
                   "xPosition": 13,
                   "idx": 13,
                   "xPositionDiff": 1,
@@ -1678,13 +1688,13 @@
                   "pts": 19,
                   "teamId": 8605,
                   "teamName": "Kristiansund",
-                  "xg": 26.877899736166,
-                  "xgConceded": 47.70710000395775,
-                  "xPoints": 22.437635026315665,
+                  "xg": 27.35699972510338,
+                  "xgConceded": 48.45600005984306,
+                  "xPoints": 22.311067904273102,
                   "position": 16,
-                  "xgDiff": -3.8778997361660004,
-                  "xgConcededDiff": -0.7071000039577484,
-                  "xPointsDiff": -3.4376350263156645,
+                  "xgDiff": -4.356999725103378,
+                  "xgConcededDiff": -1.4560000598430634,
+                  "xPointsDiff": -3.311067904273102,
                   "xPosition": 16,
                   "idx": 16,
                   "xPositionDiff": -1,
@@ -8737,7 +8747,12 @@
                   "color": "#FFA72F",
                   "indices": [
                     13
-                  ]
+                  ],
+                  "targetLeague": {
+                    "id": 203,
+                    "name": "OBOS-ligaen",
+                    "tKey": "relegationqual_to"
+                  }
                 },
                 {
                   "title": "Relegation",
@@ -8746,7 +8761,12 @@
                   "indices": [
                     14,
                     15
-                  ]
+                  ],
+                  "targetLeague": {
+                    "id": 203,
+                    "name": "OBOS-ligaen",
+                    "tKey": "relegation_to"
+                  }
                 }
               ],
               "ongoing": [],
@@ -10235,13 +10255,13 @@
                     "pts": 24,
                     "teamId": 8404,
                     "teamName": "Aalesund",
-                    "xg": 37.72850000858307,
-                    "xgConceded": 51.15070033073425,
-                    "xPoints": 23.88107051287315,
+                    "xg": 38.477400064468384,
+                    "xgConceded": 51.62980031967163,
+                    "xPoints": 24.043934916611537,
                     "position": 13,
-                    "xgDiff": 1.2714999914169312,
-                    "xgConcededDiff": -0.15070033073425293,
-                    "xPointsDiff": 0.1189294871268487,
+                    "xgDiff": 0.5225999355316162,
+                    "xgConcededDiff": -0.6298003196716309,
+                    "xPointsDiff": -0.043934916611537034,
                     "xPosition": 13,
                     "idx": 13,
                     "xPositionDiff": 1,
@@ -10316,13 +10336,13 @@
                     "pts": 19,
                     "teamId": 8605,
                     "teamName": "Kristiansund",
-                    "xg": 26.877899736166,
-                    "xgConceded": 47.70710000395775,
-                    "xPoints": 22.437635026315665,
+                    "xg": 27.35699972510338,
+                    "xgConceded": 48.45600005984306,
+                    "xPoints": 22.311067904273102,
                     "position": 16,
-                    "xgDiff": -3.8778997361660004,
-                    "xgConcededDiff": -0.7071000039577484,
-                    "xPointsDiff": -3.4376350263156645,
+                    "xgDiff": -4.356999725103378,
+                    "xgConcededDiff": -1.4560000598430634,
+                    "xPointsDiff": -3.311067904273102,
                     "xPosition": 16,
                     "idx": 16,
                     "xPositionDiff": -1,
@@ -32448,21 +32468,285 @@
           {
             "header": "Goals conceded per 90",
             "participant": {
+              "id": 119598,
+              "name": "Arild Østbø",
+              "rank": 1,
+              "ccode": "NOR",
+              "teamId": 8478,
+              "teamName": "Viking FK",
+              "value": 0.8,
+              "stat": {
+                "name": "goals_conceded",
+                "value": 0.8,
+                "format": "fraction",
+                "fractions": 1
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/goals_conceded.json",
+            "topThree": [
+              {
+                "id": 119598,
+                "name": "Arild Østbø",
+                "rank": 1,
+                "ccode": "NOR",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 0.8,
+                "stat": {
+                  "name": "goals_conceded",
+                  "value": 0.8,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 625360,
+                "name": "Nikita Haikin",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8402,
+                "teamName": "Bodø/Glimt",
+                "value": 0.8,
+                "stat": {
+                  "name": "goals_conceded",
+                  "value": 0.8,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#f8dc03",
+                  "lightMode": "#e09d00",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1159555,
+                "name": "Lubomír Belko",
+                "rank": 3,
+                "ccode": "SVK",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 1.1,
+                "stat": {
+                  "name": "goals_conceded",
+                  "value": 1.1,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 40,
+            "name": "goals_conceded",
+            "localizedTitleId": "goals_conceded_per_90",
+            "category": "Goalkeeping"
+          },
+          {
+            "header": "High claims per 90",
+            "participant": {
+              "id": 625168,
+              "name": "Pontus Dahlberg",
+              "rank": 1,
+              "ccode": "SWE",
+              "teamId": 8476,
+              "teamName": "Lillestrøm",
+              "value": 1.2,
+              "stat": {
+                "name": "total_high_claim",
+                "value": 1.2,
+                "format": "fraction",
+                "fractions": 1
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/total_high_claim.json",
+            "topThree": [
+              {
+                "id": 625168,
+                "name": "Pontus Dahlberg",
+                "rank": 1,
+                "ccode": "SWE",
+                "teamId": 8476,
+                "teamName": "Lillestrøm",
+                "value": 1.2,
+                "stat": {
+                  "name": "total_high_claim",
+                  "value": 1.2,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#fede02",
+                  "lightMode": "#dba000",
+                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 1269001,
+                "name": "Leander Øy",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 8509,
+                "teamName": "Sarpsborg 08",
+                "value": 1.2,
+                "stat": {
+                  "name": "total_high_claim",
+                  "value": 1.2,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#2255a5",
+                  "lightMode": "#102763",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 629821,
+                "name": "Emil Ødegaard",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 2305,
+                "teamName": "KFUM Oslo",
+                "value": 1,
+                "stat": {
+                  "name": "total_high_claim",
+                  "value": 1,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#E60000",
+                  "lightMode": "#E60000",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 41,
+            "name": "total_high_claim",
+            "localizedTitleId": "high_claims_per_90",
+            "category": "Goalkeeping"
+          },
+          {
+            "header": "Sweeper actions per 90",
+            "participant": {
+              "id": 1159555,
+              "name": "Lubomír Belko",
+              "rank": 1,
+              "ccode": "SVK",
+              "teamId": 8478,
+              "teamName": "Viking FK",
+              "value": 1.2,
+              "stat": {
+                "name": "total_keeper_sweeper",
+                "value": 1.2,
+                "format": "fraction",
+                "fractions": 1
+              }
+            },
+            "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/total_keeper_sweeper.json",
+            "topThree": [
+              {
+                "id": 1159555,
+                "name": "Lubomír Belko",
+                "rank": 1,
+                "ccode": "SVK",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 1.2,
+                "stat": {
+                  "name": "total_keeper_sweeper",
+                  "value": 1.2,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 629821,
+                "name": "Emil Ødegaard",
+                "rank": 2,
+                "ccode": "NOR",
+                "teamId": 2305,
+                "teamName": "KFUM Oslo",
+                "value": 1.1,
+                "stat": {
+                  "name": "total_keeper_sweeper",
+                  "value": 1.1,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#E60000",
+                  "lightMode": "#E60000",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              },
+              {
+                "id": 119598,
+                "name": "Arild Østbø",
+                "rank": 3,
+                "ccode": "NOR",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 1.1,
+                "stat": {
+                  "name": "total_keeper_sweeper",
+                  "value": 1.1,
+                  "format": "fraction",
+                  "fractions": 1
+                },
+                "teamColors": {
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
+                  "fontLightMode": "rgba(255, 255, 255, 1.0)"
+                }
+              }
+            ],
+            "order": 42,
+            "name": "total_keeper_sweeper",
+            "localizedTitleId": "keeper_sweeper_per_90",
+            "category": "Goalkeeping"
+          },
+          {
+            "header": "Penalty saves",
+            "participant": {
               "id": 782200,
               "name": "Michael Lansing",
               "rank": 1,
               "ccode": "USA",
               "teamId": 8605,
               "teamName": "Kristiansund",
-              "value": 2.5,
+              "value": 2,
               "stat": {
-                "name": "goals_conceded",
-                "value": 2.5,
-                "format": "fraction",
-                "fractions": 1
+                "name": "penalty_save",
+                "value": 2,
+                "format": "number",
+                "fractions": 0
               }
             },
-            "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/goals_conceded.json",
+            "fetchAllUrl": "https://data.fotmob.com/stats/59/season/30202/penalty_save.json",
             "topThree": [
               {
                 "id": 782200,
@@ -32471,12 +32755,12 @@
                 "ccode": "USA",
                 "teamId": 8605,
                 "teamName": "Kristiansund",
-                "value": 2.5,
+                "value": 2,
                 "stat": {
-                  "name": "goals_conceded",
-                  "value": 2.5,
-                  "format": "fraction",
-                  "fractions": 1
+                  "name": "penalty_save",
+                  "value": 2,
+                  "format": "number",
+                  "fractions": 0
                 },
                 "teamColors": {
                   "darkMode": "#2c528c",
@@ -32486,51 +32770,51 @@
                 }
               },
               {
-                "id": 656650,
-                "name": "Jacob Pryts",
+                "id": 1159555,
+                "name": "Lubomír Belko",
                 "rank": 2,
-                "ccode": "DEN",
-                "teamId": 9919,
-                "teamName": "IK Start",
-                "value": 2.3,
+                "ccode": "SVK",
+                "teamId": 8478,
+                "teamName": "Viking FK",
+                "value": 1,
                 "stat": {
-                  "name": "goals_conceded",
-                  "value": 2.3,
-                  "format": "fraction",
-                  "fractions": 1
+                  "name": "penalty_save",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#F3D000",
-                  "lightMode": "#d9a200",
-                  "fontDarkMode": "rgba(29, 29, 29, 1.0)",
+                  "darkMode": "#244d89",
+                  "lightMode": "#132847",
+                  "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               },
               {
-                "id": 127723,
-                "name": "Marcus Sandberg",
+                "id": 1280650,
+                "name": "Adrian Sæther",
                 "rank": 3,
                 "ccode": "NOR",
-                "teamId": 8448,
-                "teamName": "HamKam",
-                "value": 2.1,
+                "teamId": 8605,
+                "teamName": "Kristiansund",
+                "value": 1,
                 "stat": {
-                  "name": "goals_conceded",
-                  "value": 2.1,
-                  "format": "fraction",
-                  "fractions": 1
+                  "name": "penalty_save",
+                  "value": 1,
+                  "format": "number",
+                  "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#009040",
-                  "lightMode": "#009040",
+                  "darkMode": "#2c528c",
+                  "lightMode": "#0C2340",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
                 }
               }
             ],
-            "order": 40,
-            "name": "goals_conceded",
-            "localizedTitleId": "goals_conceded_per_90",
+            "order": 43,
+            "name": "penalty_save",
+            "localizedTitleId": "penalty_saves",
             "category": "Goalkeeping"
           },
           {
@@ -32616,7 +32900,7 @@
                 }
               }
             ],
-            "order": 41,
+            "order": 44,
             "name": "fouls",
             "localizedTitleId": "fouls_committed_per_90",
             "category": "Discipline"
@@ -32704,7 +32988,7 @@
                 }
               }
             ],
-            "order": 42,
+            "order": 45,
             "name": "yellow_card",
             "localizedTitleId": "yellow_cards",
             "category": "Discipline"
@@ -32792,7 +33076,7 @@
                 }
               }
             ],
-            "order": 43,
+            "order": 46,
             "name": "red_card",
             "localizedTitleId": "red_cards",
             "category": "Discipline"
@@ -32878,7 +33162,7 @@
                 }
               }
             ],
-            "order": 44,
+            "order": 47,
             "name": "rating_team",
             "localizedTitleId": "rating_team_title",
             "category": "Top Stat"
@@ -32962,7 +33246,7 @@
                 }
               }
             ],
-            "order": 45,
+            "order": 48,
             "name": "goals_team_match",
             "localizedTitleId": "goals_team_match_title",
             "category": "Top Stat"
@@ -33046,7 +33330,7 @@
                 }
               }
             ],
-            "order": 46,
+            "order": 49,
             "name": "goals_conceded_team_match",
             "localizedTitleId": "goals_conceded_team_match_title",
             "category": "Top Stat"
@@ -33130,7 +33414,7 @@
                 }
               }
             ],
-            "order": 47,
+            "order": 50,
             "name": "possession_percentage_team",
             "localizedTitleId": "possession_percentage_title",
             "category": "Top Stat"
@@ -33214,7 +33498,7 @@
                 }
               }
             ],
-            "order": 49,
+            "order": 52,
             "name": "clean_sheet_team",
             "localizedTitleId": "clean_sheet_team_title",
             "category": "Top Stat"
@@ -33298,7 +33582,7 @@
                 }
               }
             ],
-            "order": 50,
+            "order": 53,
             "name": "home_attendance_team",
             "localizedTitleId": "Attendance",
             "category": "Top Stat"
@@ -33386,7 +33670,7 @@
                 }
               }
             ],
-            "order": 50,
+            "order": 53,
             "name": "squad_value_team",
             "localizedTitleId": "squad_value",
             "category": "Top Stat"
@@ -33470,7 +33754,7 @@
                 }
               }
             ],
-            "order": 51,
+            "order": 54,
             "name": "expected_goals_team",
             "localizedTitleId": "expected_goals",
             "category": "Attacking"
@@ -33554,7 +33838,7 @@
                 }
               }
             ],
-            "order": 52,
+            "order": 55,
             "name": "_xg_diff_team",
             "localizedTitleId": "xg_diff_title",
             "category": "Attacking"
@@ -33638,7 +33922,7 @@
                 }
               }
             ],
-            "order": 53,
+            "order": 56,
             "name": "ontarget_scoring_att_team",
             "localizedTitleId": "ontarget_scoring_att_team_title",
             "category": "Attacking"
@@ -33722,7 +34006,7 @@
                 }
               }
             ],
-            "order": 54,
+            "order": 57,
             "name": "big_chance_team",
             "localizedTitleId": "big_chance",
             "category": "Attacking"
@@ -33806,7 +34090,7 @@
                 }
               }
             ],
-            "order": 55,
+            "order": 58,
             "name": "big_chance_missed_team",
             "localizedTitleId": "big_chance_missed_team_title",
             "category": "Attacking"
@@ -33890,7 +34174,7 @@
                 }
               }
             ],
-            "order": 56,
+            "order": 59,
             "name": "accurate_pass_team",
             "localizedTitleId": "accurate_pass_team_title",
             "category": "Attacking"
@@ -33974,7 +34258,7 @@
                 }
               }
             ],
-            "order": 57,
+            "order": 60,
             "name": "accurate_long_balls_team",
             "localizedTitleId": "accurate_long_balls_team_title",
             "category": "Attacking"
@@ -34058,7 +34342,7 @@
                 }
               }
             ],
-            "order": 58,
+            "order": 61,
             "name": "accurate_cross_team",
             "localizedTitleId": "accurate_cross_team_title",
             "category": "Attacking"
@@ -34142,7 +34426,7 @@
                 }
               }
             ],
-            "order": 59,
+            "order": 62,
             "name": "penalty_won_team",
             "localizedTitleId": "penalty_won_team_title",
             "category": "Attacking"
@@ -34226,7 +34510,7 @@
                 }
               }
             ],
-            "order": 60,
+            "order": 63,
             "name": "touches_in_opp_box_team",
             "localizedTitleId": "touches_opp_box",
             "category": "Attacking"
@@ -34310,7 +34594,7 @@
                 }
               }
             ],
-            "order": 61,
+            "order": 64,
             "name": "corner_taken_team",
             "localizedTitleId": "corners",
             "category": "Attacking"
@@ -34394,7 +34678,7 @@
                 }
               }
             ],
-            "order": 62,
+            "order": 65,
             "name": "_set_piece_goals_team",
             "localizedTitleId": "set_piece_goals",
             "category": "Attacking"
@@ -34478,7 +34762,7 @@
                 }
               }
             ],
-            "order": 63,
+            "order": 66,
             "name": "expected_goals_conceded_team",
             "localizedTitleId": "expected_goals_conceded",
             "category": "Defending"
@@ -34547,10 +34831,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8605,
-                "value": 9.4,
+                "value": 9.3,
                 "stat": {
                   "name": "interception_team",
-                  "value": 9.4,
+                  "value": 9.3,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -34562,7 +34846,7 @@
                 }
               }
             ],
-            "order": 64,
+            "order": 67,
             "name": "interception_team",
             "localizedTitleId": "interception_team_title",
             "category": "Defending"
@@ -34646,7 +34930,7 @@
                 }
               }
             ],
-            "order": 65,
+            "order": 68,
             "name": "total_tackle_team",
             "localizedTitleId": "tackle_title",
             "category": "Defending"
@@ -34659,10 +34943,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8404,
-              "value": 32.5,
+              "value": 32.6,
               "stat": {
                 "name": "effective_clearance_team",
-                "value": 32.5,
+                "value": 32.6,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -34675,10 +34959,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8404,
-                "value": 32.5,
+                "value": 32.6,
                 "stat": {
                   "name": "effective_clearance_team",
-                  "value": 32.5,
+                  "value": 32.6,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -34715,10 +34999,10 @@
                 "rank": 3,
                 "ccode": "NOR",
                 "teamId": 8605,
-                "value": 29.5,
+                "value": 29.7,
                 "stat": {
                   "name": "effective_clearance_team",
-                  "value": 29.5,
+                  "value": 29.7,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -34730,7 +35014,7 @@
                 }
               }
             ],
-            "order": 66,
+            "order": 69,
             "name": "effective_clearance_team",
             "localizedTitleId": "effective_clearance_team_title",
             "category": "Defending"
@@ -34814,7 +35098,7 @@
                 }
               }
             ],
-            "order": 67,
+            "order": 70,
             "name": "poss_won_att_3rd_team",
             "localizedTitleId": "poss_won_att_3rd_title",
             "category": "Defending"
@@ -34898,7 +35182,7 @@
                 }
               }
             ],
-            "order": 68,
+            "order": 71,
             "name": "_set_piece_goals_conceded_team",
             "localizedTitleId": "set_piece_goals_conceded",
             "category": "Defending"
@@ -34982,7 +35266,7 @@
                 }
               }
             ],
-            "order": 69,
+            "order": 72,
             "name": "penalty_conceded_team",
             "localizedTitleId": "penalty_conceded_team_title",
             "category": "Defending"
@@ -34995,10 +35279,10 @@
               "rank": 1,
               "ccode": "NOR",
               "teamId": 8404,
-              "value": 4.2,
+              "value": 4.1,
               "stat": {
                 "name": "saves_team",
-                "value": 4.2,
+                "value": 4.1,
                 "format": "fraction",
                 "fractions": 1
               }
@@ -35011,10 +35295,10 @@
                 "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8404,
-                "value": 4.2,
+                "value": 4.1,
                 "stat": {
                   "name": "saves_team",
-                  "value": 4.2,
+                  "value": 4.1,
                   "format": "fraction",
                   "fractions": 1
                 },
@@ -35028,7 +35312,7 @@
               {
                 "id": 0,
                 "name": "Lillestrøm",
-                "rank": 2,
+                "rank": 1,
                 "ccode": "NOR",
                 "teamId": 8476,
                 "value": 4.1,
@@ -35066,7 +35350,7 @@
                 }
               }
             ],
-            "order": 70,
+            "order": 73,
             "name": "saves_team",
             "localizedTitleId": "saves_title",
             "category": "Defending"
@@ -35150,7 +35434,7 @@
                 }
               }
             ],
-            "order": 71,
+            "order": 74,
             "name": "fk_foul_lost_team",
             "localizedTitleId": "fouls_per_match",
             "category": "Discipline"
@@ -35234,7 +35518,7 @@
                 }
               }
             ],
-            "order": 72,
+            "order": 75,
             "name": "total_yel_card_team",
             "localizedTitleId": "yellow_cards",
             "category": "Discipline"
@@ -35318,7 +35602,7 @@
                 }
               }
             ],
-            "order": 73,
+            "order": 76,
             "name": "total_red_card_team",
             "localizedTitleId": "red_cards",
             "category": "Discipline"
@@ -45351,6 +45635,10 @@
         "relegationqual": "Relegation qualification",
         "promotion": "Promotion",
         "promotionqual": "Promotion qualification",
+        "promotion_to": "Promotion to %s",
+        "promotionqual_to": "Promotion qualification to %s",
+        "relegation_to": "Relegation to %s",
+        "relegationqual_to": "Relegation qualification to %s",
         "ltc": "Live ticker",
         "select_league": "Select league",
         "ongoing": "Ongoing",
@@ -45929,6 +46217,8 @@
         "goals_prevented": "Goals prevented",
         "expected_goals_on_target_faced_per_90": "xGOT faced per 90",
         "goals_conceded_per_90": "Goals conceded per 90",
+        "high_claims_per_90": "High claims per 90",
+        "keeper_sweeper_per_90": "Sweeper actions per 90",
         "accurate_long_balls_team_title": "Accurate long balls per match",
         "accurate_long_balls_team_subtitle": "Successful long balls",
         "accurate_cross_team_title": "Accurate crosses per match",
@@ -46507,7 +46797,15 @@
         "gfx_statcard_timestamp": {
           "one": "After 1 minute played",
           "other": "After %d minutes played"
-        }
+        },
+        "keyboard_shortcuts": "Keyboard shortcuts",
+        "keyboard_shortcut_focus_search": "Focus search",
+        "keyboard_shortcut_previous_day": "Previous day",
+        "keyboard_shortcut_next_day": "Next day",
+        "keyboard_shortcut_show_shortcuts": "Show keyboard shortcuts",
+        "keyboard_shortcut_or": "or",
+        "keyboard_shortcuts_character_keys": "Character key shortcuts",
+        "keyboard_shortcut_today_toast": "Press T to go to today"
       }
     },
     "203": {
@@ -46580,8 +46878,8 @@
           "data": {
             "ccode": "NOR",
             "leagueId": 203,
-            "pageUrl": "/leagues/203/overview/1-divisjon",
-            "leagueName": "1. Divisjon",
+            "pageUrl": "/leagues/203/overview/obos-ligaen",
+            "leagueName": "OBOS-ligaen",
             "legend": [
               {
                 "title": "Promotion",
@@ -46590,7 +46888,12 @@
                 "indices": [
                   0,
                   1
-                ]
+                ],
+                "targetLeague": {
+                  "id": 59,
+                  "name": "Eliteserien",
+                  "tKey": "promotion_to"
+                }
               },
               {
                 "title": "Promotion qualification",
@@ -46601,7 +46904,12 @@
                   3,
                   4,
                   5
-                ]
+                ],
+                "targetLeague": {
+                  "id": 59,
+                  "name": "Eliteserien",
+                  "tKey": "promotionqual_to"
+                }
               },
               {
                 "title": "Relegation qualification",
@@ -46609,7 +46917,12 @@
                 "color": "#FFA72F",
                 "indices": [
                   13
-                ]
+                ],
+                "targetLeague": {
+                  "id": 204,
+                  "name": "2. divisjon",
+                  "tKey": "relegationqual_to"
+                }
               },
               {
                 "title": "Relegation",
@@ -46618,10 +46931,31 @@
                 "indices": [
                   14,
                   15
-                ]
+                ],
+                "targetLeague": {
+                  "id": 204,
+                  "name": "2. divisjon",
+                  "tKey": "relegation_to"
+                }
               }
             ],
-            "ongoing": [],
+            "ongoing": [
+              {
+                "id": 5105271,
+                "hTeam": "Sogndal",
+                "aTeam": "Raufoss",
+                "hScore": 0,
+                "aScore": 0,
+                "hId": 8616,
+                "aId": 9812,
+                "stage": "24",
+                "time": "21.10.2026 19:00",
+                "status": "S",
+                "sId": 2,
+                "gs": "21.10.2026 19:00:04",
+                "extId": "ls_0"
+              }
+            ],
             "table": {
               "all": [
                 {
@@ -46630,7 +46964,6 @@
                   "id": 8180,
                   "pageUrl": "/teams/8180/overview/stromsgodset",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 18,
                   "draws": 6,
@@ -46647,7 +46980,6 @@
                   "id": 8179,
                   "pageUrl": "/teams/8179/overview/kongsvinger",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 18,
                   "draws": 5,
@@ -46664,7 +46996,6 @@
                   "id": 8512,
                   "pageUrl": "/teams/8512/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 19,
                   "draws": 2,
@@ -46681,7 +47012,6 @@
                   "id": 9918,
                   "pageUrl": "/teams/9918/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 16,
                   "draws": 4,
@@ -46698,7 +47028,6 @@
                   "id": 7988,
                   "pageUrl": "/teams/7988/overview/odds-ballklubb",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 13,
                   "draws": 6,
@@ -46715,7 +47044,6 @@
                   "id": 8531,
                   "pageUrl": "/teams/8531/overview/bryne",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 12,
                   "draws": 3,
@@ -46732,7 +47060,6 @@
                   "id": 7937,
                   "pageUrl": "/teams/7937/overview/hodd",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 11,
                   "draws": 5,
@@ -46749,7 +47076,6 @@
                   "id": 6563,
                   "pageUrl": "/teams/6563/overview/ranheim",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 10,
                   "draws": 5,
@@ -46766,7 +47092,6 @@
                   "id": 4722,
                   "pageUrl": "/teams/4722/overview/egersund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 9,
                   "draws": 7,
@@ -46783,7 +47108,6 @@
                   "id": 4249,
                   "pageUrl": "/teams/4249/overview/strommen",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 9,
                   "draws": 6,
@@ -46800,7 +47124,6 @@
                   "id": 10224,
                   "pageUrl": "/teams/10224/overview/lyn",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 9,
                   "draws": 4,
@@ -46817,7 +47140,6 @@
                   "id": 8405,
                   "pageUrl": "/teams/8405/overview/moss",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 8,
                   "draws": 5,
@@ -46834,7 +47156,6 @@
                   "id": 8133,
                   "pageUrl": "/teams/8133/overview/sandnes-ulf",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 7,
                   "draws": 5,
@@ -46851,14 +47172,28 @@
                   "id": 8616,
                   "pageUrl": "/teams/8616/overview/sogndal",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 26,
+                  "ongoing": {
+                    "id": 5105271,
+                    "hTeam": "Sogndal",
+                    "aTeam": "Raufoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 8616,
+                    "aId": 9812,
+                    "stage": "24",
+                    "time": "21.10.2026 19:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "21.10.2026 19:00:04",
+                    "extId": "ls_0"
+                  },
+                  "played": 27,
                   "wins": 6,
-                  "draws": 6,
+                  "draws": 7,
                   "losses": 14,
                   "scoresStr": "42-59",
                   "goalConDiff": -17,
-                  "pts": 24,
+                  "pts": 25,
                   "idx": 14,
                   "qualColor": "#FFA72F"
                 },
@@ -46868,7 +47203,6 @@
                   "id": 10021,
                   "pageUrl": "/teams/10021/overview/asane",
                   "deduction": -1,
-                  "ongoing": null,
                   "played": 27,
                   "wins": 6,
                   "draws": 5,
@@ -46885,14 +47219,28 @@
                   "id": 9812,
                   "pageUrl": "/teams/9812/overview/raufoss",
                   "deduction": null,
-                  "ongoing": null,
-                  "played": 26,
+                  "ongoing": {
+                    "id": 5105271,
+                    "hTeam": "Sogndal",
+                    "aTeam": "Raufoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 8616,
+                    "aId": 9812,
+                    "stage": "24",
+                    "time": "21.10.2026 19:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "21.10.2026 19:00:04",
+                    "extId": "ls_0"
+                  },
+                  "played": 27,
                   "wins": 6,
-                  "draws": 2,
+                  "draws": 3,
                   "losses": 18,
                   "scoresStr": "29-69",
                   "goalConDiff": -40,
-                  "pts": 20,
+                  "pts": 21,
                   "idx": 16,
                   "qualColor": "#FF4646"
                 }
@@ -46904,7 +47252,6 @@
                   "id": 8179,
                   "pageUrl": "/teams/8179/overview/kongsvinger",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 11,
                   "draws": 2,
@@ -46922,7 +47269,6 @@
                   "id": 8180,
                   "pageUrl": "/teams/8180/overview/stromsgodset",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 11,
                   "draws": 2,
@@ -46940,7 +47286,6 @@
                   "id": 8512,
                   "pageUrl": "/teams/8512/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 11,
                   "draws": 1,
@@ -46958,7 +47303,6 @@
                   "id": 9918,
                   "pageUrl": "/teams/9918/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 10,
                   "draws": 1,
@@ -46976,7 +47320,6 @@
                   "id": 7937,
                   "pageUrl": "/teams/7937/overview/hodd",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 8,
                   "draws": 2,
@@ -46994,7 +47337,6 @@
                   "id": 4722,
                   "pageUrl": "/teams/4722/overview/egersund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 7,
                   "draws": 4,
@@ -47012,7 +47354,6 @@
                   "id": 6563,
                   "pageUrl": "/teams/6563/overview/ranheim",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 7,
                   "draws": 3,
@@ -47030,7 +47371,6 @@
                   "id": 7988,
                   "pageUrl": "/teams/7988/overview/odds-ballklubb",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 7,
                   "draws": 3,
@@ -47048,7 +47388,6 @@
                   "id": 8531,
                   "pageUrl": "/teams/8531/overview/bryne",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 6,
                   "draws": 3,
@@ -47061,12 +47400,43 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Sogndal",
+                  "shortName": "Sogndal",
+                  "id": 8616,
+                  "pageUrl": "/teams/8616/overview/sogndal",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105271,
+                    "hTeam": "Sogndal",
+                    "aTeam": "Raufoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 8616,
+                    "aId": 9812,
+                    "stage": "24",
+                    "time": "21.10.2026 19:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "21.10.2026 19:00:04",
+                    "extId": "ls_0"
+                  },
+                  "played": 13,
+                  "wins": 5,
+                  "draws": 3,
+                  "losses": 5,
+                  "scoresStr": "23-21",
+                  "goalConDiff": 2,
+                  "goalsScored": 23,
+                  "pts": 18,
+                  "idx": 10,
+                  "qualColor": null
+                },
+                {
                   "name": "Strømmen",
                   "shortName": "Strømmen",
                   "id": 4249,
                   "pageUrl": "/teams/4249/overview/strommen",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 5,
                   "draws": 3,
@@ -47075,24 +47445,6 @@
                   "goalConDiff": -4,
                   "goalsScored": 24,
                   "pts": 18,
-                  "idx": 10,
-                  "qualColor": null
-                },
-                {
-                  "name": "Sogndal",
-                  "shortName": "Sogndal",
-                  "id": 8616,
-                  "pageUrl": "/teams/8616/overview/sogndal",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 12,
-                  "wins": 5,
-                  "draws": 2,
-                  "losses": 5,
-                  "scoresStr": "23-21",
-                  "goalConDiff": 2,
-                  "goalsScored": 23,
-                  "pts": 17,
                   "idx": 11,
                   "qualColor": null
                 },
@@ -47102,7 +47454,6 @@
                   "id": 10021,
                   "pageUrl": "/teams/10021/overview/asane",
                   "deduction": -1,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 5,
                   "draws": 2,
@@ -47120,7 +47471,6 @@
                   "id": 10224,
                   "pageUrl": "/teams/10224/overview/lyn",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 5,
                   "draws": 1,
@@ -47138,7 +47488,6 @@
                   "id": 8133,
                   "pageUrl": "/teams/8133/overview/sandnes-ulf",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 4,
                   "draws": 3,
@@ -47156,7 +47505,21 @@
                   "id": 9812,
                   "pageUrl": "/teams/9812/overview/raufoss",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105271,
+                    "hTeam": "Sogndal",
+                    "aTeam": "Raufoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 8616,
+                    "aId": 9812,
+                    "stage": "24",
+                    "time": "21.10.2026 19:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "21.10.2026 19:00:04",
+                    "extId": "ls_0"
+                  },
                   "played": 13,
                   "wins": 4,
                   "draws": 1,
@@ -47174,7 +47537,6 @@
                   "id": 8405,
                   "pageUrl": "/teams/8405/overview/moss",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 2,
                   "draws": 5,
@@ -47194,7 +47556,6 @@
                   "id": 8180,
                   "pageUrl": "/teams/8180/overview/stromsgodset",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 7,
                   "draws": 4,
@@ -47212,7 +47573,6 @@
                   "id": 8512,
                   "pageUrl": "/teams/8512/overview/fk-haugesund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 8,
                   "draws": 1,
@@ -47230,7 +47590,6 @@
                   "id": 8179,
                   "pageUrl": "/teams/8179/overview/kongsvinger",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 7,
                   "draws": 3,
@@ -47248,7 +47607,6 @@
                   "id": 9918,
                   "pageUrl": "/teams/9918/overview/stabaek",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 6,
                   "draws": 3,
@@ -47266,7 +47624,6 @@
                   "id": 7988,
                   "pageUrl": "/teams/7988/overview/odds-ballklubb",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 6,
                   "draws": 3,
@@ -47284,7 +47641,6 @@
                   "id": 8531,
                   "pageUrl": "/teams/8531/overview/bryne",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 6,
                   "draws": 0,
@@ -47302,7 +47658,6 @@
                   "id": 8405,
                   "pageUrl": "/teams/8405/overview/moss",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 6,
                   "draws": 0,
@@ -47320,7 +47675,6 @@
                   "id": 10224,
                   "pageUrl": "/teams/10224/overview/lyn",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 4,
                   "draws": 3,
@@ -47338,7 +47692,6 @@
                   "id": 4249,
                   "pageUrl": "/teams/4249/overview/strommen",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 4,
                   "draws": 3,
@@ -47356,7 +47709,6 @@
                   "id": 7937,
                   "pageUrl": "/teams/7937/overview/hodd",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 3,
                   "draws": 3,
@@ -47374,7 +47726,6 @@
                   "id": 6563,
                   "pageUrl": "/teams/6563/overview/ranheim",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 3,
                   "draws": 2,
@@ -47392,7 +47743,6 @@
                   "id": 8133,
                   "pageUrl": "/teams/8133/overview/sandnes-ulf",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 14,
                   "wins": 3,
                   "draws": 2,
@@ -47410,7 +47760,6 @@
                   "id": 4722,
                   "pageUrl": "/teams/4722/overview/egersund",
                   "deduction": null,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 2,
                   "draws": 3,
@@ -47423,12 +47772,58 @@
                   "qualColor": null
                 },
                 {
+                  "name": "Raufoss",
+                  "shortName": "Raufoss",
+                  "id": 9812,
+                  "pageUrl": "/teams/9812/overview/raufoss",
+                  "deduction": null,
+                  "ongoing": {
+                    "id": 5105271,
+                    "hTeam": "Sogndal",
+                    "aTeam": "Raufoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 8616,
+                    "aId": 9812,
+                    "stage": "24",
+                    "time": "21.10.2026 19:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "21.10.2026 19:00:04",
+                    "extId": "ls_0"
+                  },
+                  "played": 14,
+                  "wins": 2,
+                  "draws": 2,
+                  "losses": 10,
+                  "scoresStr": "13-47",
+                  "goalConDiff": -34,
+                  "goalsScored": 13,
+                  "pts": 8,
+                  "idx": 14,
+                  "qualColor": "#FFA72F"
+                },
+                {
                   "name": "Sogndal",
                   "shortName": "Sogndal",
                   "id": 8616,
                   "pageUrl": "/teams/8616/overview/sogndal",
                   "deduction": null,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105271,
+                    "hTeam": "Sogndal",
+                    "aTeam": "Raufoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 8616,
+                    "aId": 9812,
+                    "stage": "24",
+                    "time": "21.10.2026 19:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "21.10.2026 19:00:04",
+                    "extId": "ls_0"
+                  },
                   "played": 14,
                   "wins": 1,
                   "draws": 4,
@@ -47436,24 +47831,6 @@
                   "scoresStr": "19-38",
                   "goalConDiff": -19,
                   "goalsScored": 19,
-                  "pts": 7,
-                  "idx": 14,
-                  "qualColor": "#FFA72F"
-                },
-                {
-                  "name": "Raufoss",
-                  "shortName": "Raufoss",
-                  "id": 9812,
-                  "pageUrl": "/teams/9812/overview/raufoss",
-                  "deduction": null,
-                  "ongoing": null,
-                  "played": 13,
-                  "wins": 2,
-                  "draws": 1,
-                  "losses": 10,
-                  "scoresStr": "13-47",
-                  "goalConDiff": -34,
-                  "goalsScored": 13,
                   "pts": 7,
                   "idx": 15,
                   "qualColor": "#FF4646"
@@ -47464,7 +47841,6 @@
                   "id": 10021,
                   "pageUrl": "/teams/10021/overview/asane",
                   "deduction": -1,
-                  "ongoing": null,
                   "played": 13,
                   "wins": 1,
                   "draws": 3,
@@ -47492,7 +47868,6 @@
                   "goalConDiff": 16,
                   "goalsScored": 18,
                   "pts": 15,
-                  "ongoing": null,
                   "idx": 1,
                   "qualColor": "#2AD572"
                 },
@@ -47510,7 +47885,6 @@
                   "goalConDiff": 10,
                   "goalsScored": 18,
                   "pts": 12,
-                  "ongoing": null,
                   "idx": 2,
                   "qualColor": "#2AD572"
                 },
@@ -47528,7 +47902,6 @@
                   "goalConDiff": 6,
                   "goalsScored": 12,
                   "pts": 12,
-                  "ongoing": null,
                   "idx": 3,
                   "qualColor": "#FFD908"
                 },
@@ -47546,7 +47919,6 @@
                   "goalConDiff": 6,
                   "goalsScored": 16,
                   "pts": 10,
-                  "ongoing": null,
                   "idx": 4,
                   "qualColor": "#FFD908"
                 },
@@ -47564,7 +47936,6 @@
                   "goalConDiff": 3,
                   "goalsScored": 9,
                   "pts": 10,
-                  "ongoing": null,
                   "idx": 5,
                   "qualColor": "#FFD908"
                 },
@@ -47582,7 +47953,6 @@
                   "goalConDiff": 2,
                   "goalsScored": 10,
                   "pts": 10,
-                  "ongoing": null,
                   "idx": 6,
                   "qualColor": "#FFD908"
                 },
@@ -47600,7 +47970,6 @@
                   "goalConDiff": 4,
                   "goalsScored": 15,
                   "pts": 8,
-                  "ongoing": null,
                   "idx": 7,
                   "qualColor": null
                 },
@@ -47618,7 +47987,6 @@
                   "goalConDiff": 2,
                   "goalsScored": 9,
                   "pts": 7,
-                  "ongoing": null,
                   "idx": 8,
                   "qualColor": null
                 },
@@ -47636,7 +48004,6 @@
                   "goalConDiff": -1,
                   "goalsScored": 4,
                   "pts": 7,
-                  "ongoing": null,
                   "idx": 9,
                   "qualColor": null
                 },
@@ -47654,7 +48021,6 @@
                   "goalConDiff": -7,
                   "goalsScored": 7,
                   "pts": 5,
-                  "ongoing": null,
                   "idx": 10,
                   "qualColor": null
                 },
@@ -47672,7 +48038,6 @@
                   "goalConDiff": -3,
                   "goalsScored": 10,
                   "pts": 4,
-                  "ongoing": null,
                   "idx": 11,
                   "qualColor": null
                 },
@@ -47690,7 +48055,21 @@
                   "goalConDiff": -6,
                   "goalsScored": 5,
                   "pts": 4,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105271,
+                    "hTeam": "Sogndal",
+                    "aTeam": "Raufoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 8616,
+                    "aId": 9812,
+                    "stage": "24",
+                    "time": "21.10.2026 19:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "21.10.2026 19:00:04",
+                    "extId": "ls_0"
+                  },
                   "idx": 12,
                   "qualColor": null
                 },
@@ -47708,7 +48087,6 @@
                   "goalConDiff": -10,
                   "goalsScored": 3,
                   "pts": 3,
-                  "ongoing": null,
                   "idx": 13,
                   "qualColor": null
                 },
@@ -47726,7 +48104,6 @@
                   "goalConDiff": -10,
                   "goalsScored": 3,
                   "pts": 3,
-                  "ongoing": null,
                   "idx": 14,
                   "qualColor": "#FFA72F"
                 },
@@ -47744,7 +48121,21 @@
                   "goalConDiff": -3,
                   "goalsScored": 6,
                   "pts": 2,
-                  "ongoing": null,
+                  "ongoing": {
+                    "id": 5105271,
+                    "hTeam": "Sogndal",
+                    "aTeam": "Raufoss",
+                    "hScore": 0,
+                    "aScore": 0,
+                    "hId": 8616,
+                    "aId": 9812,
+                    "stage": "24",
+                    "time": "21.10.2026 19:00",
+                    "status": "S",
+                    "sId": 2,
+                    "gs": "21.10.2026 19:00:04",
+                    "extId": "ls_0"
+                  },
                   "idx": 15,
                   "qualColor": "#FF4646"
                 },
@@ -47762,7 +48153,6 @@
                   "goalConDiff": -8,
                   "goalsScored": 6,
                   "pts": 2,
-                  "ongoing": null,
                   "idx": 16,
                   "qualColor": "#FF4646"
                 }
@@ -50476,36 +50866,36 @@
               "2026-10-25T16:00:00Z"
             ],
             "8616": [
-              "9812",
-              "Raufoss",
-              "5105271",
+              "8179",
+              "Kongsvinger",
+              "5105304",
               {
                 "id": "8616",
                 "name": "Sogndal",
                 "shortName": "Sogndal"
               },
               {
-                "id": "9812",
-                "name": "Raufoss",
-                "shortName": "Raufoss"
+                "id": "8179",
+                "name": "Kongsvinger",
+                "shortName": "Kongsvinger"
               },
-              "2026-10-21T17:00:00Z"
+              "2026-10-25T16:00:00Z"
             ],
             "9812": [
-              "8616",
-              "Sogndal",
-              "5105271",
-              {
-                "id": "8616",
-                "name": "Sogndal",
-                "shortName": "Sogndal"
-              },
+              "6563",
+              "Ranheim",
+              "5105302",
               {
                 "id": "9812",
                 "name": "Raufoss",
                 "shortName": "Raufoss"
               },
-              "2026-10-21T17:00:00Z"
+              {
+                "id": "6563",
+                "name": "Ranheim",
+                "shortName": "Ranheim"
+              },
+              "2026-10-24T12:00:00Z"
             ],
             "9918": [
               "7988",
@@ -54731,8 +55121,8 @@
             "data": {
               "ccode": "NOR",
               "leagueId": 203,
-              "pageUrl": "/leagues/203/overview/1-divisjon",
-              "leagueName": "1. Divisjon",
+              "pageUrl": "/leagues/203/overview/obos-ligaen",
+              "leagueName": "OBOS-ligaen",
               "legend": [
                 {
                   "title": "Promotion",
@@ -54741,7 +55131,12 @@
                   "indices": [
                     0,
                     1
-                  ]
+                  ],
+                  "targetLeague": {
+                    "id": 59,
+                    "name": "Eliteserien",
+                    "tKey": "promotion_to"
+                  }
                 },
                 {
                   "title": "Promotion qualification",
@@ -54752,7 +55147,12 @@
                     3,
                     4,
                     5
-                  ]
+                  ],
+                  "targetLeague": {
+                    "id": 59,
+                    "name": "Eliteserien",
+                    "tKey": "promotionqual_to"
+                  }
                 },
                 {
                   "title": "Relegation qualification",
@@ -54760,7 +55160,12 @@
                   "color": "#FFA72F",
                   "indices": [
                     13
-                  ]
+                  ],
+                  "targetLeague": {
+                    "id": 204,
+                    "name": "2. divisjon",
+                    "tKey": "relegationqual_to"
+                  }
                 },
                 {
                   "title": "Relegation",
@@ -54769,10 +55174,31 @@
                   "indices": [
                     14,
                     15
-                  ]
+                  ],
+                  "targetLeague": {
+                    "id": 204,
+                    "name": "2. divisjon",
+                    "tKey": "relegation_to"
+                  }
                 }
               ],
-              "ongoing": [],
+              "ongoing": [
+                {
+                  "id": 5105271,
+                  "hTeam": "Sogndal",
+                  "aTeam": "Raufoss",
+                  "hScore": 0,
+                  "aScore": 0,
+                  "hId": 8616,
+                  "aId": 9812,
+                  "stage": "24",
+                  "time": "21.10.2026 19:00",
+                  "status": "S",
+                  "sId": 2,
+                  "gs": "21.10.2026 19:00:04",
+                  "extId": "ls_0"
+                }
+              ],
               "table": {
                 "all": [
                   {
@@ -54781,7 +55207,6 @@
                     "id": 8180,
                     "pageUrl": "/teams/8180/overview/stromsgodset",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 18,
                     "draws": 6,
@@ -54798,7 +55223,6 @@
                     "id": 8179,
                     "pageUrl": "/teams/8179/overview/kongsvinger",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 18,
                     "draws": 5,
@@ -54815,7 +55239,6 @@
                     "id": 8512,
                     "pageUrl": "/teams/8512/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 19,
                     "draws": 2,
@@ -54832,7 +55255,6 @@
                     "id": 9918,
                     "pageUrl": "/teams/9918/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 16,
                     "draws": 4,
@@ -54849,7 +55271,6 @@
                     "id": 7988,
                     "pageUrl": "/teams/7988/overview/odds-ballklubb",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 13,
                     "draws": 6,
@@ -54866,7 +55287,6 @@
                     "id": 8531,
                     "pageUrl": "/teams/8531/overview/bryne",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 12,
                     "draws": 3,
@@ -54883,7 +55303,6 @@
                     "id": 7937,
                     "pageUrl": "/teams/7937/overview/hodd",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 11,
                     "draws": 5,
@@ -54900,7 +55319,6 @@
                     "id": 6563,
                     "pageUrl": "/teams/6563/overview/ranheim",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 10,
                     "draws": 5,
@@ -54917,7 +55335,6 @@
                     "id": 4722,
                     "pageUrl": "/teams/4722/overview/egersund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 9,
                     "draws": 7,
@@ -54934,7 +55351,6 @@
                     "id": 4249,
                     "pageUrl": "/teams/4249/overview/strommen",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 9,
                     "draws": 6,
@@ -54951,7 +55367,6 @@
                     "id": 10224,
                     "pageUrl": "/teams/10224/overview/lyn",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 9,
                     "draws": 4,
@@ -54968,7 +55383,6 @@
                     "id": 8405,
                     "pageUrl": "/teams/8405/overview/moss",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 8,
                     "draws": 5,
@@ -54985,7 +55399,6 @@
                     "id": 8133,
                     "pageUrl": "/teams/8133/overview/sandnes-ulf",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 7,
                     "draws": 5,
@@ -55002,14 +55415,28 @@
                     "id": 8616,
                     "pageUrl": "/teams/8616/overview/sogndal",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 26,
+                    "ongoing": {
+                      "id": 5105271,
+                      "hTeam": "Sogndal",
+                      "aTeam": "Raufoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 8616,
+                      "aId": 9812,
+                      "stage": "24",
+                      "time": "21.10.2026 19:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "21.10.2026 19:00:04",
+                      "extId": "ls_0"
+                    },
+                    "played": 27,
                     "wins": 6,
-                    "draws": 6,
+                    "draws": 7,
                     "losses": 14,
                     "scoresStr": "42-59",
                     "goalConDiff": -17,
-                    "pts": 24,
+                    "pts": 25,
                     "idx": 14,
                     "qualColor": "#FFA72F"
                   },
@@ -55019,7 +55446,6 @@
                     "id": 10021,
                     "pageUrl": "/teams/10021/overview/asane",
                     "deduction": -1,
-                    "ongoing": null,
                     "played": 27,
                     "wins": 6,
                     "draws": 5,
@@ -55036,14 +55462,28 @@
                     "id": 9812,
                     "pageUrl": "/teams/9812/overview/raufoss",
                     "deduction": null,
-                    "ongoing": null,
-                    "played": 26,
+                    "ongoing": {
+                      "id": 5105271,
+                      "hTeam": "Sogndal",
+                      "aTeam": "Raufoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 8616,
+                      "aId": 9812,
+                      "stage": "24",
+                      "time": "21.10.2026 19:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "21.10.2026 19:00:04",
+                      "extId": "ls_0"
+                    },
+                    "played": 27,
                     "wins": 6,
-                    "draws": 2,
+                    "draws": 3,
                     "losses": 18,
                     "scoresStr": "29-69",
                     "goalConDiff": -40,
-                    "pts": 20,
+                    "pts": 21,
                     "idx": 16,
                     "qualColor": "#FF4646"
                   }
@@ -55055,7 +55495,6 @@
                     "id": 8179,
                     "pageUrl": "/teams/8179/overview/kongsvinger",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 11,
                     "draws": 2,
@@ -55073,7 +55512,6 @@
                     "id": 8180,
                     "pageUrl": "/teams/8180/overview/stromsgodset",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 11,
                     "draws": 2,
@@ -55091,7 +55529,6 @@
                     "id": 8512,
                     "pageUrl": "/teams/8512/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 11,
                     "draws": 1,
@@ -55109,7 +55546,6 @@
                     "id": 9918,
                     "pageUrl": "/teams/9918/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 10,
                     "draws": 1,
@@ -55127,7 +55563,6 @@
                     "id": 7937,
                     "pageUrl": "/teams/7937/overview/hodd",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 8,
                     "draws": 2,
@@ -55145,7 +55580,6 @@
                     "id": 4722,
                     "pageUrl": "/teams/4722/overview/egersund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 7,
                     "draws": 4,
@@ -55163,7 +55597,6 @@
                     "id": 6563,
                     "pageUrl": "/teams/6563/overview/ranheim",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 7,
                     "draws": 3,
@@ -55181,7 +55614,6 @@
                     "id": 7988,
                     "pageUrl": "/teams/7988/overview/odds-ballklubb",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 7,
                     "draws": 3,
@@ -55199,7 +55631,6 @@
                     "id": 8531,
                     "pageUrl": "/teams/8531/overview/bryne",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 6,
                     "draws": 3,
@@ -55212,12 +55643,43 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Sogndal",
+                    "shortName": "Sogndal",
+                    "id": 8616,
+                    "pageUrl": "/teams/8616/overview/sogndal",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105271,
+                      "hTeam": "Sogndal",
+                      "aTeam": "Raufoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 8616,
+                      "aId": 9812,
+                      "stage": "24",
+                      "time": "21.10.2026 19:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "21.10.2026 19:00:04",
+                      "extId": "ls_0"
+                    },
+                    "played": 13,
+                    "wins": 5,
+                    "draws": 3,
+                    "losses": 5,
+                    "scoresStr": "23-21",
+                    "goalConDiff": 2,
+                    "goalsScored": 23,
+                    "pts": 18,
+                    "idx": 10,
+                    "qualColor": null
+                  },
+                  {
                     "name": "Strømmen",
                     "shortName": "Strømmen",
                     "id": 4249,
                     "pageUrl": "/teams/4249/overview/strommen",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 5,
                     "draws": 3,
@@ -55226,24 +55688,6 @@
                     "goalConDiff": -4,
                     "goalsScored": 24,
                     "pts": 18,
-                    "idx": 10,
-                    "qualColor": null
-                  },
-                  {
-                    "name": "Sogndal",
-                    "shortName": "Sogndal",
-                    "id": 8616,
-                    "pageUrl": "/teams/8616/overview/sogndal",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 12,
-                    "wins": 5,
-                    "draws": 2,
-                    "losses": 5,
-                    "scoresStr": "23-21",
-                    "goalConDiff": 2,
-                    "goalsScored": 23,
-                    "pts": 17,
                     "idx": 11,
                     "qualColor": null
                   },
@@ -55253,7 +55697,6 @@
                     "id": 10021,
                     "pageUrl": "/teams/10021/overview/asane",
                     "deduction": -1,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 5,
                     "draws": 2,
@@ -55271,7 +55714,6 @@
                     "id": 10224,
                     "pageUrl": "/teams/10224/overview/lyn",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 5,
                     "draws": 1,
@@ -55289,7 +55731,6 @@
                     "id": 8133,
                     "pageUrl": "/teams/8133/overview/sandnes-ulf",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 4,
                     "draws": 3,
@@ -55307,7 +55748,21 @@
                     "id": 9812,
                     "pageUrl": "/teams/9812/overview/raufoss",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105271,
+                      "hTeam": "Sogndal",
+                      "aTeam": "Raufoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 8616,
+                      "aId": 9812,
+                      "stage": "24",
+                      "time": "21.10.2026 19:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "21.10.2026 19:00:04",
+                      "extId": "ls_0"
+                    },
                     "played": 13,
                     "wins": 4,
                     "draws": 1,
@@ -55325,7 +55780,6 @@
                     "id": 8405,
                     "pageUrl": "/teams/8405/overview/moss",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 2,
                     "draws": 5,
@@ -55345,7 +55799,6 @@
                     "id": 8180,
                     "pageUrl": "/teams/8180/overview/stromsgodset",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 7,
                     "draws": 4,
@@ -55363,7 +55816,6 @@
                     "id": 8512,
                     "pageUrl": "/teams/8512/overview/fk-haugesund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 8,
                     "draws": 1,
@@ -55381,7 +55833,6 @@
                     "id": 8179,
                     "pageUrl": "/teams/8179/overview/kongsvinger",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 7,
                     "draws": 3,
@@ -55399,7 +55850,6 @@
                     "id": 9918,
                     "pageUrl": "/teams/9918/overview/stabaek",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 6,
                     "draws": 3,
@@ -55417,7 +55867,6 @@
                     "id": 7988,
                     "pageUrl": "/teams/7988/overview/odds-ballklubb",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 6,
                     "draws": 3,
@@ -55435,7 +55884,6 @@
                     "id": 8531,
                     "pageUrl": "/teams/8531/overview/bryne",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 6,
                     "draws": 0,
@@ -55453,7 +55901,6 @@
                     "id": 8405,
                     "pageUrl": "/teams/8405/overview/moss",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 6,
                     "draws": 0,
@@ -55471,7 +55918,6 @@
                     "id": 10224,
                     "pageUrl": "/teams/10224/overview/lyn",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 4,
                     "draws": 3,
@@ -55489,7 +55935,6 @@
                     "id": 4249,
                     "pageUrl": "/teams/4249/overview/strommen",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 4,
                     "draws": 3,
@@ -55507,7 +55952,6 @@
                     "id": 7937,
                     "pageUrl": "/teams/7937/overview/hodd",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 3,
                     "draws": 3,
@@ -55525,7 +55969,6 @@
                     "id": 6563,
                     "pageUrl": "/teams/6563/overview/ranheim",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 3,
                     "draws": 2,
@@ -55543,7 +55986,6 @@
                     "id": 8133,
                     "pageUrl": "/teams/8133/overview/sandnes-ulf",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 14,
                     "wins": 3,
                     "draws": 2,
@@ -55561,7 +56003,6 @@
                     "id": 4722,
                     "pageUrl": "/teams/4722/overview/egersund",
                     "deduction": null,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 2,
                     "draws": 3,
@@ -55574,12 +56015,58 @@
                     "qualColor": null
                   },
                   {
+                    "name": "Raufoss",
+                    "shortName": "Raufoss",
+                    "id": 9812,
+                    "pageUrl": "/teams/9812/overview/raufoss",
+                    "deduction": null,
+                    "ongoing": {
+                      "id": 5105271,
+                      "hTeam": "Sogndal",
+                      "aTeam": "Raufoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 8616,
+                      "aId": 9812,
+                      "stage": "24",
+                      "time": "21.10.2026 19:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "21.10.2026 19:00:04",
+                      "extId": "ls_0"
+                    },
+                    "played": 14,
+                    "wins": 2,
+                    "draws": 2,
+                    "losses": 10,
+                    "scoresStr": "13-47",
+                    "goalConDiff": -34,
+                    "goalsScored": 13,
+                    "pts": 8,
+                    "idx": 14,
+                    "qualColor": "#FFA72F"
+                  },
+                  {
                     "name": "Sogndal",
                     "shortName": "Sogndal",
                     "id": 8616,
                     "pageUrl": "/teams/8616/overview/sogndal",
                     "deduction": null,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105271,
+                      "hTeam": "Sogndal",
+                      "aTeam": "Raufoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 8616,
+                      "aId": 9812,
+                      "stage": "24",
+                      "time": "21.10.2026 19:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "21.10.2026 19:00:04",
+                      "extId": "ls_0"
+                    },
                     "played": 14,
                     "wins": 1,
                     "draws": 4,
@@ -55587,24 +56074,6 @@
                     "scoresStr": "19-38",
                     "goalConDiff": -19,
                     "goalsScored": 19,
-                    "pts": 7,
-                    "idx": 14,
-                    "qualColor": "#FFA72F"
-                  },
-                  {
-                    "name": "Raufoss",
-                    "shortName": "Raufoss",
-                    "id": 9812,
-                    "pageUrl": "/teams/9812/overview/raufoss",
-                    "deduction": null,
-                    "ongoing": null,
-                    "played": 13,
-                    "wins": 2,
-                    "draws": 1,
-                    "losses": 10,
-                    "scoresStr": "13-47",
-                    "goalConDiff": -34,
-                    "goalsScored": 13,
                     "pts": 7,
                     "idx": 15,
                     "qualColor": "#FF4646"
@@ -55615,7 +56084,6 @@
                     "id": 10021,
                     "pageUrl": "/teams/10021/overview/asane",
                     "deduction": -1,
-                    "ongoing": null,
                     "played": 13,
                     "wins": 1,
                     "draws": 3,
@@ -55643,7 +56111,6 @@
                     "goalConDiff": 16,
                     "goalsScored": 18,
                     "pts": 15,
-                    "ongoing": null,
                     "idx": 1,
                     "qualColor": "#2AD572"
                   },
@@ -55661,7 +56128,6 @@
                     "goalConDiff": 10,
                     "goalsScored": 18,
                     "pts": 12,
-                    "ongoing": null,
                     "idx": 2,
                     "qualColor": "#2AD572"
                   },
@@ -55679,7 +56145,6 @@
                     "goalConDiff": 6,
                     "goalsScored": 12,
                     "pts": 12,
-                    "ongoing": null,
                     "idx": 3,
                     "qualColor": "#FFD908"
                   },
@@ -55697,7 +56162,6 @@
                     "goalConDiff": 6,
                     "goalsScored": 16,
                     "pts": 10,
-                    "ongoing": null,
                     "idx": 4,
                     "qualColor": "#FFD908"
                   },
@@ -55715,7 +56179,6 @@
                     "goalConDiff": 3,
                     "goalsScored": 9,
                     "pts": 10,
-                    "ongoing": null,
                     "idx": 5,
                     "qualColor": "#FFD908"
                   },
@@ -55733,7 +56196,6 @@
                     "goalConDiff": 2,
                     "goalsScored": 10,
                     "pts": 10,
-                    "ongoing": null,
                     "idx": 6,
                     "qualColor": "#FFD908"
                   },
@@ -55751,7 +56213,6 @@
                     "goalConDiff": 4,
                     "goalsScored": 15,
                     "pts": 8,
-                    "ongoing": null,
                     "idx": 7,
                     "qualColor": null
                   },
@@ -55769,7 +56230,6 @@
                     "goalConDiff": 2,
                     "goalsScored": 9,
                     "pts": 7,
-                    "ongoing": null,
                     "idx": 8,
                     "qualColor": null
                   },
@@ -55787,7 +56247,6 @@
                     "goalConDiff": -1,
                     "goalsScored": 4,
                     "pts": 7,
-                    "ongoing": null,
                     "idx": 9,
                     "qualColor": null
                   },
@@ -55805,7 +56264,6 @@
                     "goalConDiff": -7,
                     "goalsScored": 7,
                     "pts": 5,
-                    "ongoing": null,
                     "idx": 10,
                     "qualColor": null
                   },
@@ -55823,7 +56281,6 @@
                     "goalConDiff": -3,
                     "goalsScored": 10,
                     "pts": 4,
-                    "ongoing": null,
                     "idx": 11,
                     "qualColor": null
                   },
@@ -55841,7 +56298,21 @@
                     "goalConDiff": -6,
                     "goalsScored": 5,
                     "pts": 4,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105271,
+                      "hTeam": "Sogndal",
+                      "aTeam": "Raufoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 8616,
+                      "aId": 9812,
+                      "stage": "24",
+                      "time": "21.10.2026 19:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "21.10.2026 19:00:04",
+                      "extId": "ls_0"
+                    },
                     "idx": 12,
                     "qualColor": null
                   },
@@ -55859,7 +56330,6 @@
                     "goalConDiff": -10,
                     "goalsScored": 3,
                     "pts": 3,
-                    "ongoing": null,
                     "idx": 13,
                     "qualColor": null
                   },
@@ -55877,7 +56347,6 @@
                     "goalConDiff": -10,
                     "goalsScored": 3,
                     "pts": 3,
-                    "ongoing": null,
                     "idx": 14,
                     "qualColor": "#FFA72F"
                   },
@@ -55895,7 +56364,21 @@
                     "goalConDiff": -3,
                     "goalsScored": 6,
                     "pts": 2,
-                    "ongoing": null,
+                    "ongoing": {
+                      "id": 5105271,
+                      "hTeam": "Sogndal",
+                      "aTeam": "Raufoss",
+                      "hScore": 0,
+                      "aScore": 0,
+                      "hId": 8616,
+                      "aId": 9812,
+                      "stage": "24",
+                      "time": "21.10.2026 19:00",
+                      "status": "S",
+                      "sId": 2,
+                      "gs": "21.10.2026 19:00:04",
+                      "extId": "ls_0"
+                    },
                     "idx": 15,
                     "qualColor": "#FF4646"
                   },
@@ -55913,7 +56396,6 @@
                     "goalConDiff": -8,
                     "goalsScored": 6,
                     "pts": 2,
-                    "ongoing": null,
                     "idx": 16,
                     "qualColor": "#FF4646"
                   }
@@ -58627,36 +59109,36 @@
                 "2026-10-25T16:00:00Z"
               ],
               "8616": [
-                "9812",
-                "Raufoss",
-                "5105271",
+                "8179",
+                "Kongsvinger",
+                "5105304",
                 {
                   "id": "8616",
                   "name": "Sogndal",
                   "shortName": "Sogndal"
                 },
                 {
-                  "id": "9812",
-                  "name": "Raufoss",
-                  "shortName": "Raufoss"
+                  "id": "8179",
+                  "name": "Kongsvinger",
+                  "shortName": "Kongsvinger"
                 },
-                "2026-10-21T17:00:00Z"
+                "2026-10-25T16:00:00Z"
               ],
               "9812": [
-                "8616",
-                "Sogndal",
-                "5105271",
-                {
-                  "id": "8616",
-                  "name": "Sogndal",
-                  "shortName": "Sogndal"
-                },
+                "6563",
+                "Ranheim",
+                "5105302",
                 {
                   "id": "9812",
                   "name": "Raufoss",
                   "shortName": "Raufoss"
                 },
-                "2026-10-21T17:00:00Z"
+                {
+                  "id": "6563",
+                  "name": "Ranheim",
+                  "shortName": "Ranheim"
+                },
+                "2026-10-24T12:00:00Z"
               ],
               "9918": [
                 "7988",
@@ -67275,12 +67757,23 @@
             "status": {
               "utcTime": "2026-10-21T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "21.10.2026 19:00:00"
+                "firstHalfStarted": "21.10.2026 19:00:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "17‎’‎",
+                "shortKey": "",
+                "long": "16:47",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -74719,12 +75212,23 @@
               "status": {
                 "utcTime": "2026-10-21T17:00:00.000Z",
                 "halfs": {
-                  "firstHalfStarted": "21.10.2026 19:00:00"
+                  "firstHalfStarted": "21.10.2026 19:00:04"
                 },
                 "periodLength": 45,
-                "started": false,
+                "finished": false,
+                "started": true,
                 "cancelled": false,
-                "finished": false
+                "ongoing": true,
+                "scoreStr": "0 - 0",
+                "liveTime": {
+                  "short": "17‎’‎",
+                  "shortKey": "",
+                  "long": "16:47",
+                  "longKey": "",
+                  "maxTime": 45,
+                  "basePeriod": 45,
+                  "addedTime": 0
+                }
               }
             },
             {
@@ -75811,7 +76315,7 @@
                 }
               }
             ],
-            "order": 42,
+            "order": 45,
             "name": "yellow_card",
             "localizedTitleId": "yellow_cards",
             "category": "Discipline"
@@ -75895,7 +76399,7 @@
                 }
               }
             ],
-            "order": 43,
+            "order": 46,
             "name": "red_card",
             "localizedTitleId": "red_cards",
             "category": "Discipline"
@@ -75981,7 +76485,7 @@
                 }
               }
             ],
-            "order": 45,
+            "order": 48,
             "name": "goals_team_match",
             "localizedTitleId": "goals_team_match_title",
             "category": "Top Stat"
@@ -76065,7 +76569,7 @@
                 }
               }
             ],
-            "order": 46,
+            "order": 49,
             "name": "goals_conceded_team_match",
             "localizedTitleId": "goals_conceded_team_match_title",
             "category": "Top Stat"
@@ -76149,7 +76653,7 @@
                 }
               }
             ],
-            "order": 49,
+            "order": 52,
             "name": "clean_sheet_team",
             "localizedTitleId": "clean_sheet_team_title",
             "category": "Top Stat"
@@ -76233,7 +76737,7 @@
                 }
               }
             ],
-            "order": 72,
+            "order": 75,
             "name": "total_yel_card_team",
             "localizedTitleId": "yellow_cards",
             "category": "Discipline"
@@ -76317,7 +76821,7 @@
                 }
               }
             ],
-            "order": 73,
+            "order": 76,
             "name": "total_red_card_team",
             "localizedTitleId": "red_cards",
             "category": "Discipline"
@@ -83187,12 +83691,23 @@
             "status": {
               "utcTime": "2026-10-21T17:00:00.000Z",
               "halfs": {
-                "firstHalfStarted": "21.10.2026 19:00:00"
+                "firstHalfStarted": "21.10.2026 19:00:04"
               },
               "periodLength": 45,
-              "started": false,
+              "finished": false,
+              "started": true,
               "cancelled": false,
-              "finished": false
+              "ongoing": true,
+              "scoreStr": "0 - 0",
+              "liveTime": {
+                "short": "17‎’‎",
+                "shortKey": "",
+                "long": "16:47",
+                "longKey": "",
+                "maxTime": 45,
+                "basePeriod": 45,
+                "addedTime": 0
+              }
             }
           },
           {
@@ -85800,6 +86315,10 @@
         "relegationqual": "Relegation qualification",
         "promotion": "Promotion",
         "promotionqual": "Promotion qualification",
+        "promotion_to": "Promotion to %s",
+        "promotionqual_to": "Promotion qualification to %s",
+        "relegation_to": "Relegation to %s",
+        "relegationqual_to": "Relegation qualification to %s",
         "ltc": "Live ticker",
         "select_league": "Select league",
         "ongoing": "Ongoing",
@@ -86378,6 +86897,8 @@
         "goals_prevented": "Goals prevented",
         "expected_goals_on_target_faced_per_90": "xGOT faced per 90",
         "goals_conceded_per_90": "Goals conceded per 90",
+        "high_claims_per_90": "High claims per 90",
+        "keeper_sweeper_per_90": "Sweeper actions per 90",
         "accurate_long_balls_team_title": "Accurate long balls per match",
         "accurate_long_balls_team_subtitle": "Successful long balls",
         "accurate_cross_team_title": "Accurate crosses per match",
@@ -86956,7 +87477,15 @@
         "gfx_statcard_timestamp": {
           "one": "After 1 minute played",
           "other": "After %d minutes played"
-        }
+        },
+        "keyboard_shortcuts": "Keyboard shortcuts",
+        "keyboard_shortcut_focus_search": "Focus search",
+        "keyboard_shortcut_previous_day": "Previous day",
+        "keyboard_shortcut_next_day": "Next day",
+        "keyboard_shortcut_show_shortcuts": "Show keyboard shortcuts",
+        "keyboard_shortcut_or": "or",
+        "keyboard_shortcuts_character_keys": "Character key shortcuts",
+        "keyboard_shortcut_today_toast": "Press T to go to today"
       }
     },
     "331": {
@@ -87054,7 +87583,12 @@
                 "color": "#FFA72F",
                 "indices": [
                   9
-                ]
+                ],
+                "targetLeague": {
+                  "id": 332,
+                  "name": "1. Division Kvinner",
+                  "tKey": "relegationqual_to"
+                }
               },
               {
                 "title": "Relegation",
@@ -87063,7 +87597,12 @@
                 "indices": [
                   10,
                   11
-                ]
+                ],
+                "targetLeague": {
+                  "id": 332,
+                  "name": "1. Division Kvinner",
+                  "tKey": "relegation_to"
+                }
               }
             ],
             "ongoing": [],
@@ -90082,7 +90621,12 @@
                   "color": "#FFA72F",
                   "indices": [
                     9
-                  ]
+                  ],
+                  "targetLeague": {
+                    "id": 332,
+                    "name": "1. Division Kvinner",
+                    "tKey": "relegationqual_to"
+                  }
                 },
                 {
                   "title": "Relegation",
@@ -90091,7 +90635,12 @@
                   "indices": [
                     10,
                     11
-                  ]
+                  ],
+                  "targetLeague": {
+                    "id": 332,
+                    "name": "1. Division Kvinner",
+                    "tKey": "relegation_to"
+                  }
                 }
               ],
               "ongoing": [],
@@ -109229,6 +109778,10 @@
         "relegationqual": "Relegation qualification",
         "promotion": "Promotion",
         "promotionqual": "Promotion qualification",
+        "promotion_to": "Promotion to %s",
+        "promotionqual_to": "Promotion qualification to %s",
+        "relegation_to": "Relegation to %s",
+        "relegationqual_to": "Relegation qualification to %s",
         "ltc": "Live ticker",
         "select_league": "Select league",
         "ongoing": "Ongoing",
@@ -109807,6 +110360,8 @@
         "goals_prevented": "Goals prevented",
         "expected_goals_on_target_faced_per_90": "xGOT faced per 90",
         "goals_conceded_per_90": "Goals conceded per 90",
+        "high_claims_per_90": "High claims per 90",
+        "keeper_sweeper_per_90": "Sweeper actions per 90",
         "accurate_long_balls_team_title": "Accurate long balls per match",
         "accurate_long_balls_team_subtitle": "Successful long balls",
         "accurate_cross_team_title": "Accurate crosses per match",
@@ -110385,7 +110940,15 @@
         "gfx_statcard_timestamp": {
           "one": "After 1 minute played",
           "other": "After %d minutes played"
-        }
+        },
+        "keyboard_shortcuts": "Keyboard shortcuts",
+        "keyboard_shortcut_focus_search": "Focus search",
+        "keyboard_shortcut_previous_day": "Previous day",
+        "keyboard_shortcut_next_day": "Next day",
+        "keyboard_shortcut_show_shortcuts": "Show keyboard shortcuts",
+        "keyboard_shortcut_or": "or",
+        "keyboard_shortcuts_character_keys": "Character key shortcuts",
+        "keyboard_shortcut_today_toast": "Press T to go to today"
       }
     },
     "206": {
@@ -114909,7 +115472,7 @@
                   ],
                   "winnerColors": {
                     "color": "#383838",
-                    "colorAlternate": "#383838",
+                    "colorAlternate": "#FFFFFF",
                     "colorAway": "#383838",
                     "colorAwayAlternate": "#383838"
                   },
@@ -115035,7 +115598,7 @@
                   ],
                   "winnerColors": {
                     "color": "#0F0E9A",
-                    "colorAlternate": "#0F0E9A",
+                    "colorAlternate": "#3256FF",
                     "colorAway": "#0F0E9A",
                     "colorAwayAlternate": "#0F0E9A"
                   },
@@ -116043,7 +116606,7 @@
                   ],
                   "winnerColors": {
                     "color": "#083070",
-                    "colorAlternate": "#083070",
+                    "colorAlternate": "#1D65D9",
                     "colorAway": "#083070",
                     "colorAwayAlternate": "#083070"
                   },
@@ -118438,7 +119001,7 @@
                   "winnerColors": {
                     "color": "#0058B0",
                     "colorAlternate": "#0058B0",
-                    "colorAway": "#f7ba00",
+                    "colorAway": "#BD8E0A",
                     "colorAwayAlternate": "#FED100"
                   },
                   "aggregatedResult": {
@@ -118501,7 +119064,7 @@
                   "winnerColors": {
                     "color": "#EB131C",
                     "colorAlternate": "#EB131C",
-                    "colorAway": "#f5b22b",
+                    "colorAway": "#C58B01",
                     "colorAwayAlternate": "#ffffff"
                   },
                   "aggregatedResult": {
@@ -118564,7 +119127,7 @@
                   "winnerColors": {
                     "color": "#056AB1",
                     "colorAlternate": "#FBDE22",
-                    "colorAway": "#FBDE22",
+                    "colorAway": "#DA9E00",
                     "colorAwayAlternate": "#056AB1"
                   },
                   "aggregatedResult": {
@@ -120713,7 +121276,7 @@
                   "winnerColors": {
                     "color": "#EB131C",
                     "colorAlternate": "#EB131C",
-                    "colorAway": "#f5b22b",
+                    "colorAway": "#C58B01",
                     "colorAwayAlternate": "#ffffff"
                   },
                   "aggregatedResult": {
@@ -126008,7 +126571,7 @@
                   "fractions": 0
                 },
                 "teamColors": {
-                  "darkMode": "#09187A",
+                  "darkMode": "#2D57FF",
                   "lightMode": "#09187A",
                   "fontDarkMode": "rgba(255, 255, 255, 1.0)",
                   "fontLightMode": "rgba(255, 255, 255, 1.0)"
@@ -130705,7 +131268,7 @@
                 ],
                 "winnerColors": {
                   "color": "#383838",
-                  "colorAlternate": "#383838",
+                  "colorAlternate": "#FFFFFF",
                   "colorAway": "#383838",
                   "colorAwayAlternate": "#383838"
                 },
@@ -130831,7 +131394,7 @@
                 ],
                 "winnerColors": {
                   "color": "#0F0E9A",
-                  "colorAlternate": "#0F0E9A",
+                  "colorAlternate": "#3256FF",
                   "colorAway": "#0F0E9A",
                   "colorAwayAlternate": "#0F0E9A"
                 },
@@ -131839,7 +132402,7 @@
                 ],
                 "winnerColors": {
                   "color": "#083070",
-                  "colorAlternate": "#083070",
+                  "colorAlternate": "#1D65D9",
                   "colorAway": "#083070",
                   "colorAwayAlternate": "#083070"
                 },
@@ -134234,7 +134797,7 @@
                 "winnerColors": {
                   "color": "#0058B0",
                   "colorAlternate": "#0058B0",
-                  "colorAway": "#f7ba00",
+                  "colorAway": "#BD8E0A",
                   "colorAwayAlternate": "#FED100"
                 },
                 "aggregatedResult": {
@@ -134297,7 +134860,7 @@
                 "winnerColors": {
                   "color": "#EB131C",
                   "colorAlternate": "#EB131C",
-                  "colorAway": "#f5b22b",
+                  "colorAway": "#C58B01",
                   "colorAwayAlternate": "#ffffff"
                 },
                 "aggregatedResult": {
@@ -134360,7 +134923,7 @@
                 "winnerColors": {
                   "color": "#056AB1",
                   "colorAlternate": "#FBDE22",
-                  "colorAway": "#FBDE22",
+                  "colorAway": "#DA9E00",
                   "colorAwayAlternate": "#056AB1"
                 },
                 "aggregatedResult": {
@@ -136509,7 +137072,7 @@
                 "winnerColors": {
                   "color": "#EB131C",
                   "colorAlternate": "#EB131C",
-                  "colorAway": "#f5b22b",
+                  "colorAway": "#C58B01",
                   "colorAwayAlternate": "#ffffff"
                 },
                 "aggregatedResult": {
@@ -140815,6 +141378,10 @@
         "relegationqual": "Relegation qualification",
         "promotion": "Promotion",
         "promotionqual": "Promotion qualification",
+        "promotion_to": "Promotion to %s",
+        "promotionqual_to": "Promotion qualification to %s",
+        "relegation_to": "Relegation to %s",
+        "relegationqual_to": "Relegation qualification to %s",
         "ltc": "Live ticker",
         "select_league": "Select league",
         "ongoing": "Ongoing",
@@ -141393,6 +141960,8 @@
         "goals_prevented": "Goals prevented",
         "expected_goals_on_target_faced_per_90": "xGOT faced per 90",
         "goals_conceded_per_90": "Goals conceded per 90",
+        "high_claims_per_90": "High claims per 90",
+        "keeper_sweeper_per_90": "Sweeper actions per 90",
         "accurate_long_balls_team_title": "Accurate long balls per match",
         "accurate_long_balls_team_subtitle": "Successful long balls",
         "accurate_cross_team_title": "Accurate crosses per match",
@@ -141971,7 +142540,15 @@
         "gfx_statcard_timestamp": {
           "one": "After 1 minute played",
           "other": "After %d minutes played"
-        }
+        },
+        "keyboard_shortcuts": "Keyboard shortcuts",
+        "keyboard_shortcut_focus_search": "Focus search",
+        "keyboard_shortcut_previous_day": "Previous day",
+        "keyboard_shortcut_next_day": "Next day",
+        "keyboard_shortcut_show_shortcuts": "Show keyboard shortcuts",
+        "keyboard_shortcut_or": "or",
+        "keyboard_shortcuts_character_keys": "Character key shortcuts",
+        "keyboard_shortcut_today_toast": "Press T to go to today"
       }
     }
   },
