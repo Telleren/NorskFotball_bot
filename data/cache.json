@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:30:20.179968+00:00",
+  "generated_at": "2026-11-07T06:07:34.257064+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -4265,7 +4265,7 @@
                 "name": "Vålerenga",
                 "shortName": "Vålerenga"
               },
-              "2026-11-07T15:00:00Z"
+              "2026-11-09T18:00:00Z"
             ],
             "8402": [
               "8608",
@@ -4425,7 +4425,7 @@
                 "name": "Vålerenga",
                 "shortName": "Vålerenga"
               },
-              "2026-11-07T15:00:00Z"
+              "2026-11-09T18:00:00Z"
             ],
             "8608": [
               "8402",
@@ -12913,7 +12913,7 @@
                   "name": "Vålerenga",
                   "shortName": "Vålerenga"
                 },
-                "2026-11-07T15:00:00Z"
+                "2026-11-09T18:00:00Z"
               ],
               "8402": [
                 "8608",
@@ -13073,7 +13073,7 @@
                   "name": "Vålerenga",
                   "shortName": "Vålerenga"
                 },
-                "2026-11-07T15:00:00Z"
+                "2026-11-09T18:00:00Z"
               ],
               "8608": [
                 "8402",
@@ -21160,37 +21160,6 @@
             }
           },
           {
-            "id": "5105046",
-            "pageUrl": "/matches/valerenga-vs-kristiansund/2a5qjb#5105046",
-            "opponent": {
-              "id": "8605",
-              "name": "Kristiansund",
-              "score": 0
-            },
-            "home": {
-              "id": "8605",
-              "name": "Kristiansund",
-              "score": 0
-            },
-            "away": {
-              "id": "8007",
-              "name": "Vålerenga",
-              "score": 0
-            },
-            "displayTournament": true,
-            "notStarted": true,
-            "tournament": {
-              "stage": ""
-            },
-            "status": {
-              "utcTime": "2026-11-07T15:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
             "id": "5105048",
             "pageUrl": "/matches/rosenborg-vs-start/2s5fpa#5105048",
             "opponent": {
@@ -21214,8 +21183,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-11-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 18:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -21401,6 +21373,37 @@
             },
             "status": {
               "utcTime": "2026-11-08T18:15:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "id": "5105046",
+            "pageUrl": "/matches/valerenga-vs-kristiansund/2a5qjb#5105046",
+            "opponent": {
+              "id": "8605",
+              "name": "Kristiansund",
+              "score": 0
+            },
+            "home": {
+              "id": "8605",
+              "name": "Kristiansund",
+              "score": 0
+            },
+            "away": {
+              "id": "8007",
+              "name": "Vålerenga",
+              "score": 0
+            },
+            "displayTournament": true,
+            "notStarted": true,
+            "tournament": {
+              "stage": ""
+            },
+            "status": {
+              "utcTime": "2026-11-09T18:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -22400,12 +22403,12 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
             "firstUnplayedMatchIndex": 201,
-            "firstUnplayedMatchId": "5105046"
+            "firstUnplayedMatchId": "5105048"
           },
           "allMatches": [
             {
@@ -28611,29 +28614,6 @@
             {
               "round": "26",
               "roundName": 26,
-              "pageUrl": "/matches/valerenga-vs-kristiansund/2a5qjb#5105046",
-              "id": "5105046",
-              "home": {
-                "name": "Kristiansund",
-                "shortName": "Kristiansund",
-                "id": "8605"
-              },
-              "away": {
-                "name": "Vålerenga",
-                "shortName": "Vålerenga",
-                "id": "8007"
-              },
-              "status": {
-                "utcTime": "2026-11-07T15:00:00Z",
-                "timezone": "UTC",
-                "started": false,
-                "cancelled": false,
-                "finished": false
-              }
-            },
-            {
-              "round": "26",
-              "roundName": 26,
               "pageUrl": "/matches/rosenborg-vs-start/2s5fpa#5105048",
               "id": "5105048",
               "home": {
@@ -28647,8 +28627,11 @@
                 "id": "9919"
               },
               "status": {
-                "utcTime": "2026-11-07T17:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-11-07T17:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.11.2026 18:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -28786,6 +28769,29 @@
               },
               "status": {
                 "utcTime": "2026-11-08T18:15:00Z",
+                "timezone": "UTC",
+                "started": false,
+                "cancelled": false,
+                "finished": false
+              }
+            },
+            {
+              "round": "26",
+              "roundName": 26,
+              "pageUrl": "/matches/valerenga-vs-kristiansund/2a5qjb#5105046",
+              "id": "5105046",
+              "home": {
+                "name": "Kristiansund",
+                "shortName": "Kristiansund",
+                "id": "8605"
+              },
+              "away": {
+                "name": "Vålerenga",
+                "shortName": "Vålerenga",
+                "id": "8007"
+              },
+              "status": {
+                "utcTime": "2026-11-09T18:00:00Z",
                 "timezone": "UTC",
                 "started": false,
                 "cancelled": false,
@@ -29529,7 +29535,7 @@
               }
             }
           ],
-          "hasOngoingMatch": false,
+          "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "26",
@@ -35979,7 +35985,7 @@
       "fixtures": {
         "firstUnplayedMatch": {
           "firstUnplayedMatchIndex": 201,
-          "firstUnplayedMatchId": "5105046"
+          "firstUnplayedMatchId": "5105048"
         },
         "allMatches": [
           {
@@ -42185,29 +42191,6 @@
           {
             "round": "26",
             "roundName": 26,
-            "pageUrl": "/matches/valerenga-vs-kristiansund/2a5qjb#5105046",
-            "id": "5105046",
-            "home": {
-              "name": "Kristiansund",
-              "shortName": "Kristiansund",
-              "id": "8605"
-            },
-            "away": {
-              "name": "Vålerenga",
-              "shortName": "Vålerenga",
-              "id": "8007"
-            },
-            "status": {
-              "utcTime": "2026-11-07T15:00:00Z",
-              "timezone": "UTC",
-              "started": false,
-              "cancelled": false,
-              "finished": false
-            }
-          },
-          {
-            "round": "26",
-            "roundName": 26,
             "pageUrl": "/matches/rosenborg-vs-start/2s5fpa#5105048",
             "id": "5105048",
             "home": {
@@ -42221,8 +42204,11 @@
               "id": "9919"
             },
             "status": {
-              "utcTime": "2026-11-07T17:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T17:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 18:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -42360,6 +42346,29 @@
             },
             "status": {
               "utcTime": "2026-11-08T18:15:00Z",
+              "timezone": "UTC",
+              "started": false,
+              "cancelled": false,
+              "finished": false
+            }
+          },
+          {
+            "round": "26",
+            "roundName": 26,
+            "pageUrl": "/matches/valerenga-vs-kristiansund/2a5qjb#5105046",
+            "id": "5105046",
+            "home": {
+              "name": "Kristiansund",
+              "shortName": "Kristiansund",
+              "id": "8605"
+            },
+            "away": {
+              "name": "Vålerenga",
+              "shortName": "Vålerenga",
+              "id": "8007"
+            },
+            "status": {
+              "utcTime": "2026-11-09T18:00:00Z",
               "timezone": "UTC",
               "started": false,
               "cancelled": false,
@@ -43103,7 +43112,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "26",
@@ -95881,8 +95890,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -95912,8 +95924,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -95943,8 +95958,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -95974,8 +95992,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -96005,8 +96026,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -96036,15 +96060,18 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -99974,8 +100001,11 @@
                 "id": "4507"
               },
               "status": {
-                "utcTime": "2026-11-07T12:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-11-07T12:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.11.2026 13:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -99997,8 +100027,11 @@
                 "id": "4484"
               },
               "status": {
-                "utcTime": "2026-11-07T12:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-11-07T12:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.11.2026 13:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -100020,8 +100053,11 @@
                 "id": "726186"
               },
               "status": {
-                "utcTime": "2026-11-07T12:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-11-07T12:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.11.2026 13:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -100043,8 +100079,11 @@
                 "id": "4486"
               },
               "status": {
-                "utcTime": "2026-11-07T12:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-11-07T12:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.11.2026 13:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -100066,8 +100105,11 @@
                 "id": "92171"
               },
               "status": {
-                "utcTime": "2026-11-07T12:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-11-07T12:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.11.2026 13:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -100089,15 +100131,18 @@
                 "id": "169297"
               },
               "status": {
-                "utcTime": "2026-11-07T12:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-11-07T12:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "07.11.2026 13:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
               }
             }
           ],
-          "hasOngoingMatch": false,
+          "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "22",
@@ -105195,8 +105240,11 @@
               "id": "4507"
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -105218,8 +105266,11 @@
               "id": "4484"
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -105241,8 +105292,11 @@
               "id": "726186"
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -105264,8 +105318,11 @@
               "id": "4486"
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -105287,8 +105344,11 @@
               "id": "92171"
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -105310,15 +105370,18 @@
               "id": "169297"
             },
             "status": {
-              "utcTime": "2026-11-07T12:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-07T12:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "07.11.2026 13:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "22",
