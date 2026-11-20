@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T20:45:43.582318+00:00",
+  "generated_at": "2026-11-20T07:26:51.643433+00:00",
   "source": "fotmob",
   "leagues": {
     "59": {
@@ -21498,8 +21498,11 @@
               "stage": ""
             },
             "status": {
-              "utcTime": "2026-11-20T18:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-20T18:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "20.11.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -22467,7 +22470,7 @@
             }
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "shotMap": null,
         "matches": {
           "firstUnplayedMatch": {
@@ -29147,8 +29150,11 @@
                 "id": "8402"
               },
               "status": {
-                "utcTime": "2026-11-20T18:00:00Z",
-                "timezone": "UTC",
+                "utcTime": "2026-11-20T18:00:00.000Z",
+                "halfs": {
+                  "firstHalfStarted": "20.11.2026 19:00:00"
+                },
+                "periodLength": 45,
                 "started": false,
                 "cancelled": false,
                 "finished": false
@@ -29900,7 +29906,7 @@
               "eliminatedTeamId": null
             }
           ],
-          "hasOngoingMatch": false,
+          "hasOngoingMatch": true,
           "fixtureInfo": {
             "activeRound": {
               "roundId": "27",
@@ -43025,8 +43031,11 @@
               "id": "8402"
             },
             "status": {
-              "utcTime": "2026-11-20T18:00:00Z",
-              "timezone": "UTC",
+              "utcTime": "2026-11-20T18:00:00.000Z",
+              "halfs": {
+                "firstHalfStarted": "20.11.2026 19:00:00"
+              },
+              "periodLength": 45,
               "started": false,
               "cancelled": false,
               "finished": false
@@ -43778,7 +43787,7 @@
             "eliminatedTeamId": null
           }
         ],
-        "hasOngoingMatch": false,
+        "hasOngoingMatch": true,
         "fixtureInfo": {
           "activeRound": {
             "roundId": "27",
@@ -86521,7 +86530,7 @@
             "composite": false,
             "selectedSeason": "2026",
             "isCurrentSeason": true,
-            "positionHistoryUrl": null
+            "positionHistoryUrl": "https://data.fotmob.com/leagues/331/30206/position_history.json"
           },
           "tableFilterTypes": [
             "all",
@@ -89366,7 +89375,7 @@
               "composite": false,
               "selectedSeason": "2026",
               "isCurrentSeason": true,
-              "positionHistoryUrl": null
+              "positionHistoryUrl": "https://data.fotmob.com/leagues/331/30206/position_history.json"
             },
             "tableFilterTypes": [
               "all",
